@@ -1,1 +1,30 @@
-[{"type":"trpCollection","colId":87230,"colName":"BeCoRe","description":"created by dominique.stutzmann@irht.cnrs.fr","crowdsourcing":false,"elearning":false,"pageId":23665220,"url":"https://files.transkribus.eu/Get?fileType=view&id=GSNVWSPLJYWVUWTMZYKSUCUO","thumbUrl":"https://files.transkribus.eu/Get?fileType=thumb&id=GSNVWSPLJYWVUWTMZYKSUCUO","nrOfDocuments":10,"role":"Editor","accountingStatus":1},{"type":"trpCollection","colId":183812,"colName":"niklas.tscherne@uni-graz.at Collection","description":"niklas.tscherne@uni-graz.at","crowdsourcing":false,"elearning":false,"pageId":52015389,"url":"https://files.transkribus.eu/Get?fileType=view&id=DAEQZNPMDNXLWKBWOHOHPWDD","thumbUrl":"https://files.transkribus.eu/Get?fileType=thumb&id=DAEQZNPMDNXLWKBWOHOHPWDD","nrOfDocuments":1,"role":"Owner","accountingStatus":1}]
+[
+    {
+        "type": "trpCollection",
+        "colId": 87230,
+        "colName": "BeCoRe",
+        "description": "created by dominique.stutzmann@irht.cnrs.fr",
+        "crowdsourcing": false,
+        "elearning": false,
+        "pageId": 23665220,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GSNVWSPLJYWVUWTMZYKSUCUO",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GSNVWSPLJYWVUWTMZYKSUCUO",
+        "nrOfDocuments": 10,
+        "role": "Editor",
+        "accountingStatus": 1
+    },
+    {
+        "type": "trpCollection",
+        "colId": 183812,
+        "colName": "niklas.tscherne@uni-graz.at Collection",
+        "description": "niklas.tscherne@uni-graz.at",
+        "crowdsourcing": false,
+        "elearning": false,
+        "pageId": 52015389,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DAEQZNPMDNXLWKBWOHOHPWDD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DAEQZNPMDNXLWKBWOHOHPWDD",
+        "nrOfDocuments": 1,
+        "role": "Owner",
+        "accountingStatus": 1
+    }
+]

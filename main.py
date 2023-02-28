@@ -22,8 +22,8 @@ if not os.path.exists('documents'):
 
 # Save the list of collections
 collections_file = 'documents/collections.json'
-with open(collections_file, 'wb') as f:
-    f.write(response.content)
+with open(collections_file, 'w', encoding='utf-8') as f:
+    json.dump(response.json(), f, indent=4)
 
 # Loop over each collection
 for collection in collections:
@@ -42,8 +42,8 @@ for collection in collections:
     documents = response.json()
     
     documents_file = os.path.join(collection_dir, f'{collection_name}_collection.json')
-    with open(documents_file, 'wb') as f:
-        f.write(response.content)
+    with open(documents_file, 'w', encoding='utf-8') as f:
+        json.dump(response.json(), f, indent=4)
 
     # Loop over each document in the collection
     for document in documents:
@@ -56,7 +56,7 @@ for collection in collections:
 
         # Save the document to a file
         document_file = os.path.join(collection_dir, f'{document_name}.json')
-        with open(document_file, 'wb') as f:
-            f.write(response.content)
+        with open(document_file, 'w', encoding='utf-8') as f:
+            json.dump(response.json(), f, indent=4)
 
 print('All documents saved')
