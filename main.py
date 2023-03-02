@@ -1,6 +1,8 @@
 import requests
 import os
 import json
+import subprocess
+import argparse
 
 # Log in to Transkribus and get a session ID
 login_url = 'https://transkribus.eu/TrpServer/rest/auth/login'
@@ -88,6 +90,39 @@ def get_xml(document_id, page_no, collection_id=87230):
             print(f"File {url.split('=')[1]}.xml saved successfully.")
         else:
             print(f"Error downloading file from URL {url}.")
-        
 
-get_xml(document_id=1002019, page_no=1)
+def get_mets(collection_id: int, document_id: int):
+    
+    # Download the METS file for the desired document
+    doc_url = f'https://transkribus.eu/TrpServer/rest/collections/{collection_id}/{document_id}/mets'
+    response = requests.get(doc_url, headers=headers)
+    mets_xml = response.text
+
+    with open('mets.xml', 'w') as f:
+        f.write(mets_xml)
+    
+    # Transform PAGE to TEI via Saxon
+    subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:page2tei/page2tei-0.xsl', '-s:mets.xml', '-o:output.xml'])
+
+parser = argparse.ArgumentParser()
+subparsers = parser.add_subparsers(dest='func_name')
+
+parser_get_everything = subparsers.add_parser('get_everything')
+
+parser_get_xml = subparsers.add_parser('get_xml')
+parser_get_xml.add_argument('collection_id', nargs='?', default=87230)
+parser_get_xml.add_argument('document_id', nargs='?', default=1002019)
+parser_get_xml.add_argument('page_no')
+
+parser_get_mets = subparsers.add_parser('get_mets')
+parser_get_mets.add_argument('collection_id', nargs='?', default=87230)
+parser_get_mets.add_argument('document_id', nargs='?', default=1002019)
+
+args = parser.parse_args()
+
+if args.func_name == "get_everything":
+    get_everything()
+elif args.func_name == "get_xml":
+    get_xml(args.collection_id, args.document_id, args.page_no)
+elif args.func_name == "get_mets":
+    get_mets(args.collection_id, args.document_id)
