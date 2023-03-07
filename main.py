@@ -64,7 +64,7 @@ def get_everything():
 
     print('All documents saved')
 
-def get_xml(document_id, page_no, collection_id=87230):
+def get_xml(collection_id: int, document_id: int, page_no: int):
 
     # Get the desired document as a JSON file
     doc_url = f'https://transkribus.eu/TrpServer/rest/collections/{collection_id}/{document_id}/fulldoc'
@@ -74,7 +74,7 @@ def get_xml(document_id, page_no, collection_id=87230):
 
     # Find the URLs for the PAGE-XML transcription files of the given page
     for page in doc_json['pageList']['pages']:
-        if page['pageNr'] == page_no:
+        if page['pageNr'] == int(page_no):
             for transcript in page['tsList']['transcripts']:
                 urls.append(transcript['url'])
     
@@ -104,6 +104,7 @@ def get_mets(collection_id: int, document_id: int):
     # Transform PAGE to TEI via Saxon
     subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:page2tei/page2tei-0.xsl', '-s:mets.xml', '-o:output.xml'])
 
+# Allowing running the desired function via argument
 parser = argparse.ArgumentParser()
 subparsers = parser.add_subparsers(dest='func_name')
 
