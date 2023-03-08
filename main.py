@@ -102,7 +102,7 @@ def get_mets(collection_id: int, document_id: int):
         f.write(mets_xml)
     
     # Transform PAGE to TEI via Saxon
-    subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:page2tei/page2tei-0.xsl', '-s:mets.xml', '-o:output.xml'])
+    subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:page2tei/page2tei-0.xsl', '-s:mets.xml', '-o:transkribus_tei.xml'])
 
 # Allowing running the desired function via argument
 parser = argparse.ArgumentParser()
