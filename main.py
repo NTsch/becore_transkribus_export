@@ -91,7 +91,7 @@ def get_xml(collection_id: int, document_id: int, page_no: int):
         else:
             print(f"Error downloading file from URL {url}.")
 
-def get_mets(collection_id: int, document_id: int):
+def get_transcription(collection_id: int, document_id: int):
     
     # Download the METS file for the desired document
     doc_url = f'https://transkribus.eu/TrpServer/rest/collections/{collection_id}/{document_id}/mets'
@@ -116,9 +116,9 @@ parser_get_xml.add_argument('collection_id', nargs='?', default=87230)
 parser_get_xml.add_argument('document_id', nargs='?', default=1002019)
 parser_get_xml.add_argument('page_no')
 
-parser_get_mets = subparsers.add_parser('get_mets')
-parser_get_mets.add_argument('collection_id', nargs='?', default=87230)
-parser_get_mets.add_argument('document_id', nargs='?', default=1002019)
+parser_get_transcription = subparsers.add_parser('get_transcription')
+parser_get_transcription.add_argument('collection_id', nargs='?', default=87230)
+parser_get_transcription.add_argument('document_id', nargs='?', default=1002019)
 
 args = parser.parse_args()
 
@@ -126,5 +126,5 @@ if args.func_name == "get_everything":
     get_everything()
 elif args.func_name == "get_xml":
     get_xml(args.collection_id, args.document_id, args.page_no)
-elif args.func_name == "get_mets":
-    get_mets(args.collection_id, args.document_id)
+elif args.func_name == "get_transcription":
+    get_transcription(args.collection_id, args.document_id)
