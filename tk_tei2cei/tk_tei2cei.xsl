@@ -24,10 +24,15 @@
     <xsl:template match="pb">
         <cei:tenor>
             <cei:pb>
-                <xsl:copy-of select="@*"/>
+                <xsl:copy-of select="@*[not(name() = 'xml:id')]"/>
+                <xsl:attribute name="id">
+                    <xsl:value-of select="@xml:id"/>
+                </xsl:attribute>
                 <xsl:apply-templates/>
             </cei:pb>
-            <xsl:apply-templates select="following-sibling::ab[contains(@facs, concat(current()/@facs, '_'))]" mode="tenor"/>
+            <xsl:apply-templates
+                select="following-sibling::ab[contains(@facs, concat(current()/@facs, '_'))]"
+                mode="tenor"/>
         </cei:tenor>
     </xsl:template>
 
@@ -37,14 +42,47 @@
             <xsl:apply-templates/>
         </cei:pTenor>
     </xsl:template>
-    
+
     <xsl:template match="ab"/>
 
-    <xsl:template match="ab//*">
+    <xsl:template match="ab//*[not(name() = 'hi' or name() = 'choice' or name() = 'foreign' or name() = 'sic')]">
         <xsl:element name="cei:{name()}" namespace="http://www.monasterium.net/NS/cei">
-            <xsl:copy-of select="@*"/>
+            <xsl:copy-of select="@*[normalize-space()]"/>
             <xsl:apply-templates/>
         </xsl:element>
+    </xsl:template>
+
+    <xsl:template match="hi">
+        <cei:hi>
+            <xsl:copy-of select="@*[not(name() = 'style')]"/>
+            <xsl:attribute name="rend">
+                <xsl:value-of select="@style"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </cei:hi>
+    </xsl:template>
+    
+    <xsl:template match="foreign">
+        <cei:foreign>
+            <xsl:copy-of select="@*[not(name() = 'continued')]"/>
+            <xsl:apply-templates/>
+        </cei:foreign>
+    </xsl:template>
+    
+    <xsl:template match="choice[sic and corr]">
+        <cei:sic corr="{corr}">
+            <xsl:copy-of select="sic/@*[normalize-space()]"/>
+            <xsl:if test="sic/@corresp">
+                <xsl:attribute name="n">
+                    <xsl:value-of select="sic/@corresp"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:apply-templates select="sic"/>
+        </cei:sic>
+    </xsl:template>
+    
+    <xsl:template match="sic[parent::choice]">
+        <xsl:apply-templates/>
     </xsl:template>
 
 </xsl:stylesheet>
