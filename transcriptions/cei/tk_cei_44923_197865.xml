@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_417_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_417_I</cei:title><cei:idno type="Transkribus">197865</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ich <cei:persName>Leupold von Gots gnaden erwelt und bestetiget zu <cei:placeName>Babemberch</cei:placeName></cei:persName> bekennen offenlich an disem brif, daz ich durch genaden,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>gunst und furderung, di der allerdurchleuchtigst furst und herr her <cei:persName>Karl von Gots gnaden romischer kunig, zu allen zeiten merer</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>dez reichs und kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, mein genediger herre, an mich und mein stift offt geleit erzuget und getan hat, und auch
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>von sinen kuniglichen gnaden furbas mer tun mag, so gelob ich und han gelobt pey meinen trewen und eyde, den ich darumb
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>gen den heiligen getan han, dem vorgenanten meinem herren dem <cei:persName>kunig Karl</cei:persName> beystendig geraten und beholfen ze sein mit meinem leib,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>vesten, landen, mannen und luten wider allermeniclich, niemand usgenomen, nach meiner macht, die weil der vorgenant mein
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>herre, der <cei:persName>kunig Karl</cei:persName> und ich leben on all arg list und geverde. Und dez zu urkund gebe ich im disen brif, besigelten mit meinem
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>insigel, daz daran hanget, der geben ist zu <cei:placeName>Nuremberg</cei:placeName>, do man zalt <cei:date value="99999999">von Cristus geburt drutzehenhundert jar, und darnach</cei:date>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/><cei:date value="99999999">in dem dreu und funftzigsten jar dez nechsten montages nach unserr Frowen tag, als sye verscheiden ist</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

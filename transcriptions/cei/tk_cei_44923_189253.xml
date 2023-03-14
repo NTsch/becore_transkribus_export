@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_339_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_339_I</cei:title><cei:idno type="Transkribus">189253</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l3" n="N001"/>Wir <cei:persName>Ludwig</cei:persName> und <cei:persName>Ludwig, genant der Romer, von Gots gnaden margrafen ze <cei:placeName>Brandemburg</cei:placeName> und ze <cei:placeName>Lusitz</cei:placeName>, dez heiligen Romischen reichs oberste camerer, pfaltzgrafen bei </cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N002"/><cei:persName><cei:placeName>Rein</cei:placeName> und herczogen in <cei:placeName>Beyern</cei:placeName></cei:persName>, veriehen und tun kunt offenlichen mit disem brief allen den, die in sehen horen oder lesen, daz wir mit wolbedachtem mute und mit rat 
+                    <cei:lb facs="#facs_1_r1l6" n="N003"/>unsirr getrewen, und ouch mit rechtir wizzen fur uns, all unsir bruder, unsir und ir erben und nochkomen margrafen ze <cei:placeName>Brandemburg</cei:placeName>, ewiclichen uns verzigen 
+                    <cei:lb facs="#facs_1_r1l7" n="N004"/>haben und verzeihen, aller der rechten anredung und ansprache, ob wir dheine als margrafen ze <cei:placeName>Brandemburg</cei:placeName> und ze <cei:placeName>Lusitz</cei:placeName> gehabt haben und haben oder 
+                    <cei:lb facs="#facs_1_r1l8" n="N005"/>gehaben mochten, zu dem lande ze <cei:placeName>Budissin</cei:placeName> und ze <cei:placeName>Gorlicz</cei:placeName> und zu den steten <cei:placeName>Luban</cei:placeName>, <cei:placeName>Lubaw</cei:placeName>, <cei:placeName>Camentz</cei:placeName> und andern steten, lehen, mannen, manscheften, wigpilden 
+                    <cei:lb facs="#facs_1_r1l9" n="N006"/>und kreizzen, die darzu gehornt, geistlichen und werltlichen und beinamen zu den edeln herren hern <cei:persName>Ulrichen von <cei:placeName>Pak</cei:placeName>, von <cei:placeName>Sarow</cei:placeName> und zu dem lande ze <cei:placeName>Sa-</cei:placeName></cei:persName><cei:placeName/>
+                    <cei:lb facs="#facs_1_r1l10" n="N007"/><cei:persName><cei:placeName>row</cei:placeName></cei:persName> und hern <cei:persName>Albrechten von <cei:placeName>Hakemborn</cei:placeName></cei:persName> und seiner herschefte, und ir beider erben und nachkomen ewiclichen, und waz do selbest der allirdurchluchtigste furste 
+                    <cei:lb facs="#facs_1_r1l11" n="N008"/>und unsir gnediger herre her <cei:persName>Karl, Romischer kung, ze allen zeiten merer dez reichs und kung ze <cei:placeName>Behem</cei:placeName></cei:persName>, innehat und die hochgebornen fursten und herren 
+                    <cei:lb facs="#facs_1_r1l12" n="N009"/>her <cei:persName>Johanns, etwenn kung ze <cei:placeName>Behem</cei:placeName></cei:persName><cei:placeName/>, sein vatir seliger, und her <cei:persName>Heinrich, weilent herczog zu dem <cei:placeName>Jawr</cei:placeName></cei:persName>, unsir ohem seliger, innegehabt und besezzen habent 
+                    <cei:lb facs="#facs_1_r1l13" n="N010"/>und geloben mit guten trewen on geverd fur uns, unsir bruder, unsir und ir erben und nachkomen margrafen ze <cei:placeName>Brandemburg</cei:placeName> mit geswornem eyde, den 
+                    <cei:lb facs="#facs_1_r1l14" n="N011"/>wir daruber zu den heiligen getan haben, daz wir den vorgenanten unsern lieben gnedigen herren, sein erben und nachkomen kung ze <cei:placeName>Behem</cei:placeName> an dem vorgenanten lande 
+                    <cei:lb facs="#facs_1_r1l16" n="N012"/><cei:placeName>Budissin</cei:placeName>, <cei:placeName>Gorlicz</cei:placeName> und den steten <cei:placeName>Luban</cei:placeName>, <cei:placeName>Lubow</cei:placeName>, <cei:placeName>Kamentz</cei:placeName> und andern steten, lehen, mannen, manscheften wigpilden und kreizzen und allen zugehorungen 
+                    <cei:lb facs="#facs_1_r1l17" n="N013"/>geistlichen und werltlichen, und beinamen an den vorgenanten hern <cei:persName>Ulrichen von <cei:placeName>Pak</cei:placeName>, von <cei:placeName>Sarow</cei:placeName></cei:persName>, hern <cei:persName>Albrechten von <cei:placeName>Hackemborn</cei:placeName></cei:persName>, iren erben und nochkomen 
+                    <cei:lb facs="#facs_1_r1l18" n="N014"/>und allir zugehorung, nicht hindem beschedigen ansprechen noch betruben wellen und geloben mit guten trewen on geverd, und mit den vorgenanten geswornem 
+                    <cei:lb facs="#facs_1_r1l19" n="N015"/>eyde, daz wir noch den vorgenanten landen, herren, steten, mannen, manscheften und allen zugehorungen als vorgeschriben stet nymmer gesten wellen noch 
+                    <cei:lb facs="#facs_1_r1l21" n="N016"/>sullen mit ansprache, anredunge, noch mit dheinen sachen geistlichen oder werltlichen, wie man die genennen mag. Ez sullen ouch all brief und hantfesten, 
+                    <cei:lb facs="#facs_1_r1l22" n="N017"/>die wir von unserm vater seligen oder von ymand andirs darubir haben unkreftig, untuglich und allir sachen absein und dem vorgenanten unserm gnedigen 
+                    <cei:lb facs="#facs_1_r1l24" n="N018"/>herren, seinen erben und nochkomen kungen ze <cei:placeName>Behem</cei:placeName>, keinen schaden bringen, wann wir uns mit wolbedachtem mute und mit gutem rat verzigen haben 
+                    <cei:lb facs="#facs_1_r1l25" n="N019"/>und verczeihen genczlichen fur uns, unsir bruder, unsir und der selben unsirr bruder erben und nochkomen margrafen ze <cei:placeName>Brandemburg</cei:placeName> ewiclichen allir der¬
+                    <cei:lb facs="#facs_1_r1l27" n="N020"/>selben hantfesten und briefe, ob dheine ze lycht quemen odir furbracht wurden. Mit urkund dicz briefs, versigelt mit unsern ingsigeln. Der geben ist ze <cei:placeName>Bu¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l29" n="N021"/><cei:placeName>dissin</cei:placeName> <cei:date value="99999999">noch Crists geburt drewczehenhundert jar, und darnach in dem funfczigsten jare an dinstag noch dem suntag, als man singet daz ampt Invocavit</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

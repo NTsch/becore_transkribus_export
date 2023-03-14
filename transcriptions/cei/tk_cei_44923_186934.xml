@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_374_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_374_I</cei:title><cei:idno type="Transkribus">186934</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Wir <cei:persName>Ludowig von Gots genaden marggrafe ze <cei:placeName>Brandenburg</cei:placeName> und ze <cei:placeName>Lusiczz</cei:placeName>, des Heiligen Romischen reichs oberster kamrer, pfallenczgrafe bey <cei:placeName>Reyn</cei:placeName>, herczog in</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/><cei:persName><cei:placeName>Peyern</cei:placeName> und in <cei:placeName>Kernten</cei:placeName>, graf ze <cei:placeName>Tirol</cei:placeName> und ze <cei:placeName>Gortz</cei:placeName> und vogt der <cei:placeName>Gotshuser</cei:placeName>, <cei:placeName>Agley</cei:placeName>, <cei:placeName>Triende</cei:placeName> und <cei:placeName>Brihsen</cei:placeName></cei:persName>, veriehen und tun kunt offenlichen mit disem brief
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>allen den, die in sehent, hörent oder lesent, wan der hochgeboren furst und herre her<cei:persName> Rudolf, pfallentzgraf  bey <cei:placeName>Reyne</cei:placeName>, des Heiligen Romischen reichs oberster </cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/><cei:persName>truchtsezze und herczog in <cei:placeName>Beyern</cei:placeName></cei:persName>, unser lieber vetter, dem allerdurchluhtigsten fursten und herren hern <cei:persName>Karln, romischem kung, ze allen ziten merer des richs</cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/><cei:persName>und kung ze <cei:placeName>Peheim</cei:placeName></cei:persName>, unserm lieben gnedigen herren, und der durchluhtigsten furstinne und frawen frawen <cei:persName>Annan, romischen kunginne</cei:persName>, unserer lieben
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>frawen und mumen, seiner elichen wirttinne, und ir beider kinden und erben, es sein sune oder töhter, alle seiniu lande, herscheft, vesten und leut
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>in der <cei:placeName>Pfallentz</cei:placeName> und in <cei:placeName>Peyern</cei:placeName>, und wo die gelegen sind, und all sein pfantschefte, von wem er die ynnehat und alles, daz er furbas noch gewinnet,
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>mit gutem willen, aufgereichet und gegeben hat, und wir uns mit bedahtem mute fur uns, unser erben und nahkomen allez rehten ansprache
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>und anredunge, die wir darzu in dhein weis haben und gehaben möhten, verzigen haben, uzgenomen den rehten, die ein pfallentzgraf bey <cei:placeName>Reyn</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>hat und haben sol an der wal und kur eins romischen kungs eins kunftigen keysers und andern eren und wirdichheiten, die zu den vorgenanten
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/><cei:placeName>Pfallentz</cei:placeName> und kur gehörent, und den graffscheften und manscheften, die von der <cei:placeName>Pfallentz</cei:placeName> und kur ze lehen rurent, die bey uns und unsern 
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>erben ewiglichen beleiben sulen, als in briefen, die wir dem obgenanten unserm herren daruber geben haben, volchomenlicher geschriben und begriffen ist,
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>da von geloben wir fur uns, unser erben und nahkomen, ewiglichen mit guten trewen one geverde dem obgenanten unserm herren frawen <cei:persName>Annan</cei:persName>, seiner <cei:sic corr="">wirttinnn</cei:sic>,
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>iren erben und nahchomen an den obgenanten landen in der <cei:placeName>Pfallentz</cei:placeName> und ze <cei:placeName>Peyern</cei:placeName>, wer daz es ze schulden, quaem daz der obgenant <cei:persName>herczog Rudolf</cei:persName>, unser
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>vetter, abgienge, und daz si der obgenanten lande der <cei:placeName>Pfallentz</cei:placeName> und <cei:placeName>Peyern</cei:placeName> gewaltig wurden, und die eingenemen, daz wir danne aus den selben
+                    <cei:lb facs="#facs_1_r1l18" n="N016"/>unsern vorgenanten landen und von der selben lande wegen dem obgenanten unserm herren frawen <cei:persName>Annan</cei:persName>, seiner wirttinne, iren erben und nahchomen in iren
+                    <cei:lb facs="#facs_1_r1l19" n="N017"/>landen, lauten und herscheften, die si in der <cei:placeName>Pfallentz</cei:placeName> und ze <cei:placeName>Beyern</cei:placeName> haben bei allen rehten und guten, gewonheiten, do bey wir, den obgenanten unsern vettern,
+                    <cei:lb facs="#facs_1_r1l20" n="N018"/>herczog <cei:persName>Rudolfen</cei:persName> gelazzen haben, und in den er bey uns untz an disiu zeit gesezzen ist, ewichlichen lazzen wellen, und si zu den selben rehten und gewonheiten
+                    <cei:lb facs="#facs_1_r1l21" n="N019"/>getrewlich und frewntlichen schirmen und behalten, waer auch daz zwischen unsern obgenanten landen in der <cei:placeName>Pfallentz</cei:placeName> und ze <cei:placeName>Peyern</cei:placeName> amptluten, mannen und
+                    <cei:lb facs="#facs_1_r1l22" n="N020"/>dienern beidenseiten dheinerley auflauffe oder zweyung erstunden, und man die selben mit frewntschaft nicht versunen möhte, die sol man mit dem 
+                    <cei:lb facs="#facs_1_r1l23" n="N021"/>rehten auztragen, als in den obgenanten landen in der <cei:placeName>Pfallentz</cei:placeName> und ze <cei:placeName>Peyern</cei:placeName> von alter reht und gewonlich gewesen ist. Mit urchunde des briefs, 
+                    <cei:lb facs="#facs_1_r1l24" n="N022"/>der geben ist ze <cei:placeName>Dresden</cei:placeName> <cei:date value="99999999">nah Gots geburtt drivzehen hundert iar und in dem eynen und fünfzigsten iar an vreytag vor sant Matheus tag</cei:date>.   
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

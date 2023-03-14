@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_334_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_334_I</cei:title><cei:idno type="Transkribus">189201</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Taute von <cei:placeName>Schonnbrunn</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Habart</cei:persName> und<cei:persName> Albrecht von <cei:placeName>Hertenberch</cei:placeName></cei:persName>, bekennen offenlich mit disem brief und tun kunt allen den, die in sehent, horent oder lesent, daz daz hause ze <cei:placeName>Hertenberg</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>in dem kunigreich und lande ze <cei:placeName>Beheim</cei:placeName> gelegen ist, und leit und ez unser elder und vorvarn und nu wir von dem selben kunigreich und kunge ze <cei:placeName>Beheim</cei:placeName> zu rechtem lehen hatten 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>und haben mit allen den dorfern, guten und nutzen, die hie nach geschriben stent, <cei:placeName>Gossengrun</cei:placeName>, <cei:placeName>Loch</cei:placeName>, <cei:placeName>Blunberg</cei:placeName>, <cei:placeName>Adelberg</cei:placeName>, <cei:placeName>Burgleins</cei:placeName>, <cei:placeName>Marchquardsgrun</cei:placeName>, <cei:placeName>Luphartzgrun</cei:placeName>, <cei:placeName>Radwansgrun</cei:placeName>, <cei:placeName>Werd</cei:placeName>, 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:placeName>Obernschozzenreut</cei:placeName>, <cei:placeName>Luterbach</cei:placeName> und halbteyl des dorfes zu dem <cei:placeName>Horen</cei:placeName> mit berchwerchen des bleis des zwey teil zu dem selben hause gehorent, mit gerichten und gewalt des gerichtes, mit
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>cynsen an pfenning an weytze, an korn, an gersten und an habern oder andern fruchten, wie sie genant sein oder namen haben akkern, velden, pergen, talen und slichten, walden, puschen, wilpanen, 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>jaget und wayden, wazzern, wazzerlenften, teychen, seen, vyschwaiden und vyscherein, mulen, eysenhemern und hamersteten und gemainlich mit allen nutzen, ob der erben oder dar under sie sein yezunt 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>oder furbaz werden nu hat der allerdurchlouchtig furste, unser gnediger herre her <cei:persName>Karl, von Gots gnaden Romischer kunig, ze allen zeiten merer des reichs und kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName><cei:placeName/>, angesehen unseren getrewen 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>dinest, den wir im getrewelich getan haben und furbaz tun sullen und wellen, darumb er uns sunderlich begnadet hat mit zwain tailen des vorgenanten hauses ze <cei:placeName>Hertenberg</cei:placeName>, als wir daz von im 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>und seinen vordern seligen kungen ze <cei:placeName>Beheim</cei:placeName> ze lehen haben gehabt, also hat er ez uns nu anderwaid gelihen und lehen vernewet mit allen den guten, dorfern, gerichten, cynsen, korn¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>gulden, akkern, velden, pergen, talen und gesliecht, welden, puschen, wiltpanen, jagt und waiden, wassern, wasserlenften, teichen, seen, vyscherein und vyschwaiden, mulen, eysenhemern und 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>eysenhemersteten mit berchwerchen und gemainlich mit allen nutzen, die zu den vorgenanten zwain teilen des vorgeschribenn hauses gehoren, sie sein ober oder under der erden, als wirs vor von im ze 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>lehen hatten, empfangen haben und empfahen an disem gegenburtigen brief von uns, unsern erben und nachkomen zu rechtem lehen und manschaft mit sulcher vryheit und rechten, als 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>wir, die biz her gehabt und besezzen haben, also bescheidenlich, daz die selben zwai teil des hauses ze <cei:placeName>Hertenberg</cei:placeName> dem vorgenanten unserm gnedigen herren, seinen erben und nachkomen kungen zu <cei:placeName>Beheim</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>offen sullen sein, und wir im da mit beholfen sein sullen zu allen seinen noten und nacht und tag, sein dyner und sein volck ir sein, wenik oder vil auz den selben unsern zwai tailen ein 
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>und auz reiten, und sich mit den behelfen, wann oder wie dick in dez not ist uf aller menlich, der da lebt niemant auzgenumen, auch sulln wir auf den selben unsern zwaintailen keynen turen,
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>vesten oder kemnaten, powen ez sey danne unsers vorgenanten herren oder seiner erben und nachkomen kunig ze <cei:placeName>Beheim</cei:placeName>, gut wille und wort und mit irem laube hat auch uns oder unser 
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>erben und nachkomen iemant anzesprechen, umb div gut, die zu den vorgenanten zwein tailen gehoren oder an andern sachen, waz die waren dar uber sullen wir antwurten vor unserm vorgenanten herren, 
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>seinen erben oder seinen nachkomen oder wen er uns von seinen gnaden ze richter gibt. Wir geloben ouch fur unser erben und nachkomen, wenn si dar zu komen, daz si die vorgenanten lehen 
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>mugen und sullen besitzen, daz si auch fur unsern herren den kunig, sein erben und nachkomen komen sullen, und ire lehen empfahen under sulchen gelubden, als vor geschriben stet und auch des 
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>sweren ze halten, als wir gesworen haben, daz wir dise vorgeschriben gelubde stuck und artikel stet und gantz halden ewichlich an arglist, auch haben wir fur uns und unser erben und nachko¬
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>men, dez unserm vorgenanten herren dem kunig seinen erben und nachkomen einen ayd gesworen, unser hende uf die heiligen gelegt und mit uns, unser lieb friunde und vettern her <cei:persName>Engelhart von </cei:persName>
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/><cei:persName><cei:placeName>Kungswarcht</cei:placeName></cei:persName>, her <cei:persName>Wytig von <cei:placeName>Kungswartt</cei:placeName>, gesezzen ze <cei:placeName>Sandow</cei:placeName></cei:persName>, und her <cei:persName>Johans Bryesner von <cei:placeName>Pirchk</cei:placeName></cei:persName>, die unser purgen auch darumb worden seint, war aber daz wir bruchig wurden an den 
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>vorgeschriben artikeln und stucken oder an ir einem, dez Got nicht geb, so solden wir meinod erlos, rechtlos und truwelos sein und solden, unserm obgenanten herren, seinen erben und nachkomen kungen 
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>ze <cei:placeName>Beheim</cei:placeName>, unsere vorgeschribene lehen, vervallen sein und sullen und mugen uns, unser erben und nachkomen in allen steten, merckten, dorfern oder vesten, welcher herren die sein an alles ge¬
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>richt angreiffen, an leib und an gute und da mit tun nach iren genaden. Und diser vorgeschribenn gelubde red und artikel ze urkunde und sicherheit haben wir unsere insigel an disen 
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>brief gehangen, und wir obgenant <cei:persName>Engelhart</cei:persName> und <cei:persName>Wytig von <cei:placeName>Kungswart</cei:placeName></cei:persName> und <cei:persName>Hanse Bryesner von <cei:placeName>Pirck</cei:placeName></cei:persName> bekennen offenlich an disem brief, daz wir fur unser obgenant friunde 
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/>und vettern <cei:persName>Tauten</cei:persName>, <cei:persName>Habarten</cei:persName> und <cei:persName>Albrechten von <cei:placeName>Hertenberg</cei:placeName></cei:persName> purgen und mit in selb scholn worden sein und werden an disem brief aller der vorgeschribenn gelubde und rede und uns 
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>mit in verschriben und verbinden mit disem brief, daz si und ir erben und nachkomen, die selben stuck artikel und rede und auch gelubde stet und gantz halden ewichlich an argelist, 
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/>und haben auch dez mit in einen ayd gesworen unserm obgenanten herren dem kunig, seinen erben und nachkomen und unser hend gelegt uf die heiligen. Und zu einer mereren vestenung diser 
+                    <cei:lb facs="#facs_1_r1l30" n="N030"/>dinge haben wir durch bet willen unser friunde und vettern und auch durch unsers gelubdes und ayde willen unsere insigel mit sampt den iren an disen brief gehangen, der geben ist ze <cei:placeName>Prage</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l31" n="N031"/><cei:date value="99999999">nach Christus geburt driutzehenhundert jar und in dem fumftzigistem jar an dem nehsten sunnabent vor dem Obersten tag</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

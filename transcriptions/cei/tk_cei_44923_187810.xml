@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_487_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_487_I</cei:title><cei:idno type="Transkribus">187810</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Rudolf von Gots gnaden herczog ze <cei:placeName>Sachsen</cei:placeName>, des heiligen Romischen reichs obirsten marschalk</cei:persName>, und <cei:persName>Rudolf, sein elter sun</cei:persName>, veriehen und tun kunt mit disem gegenwartigen brive
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>allen den, die in sehent oder horent lesen, das der allerdurchlewchtigste furste und herre her <cei:persName>Karl von Gotes gnaden Römischer keiser, ze allen zeiten merer des reichs und kung ze <cei:placeName>Beheim</cei:placeName></cei:persName><cei:placeName/>,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>unser lieber gnadiger herre durch sunderliche gnade, liebe und friundtschaft, die er von angeborner gute ze uns und ze unsirn erben gnediglich treit hat, und auch durch ge¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>trewe vleizzige und stete, dinste, die im und dem heiligen reiche der edle <cei:persName>Johans, burggraf von <cei:placeName>Meidburg</cei:placeName> und graff ze <cei:placeName>Recz</cei:placeName></cei:persName><cei:placeName/> manigfaldiglich vormals getan hat und noch wol getun
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>mag und sal in kunftigen zeiten, das hat geteidingt und ist mit seinem rate und durch sein gebot dar gegangen, das wir, der obgenanten <cei:persName>Rudolf, herczog ze <cei:placeName>Sachsen</cei:placeName></cei:persName>, unsir thochter und
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>wir <cei:persName>Rudolf, sein elter sun</cei:persName>, <cei:persName>unsir swester iunkfrow Lene</cei:persName>, dem egenanten <cei:persName>burggrafen Johans von <cei:placeName>Meidburg</cei:placeName> und grafen ze <cei:placeName>Recz</cei:placeName></cei:persName><cei:placeName/>, ze der ee und ze einer elichen wirtinne gehen sullen und wollen, 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>und wir sullen, wollen und geloben auch das burggrafampt ze <cei:placeName>Meidburg</cei:placeName> mit allen zegehorungen ausgenomen, unser gerichte ze <cei:placeName>Halle</cei:placeName> mit der obgenanten iunkfrowen <cei:persName>Lenen</cei:persName> dem egen 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName>burggraf Johans</cei:persName> geben und wenne sie ze sampne gelegt werden, darnach in den nechsten vier wochen dem egenanten <cei:persName>burggrafen Johans</cei:persName> und seiner wirtinne, desselben burggrafenamptes abtretin
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>unverczogenlich, und noch der zeit sullen und wollen wir uns verzeichen, dar uff alles rechten, das wir adr unsir erben und nochkommen herczogen ze <cei:placeName>Sachsen</cei:placeName>, dorczu gehaben mochten in dheinen 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>weis, do in gegen gibt der obgenanten unsir herre der keiser dritusint schokk grozzer pfennige prager munze, der uns der obgenanten unsir herre der keiser zweihundert schok gereit geben hat  
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>und achthundert schock uff sant Mertins tag, der im schirest kunftig wirt, hat gelobt zebezaln unverczoginlich und zegeben und vor die obrigen czweitusint schock hat er uns gesatzet,
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>bewerzet und bescheiden czweihundert schock jeriger guld ze <cei:placeName>Budisschin</cei:placeName>, ander halb hundirt schock und ze <cei:placeName>Gorlicz</cei:placeName> fumfczig schock, die wir ane hindernuzze und an alles verziehen aller jeri¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>clich empfahen und nemen sullen von den burggrafen der obgenanten stete, das halbeteil uff sant Gallen tag und das ander halbeteil uff sant Walpurg tag, also lange uncz er die obgenanten czwei¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>tusint schock mit gereiten pfennigen uns beczalet, adr die burger der obgenanten stete mit dem egenanten czweitusint schocken, die obgenanten cweihundert schock jeriger gulde selber abgelozen, und 
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>wenn der obgennanten unser herre der keiser adr seine erben und nochkommen kunge ze <cei:placeName>Beheim</cei:placeName> die obgenanten cweihundirt schock jeriger gulde mit czweintusunt schokken gereitschaft abgelozzen
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>adr sich die stete selber ablosen als dovor geschriben ist, so sulle wir und unsir erben dem egenanten <cei:persName>burggrafen Johanse</cei:persName> umb das selbe gelt eine vestin kowfin mit gulde und nuczzen, so das 
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>selbe gelt allerverrest gereichen mag, und das sal geschehen mit rate des obgenanten unsirs herren des keisirs adr seiner erben und nochkommen kunnge ze <cei:placeName>Beheim</cei:placeName>, und die selbe veste und 
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>gulde, und was man mit dem obgenanten gelde gekowfen mag, sal der obgenanten junkfrowen leipgedinge sein, verschid abr der obgenanten <cei:persName>burggraf Johans</cei:persName>, also das er nicht kinder liese,
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>so sal die pfantschaft und das gelt, wo es hin gelegt und gewendet, wirt der junkfrowen leipgedinge sein, und noch irem tode sal es an den obgenanten unsern herren der keiser, sein erben 
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>und nochkommen kunge ze <cei:placeName>Beheim</cei:placeName> an alles hindernuzze widervallen, und wir und unsir erben sullen auch umb das burggrafsampt ze <cei:placeName>Meidburg</cei:placeName> wider in unsir recht tretin geleich, als 
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>vor und ungehindirt auch sal der egenanten unsir unsir herre der keiser, seine erben und nochkommen kunge ze <cei:placeName>Beheim</cei:placeName>, uns und unsir erben bei rechte und gnaden lazzen beleiben, und 
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>behalden inden egenanten pfantscheften, als vor geschriben stet. Mit urkund dicz brives, versiglt mit unsern ingsigeln, der geben ist ze <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">noch Crists geburt driczehnhundert jar und </cei:date>
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/><cei:date value="99999999">dornach in dem funf und funfczigstin jar an sant Michahels tag</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

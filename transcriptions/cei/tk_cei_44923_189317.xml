@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_581_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_581_I</cei:title><cei:idno type="Transkribus">189317</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Paul</cei:persName>, <cei:persName>Franciscus</cei:persName> und <cei:persName>Heynrich</cei:persName>, kinder <cei:persName>Niclausen von <cei:placeName>Bischofswerde</cei:placeName> des Eldirn</cei:persName>, und wir <cei:persName>Heinlin</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>Caspar</cei:persName> und <cei:persName>Herman</cei:persName>, kinder <cei:persName>Niclaus von <cei:placeName>Bischofswerde</cei:placeName> des Jungern</cei:persName>, bekennen und tun kunt 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>offenlich mit desim brife allen den, dy in sehen oder horen lesin, daz wir von dem allirdurchluchti¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>gisten fursten und herren hern <cei:persName>Karle, Romischen keiser, zcu allen zciten merer des riches und kun¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName>ge zcu <cei:placeName>Beheim</cei:placeName></cei:persName>, unserm lieben gnedigen herren alze eyme kunige zcu <cei:placeName>Beheim</cei:placeName>, unsir lehn, di uns 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>von unsern vetirn, an irstorbin sint, recht und redelich enpfangen habin, und im, sinen erben 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>und nachkommen kungen zcu <cei:placeName>Beheim</cei:placeName> gehuldet, gelobit und gesworn habin, getruwe, gehorsam
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>und ouch undirtenik zcu sine, alze unsern rechten erbherren und bynamen, iren schaden zcu be¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>waren und iren vromen zcu werben in ganczin stetin, truwen, und zcu allen den obgenanten 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>sachen vorbinden wir uns, unsir erben und nachkomen ewiclichen. Mit urkunde dis brifes, 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>vorsigilt mit unsir des egenanten <cei:persName>Pauls</cei:persName> und <cei:persName>Heinlins</cei:persName> ingesigiln, wenne dy andirn unsrer
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>bruder ingesigil nicht enhaben, der gegeben ist zcu dem <cei:placeName>Piesk</cei:placeName> nach <cei:date value="99999999">Crists geburte driczen </cei:date>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:date value="99999999">hundirt jar, dornach in dem sechsundfunfczigisten jare an des heiligen send Egidien tage</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

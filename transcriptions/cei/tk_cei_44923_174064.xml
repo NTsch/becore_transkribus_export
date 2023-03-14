@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_132_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>katerina.zenklova@nacr.cz Collection</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_132_I</cei:title><cei:idno type="Transkribus">174064</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Nichlas, der richter</cei:persName>, <cei:persName>Ditrich, der burgermaister</cei:persName>, und di gesworn alle, dar nach uberal, die gemain der
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>stat ze <cei:placeName>Znoym</cei:placeName> veriehen offenwar allen den, di disen brif sehen, lesen, oder hören lesen, daz wir von
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>dem geschefte und gebote unsers liben herren, des hochgeborn <cei:persName>chunik Johansen von <cei:placeName>Behem</cei:placeName> und von</cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName><cei:placeName>Polan</cei:placeName> und graven von <cei:placeName>Lucemburch</cei:placeName></cei:persName> verhaizzen und gelobt haben mit trewen an aydes stat dem ede¬
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>len hohen <cei:persName>fürsten herzogen Heinrichen von <cei:placeName>Chernden</cei:placeName>, graven von <cei:placeName>Tyrol</cei:placeName></cei:persName>, stete helfen ze haben,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>alle der taiding und gelubde, di czwischen unserm vorgenantem herren und im geschehen sint, als
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>diselben unsers liben herren hantfeste sagent, di er im dar uber geben hat, und nemlich daz
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>derselbe herczoge fürmunt und gerhabe sein sol, ob ez ze schulden chumt unsers egenanten herren,
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/><cei:persName>chunik Johansen</cei:persName>, chinde di er iezunt hat oder noch gewinnet der verpintnusse, und daz gelubde
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>haben von uns, in genommen an dez vorgenannten herzogen, stat di ersamen herren maister <cei:persName>Heinrich, der</cei:persName>
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/><cei:persName>probst von <cei:placeName>Volchenmarcht</cei:placeName></cei:persName> und her <cei:persName>Wolchmar von <cei:placeName>Purchstal</cei:placeName></cei:persName>. Und dar uber zu einem urchunde
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>habe wir im geben disen brif mit dem anhangundem unserr stat insigel ze <cei:placeName>Znoym</cei:placeName>. Diser brif ist geben
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:date value="99999999">nach Christi geburd dreuczenhundert iar im acht und zwainzigsten iar an sand</cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:date value="99999999">Stepfans tag des marterer, als sein lichnam funden ward</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_323_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_323_I</cei:title><cei:idno type="Transkribus">186962</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Friderich von Gotis gnaden lantgrafe ze <cei:placeName>Duringen</cei:placeName>, marcgrave ze <cei:placeName>Missen</cei:placeName> in deme <cei:placeName>Ostirlande</cei:placeName> unde ze <cei:placeName>Landisperg</cei:placeName>, grave ze <cei:placeName>OrIamunde</cei:placeName> unde herre </cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>des landis ze <cei:placeName>Plissin</cei:placeName></cei:persName>, unde wir <cei:persName>Friderich</cei:persName>, <cei:persName>Balthazar</cei:persName>, <cei:persName>Ludewig</cei:persName> unde <cei:persName>Wilhelm</cei:persName>, seine sune, voriehen unde tun kunt offenlich mit disem briefe allen den, die in sehen,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>horen oder lesin, alleine wir mit deme allir durchluchtigisten fursten unde unserm gnedigen herren herren<cei:persName> Karl, Romischem chunige, ze allen zceiten me¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>rere des reichs unde kunige ze <cei:placeName>Behemen</cei:placeName></cei:persName>, unde den hochgebornen fursten herren <cei:persName>Johansen, herczogen ze <cei:placeName>Kernthen</cei:placeName>, graven ze <cei:placeName>Thyrol</cei:placeName> unde ze <cei:placeName>Gorcz</cei:placeName></cei:persName><cei:placeName/>, und 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>herren <cei:persName>Wenczelaw, seinen brudirn</cei:persName>, unde allen iren erbin unde nachkomen kunigen ze <cei:placeName>Behemen</cei:placeName> unde der cronen, do selbist marcgraven ze <cei:placeName>Merhern</cei:placeName> und 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>graven ze <cei:placeName>Lucemburg</cei:placeName> uns vorbunden haben unde voreinet unde globit mit geswornem eyde in guten truwen an alle geverde, daz wir in unde allen iren 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>erbin, ewiclichin beholfen sullen unde wollen, sein ze behaldene ire furstintum erbe land, herschefte, gut, ere unde gewonheit, die sie iczunt haben oder 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>noch gewinnen mugen, wi unde von welchen sachen di an sie quemen wider allirmenigleich niemand uzzcunemen, von den si angegriffen odir beschediget wurden 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>in dheinen weis odir welchen unde wen si angriffen unde beschedigen wolten, nach deme als der hulfe not wirt, so wir beste mugen on geverde doch habent 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>der vorgenante unsir herre unde seine brudir uns globit, daz si an uns, unsirn erbin unde nachkomen zcwisschen wynachten, die schirst komen, unde dannen 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>uber ein ganczez jar wider di hochgebornen fürsten unde herren herren <cei:persName>Ludewigen</cei:persName> unde <cei:persName>Stephan, herczogen in <cei:placeName>Beyern</cei:placeName></cei:persName><cei:placeName/>, unde ire brudere, etswen des kaisirs 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>kindir unsir frünt keiner hulfe muten noch begern sullen, uf ir gut land odir erbe ze zcihen, were abir daz die vorgenanten herczogen uf den vorgenanten 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>unsirn herren, seine brudere, ire ryche, sin furstentum, herschefte unde land zeugen, so sullen unde wollen wir unserm herren, seinen brudirn ze behaldene ire reiche fursten¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>tum, herschefte unde lande wider die selbin herczogen, als wider andere, ire fiende unde widersachen behulfen sein, so wir beste mugen unde als der hulfe not 
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>wirt one geverde. Were auch, daz wir odir unsir erbin innewendig der vorgenanten frist mit den vorgenanten herczogen ze <cei:placeName>Beyern</cei:placeName> ze kriege wurden in weI¬
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>chir schicht daz geschehe, so schal furbaz, die frist uz sein unde sullen unde wollen wir furbaz den vorgenanten unserm herren, seinen brudirn, iren erbin unde 
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>nachkomen unde der cronen ze <cei:placeName>Behemen</cei:placeName>, wider die selbin herczogen als wider andire ire fiende unde widersachen behulfen sein. Unde des ze urkunde unde ze 
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>gedechtnizz haben wir <cei:persName>Friderich, lantgrave zcu <cei:placeName>Duringen</cei:placeName> unde marcgrave ze <cei:placeName>Miessen</cei:placeName></cei:persName>, unde wir <cei:persName>Friderich</cei:persName> unde <cei:persName>Balthazar</cei:persName> seine sune, die obgenanten unsir insigel geleit 
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>an disen brief, unde uber daz globen wir mit gesamtir hant mit geswornem aeyde in guten truwen on alle geverd, das wir der hochgebornen <cei:persName>Ludewiges</cei:persName> unde <cei:persName>Wilhelms</cei:persName>, un¬
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>sir kindir unde brudir insigel, wenne si mundig werden schaffen wollen an disen brief, so wir schirst mugen wer, abir daz sie von hindirnisse oder von dheinen sachen, 
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>welcherlei die wern an disen brief nicht quemen, dar nach sal dine brief alle craft haben unde in alle den gelubden eyden vorbuntnuzz unde macht blieben, als ab 
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>die selbin insigel an komen weren mit geczuge dicz briefes, der gegeben zcu <cei:placeName>Dresden</cei:placeName> <cei:date value="99999999">nach Gotis geburd driczehenhundirt jare, dar nach in deme acht und virczi</cei:date>¬
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/><cei:date value="99999999">gisten jare an sende Thomastage, des heiligen zewelfboten</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

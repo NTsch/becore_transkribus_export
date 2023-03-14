@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_727_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_727_I</cei:title><cei:idno type="Transkribus">192736</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ich <cei:persName>Heinrich von <cei:placeName>Wildenstein</cei:placeName></cei:persName><cei:placeName/> bekenne und tun kunt offenlich mit diesem brife
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>allen den, die in sehent oder horent lesen, daz der allirdurchleuste fürste und herre,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>her <cei:persName>Karl romischir keiser zu allen zeiten merer des reichs und kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>mein liebir genediger herre, an den fumftausenten und achtzig schokken, die er mir
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>von des hausz wegen <cei:placeName>Rotemberg</cei:placeName> schuldig ist, daz er von mier umb daz egennanten gelt ge¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>kauft hat, mier an demselben gelde geben und betzalit hat fumf hundirt schok gutir
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>behemischir grozz, derselben fumfhundirt schokke sag ich den egenanten meinen herren
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>den keiser und alle sein erben fur mich und alle mein erben gantz und gar quit,
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>ledig und los mit diesem briefe, versiegelt mit meins vorgenanten <cei:persName>Heinrichs</cei:persName> angedruk¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>tem ingsiegel. Der geben ist zu <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">nach Cristes geburde dreyzehenhundert iar in</cei:date>
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/><cei:date value="99999999">dem sechtzkistem iare an dem nahsten freytage vor allir manne vasnacht</cei:date>.
+            </cei:pTenor></cei:tenor><cei:tenor><cei:pb facs="#facs_2" n="2" id="img_0002"/></cei:tenor>
+         
+      
+   
+</cei:cei>

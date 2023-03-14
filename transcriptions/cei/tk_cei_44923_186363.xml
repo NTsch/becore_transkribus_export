@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_326_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_326_I</cei:title><cei:idno type="Transkribus">186363</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Henrich, grafe von <cei:placeName>Honstein</cei:placeName>, herre zeü <cei:placeName>Sündirshusin</cei:placeName></cei:persName>, <cei:persName>Heinrich</cei:persName> und <cei:persName>Günther, gebrüdere grafin von <cei:placeName>Swarzepurg</cei:placeName>, herrin zeü <cei:placeName>Arnstete</cei:placeName></cei:persName><cei:placeName/>, gelobin fur uns 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>und unsir erbin mit gutin truwen an eydes stat an allis geverde, deme allirdürchluchtigestin furstin unsirm genedigin herrin hern <cei:persName>KarI, Romischin </cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>konige, zcü allin zcitin merer des riches und künig zcü <cei:placeName>Bemen</cei:placeName></cei:persName>, daz wir im bestendig und beholfin wollin, sein wider hern <cei:persName>Lodewiges </cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>kinder von <cei:placeName>Beygern</cei:placeName></cei:persName>, der sich etlewanne keysir nante und widir <cei:persName>grafin Günthere von <cei:placeName>Swacpürg</cei:placeName>, herren zeü <cei:placeName>Arnstete</cei:placeName></cei:persName><cei:placeName/>, und widir alle andirn 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>des vorgnantin unsirs herrin des Romischin koniges finde und widirsachin von disir zeit eyn gancz jar mit hündirt mannen, mit 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>helmen, der wir fünfzeig legin sullen in unsir sloz, zeü weren und zeü behaldene unsir vestin, und mit den andirn fünfzeigin sullin 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>und wollin wir im dinen in dem lande zeü <cei:placeName>Doringin</cei:placeName> uf deme felde mit rechtin truwen wider sine finden, so wir allirbeste mogin ouch 
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>gelobin wir für uns und unsir erbin mit gutin truwen an eydes stat, das dem vorgnantin unsirm herrin, deme Romischin konige und 
+                    <cei:lb facs="#facs_1_r1l11" n="N009"/>sinen houptlutin, die er dar zeü schicket, alle unsir vestin offin sein sullin, widir alle sine widirsachin, wenne er ir bedarf 
+                    <cei:lb facs="#facs_1_r1l13" n="N010"/>und der begernde ist in der vorgnantin zeiit on geverde. Mit urkünt dies brifes, versigilt mit unsirm insigiln, der gegebin ist 
+                    <cei:lb facs="#facs_1_r1l14" n="N011"/>zcü <cei:placeName>Erforte</cei:placeName>, <cei:date value="99999999">do man zcalte noch Cristes geburt drizcen hündert und nwnundfirzcig jar an deme nestin sunabinde noch </cei:date>
+                    <cei:lb facs="#facs_1_r1l16" n="N012"/><cei:date value="99999999">deme Obirstintage</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

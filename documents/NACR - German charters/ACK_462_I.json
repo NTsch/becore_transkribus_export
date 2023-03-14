@@ -1,0 +1,231 @@
+{
+    "md": {
+        "nrOfRegions": 1,
+        "nrOfTranscribedRegions": 1,
+        "nrOfWordsInRegions": 665,
+        "nrOfLines": 24,
+        "nrOfTranscribedLines": 24,
+        "nrOfWordsInLines": 688,
+        "nrOfWords": 0,
+        "nrOfTranscribedWords": 0,
+        "nrOfCharsInLines": 0,
+        "nrOfNew": 0,
+        "nrOfInProgress": 1,
+        "nrOfDone": 0,
+        "nrOfFinal": 0,
+        "nrOfGT": 0,
+        "docId": 191097,
+        "title": "ACK_462_I",
+        "uploadTimestamp": 1564757549855,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7559407,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZSSHNQZEXNTRVPOYVDOHTGBP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZSSHNQZEXNTRVPOYVDOHTGBP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_191097",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        },
+        "attributes": []
+    },
+    "pageList": {
+        "pages": [
+            {
+                "pageId": 7559407,
+                "docId": 191097,
+                "pageNr": 1,
+                "key": "ZSSHNQZEXNTRVPOYVDOHTGBP",
+                "imageId": 4560144,
+                "url": "https://files.transkribus.eu/Get?id=ZSSHNQZEXNTRVPOYVDOHTGBP&fileType=view",
+                "thumbUrl": "https://files.transkribus.eu/Get?id=ZSSHNQZEXNTRVPOYVDOHTGBP&fileType=thumb",
+                "md5Sum": "4549fbd42e363fbb4e16d8a2f55e5cc8",
+                "fileSize": 1137103,
+                "imgFileName": "462m.jpg",
+                "tsList": {
+                    "transcripts": [
+                        {
+                            "tsId": 17832653,
+                            "parentTsId": 13309009,
+                            "key": "TCQLEFBHFLBNZZNEMDIOKMBN",
+                            "pageId": 7559407,
+                            "docId": 191097,
+                            "pageNr": 1,
+                            "url": "https://files.transkribus.eu/Get?id=TCQLEFBHFLBNZZNEMDIOKMBN",
+                            "status": "IN_PROGRESS",
+                            "userName": "marketa.hrdlickova@nacr.cz",
+                            "userId": 40502,
+                            "timestamp": 1572013918248,
+                            "md5Sum": "2434f66069f6863ce099aa4cb878d0e0",
+                            "nrOfRegions": 1,
+                            "nrOfTranscribedRegions": 1,
+                            "nrOfWordsInRegions": 665,
+                            "nrOfLines": 24,
+                            "nrOfTranscribedLines": 24,
+                            "nrOfWordsInLines": 688,
+                            "nrOfWords": 0,
+                            "nrOfTranscribedWords": 0,
+                            "nrOfCharsInLines": 0,
+                            "fileSize": 30144,
+                            "fileName": "462m.xml"
+                        },
+                        {
+                            "tsId": 13309009,
+                            "parentTsId": 13307503,
+                            "key": "BUVSZRQUDDNSFLVGXDNGUXKY",
+                            "pageId": 7559407,
+                            "docId": 191097,
+                            "pageNr": 1,
+                            "url": "https://files.transkribus.eu/Get?id=BUVSZRQUDDNSFLVGXDNGUXKY",
+                            "status": "IN_PROGRESS",
+                            "userName": "marketa.hrdlickova@nacr.cz",
+                            "userId": 40502,
+                            "timestamp": 1564760364641,
+                            "md5Sum": "cf7e636cca86b30e54c0ad46cbdf0e14",
+                            "nrOfRegions": 1,
+                            "nrOfTranscribedRegions": 1,
+                            "nrOfWordsInRegions": 665,
+                            "nrOfLines": 24,
+                            "nrOfTranscribedLines": 24,
+                            "nrOfWordsInLines": 688,
+                            "nrOfWords": 0,
+                            "nrOfTranscribedWords": 0,
+                            "nrOfCharsInLines": 0,
+                            "fileSize": 29962,
+                            "fileName": "462m.xml"
+                        },
+                        {
+                            "tsId": 13307503,
+                            "parentTsId": 13307419,
+                            "key": "MQLFLBNAWCNXVCAVEFRCSXDX",
+                            "pageId": 7559407,
+                            "docId": 191097,
+                            "pageNr": 1,
+                            "url": "https://files.transkribus.eu/Get?id=MQLFLBNAWCNXVCAVEFRCSXDX",
+                            "status": "IN_PROGRESS",
+                            "userName": "marketa.hrdlickova@nacr.cz",
+                            "userId": 40502,
+                            "timestamp": 1564757662330,
+                            "toolName": "CITlab_Advanced_LA 2.3.1",
+                            "md5Sum": "c07bf49495af874cadda1c5c6c93f8e5",
+                            "nrOfRegions": 2,
+                            "nrOfTranscribedRegions": 0,
+                            "nrOfWordsInRegions": 0,
+                            "nrOfLines": 26,
+                            "nrOfTranscribedLines": 0,
+                            "nrOfWordsInLines": 0,
+                            "nrOfWords": 0,
+                            "nrOfTranscribedWords": 0,
+                            "nrOfCharsInLines": 0,
+                            "fileSize": 18963,
+                            "fileName": "462m.xml"
+                        },
+                        {
+                            "tsId": 13307419,
+                            "parentTsId": -1,
+                            "key": "QNMIRNHQJCSUIYHBDBJENRZX",
+                            "pageId": 7559407,
+                            "docId": 191097,
+                            "pageNr": 1,
+                            "url": "https://files.transkribus.eu/Get?id=QNMIRNHQJCSUIYHBDBJENRZX",
+                            "status": "NEW",
+                            "userName": "marketa.hrdlickova@nacr.cz",
+                            "userId": 40502,
+                            "timestamp": 1564757549855,
+                            "md5Sum": "cc21a4f3493f4eba3c6eb3f53e89e192",
+                            "nrOfRegions": 0,
+                            "nrOfTranscribedRegions": 0,
+                            "nrOfWordsInRegions": 0,
+                            "nrOfLines": 0,
+                            "nrOfTranscribedLines": 0,
+                            "nrOfWordsInLines": 0,
+                            "nrOfWords": 0,
+                            "nrOfTranscribedWords": 0,
+                            "nrOfCharsInLines": 0,
+                            "fileSize": 620,
+                            "fileName": "462m.xml"
+                        }
+                    ]
+                },
+                "width": 3000,
+                "height": 2113,
+                "created": "2019-08-02T16:52:30.006+02:00",
+                "indexed": true,
+                "imageVersions": {
+                    "imageVersions": []
+                },
+                "tagsStored": "2019-10-25T16:31:59.054+02:00",
+                "lastModified": "2022-06-27T12:35:41.939+02:00",
+                "lastIndexed": "2022-07-19T04:40:13.965+02:00"
+            }
+        ]
+    },
+    "collection": {
+        "colId": 44923,
+        "colName": "NACR - German charters",
+        "description": "created by katerina.zenklova@nacr.cz",
+        "crowdsourcing": false,
+        "elearning": false,
+        "nrOfDocuments": 0,
+        "accountingStatus": 1
+    },
+    "edDeclList": [
+        {
+            "featureId": 1,
+            "title": "Long S",
+            "description": "Source uses long \"s\"",
+            "optionList": {
+                "options": [
+                    {
+                        "optionId": 1,
+                        "featureId": 1,
+                        "text": "Long s is normalized to \"s\"",
+                        "selected": true
+                    },
+                    {
+                        "optionId": 2,
+                        "featureId": 1,
+                        "text": "Long s is transcribed as \"\u017f\" U+017F \"Latin small letter long s\"",
+                        "selected": false
+                    }
+                ]
+            }
+        },
+        {
+            "featureId": 50,
+            "title": "Abbreviations - common",
+            "description": "Common abbreviations are usually known to most readers of a text, for example: e.g., i.e., &, etc.",
+            "optionList": {
+                "options": [
+                    {
+                        "optionId": 66,
+                        "featureId": 50,
+                        "text": "Common abbreviations were expanded",
+                        "selected": true
+                    },
+                    {
+                        "optionId": 65,
+                        "featureId": 50,
+                        "text": "Common abbreviations were not expanded",
+                        "selected": false
+                    }
+                ]
+            }
+        }
+    ]
+}

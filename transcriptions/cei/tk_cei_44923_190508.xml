@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_643_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_643_I</cei:title><cei:idno type="Transkribus">190508</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Wir <cei:persName>Albrecht</cei:persName> und <cei:persName>Friderich, von Gots gnaden burgraven zu <cei:placeName>Nuremberg</cei:placeName></cei:persName>, bekennen und tun kunt offenlich mit disem brive allen den, die yn sehen oder horen
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>lesen, wann der allirdurchluchtigste furste und herre her <cei:persName>Karl, romischir keisir, ze allen zeiten merer des reichs und kunig zu <cei:placeName>Behem</cei:placeName></cei:persName><cei:placeName/>, unsir liebir gnediger 
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>herre durch unsirer getrewer dienste, willen uns, unsirn erben und nachkomen burgraven ze <cei:placeName>Nuremberg</cei:placeName>, bestetiget und confirmiret hat unsir lantgerichte 
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>und ouch sust gerichte in allen sulchen wurden, eren und rechten, als wir dieselben von dem heiligen reich herbracht haben unschedlich doch seinen landen 
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>in <cei:placeName>Beyern</cei:placeName>, und wo die ein kunig und daz kungreich zu <cei:placeName>Beheim</cei:placeName> in dutschen landen hat, wann dieselben lant von allen unsirn lantgerichten und ouch sust 
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>gerichten, wie man die nennet, entlediget und gefreihet sein, und daryn nicht gehoren, des globen wir vor uns, unsir erben und nachkomen burgraven 
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>zu <cei:placeName>Nuremberg</cei:placeName> in guten steten, trewen on geverde dem egenanten unsirm gnedigen herren als einem kunig zu <cei:placeName>Beheim</cei:placeName> und der cronen dezselben kunigreichs 
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>ewiclich, daz wir, unsir erben und nachkomen burgraven zu <cei:placeName>Nuremberg</cei:placeName>, unsir amptlute, vorweser und richter keinen yren man diener noch sust ymand 
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>andirs, der yn, iren lantgerichten und gerichten, die sie zu <cei:placeName>Bayern</cei:placeName> und yn dutschen landen haben gesezzen ist fur unsir lantgerichte, lantschrannen odir
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>sust gerichte laden, sullen odir wellen noch gestatten, daz sie geladen werden dheinerlei sachen, wie man die benennen mag. Mit sundirlichen worten
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>were ouch daz ymand, der yn iren lantgerichten odir sust gerichte sezze der gut odir erbe in unsirn gerichten hette, dazselbe gut und erbe sol er verantworten 
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>in denselben unsern gerichten, do ez gelegen ist und ob ymand, der yn iren lantgerichten odir gerichten gesezzen ist unsir diener wurde odir yeczund worden
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>were, der sol sich dannoch verantworten in denselben iren lantgerichten und gerichten, wie man die nennet, ouch geloben wir in den egenanten guten trewen 
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>on geverde, daz wir, unsir erben und nachkomen burgraven zu <cei:placeName>Nuremberg</cei:placeName> dem egenanten unsirm gnedigen herren als eynem kunig zu <cei:placeName>Behem</cei:placeName>, seinen erben 
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>und nachkomen kunigen zu <cei:placeName>Beheim</cei:placeName>, der cronen und dem kunigreich beigestendig, geretig, getrewlich geholfen sein wollen und sullen, ire lantgerichte, 
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>lantschrannen und andir ire gerichte, die sie yn <cei:placeName>Beyern</cei:placeName> und yn dutschen landen haben zu behaben und zu behalden ewiclichen. Mit urkund dicz brives, 
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>versigelt mit unsern insigeln, der geben ist zu <cei:placeName>Sulzbach</cei:placeName> <cei:date value="99999999">nach Cristus geburt dreuczenhundirt jar, darnach in dem acht und funfczigsten jar</cei:date>
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/><cei:date value="99999999">an dem nehsten freitag nach unsirs Herren Leichnamen tage</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_804_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_804_I</cei:title><cei:idno type="Transkribus">197803</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l4" n="N001"/>Wir <cei:persName>Ludwig der Elter</cei:persName> und <cei:persName>Ludwig der Junger, bayde graven ze <cei:placeName>Otingen</cei:placeName></cei:persName>, bekennen offenlichen mit disem brief, 
+                    <cei:lb facs="#facs_1_r1l6" n="N002"/>umb die vier tusend guldin, die man gewert und bezalt hat <cei:persName>Johannsen von <cei:placeName>Seggendorff</cei:placeName></cei:persName>, unserm lieben 
+                    <cei:lb facs="#facs_1_r1l8" n="N003"/>getruwen, an unserr stat von der durchluchtigosten fursten hern <cei:persName>Karls, dez Römischen keysers</cei:persName>, und 
+                    <cei:lb facs="#facs_1_r1l9" n="N004"/>dez erwirdigen hern <cei:persName>Dyetrichs, von Gots gnaden byschofe zu <cei:placeName>Maydburg</cei:placeName></cei:persName>, wegen von <cei:placeName>Rosenstain</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l11" n="N005"/>und <cei:placeName>Luterburg</cei:placeName>, wegen und umb die vorgeschriben vier tusend guldin, sagen wir die obgenanten unser 
+                    <cei:lb facs="#facs_1_r1l14" n="N006"/>gnedig herren, der vorgenanten vier tusend guldin quit ledig und lose. Mit urkund dicz briefs, 
+                    <cei:lb facs="#facs_1_r1l15" n="N007"/>der mit unsern insigeln versigilt ist, diu hieran hangend, der geben ist <cei:date value="99999999">nach Krystus geburt </cei:date>
+                    <cei:lb facs="#facs_1_r1l16" n="N008"/><cei:date value="99999999">drwzchen hundert jare und in dem ainen und sechczigesten jare an dem nehsten affter¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l19" n="N009"/><cei:date value="99999999">montag nauch unser Frawen tag, alz siu gen hymel fure</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

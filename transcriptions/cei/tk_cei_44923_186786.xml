@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_351_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_351_I</cei:title><cei:idno type="Transkribus">186786</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Wir purgermeister, der rat, die schepffen, die hantwerkmeister und die purger gemeinlich der stat zu <cei:placeName>Eger</cei:placeName> veriehen und 
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>tunt kunt offenlich mit disem brif allen den, die in sehen oder horen lesen, wan der allerdurchleuchtigst furste, unser genediger 
+                    <cei:lb facs="#facs_1_r1l7" n="N003"/>herre, <cei:persName>Romischer kunig Karel, zu allen ziten merer des reichs und kunig zu <cei:placeName>Behem</cei:placeName></cei:persName>, uns geboten hat und zu uns dar umb 
+                    <cei:lb facs="#facs_1_r1l9" n="N004"/>den edeln hern <cei:persName>Russen von <cei:placeName>Lutitz</cei:placeName></cei:persName> gesant hat, daz wir sinem erstgebornem sun, dem hochgeborn fursten, unserm herren herren <cei:persName>Wentz¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l12" n="N005"/><cei:persName>lawen</cei:persName> hulden, geloben und sweren scholden, daz selb unsers herren gebote, haben wir mit getrewer gehorsam angesehen, als wir allzit 
+                    <cei:lb facs="#facs_1_r1l17" n="N006"/>nach sinem willen und gebote tun wellen getrewlich und unverdrozzenlich, nach aller unserr macht und da von haben wir fur 
+                    <cei:lb facs="#facs_1_r1l21" n="N007"/>uns, unser erben und nachkomen mit wolbedachtem mut, mit gantzem rat, mit rechter wizzen und mit guten willen zu einem 
+                    <cei:lb facs="#facs_1_r1l25" n="N008"/>rehten pfande, als wir von dem heiligen Romischen reich gein <cei:placeName>Behem</cei:placeName> versetzt sein, und als wir dem obgenanten unserm herren, <cei:persName>kunig </cei:persName>
+                    <cei:lb facs="#facs_1_r1l28" n="N009"/><cei:persName>Kareln</cei:persName>, unser brif dar uber vormals geben haben, des selben unsers herren, erstgebornem sun, unserm vorbenanten herren herren <cei:persName>Wentz¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l31" n="N010"/><cei:persName>lawen</cei:persName> gehuldet, gelobt und gesworn hulden, geloben und sweren mit der bescheidenheit, ob sins vorgenanten vater unsers 
+                    <cei:lb facs="#facs_1_r1l35" n="N011"/>herren herren <cei:persName>KareIs</cei:persName> niht wer des Got niht welle dem selben unserm jungen herren herren <cei:persName>Wentzlawen</cei:persName>, und die weil er zu 
+                    <cei:lb facs="#facs_1_r1l38" n="N012"/>sinen jaren der vernunft niht komen ist, sinem furmunde und pfleger an siner stat oder ob sein niht wer, sinem eldsten 
+                    <cei:lb facs="#facs_1_r1l39" n="N013"/>bruder, dar nach mit guten trewen on geverde, getrewe, gehorsam und untertenich zu sein, als unserm rehten herren zu aller zit 
+                    <cei:lb facs="#facs_1_r1l40" n="N014"/>in der vorbeschriben weis, als wir uns gein, unserm oftgenanten herren herren <cei:persName>Kareln</cei:persName> mit hulden, aiden, gelubden und brifen 
+                    <cei:lb facs="#facs_1_r1l43" n="N015"/>emals verbunden und verstrickt haben. Mit urkunde ditzs brifs, versigelt mit unser stat insigel, der geben ist zu <cei:placeName>Eger</cei:placeName>, <cei:date value="99999999">do </cei:date>
+                    <cei:lb facs="#facs_1_r1l45" n="N016"/><cei:date value="99999999">man zalt von Cristus geburte dreuczehenhundert jar dar nach in dem funfczigstem jar des nehsten donerstags </cei:date>
+                    <cei:lb facs="#facs_1_r1l48" n="N017"/><cei:date value="99999999">nach send Bartholomeus, des heiligen zwelfboten tag</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

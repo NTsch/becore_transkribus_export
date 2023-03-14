@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_456_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_456_I</cei:title><cei:idno type="Transkribus">190254</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir<cei:persName> Baldewin von Gots gnaden erczbisschof zu <cei:placeName>Triere</cei:placeName>, dez heiligen romischen riches durch daz kunigrich von</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName><cei:placeName>Arle</cei:placeName> und durch <cei:placeName>Welschelant</cei:placeName> ertzcanceler</cei:persName>, bekennen offenlich mit diesem brieve und tun kunt allen, den
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>die in sehent odir horent lesen, wann die hochgeboren fursten, her <cei:persName>Ruprecht der Eldiste</cei:persName> und her <cei:persName>Ruprecht</cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>der Jungiste palanczgreve bei dem <cei:placeName>Ryne</cei:placeName> und herczogen in <cei:placeName>Beiern</cei:placeName></cei:persName>, unsere lieben neven und getrewen, mit
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>wolbedachtem mude, mit rade irer frunde und auch mit rechter wiszen dem allerdurchluchtigsten fursten
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>und herren, hern <cei:persName>Karle romischem kunige zu allen ziden merer des riches und kunige zu <cei:placeName>Beheim</cei:placeName></cei:persName>, als eynem
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>kunige zu <cei:placeName>Beheim</cei:placeName>, sinen erben und nachkomen, kunigen zu <cei:placeName>Beheim</cei:placeName>, und der cronen des selben kungrichs
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>die nageschrieben vesten <cei:placeName>Hoenstein</cei:placeName> und die merkte <cei:placeName>Hersbrucke</cei:placeName> und <cei:placeName>Aurbach</cei:placeName>, die von dem heilgen reiche
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>lehen sint, mit allen rechten, herscheften, nuczen und zugehorungen, wie man die benennen mag, zu rech¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>tem erbelehen recht und redelich verkauft haben in aller der maze, als die obgenannten vesten und merkte
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>mit iren zugehorungen nach dode seliger gedechtnisze dez hochgeboren fursten hern <cei:persName>Rudolphs, etwenne</cei:persName>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:persName>palentzgraven by dem Ryne und herczogen in <cei:placeName>Beiern</cei:placeName></cei:persName>, uff sie vervallen waren, als in briven, die uber
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>den selben kauf gemachet sint, volkomelich ist begreffin, des han wir angesehen die luter begerung der obgenanten
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>palenczgreven, unserr neven, und auch die stede truwe, domit die hogeboren kunige von <cei:placeName>Beheim</cei:placeName> daz
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>heilge riche allewege gemeinet haben, und geben darczu unsern willen und gunst und bestedigen und ap¬
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>probyren den selben kauff mit wolbedachtem mude und mit rechter wizze in alle der maze, als in den
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>kaufbrieven begriffen ist, als ein ertzbisschof zu <cei:placeName>Triere</cei:placeName> und ein kurfurste des des heilgen romischen
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>riches. Des zu urkunde han wir unser ingesigel an diesen brieff dun henken, der gegeben ist zu <cei:placeName>Mentze</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/><cei:date value="99999999">na Crists geburt drutzen hundert jar, darnach in dem dru und funftzigstem jare nach gewonheid</cei:date>
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/><cei:date value="99999999">unsers stiftes zu <cei:placeName>Triere</cei:placeName>, an dem nehsten mitwochen nach der heiligen drier kunige dage</cei:date>.
+            </cei:pTenor></cei:tenor><cei:tenor><cei:pb facs="#facs_2" n="2" id="img_0002"/></cei:tenor>
+         
+      
+   
+</cei:cei>

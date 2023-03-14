@@ -97,13 +97,53 @@ def get_transcription(collection_id: int, document_id: int):
     doc_url = f'https://transkribus.eu/TrpServer/rest/collections/{collection_id}/{document_id}/mets'
     response = requests.get(doc_url, headers=headers)
     mets_xml = response.text
+    
+    # Create the subfolders if they don't exist
+    subfolders = ['mets', 'tei', 'cei']
 
-    with open(f'mets_{collection_id}_{document_id}.xml', 'w') as f:
+    for subfolder in subfolders:
+        subfolder_path = os.path.join('transcriptions', subfolder)
+        if not os.path.exists(subfolder_path):
+            os.makedirs(subfolder_path)
+
+    with open(f'transcriptions/mets/mets_{collection_id}_{document_id}.xml', 'w') as f:
         f.write(mets_xml)
     
     # Transform PAGE to TEI via Saxon
-    subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:page2tei/page2tei-0.xsl', f'-s:mets_{collection_id}_{document_id}.xml', f'-o:tk_tei_{collection_id}_{document_id}.xml'])
-    subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:tk_tei2cei/tk_tei2cei.xsl', f'-s:tk_tei_{collection_id}_{document_id}.xml', f'-o:tk_cei_{collection_id}_{document_id}.xml'])
+    subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:page2tei/page2tei-0.xsl', f'-s:transcriptions/mets/mets_{collection_id}_{document_id}.xml', f'-o:transcriptions/tei/tk_tei_{collection_id}_{document_id}.xml'])
+    subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:tk_tei2cei/tk_tei2cei.xsl', f'-s:transcriptions/tei/tk_tei_{collection_id}_{document_id}.xml', f'-o:transcriptions/cei/tk_cei_{collection_id}_{document_id}.xml'])
+
+def get_all_transcriptions(collection_id: int):
+
+    # Get all document IDs that exist for this collection
+    def extract_key_value(file_path, key):
+        with open(file_path, 'r') as f:
+            data = json.load(f)
+
+        values = []
+
+        def extract_value(obj, key):
+            # Recursively search for values of key in nested objects
+            if isinstance(obj, dict):
+                for k, v in obj.items():
+                    if k == key:
+                        values.append(v)
+                    elif isinstance(v, (dict, list)):
+                        extract_value(v, key)
+            elif isinstance(obj, list):
+                for item in obj:
+                    extract_value(item, key)
+
+        extract_value(data, key)
+        return values
+
+    file_path = 'documents/NACR - German charters/NACR - German charters_collection.json'
+    key = 'docId'
+    values = extract_key_value(file_path, key)
+    
+    # Run get_transcription for every such ID  
+    for doc_id in values:
+        get_transcription(collection_id, doc_id)
 
 # Allowing running the desired function via argument
 parser = argparse.ArgumentParser()
@@ -120,6 +160,9 @@ parser_get_transcription = subparsers.add_parser('get_transcription')
 parser_get_transcription.add_argument('collection_id', nargs='?', default=87230)
 parser_get_transcription.add_argument('document_id', nargs='?', default=1002019)
 
+parser_get_all_transcriptions = subparsers.add_parser('get_all_transcriptions')
+parser_get_all_transcriptions.add_argument('collection_id', nargs='?', default=44923)
+
 args = parser.parse_args()
 
 if args.func_name == "get_everything":
@@ -128,3 +171,5 @@ elif args.func_name == "get_xml":
     get_xml(args.collection_id, args.document_id, args.page_no)
 elif args.func_name == "get_transcription":
     get_transcription(args.collection_id, args.document_id)
+elif args.func_name == "get_all_transcriptions":
+    get_all_transcriptions(args.collection_id)

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_625_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_625_I</cei:title><cei:idno type="Transkribus">189727</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Ulrich</cei:persName> und <cei:persName>Johans, gebruder lantgraven vom <cei:placeName>Leuchtinberge</cei:placeName></cei:persName>, entfelen, heizzen und gebie¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>ten uch den burgern gemeinlich von <cei:placeName>Pegenicz</cei:placeName> und allen, die zu derselben stat und festen gehoren 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>und wonhaft doselbes sin, daz ir gemeinlich und besunder sullet globen hulden und sweren 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>recht und gewonlich gehorsamkeit erbeschaft und undertenikeit dem allirdurchluchtigistem 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>fursten, unsirm genedigen herren hern <cei:persName>Karl, Romischem keiser, kunige zu <cei:placeName>Beheim</cei:placeName></cei:persName>, sinen erben 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>und nachkomen kunigen zu <cei:placeName>Beheim</cei:placeName> und der cronen desselben kungrichs und wem er 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>daz bevielet mit seinen offen briefen, und so schiere ir daz getan habet, so sagen wir uch, uwer
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>erben und nachkomen quit ledig und los allir eyde, globede und gehorsamkeit, domit ir
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>uns, unsern erben und nachkomen und der langrafschaft vom <cei:placeName>Leuchtenberge</cei:placeName> verbonden seit,
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>wann wir die stat und feste <cei:placeName>Pegenitz</cei:placeName> mit leuten, gut, gerichte und allen nutzen und
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>zugehorungen dem vorgenanten unsirm herren, seinen erben und nachkomen kunigen zu <cei:placeName>Be¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:placeName>heim</cei:placeName> und der cronen desselben kungrichs recht und redelich verkauft haben, des zu ur¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>kunde und ewiger stedikeit haben wir unsir insiegel an diesen brief gehangen, der geben
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>ist <cei:date value="99999999">nach Cristus geburt druczenhundirt jar, dornach in dem syben und funftzigistem jar</cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:date value="99999999">an sant Andreas abent des heiligen zwelfbotten</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_340_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_340_I</cei:title><cei:idno type="Transkribus">186486</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l1" n="N001"/>Wir <cei:persName>Ruprecht von Gots gnaden phalczgrave zu <cei:placeName>Reyn</cei:placeName> und herczog zu <cei:placeName>Beyern</cei:placeName></cei:persName> erkennen uns 
+                    <cei:lb facs="#facs_1_r2l2" n="N002"/>uffenbar an dysem briefe umbe den aulaz, als unsir liebir gnediger herre her <cei:persName>Karl, Romischer </cei:persName>
+                    <cei:lb facs="#facs_1_r2l3" n="N003"/><cei:persName>kunig, zu allen zeiten merer des reichs und kunig zu <cei:placeName>Behemen</cei:placeName></cei:persName>, uff eyn seyt und unsir liebir 
+                    <cei:lb facs="#facs_1_r2l4" n="N004"/>vettir <cei:persName>Ludewig, phalczgrave zu <cei:placeName>Reyn</cei:placeName>, marggrave zu <cei:placeName>Brandenburg</cei:placeName> und herczog zu <cei:placeName>Beyern</cei:placeName></cei:persName> uff 
+                    <cei:lb facs="#facs_1_r2l5" n="N005"/>die andir seyt, allir irre sache, zweyunge und missehellunge an uns gelaszen haben, so scheiden 
+                    <cei:lb facs="#facs_1_r2l6" n="N006"/>und sprechen wir umbe die stat zu <cei:placeName>Werde</cei:placeName>, daz unsir vorgenanter herre her <cei:persName>KarI, Romischir kunig</cei:persName>, 
+                    <cei:lb facs="#facs_1_r2l8" n="N007"/>unserm egenanten vettern, <cei:persName>marggraven Ludiwigen</cei:persName> und seynen brudern, die zu yme geteilt sint, 
+                    <cei:lb facs="#facs_1_r2l12" n="N008"/>die selben stat zu <cei:placeName>Werde</cei:placeName> in yr gewalt schaffin und antwortin sol in allir der masze und wiis, 
+                    <cei:lb facs="#facs_1_r2l14" n="N009"/>als ir anherre und ir vattire, die selben stat vormals inne gehabit hant und uff sie geerbit 
+                    <cei:lb facs="#facs_1_r2l15" n="N010"/>hant, auch sol unsir vorgenanter herre der kunig schaffin mit den burgern zu <cei:placeName>Werde</cei:placeName>, daz 
+                    <cei:lb facs="#facs_1_r2l16" n="N011"/>sie unserm vorgenanten vettern, <cei:persName>marggraven Ludiwig</cei:persName> und sin brudern, die zu ym geteilt sint, huldin, 
+                    <cei:lb facs="#facs_1_r2l17" n="N012"/>swern und vorbaz gehorsam seyn in allir der masze und wiis, als sie vormals yrm anherren 
+                    <cei:lb facs="#facs_1_r2l18" n="N013"/>und yrm vattir vorbunden waren. Dez zu urkund und zu eyner waren geczugnisze, 
+                    <cei:lb facs="#facs_1_r2l20" n="N014"/>so geben wir unserm vorgenanten herren hern <cei:persName>Karl, Romischem kunige, zu allen zeyten merer des </cei:persName>
+                    <cei:lb facs="#facs_1_r2l21" n="N015"/><cei:persName>reychs und kunige zu <cei:placeName>Behemen</cei:placeName></cei:persName>, dysen brieff vorsigelt mit unsirm anhangend ingesigil, 
+                    <cei:lb facs="#facs_1_r2l23" n="N016"/>der geben ist zu <cei:placeName>Nurenberg</cei:placeName>, do man zalte <cei:date value="99999999">noch Cristi geburt druczehen hunder jare, </cei:date>
+                    <cei:lb facs="#facs_1_r2l24" n="N017"/><cei:date value="99999999">dar noch in dem funfezigestem jare an dem samsztag vor Jubilate</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

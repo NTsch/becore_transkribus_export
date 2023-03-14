@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_958_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_958_H_I</cei:title><cei:idno type="Transkribus">195430</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l4" n="N001"/>Wir <cei:persName>Karl von Gotes genaden romischer keiser zu allen zeiten merer des reiches und kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, bekennen und tun kunt offenlich mit diesem brieve allen den, die yn sehen oder horen
+                    <cei:lb facs="#facs_1_r1l5" n="N002"/>lesen, wann wir, als ein kunig zu <cei:placeName>Beheim</cei:placeName>, der durchleuchtige <cei:persName>Wentzla kunig zu <cei:placeName>Beheim</cei:placeName>, marggraf zu <cei:placeName>Brandemburg</cei:placeName> und zu <cei:placeName>Lusitz</cei:placeName></cei:persName><cei:placeName/>, unser lieber sun, und der hochgeborn <cei:persName>Johans margg¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N003"/><cei:persName>raf zu <cei:placeName>Merhern</cei:placeName></cei:persName>, unser lieber bruder, der cronen und des kunigreiches zu <cei:placeName>Beheim</cei:placeName> furste an enne teil, und die hochgebornen <cei:persName>Albrecht</cei:persName> und <cei:persName>Leupolt hertzogen zu <cei:placeName>Osterrich</cei:placeName>, zu <cei:placeName>Styr</cei:placeName>, zu <cei:placeName>Ker¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N004"/><cei:persName><cei:placeName>nthen</cei:placeName> und zu <cei:placeName>Krayn</cei:placeName>, herren uff der <cei:placeName>Windeschen marich</cei:placeName>, zu <cei:placeName>Portennow</cei:placeName>, grafen zu <cei:placeName>Habspurg</cei:placeName>, zu <cei:placeName>Tyrol</cei:placeName>, zu <cei:placeName>Phirt</cei:placeName> und zu <cei:placeName>Kyburg</cei:placeName>, marggrafen zu <cei:placeName>Burgow</cei:placeName> und lantgrafen in <cei:placeName>Obern Elsazzen</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l8" n="N005"/>an dem andern teil, mit wolbedachtem mute, mit rechter wizzen und mit rate der unsirn sulche, gemechtnuzze, ordenunge und vereynunge getan haben, recht und redliche, als hernach ge¬
+                    <cei:lb facs="#facs_1_r1l9" n="N006"/>schriben steet, beynamen ob das geschee, da Got fur sei, das wir, der egenanten <cei:persName>keiser Karl</cei:persName>, <cei:persName>Wentzla kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName><cei:placeName/>, unser lieber sun, und <cei:persName>Johans marggraf zu <cei:placeName>Merhern</cei:placeName></cei:persName>, unser lieber bruder,
+                    <cei:lb facs="#facs_1_r1l10" n="N007"/>und unser aller eliche kint, sune und tochter, die wir nu haben oder hernach gewinnen, abgienge und sturben, on eliche leibes, erben und auch ob dieselben unsere kint, leibes, erben,
+                    <cei:lb facs="#facs_1_r1l11" n="N008"/>gewunnen und die auch furbazz on eliche leibes erben sturben, also das unser lant, kunigreiche, furstentum und herschefte rechter leibes, erben und erbes erben, die von unsirn und iren lei¬
+                    <cei:lb facs="#facs_1_r1l12" n="N009"/>ben elichen quemen erblozz wurden, das dann alle die vorgenanten unsere lant, kunigreiche, furstentum und herschefte, die wir nu haben oder hernach gewinnen, mit allen iren geriechten, rech¬
+                    <cei:lb facs="#facs_1_r1l14" n="N010"/>ten, nutzzen, wirden, eren, freiheiten und alle guten, gewonheiten, die dorczu gehorent, wie die genant seint, on alles hindernuzze, erben und erblich gevallen sullen, mit volkomenem
+                    <cei:lb facs="#facs_1_r1l15" n="N011"/>gantzem rechte, uff die vorgenanten hertzogen zu <cei:placeName>Osterrich</cei:placeName> und uf ir bederleibes erben, sune und tochter, ob sie die mit hilffe Gotes gewunen, und uff derselben eliche erbes erben
+                    <cei:lb facs="#facs_1_r1l17" n="N012"/>ewiclich. Geschee iz aber, da Got so sei, das die vorgenanten hertzogen zu <cei:placeName>Osterrich</cei:placeName>, zu <cei:placeName>Steyr</cei:placeName>, und zu <cei:placeName>Kernthen</cei:placeName> et cetera, unser lieben oheimen, abgiengen und sturben on eliche leibes
+                    <cei:lb facs="#facs_1_r1l19" n="N013"/>erben, und auch ob sie leibes erben gewunnen, die furbazzer auch on eliche leibes erben sturben, und ire lant, furstentum, grafschefte und herschefte also rechter elicher leibes erben
+                    <cei:lb facs="#facs_1_r1l22" n="N014"/>und erbes erben erblozz wurden, die dann alle die vorgenanten und ander ir erbliche lant hertzogtum, furstentum, marggrafschefte, grafschefte, vesten, stette, lute und guter,
+                    <cei:lb facs="#facs_1_r1l24" n="N015"/>die sie nu habent oder hernach gewunnen, mit allen iren geriechten, rechten, nutzzen, wirden, eren, freiheiten und guten, gewonheiten, die dortzu gehorent, wie die genant seint,
+                    <cei:lb facs="#facs_1_r1l26" n="N016"/>on alles hindernuzze erben und gevallen sullen mit gantzem und volkomenem rechte uff uns als einen kunig zu <cei:placeName>Beheim</cei:placeName>, <cei:persName>Wentzeslaen kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, unsern lieben sun,
+                    <cei:lb facs="#facs_1_r1l28" n="N017"/>sein geswisterde <cei:persName>Johanse marggrafen zu <cei:placeName>Merhern</cei:placeName></cei:persName>, unsirn lieben bruder, seine kint und uff unsere und ir aller eliche leibes erben, sune und tochter, und uff unser und derselben e¬
+                    <cei:lb facs="#facs_1_r1l29" n="N018"/>liche erben und erbes erben ewiclich, die von unsirn und iren leiben eliche kummen mogen, on alle geverde. Des ist fur uns, als fur einen romischen keiser, seinen herren willeclich kummen,
+                    <cei:lb facs="#facs_1_r1l30" n="N019"/>der durchleuchtige <cei:persName>Wenczla kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, unser lieber sun, fur sich, seine geswisterde, erben und nachkomen, kunige zu <cei:placeName>Beheim</cei:placeName>, mit sampt dem egenanten <cei:persName>Johansen marggrafen zu</cei:persName>
+                    <cei:lb facs="#facs_1_r1l32" n="N020"/><cei:persName><cei:placeName>Merhern</cei:placeName></cei:persName>, unserm lieben bruder, der cronen und des kunigreiches zu <cei:placeName>Beheim</cei:placeName>, fursten, an enne teil, und haben uns gebeten, das wir den egenanten hertzogen zu <cei:placeName>Osterrich</cei:placeName>, zu <cei:placeName>Styr</cei:placeName>, und zue
+                    <cei:lb facs="#facs_1_r1l33" n="N021"/><cei:placeName>Kernthen</cei:placeName> et cetera, unseren lieben oheimen, geruchten zu verlyhen alles, das die crone und das kunigreiche zu <cei:placeName>Beheim</cei:placeName> von dem heiligen romischen reiche zu lehen hat, ez sei furstentum,
+                    <cei:lb facs="#facs_1_r1l34" n="N022"/>herschefte, lant oder lute, und auch sint fur uns kumen, die hochgebornen <cei:persName>Albrecht</cei:persName> und <cei:persName>Leupolt hertzogen zu <cei:placeName>Osterreich</cei:placeName>, zu <cei:placeName>Steyr</cei:placeName>, und zu <cei:placeName>Kernthen</cei:placeName> et cetera</cei:persName>, unser lieben oheim, fur sich,
+                    <cei:lb facs="#facs_1_r1l35" n="N023"/>ir erben und nachkomen und ire furstentum, hertzogtum, grafschefte, herschefte und lant, an dem andern teil, und haben uns auch gebeten, das wir den egenanten <cei:persName>kunig Wentzlaen zu</cei:persName>
+                    <cei:lb facs="#facs_1_r1l36" n="N024"/><cei:persName><cei:placeName>Beheim</cei:placeName></cei:persName>, unsirm sune, <cei:persName>Johansen marggrafen zu <cei:placeName>Merhern</cei:placeName></cei:persName>, unserm bruder, geruchten zu vorlihen die herczogtum zu <cei:placeName>Osterrich</cei:placeName>, zu <cei:placeName>Steyr</cei:placeName> und zu <cei:placeName>Kernthen</cei:placeName>, zu <cei:placeName>Tyrol</cei:placeName> und zu <cei:placeName>Habspurg</cei:placeName>, die
+                    <cei:lb facs="#facs_1_r1l37" n="N025"/>grafschefte und alles, das sie von dem egenanten romischen reiche zu lehen haben, iz sein furstentum, grafschefte, herschefte, lant oder lute, und dovon, umb sulche redliche bete, als die
+                    <cei:lb facs="#facs_1_r1l38" n="N026"/>vorgenanten <cei:persName>kunig Wentzla zu <cei:placeName>Beheim</cei:placeName></cei:persName>, unser lieber sun, <cei:persName>Johans marggraf zu <cei:placeName>Merhern</cei:placeName></cei:persName>, unser lieber bruder, an enne teil und die hochgebornen <cei:persName>Albrecht</cei:persName> und <cei:persName>Leupolt hertzogen zu <cei:placeName>Osterrich</cei:placeName>, zu <cei:placeName>Styr</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l39" n="N027"/><cei:persName>und zu <cei:placeName>Kernthen</cei:placeName> et cetera</cei:persName>, unser lieben oheim und fursten, an dem andern teil, uns, als gleiche gemeine voreinte und ungesunderte warter, gemeiner anvelle nach lute, der egenanten vormachunge,
+                    <cei:lb facs="#facs_1_r1l40" n="N028"/>ordenunge und voreinunge, der lande demutticlich gebeten, und an uns, durch recht gefordert haben und auch umb das sulche, vormachunge, ordenunge und voreinunge der lande, zwisschen
+                    <cei:lb facs="#facs_1_r1l41" n="N029"/>den egenante fursten, beden seiten, ein ewige sune und freuntschaft bringet zu eren, zu dienst und zu wirden, dem heiligen romischen reiche zu gemeinem nutzze und auch zu trost, zu friede
+                    <cei:lb facs="#facs_1_r1l42" n="N030"/>und zu gnaden der gemeinen cristenheit, so haben wir, fur uns, romische keiser und kunige, unser nachkomen, mit worte, gunst, wizzen und willen der kurfursten des heiligen reiches, mit
+                    <cei:lb facs="#facs_1_r1l43" n="N031"/>wolbedachtem mute, mit rechter wissen und mit volkomenheit keiserlicher mechte dem egenanten <cei:persName>kunig Wentzla</cei:persName>, unsirm lieben sun, seinen geswister, den erben und nachkomen, kunigen zu <cei:placeName>Beheim</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l44" n="N032"/><cei:persName>Johansen marggrafen zu <cei:placeName>Merhern</cei:placeName></cei:persName>, unsirm bruder, seinen kinden, erben und nachkomen, marggrafen zu <cei:placeName>Merhern</cei:placeName>, an enne teil, und <cei:persName>Albrecht</cei:persName> und <cei:persName>Leupolt, hertzogen zu <cei:placeName>Osterrich</cei:placeName>, zu <cei:placeName>Steyr</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l45" n="N033"/><cei:persName>und zu <cei:placeName>Kernthen</cei:placeName> et cetera</cei:persName>, unsern lieben oheimen, iren erben und nachkomen, an dem andern teile, miteinander, sementliche und ewicliche vorlihen und vorlyhen, aller der andern fursten¬
+                    <cei:lb facs="#facs_1_r1l46" n="N034"/>tum, herczogtum, marggrafschefte, grafschefte, herschefte, lant und lute, als gleichen, gemeinen, voreinten und ungesunderten, warterngemeiner anvelle nach leute der egenanten
+                    <cei:lb facs="#facs_1_r1l47" n="N035"/>vormachunge, ordenunge und voreynunge der lande in aller der mazze, als die egenanten vormachunge, ordenunge und voreynunge der lande dovor begriffen und beschriben ist, und beste¬
+                    <cei:lb facs="#facs_1_r1l48" n="N036"/>tigen auch confirmieren und bevesten wir fur uns, romische keiser und kunige, unser nachkomen, mit worte, gunst, wizzen und willen der kurfursten des heiligen reiches als ein ro¬
+                    <cei:lb facs="#facs_1_r1l49" n="N037"/>mischer keiser ewiclich die vorgeschriben vormachunge, ordenunge und vereynunge der lande, in allen iren meinungen, sumen, puncten und artikeln, von worte zu worte, als dovor
+                    <cei:lb facs="#facs_1_r1l50" n="N038"/>geschriben steet. Mit urkund dicz brieves, vorsigelt mit unsirm keiserlichen ingesigel, der geben ist zu <cei:placeName>Snoyme</cei:placeName>, <cei:date value="99999999">nach Cristus geburte dreutzenhundert jar darnach in</cei:date>
+                    <cei:lb facs="#facs_1_r1l51" n="N039"/><cei:date value="99999999">dem sechs und sechtzigistem jar, an dem nehsten freitage nach dem heiligen uffart tage, unser reiche in dem czwenczigisten und des keisertums in dem czwelfte jar</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573745070109_47">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573745074532_50" n="N001"/>per dominum cancellarium
+                    <cei:lb facs="#facs_1_line_1573745077635_55" n="N002"/><cei:persName>Verdensis episcopus Rudolphus</cei:persName>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

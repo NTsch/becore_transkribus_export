@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_560_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_560_I</cei:title><cei:idno type="Transkribus">189274</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Bolke von Gotis genaden herczoge in <cei:placeName>Slezien</cei:placeName>, herre von <cei:placeName>Furstenberk</cei:placeName> und czur <cei:placeName>Swydnicz</cei:placeName></cei:persName>, tuen
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>kunt und bekennen offenlich mit desim bryve allen den, die in sehen odir horen lezen, wanne
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>der allirdurchluchtegiste furste und herre herre <cei:persName>Karl, Romischer keyser czu allen cziten merer</cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>des richis und kunig czu <cei:placeName>Behemen</cei:placeName></cei:persName>, unser liber genedeger herre, sinen willen, laube und
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>gunst mit rechter wissen durch sundirlicher liebe und fruntschaft, willen die her ge¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>nedeclich czu uns treyt, dor czu gegeben hat, das wir das goltwerk czu dem <cei:placeName>Richen¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:placeName>steyne</cei:placeName> in syme lande by <cei:placeName>Frankensteyn</cei:placeName> gekouft haben, wedir die edeln <cei:persName>Swydegern</cei:persName> und 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName>Heynrich, gebruder von <cei:placeName>Hugwicz</cei:placeName></cei:persName> czu unserm libe czu haben, so maynen unde lutirn wir
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>an desim bryve, das das obgenante goltwerk mit herschaft nucze, rechten und mit
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>siner czuhorunge an den vorbenanten unsern herren den keyser, sine erben und nach¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>komelinge kunege czu <cei:placeName>Behemen</cei:placeName> noch unserm tode gevallen sal ledeclich, ungehindirt 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>und an alle wedir rede. Mit urkunde dis brifs, den wir vorsegilt haben lazen werden 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>mit unserm anhangenden ingesegel, gegeben czu <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">an dem nehesten dunyrstage </cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:date value="99999999">nach Metevasten nach Gotis geburt driczen hundirt iar in dem sechs und</cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:date value="99999999">funfczegistim iare</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_330_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_330_I</cei:title><cei:idno type="Transkribus">186398</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>lch <cei:persName>Reynhart, herre zu <cei:placeName>Westerburch</cei:placeName></cei:persName><cei:placeName/>, vergihe und tun kunt offenlich an disem brief allen den, di in
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>sehent oder horent lesen, daz ich von seliger gedehtnusse dem durchluhtigem fursten und herren hern 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>Johansen, etwenne kung zuc <cei:placeName>Beheym</cei:placeName> und grafen zu <cei:placeName>Lucemburch</cei:placeName></cei:persName>, hab genomen und enpfangen 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>siben hundert guldein von <cei:placeName>Florencz</cei:placeName> umb daz, daz ich man werden solt sein und seiner grafschaft zu <cei:placeName>Lucem¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:placeName>burch</cei:placeName>, und wanne ich daz volfuren wil, als pillich ist, darumb gelob ich mit gantzen trewen fur mich 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>und min erben dem allerdurchluhtigstem fursten und herren hern <cei:persName>KarI, dem Romischen kung und </cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:persName>kung ze <cei:placeName>Beheym</cei:placeName></cei:persName>, reht manschaft ze leisten und ze tun, als eynem graven zu Luczemburch, und daz ich 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>im und seinen nachkomen graven zu Luczemburch und derselben grafschaft getrewe und gehorsam 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>sein wil und dienen, als in gewonlich von andern seinen und iren mannen ist ze tun. Mit urkund 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>dicz briefs, versigelt mit meinem insigel, daz dar an hanget, der geben ist zu <cei:placeName>Meincz</cei:placeName> <cei:date value="99999999">nach Cristus </cei:date>
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/><cei:date value="99999999">gepurt druzehenhundert und newn und fierczig iar an dem sampcztag in der pfingstwochen</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

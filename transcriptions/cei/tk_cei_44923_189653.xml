@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_623_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_623_I</cei:title><cei:idno type="Transkribus">189653</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Ulrich</cei:persName> und <cei:persName>Johans gebruder, lantgraven vom <cei:placeName>Lutenberge</cei:placeName></cei:persName>, bekennen und tun kunt offenlich mit diesem brief
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>allen den, die yn sehen odir horen lesen, daz wir mit samter hant, wollbedacht und mit rad unser frunde recht und 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>redlich verkouft haben dem allirdurchluchtigistem fursten, unsirm genedigen herren hern <cei:persName>Karl, Romischem </cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>keiser und kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, sinen erben und nachkomen kunigen zu <cei:placeName>Beheim</cei:placeName> und der cronen desselben 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>kungrichs zu <cei:placeName>Beheim</cei:placeName>, die stat und vesten <cei:placeName>Pegenicz</cei:placeName>, die unsir frei eigen ist, mit leut, gut, gult, gevelle und 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>alle ir zugehorung und dar zu den hof vor der stat, den wir von <cei:persName>Herman Storen</cei:persName> kynden kauft haben, und ey¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>nen andirn hof zu <cei:placeName>Buchach</cei:placeName>, der gewesen ist <cei:persName>Johans Frankenbergers</cei:persName>, und daz vieschewazzer, doselbes mit allen nut¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>zen und zugehorungen umb neun hundirt schok grosser prager muncz und werung, die unsir herre der 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>keiser und kunig zu <cei:placeName>Beheim</cei:placeName> uns an bereitem gelt und pfennigen bezalt geben und gewert hat, und wir die¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>selben in unsirn nucz haben entfangen und globen in guten truwen vor uns, unsir erben und nachkommen, dem
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>vorgenanten unsirm herren dem keiser und kunige zu <cei:placeName>Beheim</cei:placeName>, seinen erben und nachkomen kunigen zu <cei:placeName>Be¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:placeName>heim</cei:placeName> und der cronen desselben kungrichs zu <cei:placeName>Beheim</cei:placeName>, werschaft derselben stat, veste, hove, gut, gult und 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>vieschewazzer zu tun als recht ist, des zu urkunt haben wir <cei:persName>Ulrich</cei:persName> und <cei:persName>Johans, lantgrafen vom <cei:placeName>Luten¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:persName><cei:placeName>berge</cei:placeName></cei:persName> unsir ingesiegil an diesen brieff gehangen. Geben zu <cei:placeName>Gretz</cei:placeName> <cei:date value="99999999">nach Cristus geburt drutzenhudirt jar</cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:date value="99999999">dornach in dem syben und funftzigistem jar am nechsten dornstag nach des heiligen sant Martins tag</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1564479753387_27">
+              
+              
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

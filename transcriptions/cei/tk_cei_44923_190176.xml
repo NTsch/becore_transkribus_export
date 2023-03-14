@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_453_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_453_I</cei:title><cei:idno type="Transkribus">190176</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Wilhelm von Gots gnaden erczbischof zu <cei:placeName>Coln</cei:placeName>, des heiligen reichs erczcanczler in <cei:placeName>Italien</cei:placeName></cei:persName>, bekennen und
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>tun kutit offenlich mit disem brive allen den, die in sehent odir horent lesen, wanne die hochgeborn fursten, 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>her <cei:persName>Ruprecht der Eldest</cei:persName> und her <cei:persName>Ruprecht der Jungste, pallanczgreve by dem <cei:placeName>Ryn</cei:placeName> und herczogin in <cei:placeName>Beyern</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>unsirn lieben neven und getrewin mit wolbedachtem mute, mit rade irr frunde und ouch mit rechtir wizzen
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>dem allirdurchluchtigsten fursten und herren, hern <cei:persName>Karl romischem kunge zu allen zyden merer des richs und</cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:persName>konge zu <cei:placeName>Behem</cei:placeName></cei:persName>, als einem kunge zu <cei:placeName>Behem</cei:placeName>, seinen erben und nachkummen, kungen zu <cei:placeName>Behem</cei:placeName>, und der cronen
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>dez selbin kungrichs die nachgeschriben vesten <cei:placeName>Hohenstein</cei:placeName> und die merkte <cei:placeName>Hersbrucke</cei:placeName> und <cei:placeName>Awrbach</cei:placeName>, die von
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>dem heilgen reich lehen sint, mit allen rechten, herscheften, nutzen und zugehorungin, wi man die benennen
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>mag, zu rechtem erbelehin recht und redelich verkouft haben in aller der mazze, als die obgenannten vesten und merk¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>te mit iren zugehorungin nach tode seliger gedechtnuzze des hochgeboren fursten hern <cei:persName>Rudolfs, etwenne</cei:persName>
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/><cei:persName>phallenczgrevem by dem <cei:placeName>Ryene</cei:placeName> und herczogm in <cei:placeName>Beyern</cei:placeName></cei:persName>, uf sie vervallen waren, als in briven, die ubir den selbin
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>kouff gemachit sint, vollenkumelich ist begriffen, des habin wir angesehen die lutir begerunge der obgenanten phal¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>lenczgrafen, unsirer neven, und ouch die stete trewe, domit die hochgeboren kunge von <cei:placeName>Behem</cei:placeName> daz heilge reich
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>allewege gemeinet haben, und gebin darczu unsirn willen und gunst und bestetigin und approbiren denselben
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>kouf mit wolbedachtem mute und mit rechtir wizzin in allir der mazze, als in den koufbriven begriffin ist,
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>als ein erczbischof zu <cei:placeName>Coln</cei:placeName> und ein kurfurste dez heilgin romischin reichs. Dez zu urkund han wir unsir insigl
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>an disen brief tun henken, der gebin ist zu <cei:placeName>Meincze</cei:placeName> <cei:date value="99999999">nach Crists geburtte dreuczen hundert jar, dornoch in dem</cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/><cei:date value="99999999">vier und fumfczigsten jare, an dem nechstin mitwochin nach der heilgen drey kunge tage</cei:date>.
+            </cei:pTenor></cei:tenor><cei:tenor><cei:pb facs="#facs_2" n="2" id="img_0002"/></cei:tenor>
+         
+      
+   
+</cei:cei>

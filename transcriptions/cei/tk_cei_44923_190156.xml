@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_455_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_455_I</cei:title><cei:idno type="Transkribus">190156</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Gerlach von Gots gnaden erczbischof zu <cei:placeName>Mencz</cei:placeName>, des heilgen romischen riches in duetschen landen erczcanczler</cei:persName>, be¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>kennen und tun kunt offenlich mit disem brive allen den, die in sehent odir horent lesen, wann die hochgeboeren fursten,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>her <cei:persName>Ruprecht der Eldest</cei:persName> und her <cei:persName>Ruprecht der Jungste palanczgrebe by dem <cei:placeName>Ryne</cei:placeName> und herczogen in <cei:placeName>Beyern</cei:placeName></cei:persName>, unsirn lieben
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>neven, mit wolbedachtem mude, mit rade irer frunde und auch mit rechtir wizzen dem allirdurchluchtigsten fursten und
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>herren, hern <cei:persName>Karl, Romischem kunge, zu allen cziden merer des richis und kung zu <cei:placeName>Behem</cei:placeName></cei:persName>, als eynem kunge zu <cei:placeName>Behem</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>synen erben und nachkummen, kungen zu <cei:placeName>Behem</cei:placeName>, und der cronen des selbin kungriches dy nageschriben vesten <cei:placeName>Hohinsteyn</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>und die merkte <cei:placeName>Hersbrucke</cei:placeName> und <cei:placeName>Aurbach</cei:placeName>, die von dem heilgen reiche lehin sint, mit allen rechten, herscheften, nuczen und
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>zugehorungen, wi man die benennen mag, zu rechtem erbelehin recht und redelich virkout haben in aller der mazze, als
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>die obgenannten vesten und merkte, mit yren zugehorungen nach dode seliger gedechtnisse des hochgeboren forsten hern <cei:persName>Rudolfs</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/><cei:persName>ettwenn palanczgrabe by dem <cei:placeName>Ryene</cei:placeName> und herczog in <cei:placeName>Beyern</cei:placeName></cei:persName>, uff sie birballin woren, als in briven, die ubir den selben kouf
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>gemachit sint, vollenkumelich ist begreffin, des han wir angeschin die luetir begerunge der obgenanten palenczgreben, unsirn ne¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>ven, und ouch die stede und veste truwe, damid die hochgeboren kunge von <cei:placeName>Behem</cei:placeName> daz heilge riche allewege gemeynit haben,
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>und geben darczu unsirn willen und gunst und bestedigen und approbiren den selbin kouf mit wolbedachtem mude und mit
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>rechtir wizzen in alle der mazze, als in den koufbriben begriffen ist, als eyn erczbischof zu <cei:placeName>Mencze</cei:placeName> und eyn kurfurste des
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>des heilgen romischen riches. Des zu urkunde han wir unsir engesigel an disen brif thun henken, der gegebin ist
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>zu <cei:placeName>Meincz</cei:placeName> <cei:date value="99999999">nach Crists geburt dreuczehen hundirt jar, darnach in dem vier und fumfczigsten jare, an dem nehsten</cei:date>
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:date value="99999999">mitwochen nach der heilgen dry kunge tage</cei:date>.
+            </cei:pTenor></cei:tenor><cei:tenor><cei:pb facs="#facs_2" n="2" id="img_0002"/></cei:tenor>
+         
+      
+   
+</cei:cei>

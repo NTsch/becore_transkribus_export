@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_389_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_389_I</cei:title><cei:idno type="Transkribus">188321</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Fridereich von Gotes genaden pyschof ze <cei:placeName>Regenspurch</cei:placeName></cei:persName> veriehen und tun chunt offenleichen mit disem brief allen den, die in sehent oder hörent lesen, daz wir unsern
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>lieben getrewen herrn <cei:persName>Fridreich, dem Awer von <cei:placeName>Prennberch</cei:placeName></cei:persName>, und <cei:persName>Rudgern, dem Reychen ze <cei:placeName>Regenspurch</cei:placeName></cei:persName>, iren hausfrawen und iren eriben und nachchomen, durch unsers gotzhauses
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>anligenter notdurft verchauft haben hundert phunt geltes regenspurger phenning. Umb tausent phunt regenspurger phenning, der si uns mit beraitem gelt
+                    <cei:lb facs="#facs_1_r1l8" n="N004"/>gentzleich bericht und gewert habent, an allen unsern schaden, und da mit wir unsers gotzhauses grossen schaden understanden und underchomen haben, und die selben hundert phunt
+                    <cei:lb facs="#facs_1_r1l9" n="N005"/>geltes schuln wir in järleichen geben auf unser Frawen tag ze Liechtmesse oder in den nehsten viertzehen tagen, darnach an allen furzoch. Täten wir dez niht, swaz si dez
+                    <cei:lb facs="#facs_1_r1l10" n="N006"/>schaden nement, den si bei iren trewen gesprechen mugen. Den schuln wir in mit sampt dem vorbenantem gelt gentzleichen ab tun, und auzrichten an allen iren gebresten und
+                    <cei:lb facs="#facs_1_r1l11" n="N007"/>schuln, si di egenanten hundert phunt geltes und auch den schaden, den si der genomen habent oder nement mit sampt den vorbenanten tausent phunden haben auf <cei:placeName>Stauffe</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l12" n="N008"/>und auf <cei:placeName>Werde</cei:placeName>, und waz darzu gehört unenkolten, der rechten da si den fürsten mit warttent sint. Nach irr brief sag wir veriehen, auch ze welher zeit wir si ires
+                    <cei:lb facs="#facs_1_r1l13" n="N009"/>geltes, der tausent phunt <cei:placeName>Regenspurger</cei:placeName> phenning und auch der hundert phunt geltes, di in dann auzzen ligent und dez schadens, den si der hundert pfunt geltes genomen habent,
+                    <cei:lb facs="#facs_1_r1l14" n="N010"/>als vorgeschriben stet, berichten und werten so schuln si dannoch von paiden vesten unenthaust beleiben von Liehtmesse, die schirst chöment uber zway jar. Wir haben
+                    <cei:lb facs="#facs_1_r1l15" n="N011"/>auch in vollen und gantzen gewalt gegeben mit disem brif, swaz wir oder unsern vordern oder die di vest inngehabt habent, dez gotzhauses gut und gult versetzt oder verchumert
+                    <cei:lb facs="#facs_1_r1l16" n="N012"/>davon haben, daz si die bei tausent phunden widerlösen suln und mugen, und die schuln si dann innehaben in allen den rehten, als si die gehabt habent, davon si gelöst
+                    <cei:lb facs="#facs_1_r1l17" n="N013"/>habent und suln, auch si daz gelt, dar umb si gelöst habent, auf den egenanten zwein vesten auch haben. Doch mugen wir und unser nachchomen, die selben gut järleichen
+                    <cei:lb facs="#facs_1_r1l18" n="N014"/>wider lösen in viertzehen tag vor Liechtmesse oder in vierczehen tagen darnach umb daz gelt, dar umb si gelöst habent, und auch umb unser aigen pfenning, daz wir si nyeman
+                    <cei:lb facs="#facs_1_r1l19" n="N015"/>anders dar umb versetzzen noch verchumern sulln, di weil si dy egenanten zwo vest innhabent war, auch daz si dheinerley chrieg oder stoz von unsern und unsers goczhauses wegen
+                    <cei:lb facs="#facs_1_r1l21" n="N016"/>angieng, daz schuln si uns ze wissen tun, und den selben chrieg schuln wir in dann abtun und auzrichten in dem nehsten moneyd darnach geschaech, dez niht swaz si dann nach iren
+                    <cei:lb facs="#facs_1_r1l22" n="N017"/>trewen, und durch dez goczhauses er und notdurft dar zu tunt, und waz daz chost, daz si bei iren trewen und ayden gesprechen mugen, dez sulln wir si auch richten und weren. Und sullen
+                    <cei:lb facs="#facs_1_r1l23" n="N018"/>si daz auch haben, auf den egenanten zwain vesten mit sampt allem dem gut, daz oben geschriben stet, ob auch der veste eine oder si payd verloren wurden an gever von welhen sachen,
+                    <cei:lb facs="#facs_1_r1l24" n="N019"/>daz geschach dez schuln si ir hausfrawen und ir eriben gen uns und unserm goczhaus und nachchomen unenkolten sein an iren trewen und auch an irem oben verschriben gelt, und auch an
+                    <cei:lb facs="#facs_1_r1l25" n="N020"/>alle dem, daz wir in oben verschriben haben, und wir schuln auch si ires obengenanten gutes und geltes mit guten trewen dannoch berichten und wern, und daz schuln si haben auf allen
+                    <cei:lb facs="#facs_1_r1l26" n="N021"/>unsers goczhaus hab und guten, wa wir die haben ob aber wir dieselben vest, die verloren wärn wider in unser gewalt prehten mit welchen sachen das geschaech, so schuln wir in
+                    <cei:lb facs="#facs_1_r1l28" n="N022"/>si wider antwurten und geben, daz si die inn haben in den rehten und punden, als si die vor inn gehabt habent, und als oben geschriben stet. War auch, daz die munsse geringert wurd,
+                    <cei:lb facs="#facs_1_r1l29" n="N023"/>swann wir si dann ires geltes berichten, so sulln wir in ie ein lötig march silbers regenspurger gewichtes fur zehen schilling pfenning geben. Wir veriehen auch, als oft wir in hundert
+                    <cei:lb facs="#facs_1_r1l30" n="N024"/>phunt phenning geben, ie in dem nehsten moneyd nach Liehtmess, als oft schuln uns zehen phunt geltes abgen. Wir veriehen auch, daz wir noch unser nachchomen noch nieman
+                    <cei:lb facs="#facs_1_r1l31" n="N025"/>von unsern wegen niht werben, noch handeln sulln in gaistleichen noch in werltleichen rehten, da mit die obengenanten her <cei:persName>Fridrich von <cei:placeName>Aw</cei:placeName></cei:persName> und <cei:persName>Rüdger der Reych</cei:persName>, ir hausfrawen, ir
+                    <cei:lb facs="#facs_1_r1l32" n="N026"/>eriben und nachchomen beswert wurden, oder da mit der vorgenant gewerft bechrencht möcht werden in dheinen sachen, di oben verschriben sind. Wir verjehen auch, swann wir
+                    <cei:lb facs="#facs_1_r1l34" n="N027"/>die obengenanten hern <cei:persName>Fridreich von <cei:placeName>Awe</cei:placeName></cei:persName> und <cei:persName>Rüdger den Reichen</cei:persName>, ir hausfrawen, ir eriben und nachchomen, genczleichen bericht und gewert haben. Allez dez, daz oben ist verschriben, und
+                    <cei:lb facs="#facs_1_r1l36" n="N028"/>ob wir dann niht enwärn, dez Got lang niht geb, so schuln si einem gemainem capitel mit den vesten warttent sein mit den rehten, als si uns wartent sint nach irr brief, 
+                    <cei:lb facs="#facs_1_r1l37" n="N029"/>sag als lang uncz daz si einen bestaetten pyschof habent, und dem schulln, si dann gepunden sein in aller der weis, als si uns gepunden sind. Ez ist auch der vorgeschriben gewerft 
+                    <cei:lb facs="#facs_1_r1l38" n="N030"/>und handlung geschehen mit unsers capitels, rat, willen, gunst und wort, und daz auch daz allez stat und unzerbrochen beleib. Daruber zu einem urchund und zu
+                    <cei:lb facs="#facs_1_r1l40" n="N031"/>einer sicherheit geben wir in disen brief, versigelten mit unserm insigel und mit unsers capytels insigel, daz ist geschehen <cei:date value="99999999">nach Christez gepurt dreutzehen</cei:date>
+                    <cei:lb facs="#facs_1_r1l43" n="N032"/><cei:date value="99999999">hundert jar und in dem dreu und funfzigistem jar, dez Phincztags vor sand Peters tag, als er auf den stul ward geseczt</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

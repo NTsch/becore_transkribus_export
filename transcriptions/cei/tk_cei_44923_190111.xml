@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_397_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_397_I</cei:title><cei:idno type="Transkribus">190111</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Bolke von Gots gnaden herczoge in <cei:placeName>Slezien</cei:placeName>, herre von <cei:placeName>Furstinberk</cei:placeName>, czur <cei:placeName>Swydnicz</cei:placeName> unde czum <cei:placeName>Jawir</cei:placeName></cei:persName>, tun kund offenlich allen den, di diesen brif ansehen odir horen lezen, wann
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>der allirdurchluchtigist furste, unser genediger herre her <cei:persName>Karl, romischer kunik, czu allen cziten des richs eyn merer unde kunik czu <cei:placeName>Behem</cei:placeName></cei:persName><cei:placeName/>, von sundirlichen synen kunglichen gnaden
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>uns das hus czum <cei:placeName>Czoboten</cei:placeName> zu unsern lebetagen ingeben unde vorliehen hat. In sulcher bescheidinheit sey das sache, das die durchluchtige furstinne unde frowe frowe <cei:persName>Anna, romische</cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>kuniginne unde kuniginne zu <cei:placeName>Behem</cei:placeName></cei:persName>, unser liebe frowe unde mume, alzo stirbet, das sie eliche leibes erben mannes geslechte nicht leset, das wir denn dem obgnanten unserm herren
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>oder seinen erben kunigen zu <cei:placeName>Behem</cei:placeName> das selbe hus widerantworten sullen unde wollen. Were ouch das der obgenant unser herre sturbe ane erben, so sullen wir das obgenante hus wider
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>antworten dem hochgeboren fursten hern <cei:persName>Johansen, margraven zu <cei:placeName>Merhern</cei:placeName></cei:persName>, synem brudir, odir wer do kunik zu <cei:placeName>Behem</cei:placeName> in czyten wurde, wer abir das wir leibes erben mannes geslechte
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>gewinnen, zo sullen wir die selben vesten dem obgenanten unserm herren, seynen erben, kunigen zu <cei:placeName>Behem</cei:placeName>, odir ob sie nicht weren, dem obgenanten margraven <cei:persName>Johansen</cei:persName>, seinem brudir, odir seinen
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>erben ingeben unde antworten an hindirnis vorgeczog unde an allis wedirsprechen. Dovon globen wir mit guten, steten, treuwen unde an alle geverde dem obgenanten unserm lie¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>ben gnedigen herren unde seinem brudir dem obgenanten, das wir in unde iren erben unde nachkomen kunigen zu <cei:placeName>Behem</cei:placeName> unde margraven zu <cei:placeName>Merhern</cei:placeName> alle dy obgenanten gelubde von des
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>huzes wegen gancz stete unde unvorruckt haben unde halden wollen in alle der mazze, alz do vorbegriffen ist, unde des selben sol sich unser burggrave do selbist czuhancz mit zwein
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>seinen frunden vorbinden. Unde wir geloben in den obgenanten treuwen ane geverde, daz wir in nicht abeseczen noch vorkeren sullen noch wollen. Es sei denne, das wir eynen andirn
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>biderven man, do hen seczen, dor an dem obgenanten unserm herren, seinem brudir unde iren erben kunigen zu <cei:placeName>Behem</cei:placeName> billichen gnuge, unde das er sich von erste mit czwein synen frunden, allir
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>sulchir gelubde, alz do vorbeschriben ist, genczlichen habe vorbunden. Unde des haben wir unser ingesigel gehangen an disen brief unde den rat zur <cei:placeName>Swydnicz</cei:placeName> unde die nochgeschriben unser man
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>zu geczuge geben unde gebeten, alz sy do noch beschriben stehn unde wir ratlute der stat <cei:placeName>Swydnicz</cei:placeName> unde wir <cei:persName>Kekel von <cei:placeName>Czirnen</cei:placeName></cei:persName>, <cei:persName>Ulrich</cei:persName> unde <cei:persName>Reyntsch Schaff</cei:persName>, gebrudir, <cei:persName>Heynman</cei:persName> unde
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:persName>Steffan, gebrudir von <cei:placeName>Richenbach</cei:placeName></cei:persName>, <cei:persName>Creczink von <cei:placeName>Czedlicz</cei:placeName></cei:persName> unde <cei:persName>Cunrad von <cei:placeName>Czirnen</cei:placeName></cei:persName>, <cei:persName>ritter Luppolt von <cei:placeName>Uchtericz</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Cunad von <cei:placeName>Czedlicz</cei:placeName></cei:persName> unde <cei:persName>Otte von <cei:placeName>Borsnicz</cei:placeName></cei:persName> bekennen offenlich, das
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>die obgenanten gelubde in unser gegenwortikeit getan unde geschehen sint. Mit urkunde dicz brifs, der vorsegilt ist mit unserm grosserm ingesegil unde unser manne, die in disem brive benant 
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>sint. Gegeben czur <cei:placeName>Swydnicz</cei:placeName> <cei:date value="99999999">an der nehesten mittewochen noch sante Petirs unde sante Pavyls tak, der heiligen czwelfboten, noch Gots geburte driczen hundirt jar unde in dem </cei:date>
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/><cei:date value="99999999">drien unde fumfczegistim jare</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

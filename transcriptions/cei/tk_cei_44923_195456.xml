@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_999_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_999_H_I</cei:title><cei:idno type="Transkribus">195456</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l3" n="N001"/>Wir <cei:persName>Wenczlaw von Gots gnaden kunig zu <cei:placeName>Beheim</cei:placeName>, marggraff zu <cei:placeName>Brandemburg</cei:placeName> und zu <cei:placeName>Lusicz</cei:placeName></cei:persName> bekennen und
+                    <cei:lb facs="#facs_1_r1l4" n="N002"/>tun kunt offenlich mit diesem brieff allen den, die in sehen oder horen lesen, daz fur uns kumen ist der edel
+                    <cei:lb facs="#facs_1_r1l5" n="N003"/><cei:persName>Bernhart von <cei:placeName>Schomburg</cei:placeName>, herre zum <cei:placeName>Hazzenstein</cei:placeName></cei:persName>, unser lieber getrewer, und hat uns fleizziclichen gebeten,
+                    <cei:lb facs="#facs_1_r1l6" n="N004"/>daz wir ym, als ein kunig zu <cei:placeName>Beheim</cei:placeName>, daz huse <cei:placeName>Hazzenstein</cei:placeName> mit den nachgeschriben guten, mit namen, die
+                    <cei:lb facs="#facs_1_r1l7" n="N005"/>stat <cei:placeName>Bresnicz</cei:placeName> halb, mit dem czolle doselbist und mit welden <cei:placeName>Spinnebach</cei:placeName> halb, <cei:placeName>Renzendorff</cei:placeName> halb und die dor¬
+                    <cei:lb facs="#facs_1_r1l8" n="N006"/>fer <cei:placeName>Zebenticz</cei:placeName>, <cei:placeName>Geiswicz</cei:placeName>, <cei:placeName>Hohentanne</cei:placeName>, <cei:placeName>Planstorff</cei:placeName>, <cei:placeName>Hainstorff</cei:placeName>, <cei:placeName>Kurbicz</cei:placeName>, <cei:placeName>Kralob</cei:placeName> und daz lehen <cei:placeName>Hennkmstorff</cei:placeName> mit
+                    <cei:lb facs="#facs_1_r1l9" n="N007"/>welden holczern, wisen, weiden, wiltpenten, wazzern, wazzerlauffen, vischerei, eckern, czinsen, gulten, nucz¬
+                    <cei:lb facs="#facs_1_r1l10" n="N008"/>en und allen zugehornugen, wie man die benennen mag, mit sunderlichen worten besucht und umbesuht,
+                    <cei:lb facs="#facs_1_r1l11" n="N009"/>nichtes uzgenumen, und besunder auch die dorfere <cei:placeName>Wiemar</cei:placeName>, <cei:placeName>Lobe</cei:placeName> und <cei:placeName>Mencz</cei:placeName>, mit allen iren zugehornugen,
+                    <cei:lb facs="#facs_1_r1l12" n="N010"/>alleine uzgenomen, des closters gut zu <cei:placeName>Waltsachsen</cei:placeName>, daz daz closter hat zu <cei:placeName>Mereticz</cei:placeName>, und gleicherweis, als sie der
+                    <cei:lb facs="#facs_1_r1l13" n="N011"/>edel <cei:persName>Thun von <cei:placeName>Koldicz</cei:placeName></cei:persName><cei:placeName/>, unser lieber getrewer, vor besezzen und gehabt hat, und wir sie nu von im kouffet
+                    <cei:lb facs="#facs_1_r1l14" n="N012"/>haben, geruchten, als ein kunig zu <cei:placeName>Beheim</cei:placeName> im gnediclichen zu verleihen, des haben wir angesehen, des
+                    <cei:lb facs="#facs_1_r1l15" n="N013"/>egenanten <cei:persName>Bernharts</cei:persName> redliche bete, und haben mit wolbedachtem mute, mit rechter wizzen und mit rate unser
+                    <cei:lb facs="#facs_1_r1l16" n="N014"/>getrewen und von kunglicher macht zu <cei:placeName>Beheim</cei:placeName> dem egenanten <cei:persName>Bernhart</cei:persName> und sinen erben die vorgenanten vesten,
+                    <cei:lb facs="#facs_1_r1l17" n="N015"/>dorffer und guter in aller mazze, als sie vor beschriben sint, gnediclichen zu einem rechten erplichen, man¬
+                    <cei:lb facs="#facs_1_r1l18" n="N016"/>lehen, verliehen und verleihen auch, mit crafft dicz briefs und des hat der egenanten <cei:persName>Bernhart</cei:persName> uns, als einem
+                    <cei:lb facs="#facs_1_r1l19" n="N017"/>kunig zu <cei:placeName>Beheim</cei:placeName>, unsern erben und nachkomen, kungen zu <cei:placeName>Beheim</cei:placeName>, und der cronen desselben kunigrichs,
+                    <cei:lb facs="#facs_1_r1l20" n="N018"/>als seinem rechten, ordenlichen, naturlichen und erbherren gesworen, gehuldet und gelobet, unsern
+                    <cei:lb facs="#facs_1_r1l21" n="N019"/>frumen getrewlichen zu werben und unsern schaden wenden on geverde. Mit urkunt dicz briefs, versigelt mit
+                    <cei:lb facs="#facs_1_r1l22" n="N020"/>unserm kunglichen insigel, der geben ist zu <cei:placeName>Prag</cei:placeName>, <cei:date value="99999999">nach Crists geburt dreuczenhundert jar, darnach in dem</cei:date>
+                    <cei:lb facs="#facs_1_r1l23" n="N021"/><cei:date value="99999999">siben und sechczigisten jar, an sand Barbaren tag, der heiligen jungfrawen</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573646995279_155">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573647000257_158" n="N001"/>per dominum <cei:persName>Burghardum, burgravium<cei:placeName> Magdeburgensis</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_line_1573647004431_163" n="N002"/>wischegradensem prepositum, regni <cei:placeName>Boemie</cei:placeName> supremum cancellarium
+                    <cei:lb facs="#facs_1_line_1573647007700_168" n="N003"/>Johanes Eystetensis
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

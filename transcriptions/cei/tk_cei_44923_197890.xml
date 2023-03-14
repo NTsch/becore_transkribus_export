@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_624_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_624_I</cei:title><cei:idno type="Transkribus">197890</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Wir <cei:persName>Ulreich</cei:persName> und <cei:persName>Johans, gebrudir lantgrafen vom <cei:placeName>Leutenberge</cei:placeName></cei:persName>, bekennen und tun kunt offenlich mit disem briefe allen den, die in sehent odir hörent lesen, daz
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>wir mit gesampter hant wollbedacht und mit rate unsir freunde dem allirdurchleuchtigsten fürsten unsirm genedigen herren herren <cei:persName>Karl Römischem keiser und </cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/><cei:persName>kunige zu <cei:placeName>Behem</cei:placeName></cei:persName>, seinen erben und nachkomen kunigen zu <cei:placeName>Beheim</cei:placeName> und der cronen desselben kunigreichs in disen nachgeschriben, stat und dorfern, die sein, 
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>seiner erben und nachkommen und der cronen zu <cei:placeName>Beheim</cei:placeName>, sein sulche gulte, zins und recht, die uns von dem stiffte von <cei:placeName>Babemberch</cei:placeName> verseczt, verpfant und ver¬
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>seczt sein, recht und bescheidenlich verkawft haben umb fumf hundert schok grosser prager munzze und werunge, die er uns hat beczalen tun an bereiten pfenningen, 
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>und die in unsirn nuczz komen sein mit namen in der <cei:placeName>Alten Stat zu Pagniczz</cei:placeName> newn pfunt eylif schillinge und drey haller zwei unde fierczig sommer hawern po¬ 
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>tensteiner mazze, zwey hundirt und siben käse, zwei und dreisig fasnacht hüner, zu prun fumf pfunt eynen schilling und eylif haller, hundirt acht und zwain¬
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>tzig kese, zwenczig sommer habern und fierczehn vasnacht hüner zu <cei:placeName>Heymbrün</cei:placeName>, newn pfunt haller, drewzendehalb vierteil korns awerbacher mazz, sechs¬
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>und fumfczig sommer habern potensteiner mazze, hundert und zwene und sechtig käse und fiertzehn hünre zu <cei:placeName>Lubensteig</cei:placeName>, drey pfunt achthalb schilling hal¬
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>ler, sechsdehalb vierteil korns awrbacher mazz, achzehn sommer habern potensteiner mazz, drey und sechcig käse und sechs hünre zu dem <cei:placeName>Newhenhofe</cei:placeName>, sechs 
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>pfunt viertzenschillinge und drey haller, zwey und dreysig vierteil korns awerbacher mazze, eyns und sibentzig sommer habern potensteiner mazz, hundert
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>und achtzehn käse mit dem zehnden grozz und kleine und eylif hünre zu <cei:placeName>Steinenreut</cei:placeName>, ein pfunt, sechs schilling haller, sechs vierteil korns awerbacher mazz, 
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>eylif sommer habern potensteyner mazz, vierundfumfczig käse, sechs hunre und den zenden mit allem nutzze zu <cei:placeName>Ybenstuk</cei:placeName>, drey pfunt haller, vier unde 
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>zwenczig vierteil korns, vier und zwentzig vierteil habern awerbacher mazz, sechs und dreisig käse und drei hunre und dartzu daz unsir herre der keiser kunig zu 
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/><cei:placeName>Beheim</cei:placeName>, sein erben und nachkomen, die erbe uff den obgenanten guten, die man akirt mügen besitzzen und entsitzzen, als recht ist und dortzu haben wir in 
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>verkawft ein dritteil an den gerichten, der sie vogt sein und daruf unsir herre der keiser, die vogtey von uns kawft und gelozet hat und geloben darumb in gu¬
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>ten, trewen für uns, alle unser erben und nochkomen dem vorgenanten unsirm herren, seinen erben und nachkomen werschaft zu tun und zu tragen der obgenanten 
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/>gulde, zins, recht und gerichte als recht ist und sie doran zu versprechen zu entheben und zu ledigen gegen allir menglich sundir argelist und geferde, dez zu 
+                    <cei:lb facs="#facs_1_r1l20" n="N019"/>urkunde und rechtir stetigkeit haben wir <cei:persName>Ulreich</cei:persName> und <cei:persName>Johans</cei:persName>, vorgenanten unser insigel an disen brief gehangen, der geben ist zu <cei:placeName>Gretzz</cei:placeName> <cei:date value="99999999">noch Christes geburde </cei:date>
+                    <cei:lb facs="#facs_1_r1l21" n="N020"/><cei:date value="99999999">dreuzehnhundirt iar, dornach in dem sibenden und fumftzkisten iare an dem nachsten donrestage nach des heiligen sande Merteins tage</cei:date>. 
+                    <cei:lb facs="#facs_1_r1l22" n="N021"/>Lecta coram domino imperatore 
+                    <cei:lb facs="#facs_1_r1l23" n="N022"/><cei:persName>Henricus de <cei:placeName>Wesalia</cei:placeName></cei:persName>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

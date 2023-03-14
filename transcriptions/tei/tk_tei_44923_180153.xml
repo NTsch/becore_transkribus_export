@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">ACK_422_I</title>
+         </titleStmt>
+         <seriesStmt>
+            <title>marketa.hrdlickova@nacr.cz Collection</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main">ACK_422_I</title><idno type="Transkribus">180153</idno><idno type="external">NA</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="6956" lry="5579" xml:id="facs_1">
+         <graphic url="NA-ACK_13531029_00422_r.jpg" width="6956px" height="5579px"/>
+           <zone points="1004,524 4474,524 4474,2386 1004,2386" rendition="TextRegion" xml:id="facs_1_region_1562573296891_77">
+              <zone points="1037,667 4435,667 4435,933 1037,933" rendition="Line" xml:id="facs_1_line_1562573302605_80"/>
+              <zone points="1037,922 4474,922 4474,1027 1037,1027" rendition="Line" xml:id="facs_1_line_1562573308913_83"/>
+              <zone points="1037,1032 4446,1032 4446,1115 1037,1115" rendition="Line" xml:id="facs_1_line_1562573316661_86"/>
+              <zone points="1037,1109 4446,1109 4446,1214 1037,1214" rendition="Line" xml:id="facs_1_line_1562573322866_89"/>
+              <zone points="1032,1225 4457,1225 4457,1303 1032,1303" rendition="Line" xml:id="facs_1_line_1562573330494_92"/>
+              <zone points="1026,1314 4419,1314 4419,1424 1026,1424" rendition="Line" xml:id="facs_1_line_1562573339035_95"/>
+              <zone points="1032,1435 4430,1435 4430,1518 1032,1518" rendition="Line" xml:id="facs_1_line_1562573345051_98"/>
+              <zone points="1037,1513 4457,1513 4457,1629 1037,1629" rendition="Line" xml:id="facs_1_line_1562573350145_101"/>
+              <zone points="1037,1629 4452,1629 4452,1728 1037,1728" rendition="Line" xml:id="facs_1_line_1562573356242_104"/>
+              <zone points="1043,1734 4452,1734 4452,1833 1043,1833" rendition="Line" xml:id="facs_1_line_1562573362301_107"/>
+              <zone points="1065,1828 4424,1828 4424,1944 1065,1944" rendition="Line" xml:id="facs_1_line_1562573370011_110"/>
+              <zone points="1054,1938 4413,1938 4413,2071 1054,2071" rendition="Line" xml:id="facs_1_line_1562573375059_113"/>
+              <zone points="1048,2082 4435,2082 4435,2170 1048,2170" rendition="Line" xml:id="facs_1_line_1562573387507_116"/>
+              <zone points="1048,2159 4457,2159 4457,2270 1048,2270" rendition="Line" xml:id="facs_1_line_1562573395164_119"/>
+              <zone points="1098,2264 1849,2264 1849,2380 1098,2380" rendition="Line" xml:id="facs_1_line_1562573400979_122"/></zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+           <pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_region_1562573296891_77">
+              
+              
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

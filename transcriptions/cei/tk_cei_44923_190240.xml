@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_471_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_471_I</cei:title><cei:idno type="Transkribus">190240</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Stephan von Gots gnaden pfallenczgrafe bi <cei:placeName>Rein</cei:placeName> und herczog in <cei:placeName>Beyern</cei:placeName></cei:persName>, bekennen offenlich und tun chunt
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>allen den, di disen brief sehen odir horen lesen, sint dem male und aller missehel, ufluffe und zweiunge, di
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>czwischen dem allirdurchleuchtigsten fursten und herren, hern <cei:persName>Karle romischen kunige ze aller zeiten merer des</cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>reiches und kunige ze <cei:placeName>Beheim</cei:placeName></cei:persName>, unserm gnedigen herren, und dem hochgeborn fursten, hern <cei:persName>Johanse marggrafen</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName>ze <cei:placeName>Merhern</cei:placeName></cei:persName>, unsirm lieben oheim an einem teil und uns an dem andern uncz an disen hutigen tag sich
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>verloufen habent, fruntlich und gutlich berichtet sein also, dass sie beiderseiten nymmer zu arge geevert odir
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>vorneuet werden sullen, davon globen wir dem obgenanten unserm herren dem kunige und unserm oheim,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>marggrafen zu <cei:placeName>Merhern</cei:placeName>, mit guten treun an geverde, das alle sach, die in sulchen zweungen und ufleuffen ge¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>schehen sein mit entsagunge oder sust in dheine weis, genczlich absein sulen und das dirume niemant verdacht,
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>beschedigt oder in dheine weiz betrubt werden sol in dheinen zukunftigen zeiten. Mit urkund icz brives versigilt
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>mit unserm ingesigil, der geben ist zu <cei:placeName>Peyse</cei:placeName> <cei:date value="99999999">am mantage vor sant Gregorii tag des heiligen lerers nach</cei:date>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:date value="99999999">Cristes geburd dreuczehen hundert jar, darnach in dem funf und funfczigstem jar</cei:date>.
+            </cei:pTenor></cei:tenor><cei:tenor><cei:pb facs="#facs_2" n="2" id="img_0002"/></cei:tenor>
+         
+      
+   
+</cei:cei>

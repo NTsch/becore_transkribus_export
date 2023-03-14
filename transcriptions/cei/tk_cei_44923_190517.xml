@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_655_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_655_I</cei:title><cei:idno type="Transkribus">190517</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l1" n="N001"/>Wir <cei:persName>Boemund von Gots gnaden, erczbischoff zu <cei:placeName>Triere</cei:placeName>, des heiligen Romischen richs durch <cei:placeName>Welschelant</cei:placeName> und dez kungrich von <cei:placeName>Arelat</cei:placeName> ertz</cei:persName>¬
+                    <cei:lb facs="#facs_1_r2l2" n="N002"/><cei:persName>canceller</cei:persName>, bekennen und tun kunt offinlich mit diesem briefe allen den, die yn sehent odir horen lesen, wann vormals die stat ze <cei:placeName>Eger</cei:placeName>
+                    <cei:lb facs="#facs_1_r2l3" n="N003"/>mit dem lande und die vesten <cei:placeName>Flozz</cei:placeName> und <cei:placeName>Parkstein</cei:placeName> mit yern zugehorungen den hochgeboren kunigen zu <cei:placeName>Beheim</cei:placeName>, und der cronen desselben 
+                    <cei:lb facs="#facs_1_r2l4" n="N004"/>kungreichs vor virczigtusent marcz lotiges silbers von wegen des heiligen Romischen riches zu rechtem pfande vesetzer sin, und wann
+                    <cei:lb facs="#facs_1_r2l5" n="N005"/>wir und anderen unsir mitkurfursten mit warhaftiger kuntschaft wol undir wiset sin daz <cei:placeName>Flozz</cei:placeName> vesten, und waz dorzu gehoret des kung¬
+                    <cei:lb facs="#facs_1_r2l6" n="N006"/>riches zu <cei:placeName>Beheim</cei:placeName> rechtes eygen ist, und von unwizzen und irresal dem egenanten kingrich zu <cei:placeName>Beheim</cei:placeName> zu pfande worden ist in der wise als
+                    <cei:lb facs="#facs_1_r2l7" n="N007"/>unsir und anderen unsir mitkurfursten briefe, die wir doruber geben haben volkomenlich ist begriffen, dovon und uff die rede, daz die hochge-
+                    <cei:lb facs="#facs_1_r2l8" n="N008"/>born kunige zu <cei:placeName>Beheim</cei:placeName> und die crone desselben kungriches in der pfantschaft ungehindirt verliben sint, dem male daz <cei:placeName>Flozz</cei:placeName> als
+                    <cei:lb facs="#facs_1_r2l9" n="N009"/>vorgeschriben ist ir rechtes eigen ist und dorumb ir pfant nicht gewesen mag, so meinen sprechen und lutirn wir mit wolbedachtem 
+                    <cei:lb facs="#facs_1_r2l10" n="N010"/>mute als ein kurfurste des heiligen riches und durch <cei:placeName>Welschelant</cei:placeName> und daz kungrich von <cei:placeName>Arelat</cei:placeName> ertzcanceller, daz die obgenante hochgeborn
+                    <cei:lb facs="#facs_1_r2l11" n="N011"/>kunige zu <cei:placeName>Beheim</cei:placeName>, ir erben und nachkomen eweclich und die crone desselben kungrichs ze <cei:placeName>Beheim</cei:placeName>, die obgenanten vierczigtusent mark
+                    <cei:lb facs="#facs_1_r2l12" n="N012"/>lotiges silbirs uff der stat zu <cei:placeName>Eger</cei:placeName> und dem lande und auch uff der vesten <cei:placeName>Pargstein</cei:placeName> und yren zugehorungen haben sullen, als die pfant¬
+                    <cei:lb facs="#facs_1_r2l13" n="N013"/>briefe sagen, die von des Romischen richs wegen doruber geben sint glicherwis als ob <cei:placeName>Flozz</cei:placeName> in der egenanten pfandunge nie benenner were.
+                    <cei:lb facs="#facs_1_r2l14" n="N014"/>Mit urkunt ditz briefs versigelt mit unsirm insiegel, der geben ist zu <cei:placeName>Triere</cei:placeName> <cei:date value="99999999">nach Cristus geburt  drutzinhundirt jar, dornach in dem</cei:date>
+                    <cei:lb facs="#facs_1_r2l15" n="N015"/><cei:date value="99999999">acht und funftzigstem jar an sant Marien Magdalenen tag</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

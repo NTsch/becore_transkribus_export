@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_650_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_650_I</cei:title><cei:idno type="Transkribus">189818</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Wir <cei:persName>Ruprecht der Elter von Gotes gnaden pfallenczgrave by <cei:placeName>Rine</cei:placeName>, dez heiligen Romischen riches obrester truchsesze</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/><cei:persName>und herczog in <cei:placeName>Beyern</cei:placeName></cei:persName>, bekennen und tun chunt offenlichen mit disem briefe allen den, die in sehent oder horent le¬
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>sen, daz uns kuntlichen und wissenlichen ist, und daz selben unser eltern und vordern herczogen zu <cei:placeName>Beyern</cei:placeName> an uns  
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>und seliger gedechtnusse den hochgeborn <cei:persName>herczog Rudolf, unserm bruder</cei:persName>, her bracht haben, daz die vesten und merkte 
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>der <cei:placeName>Hohenstein</cei:placeName>, <cei:placeName>Hersprugge</cei:placeName> und <cei:placeName>Urbach</cei:placeName>, die von <cei:persName>unsers bruders herczog Rudolfs</cei:persName> dez vorgenanten tode uf uns verfallen 
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>waren, und die wir dem allerdurchluchtigsten fursten und herren hern <cei:persName>Karln, Romischem keyser, zu allen ziten merer</cei:persName>
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/><cei:persName>des richs und kung zu <cei:placeName>Beheim</cei:placeName></cei:persName>, unsern lieben gnedigen herren alz einem kung zu <cei:placeName>Beheim</cei:placeName>, und der cronen dez selben 
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>kungriches zu <cei:placeName>Beheim</cei:placeName> recht und redlichen vorkauft haben, von nyemand anders ruren, danne von dem Heiligen 
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>Romischen riche. Und wir, unser eltern und bruder ez von nyemand anders gehabt haben, nur von dem Heiligen riche, 
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>alz da vor begriffen ist. Mit urkund ditz briefes, versigelt mit unserm insigel, geben zu <cei:placeName>Heydelberg</cei:placeName> <cei:date value="99999999">nach Cristus </cei:date>
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/><cei:date value="99999999">geburt drutzehen hundert jare, dar nach in dem achten und funftzigistem jare am nechsten dornstage</cei:date>
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/><cei:date value="99999999">nach der heiligen zwelfboten sant Peters und sant Pauls tage</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

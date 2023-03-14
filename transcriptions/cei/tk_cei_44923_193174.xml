@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_570_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_570_H_I</cei:title><cei:idno type="Transkribus">193174</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l3" n="N001"/>Ich <cei:persName>Jost von <cei:placeName>Rosemberg</cei:placeName></cei:persName><cei:placeName/> bekenne und dun kunt offenliche mit diesem brieve allen den, die yn sehen oder horen lesen, alleyne ich etliche brieve koirfursten, fuersten
+                    <cei:lb facs="#facs_1_r2l4" n="N002"/>und steten dez heiligen reichs und ouch dez kunigrichs zue <cei:placeName>Beheim</cei:placeName> gesendet habe und mich dorinne derclaget habe, wie daz der allerdurchluchtigiste furste und
+                    <cei:lb facs="#facs_1_r2l5" n="N003"/>herre, her <cei:persName>Karl romischer keiser zu allen zeiten merer dez reichs und kuenig zue <cei:placeName>Beheim</cei:placeName></cei:persName>, meyn gnediger herre, mich und durch mynen willen meyne bruder
+                    <cei:lb facs="#facs_1_r2l6" n="N004"/>an alle schult verderben wolde und uns zue dem lantrechte zue <cei:placeName>Beheim</cei:placeName>, fuer seine herren nicht wulde komen laszen, wie wol wir yme recht zue tuene alwege
+                    <cei:lb facs="#facs_1_r2l7" n="N005"/>geboten hetten, als in den selben brieven, die ich der egenanten <cei:persName>Jost</cei:persName>, darumb gesendet habe under meynem ingesiegel offenliche begriffen ist, doch sint deme
+                    <cei:lb facs="#facs_1_r2l8" n="N006"/>male daz mir sulcher clage ny noit gescheen ist, wann der egenanten meyn gnediger herre mich und meyne bruder allewege bei rechte gelaszen hait, und mir
+                    <cei:lb facs="#facs_1_r2l9" n="N007"/>und yn frevel oder unrecht ny erczeiget hait in dheinen zeiten, so bekennen ich offenlichen, daz ich in solichen brieven, die ich dar umb gesant hatte, dem
+                    <cei:lb facs="#facs_1_r2l11" n="N008"/>egenanten mynen herren unrechte getan habe, wann mir und meynen brudern dez nie in dheinen stunden noit gescheen ist, und ich darume nicht anders gemey¬
+                    <cei:lb facs="#facs_1_r2l12" n="N009"/>net habe, mir alleyne, daz ich und meyne bruder mit hilfe fursten, herren und stete zue dez egenanten unsers herren dez keisers gnaden und hulden komen
+                    <cei:lb facs="#facs_1_r2l13" n="N010"/>mochten. Dez gelob ich in guten trewen an geverde dem obgenanten meynem gnedigem herren, dem keiser und kunige zue <cei:placeName>Beheim</cei:placeName>, daz ich vor allen fursten, gra¬
+                    <cei:lb facs="#facs_1_r2l14" n="N011"/>fen, herren, steten und vor allermeyngliche, de hin ich sulche brieve gesendet habe, di selben brieve mit meyn selbes gegenwertikeit und mit lebendiger
+                    <cei:lb facs="#facs_1_r2l15" n="N012"/>stymme und ouch mit meynen offenen brieven, wy der egenanten meyn gnediger herre mir daz gebudet, wyderruffen und wydersprechen sal und wil und dez allewege
+                    <cei:lb facs="#facs_1_r2l17" n="N013"/>bekennen, daz der egenanten myn herre der keiser und kunig zue <cei:placeName>Beheim</cei:placeName> mich und meyne brudere bei rechte allewege gelaszen hait und uns dheinerley frevel
+                    <cei:lb facs="#facs_1_r2l18" n="N014"/>oder unrecht ny erczeiget hait in dheinen stunden. Darueber wer daz sache, daz die koirfursten dez heiligen reichs dez beduchte, daz dem egenanten meynem herren
+                    <cei:lb facs="#facs_1_r2l19" n="N015"/>und seynen keiserlichen und kuniglichen wirden und ouch der hochwirdigkeit seynes wesens nicht gnueng gescheen were, suender daz ich darzue mer tun
+                    <cei:lb facs="#facs_1_r2l20" n="N016"/>oder reden suelte, so gelobe ich in guten trewen und an alle geverde dem egenanten meynem herren und allen den obgenanten dez reichs koirfursten, geistlichen
+                    <cei:lb facs="#facs_1_r2l21" n="N017"/>und werntlichen, daz ich denne gehorsam sein wil und alles daz tuen und reden, daz sie mir in den dingen und zue den dingen gebieten und mich heizen. Dez ha¬
+                    <cei:lb facs="#facs_1_r2l22" n="N018"/>ben ich gebeten die erwirdigen veter und herren in Gote, hern <cei:persName>Arnest erczbisschoven zue <cei:placeName>Prage</cei:placeName></cei:persName>, hern <cei:persName>Margharden zue <cei:placeName>Auspurg</cei:placeName></cei:persName>, hern <cei:persName>Johansen zue dem <cei:placeName>Luetmueschiel</cei:placeName>,</cei:persName>
+                    <cei:lb facs="#facs_1_r2l23" n="N019"/><cei:persName>die bisschove</cei:persName> und die hochgeborn fursten und herren, hern <cei:persName>Bolken zu <cei:placeName>Valkemberg</cei:placeName></cei:persName>, hern <cei:persName>Johansen zue <cei:placeName>Troippow</cei:placeName></cei:persName>, hern <cei:persName>Prsymissel zue <cei:placeName>Tesschin</cei:placeName></cei:persName> und hern <cei:persName>Cunraden zue</cei:persName>
+                    <cei:lb facs="#facs_1_r2l24" n="N020"/><cei:persName>der <cei:placeName>Olsen</cei:placeName>, die hirczogen</cei:persName>, und hern <cei:persName>Friderichen hirczogen von <cei:placeName>Tecken</cei:placeName></cei:persName> und den edeln herren hern <cei:persName>Sbinken von <cei:placeName>Hasemburg</cei:placeName></cei:persName><cei:placeName/>, daz sie yre ingesiegele czue merer sicher¬
+                    <cei:lb facs="#facs_1_r2l25" n="N021"/>heit und zue geczugnusze legen an dysen brieff. Und wir alle, die vorgenant sein, bekennen und tun kunt offenlichen mit dysem brieve, daz wir durch suen¬
+                    <cei:lb facs="#facs_1_r2l26" n="N022"/>derliche bede dez egenanten herren hern <cei:persName>Jostes von <cei:placeName>Rosemberg</cei:placeName></cei:persName> unsere ingesiegele zue geczugnuesze an dysen brieff gehenget haben. Der geben ist zue der <cei:placeName>Politz</cei:placeName>
+                    <cei:lb facs="#facs_1_r2l27" n="N023"/><cei:date value="99999999">nach Cristus geburte druczen hundirt jar und darnach in dem sechs und funffczigestem jare, dez nehesten dunnerstages nach senten Peters und</cei:date>
+                    <cei:lb facs="#facs_1_r2l28" n="N024"/><cei:date value="99999999">sente Paulus tage, der heiligen czwylfboten</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

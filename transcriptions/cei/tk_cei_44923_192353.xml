@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_798_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_798_H_I</cei:title><cei:idno type="Transkribus">192353</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l3" n="N001"/>Wier <cei:persName>Ruodolff von Gotes gnaden herczog ze <cei:placeName>Oestereich</cei:placeName>, ze <cei:placeName>Steyr</cei:placeName> und ze <cei:placeName>Kernden</cei:placeName></cei:persName>, bechennen und tuon chunt mit disem
+                    <cei:lb facs="#facs_1_r2l4" n="N002"/>brief, allen den die in sehen oder hören lesen, daz wir verhaizzen und gelobt haben verhaizzen und geloben, ouch dem
+                    <cei:lb facs="#facs_1_r2l5" n="N003"/>allerdurchleuchtigistem fuersten, unserm lieben genedigen herren und vatter hern <cei:persName>Karlen Roemischen keyser, ze allen</cei:persName>
+                    <cei:lb facs="#facs_1_r2l6" n="N004"/><cei:persName>zeiten merer des reiches und kunig ze <cei:placeName>Behem</cei:placeName></cei:persName>, und dem hochgebornen fürsten hern <cei:persName>Johansen marchgrafen ze <cei:placeName>Mer¬</cei:placeName></cei:persName><cei:placeName/>
+                    <cei:lb facs="#facs_1_r2l7" n="N005"/><cei:persName><cei:placeName>hern</cei:placeName></cei:persName>, seinem brueder, unserm lieben oeheim, daz wier alle die brief, die wir in gegeben haben ze <cei:placeName>Budweis</cei:placeName> versigelt,
+                    <cei:lb facs="#facs_1_r2l8" n="N006"/>mit unserm chlainen insigel versigeln sullen und wellen mit unserm grozzen insigel, ane vercziehen alz pald uns das
+                    <cei:lb facs="#facs_1_r2l9" n="N007"/>gemacht und berait wirt, ane alle geverd. Mit urchund dicz briefs, der geben ist ze <cei:placeName>Budweis</cei:placeName>, <cei:date value="99999999">an dem nechsten</cei:date>
+                    <cei:lb facs="#facs_1_r2l10" n="N008"/><cei:date value="99999999">mentag vor sand Veyts tag nach Kristes gepurd dreuczehenhundert iar darnach in dem ains und sechczigsten iare</cei:date>.
+                    <cei:lb facs="#facs_1_r2l11" n="N009"/>+ hoc est verum +
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573834036234_148">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573834040603_151" n="N001"/>registrata <cei:persName>Johannes Saxo </cei:persName>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

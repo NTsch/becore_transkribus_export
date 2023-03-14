@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_324_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_324_I</cei:title><cei:idno type="Transkribus">185435</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Fridrich von Gotes gnaden lantgrave zcu <cei:placeName>Duringen</cei:placeName>, marcgraf zcu <cei:placeName>Myszne</cei:placeName>, </cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>in dem <cei:placeName>Osterland</cei:placeName> und zcu <cei:placeName>Landesperg</cei:placeName>, graf zcu <cei:placeName>Orlamund</cei:placeName> und herr des landes </cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/><cei:persName>zcu <cei:placeName>Plyszen</cei:placeName></cei:persName>, bekennen offenlichen an disem brife, daz wir dem allerdurchluchtigesten un¬
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>serm lieben gnedigen herren hern <cei:persName>KarI, Romisehem kunge, zcu allen zeiten merer des </cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N005"/><cei:persName>richs und kunge zcu <cei:placeName>Beheim</cei:placeName></cei:persName>, hern <cei:persName>Johans, herzcogen zcu <cei:placeName>Kernthen</cei:placeName></cei:persName>, und hern <cei:persName>Arnest, </cei:persName>
+                    <cei:lb facs="#facs_1_r1l8" n="N006"/><cei:persName>erczbischof zcu <cei:placeName>Prage</cei:placeName></cei:persName>, an den acht tusent schocken, die uns von der teiding 
+                    <cei:lb facs="#facs_1_r1l9" n="N007"/>wegen die vor zcu <cei:placeName>Budyssin</cei:placeName> und nu zcu <cei:placeName>Dresden</cei:placeName> geschen sin, gelobt sint, 
+                    <cei:lb facs="#facs_1_r1l10" n="N008"/>abslahen sullen und wollen, alles daz gelt, daz uns yzeunt zcu <cei:placeName>Brezlaw</cei:placeName> ge¬
+                    <cei:lb facs="#facs_1_r1l11" n="N009"/>vallen ist oder furbaz mag gevallen, und wir <cei:persName>Fridrich</cei:persName> und <cei:persName>Balthazar</cei:persName>, des vor¬
+                    <cei:lb facs="#facs_1_r1l12" n="N010"/>genanten herren <cei:persName>Friderichs, marcgrafen zcu <cei:placeName>Myszen</cei:placeName></cei:persName>, sune voriehen und geloben 
+                    <cei:lb facs="#facs_1_r1l13" n="N011"/>ab derselbe unser vater abginge von todes wegen daz Got wende, daz wir den 
+                    <cei:lb facs="#facs_1_r1l15" n="N012"/>obgenanten unsern gnedigen heren hern <cei:persName>Karl, Romischem kunge</cei:persName>, sinem brudere und 
+                    <cei:lb facs="#facs_1_r1l16" n="N013"/>dem ertzbischof, waz dem vorgenanten unserm vater geldes zcu <cei:placeName>Brezlaw</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l17" n="N014"/>gevallen were an den obgeschriben acht tusent marken gentzlichen und on alle 
+                    <cei:lb facs="#facs_1_r1l18" n="N015"/>widerrede abslahen sullen. Zcu urkund dar uber haben wir unser insigel an dise
+                    <cei:lb facs="#facs_1_r1l19" n="N016"/>brif gehangen, der gegeben ist zcu <cei:placeName>Dresden</cei:placeName> <cei:date value="99999999">nach Cristi geburte drizcen hundert </cei:date>
+                    <cei:lb facs="#facs_1_r1l20" n="N017"/><cei:date value="99999999">jar, darnach in dem nun und firzcigesten jar an sunabendeb vor dem Obersten tag</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_133_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_133_I</cei:title><cei:idno type="Transkribus">198654</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>lantgraf Ulreich von <cei:placeName>Leukkenberch</cei:placeName></cei:persName><cei:placeName/> veriehen und tun chunt allen den, die disen brief sehent oder
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>horent lesen, daz wir gelobt, gehaizzen haben und rechte purge sein worden, des edeln fursten, hertzogen <cei:persName>Ha¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>inreichs von <cei:placeName>Chernden</cei:placeName> und grafen von <cei:placeName>Tyrol</cei:placeName> und von <cei:placeName>Görtz</cei:placeName></cei:persName> gen im und gen allen seinen erben, es sein
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>sun oder töchter umb viertzick tausent march silbers prager gewigdes fur unsern lieben herren und hoch¬
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>geborn fursten, <cei:persName>chunich Johan von <cei:placeName>Behem</cei:placeName> und von <cei:placeName>Polan</cei:placeName> und graven ze <cei:placeName>Luczelburch</cei:placeName></cei:persName>, der selben phenning
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>gevallent im zehen tansent march zu unsers herren mümen, dar nach gevallent im zweintzick tau¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>sent march silbers des selben gewigdes fur die <cei:comment>haimstiur</cei:comment> <cei:persName>chunigine frowen Annen</cei:persName>, seiner wirtinn,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>der Got genad dar nach gevallent im zehen tausent march silbers prager munzze fur den spruch, den im
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>der wirdige herre <cei:persName>pischof Hainreich von <cei:placeName>Triend</cei:placeName></cei:persName> und der hochgeborn fürst, <cei:persName>herczog Hainreich von <cei:placeName>Bayrn</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/><cei:persName>und pfallentz graf zu <cei:placeName>Reyn</cei:placeName></cei:persName> hin zu gesprochen habent, als die hantvest sprechent, di unser paide herren
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>gen ein ander dar umbe gehen habent, der summe bringet also viertzick tausent march prager
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>munzze der vorgenanten pfenning, sulnt im gevallen uf sand Mychhelstag, der schierst chumt fumf tau¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>sent march, dar nach aber von demselben sand Mychhels tag uber ein jar zehen tausent march, dar nach
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>aber von dem selben sand Mychhels tag uber jar zehen tausent march, dar nach aber von dem selben
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>sand Mychhels tag uber ein jar zehen tausent march. Dar nach aber von <cei:unclear>dem</cei:unclear> selben sand Mychelstag
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>uber ein jar fumf tansent march, daz werden also viertzick tausent march. Mit so getanem gedinge
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>zu swelcher frist man im oder seinen erben, der vorgenannten pfenning nicht gaebe, so hat er oder sein erben
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>gewalt uns, zemanen nach der frist, und sullen danne nach der manung mit unser selbes leibe in den naechsten
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>viertzehen tagen nach der manung varen gen <cei:placeName>Regenspurch</cei:placeName> in die stat, und sullen da laisten in geisels¬
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>weise, und nimmer auz chomen, als lange uncz daz im widerchert, wirt der pruch, der im an der gulde der
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>pfenning wider varen ist, und sullen auch als lang laisten uncz, daz er oder sein erben der pfenning gar
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>und gantzleich gewert werdent. Dar an in pruche geschehen sint, waer auch daz wir selber nicht mochten
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>oder wolten laisten, so sullen wir zwen erber, ritter, an unser stat in di laistung legen und sullen, di
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>laisten in allem dem rechten als wir selber. Wir sullen auch auz der laistung oder die vorgenannten unser
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>ritter nimmer chomen. Ez gevalle e, daz gut allez, da pruche an geschehen waren gen <cei:placeName>Regenspurch</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>in di stat, wa er oder sein erben oder ir gewisse poten, si hin schaffen ze geben und ze antwurten.
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/>Die vorgeschribene sache loben wir staete ze haben, bi unsern trewen an aydes stat, und als wir zu den
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>hayligen sweren sullen und geben, dar uber disen brief, versigelt mit unserm insigel zu einem urchunde
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/>der warhait, der ist gegeben ze <cei:placeName>Brunne</cei:placeName> <cei:date value="99999999">nach Christes gepurt dreutzehenhundert jar, dar¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l30" n="N030"/><cei:date value="99999999">nach in dem acht und zwaintzigistem jare des Pfintztages nach unser Froven tag, als si zu hy¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l31" n="N031"/><cei:date value="99999999">mel fur</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_461_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_461_I</cei:title><cei:idno type="Transkribus">190550</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l3" n="N001"/>Wir <cei:persName>Rudolf von Gotes gnaden herczog in <cei:placeName>Sachsen</cei:placeName>, dez heiligen reichs obrister marschalk</cei:persName>, bekennen und tun kunt offenlich mit disem brive
+                    <cei:lb facs="#facs_1_r2l4" n="N002"/>allen den, di in sehent oder horent lesen, aleine di brive dez allerdurchluchtigsten fursten und herren, hern <cei:persName>Karels romischen kunigs zu allen</cei:persName>
+                    <cei:lb facs="#facs_1_r2l5" n="N003"/><cei:persName>czeiten merers dez reichs und kunigs zu <cei:placeName>Behem</cei:placeName></cei:persName>, unsers lieben gnedigen herren, die er uber sein pfantschefte der stat und dez landis zu <cei:placeName>Eger</cei:placeName> und
+                    <cei:lb facs="#facs_1_r2l6" n="N004"/>der vesten <cei:placeName>Flozz</cei:placeName> und <cei:placeName>Barchstein</cei:placeName> und waz dar zu gehoret, gehabt hat und di auch seliger gedechtnuzz di hochgeborn fursten, ettwenne kunige zu <cei:placeName>Behem</cei:placeName>,
+                    <cei:lb facs="#facs_1_r2l7" n="N005"/>seiner eltern, durch mercleicher sachen und dem heiligen reich behalden und dirwornen haben, von widirczemer ungeschicht beide verburnet und
+                    <cei:lb facs="#facs_1_r2l8" n="N006"/>verloren sein, daz er domit sein recht nicht beweisen mag, als billeich were, doch, sint dem mal, daz uns dieselbe pfantschaft wol kundig ist und wir
+                    <cei:lb facs="#facs_1_r2l9" n="N007"/>sulcher geleginheit wol und genczleich underveiset sein, daz di obgenante stat zu <cei:placeName>Eger</cei:placeName> mit dem lande und di vesten <cei:placeName>Flozz</cei:placeName> und <cei:placeName>Barchstein</cei:placeName> mit
+                    <cei:lb facs="#facs_1_r2l10" n="N008"/>allen czugehorunge dem konigrich und der cronen zu <cei:placeName>Beheim</cei:placeName> um virczig tausent mark lotigs silbers, sechst halben guldein florenczir gewicht fur
+                    <cei:lb facs="#facs_1_r2l11" n="N009"/>igleiche mark zu rechen, czu rechtem pfande recht und redlich von wegen des heiligen reichs verseczet sint, und sein eldern und forfarn, kunige zu
+                    <cei:lb facs="#facs_1_r2l12" n="N010"/><cei:placeName>Behem</cei:placeName>, in gewer und rechter besiczung der selbe pfantschefte gewesen sein und noch ist auf disen heutigen tage, dez haben wir an gesehen die besunderen
+                    <cei:lb facs="#facs_1_r2l13" n="N011"/>genade und den nuczen, fleiz und auch die steticliche arbeit, domit der obgenante romische kung, unsir herre, dez heiligen reichs nutcz und ere getrewlich understanden
+                    <cei:lb facs="#facs_1_r2l14" n="N012"/>hat und haben auch gebruvet di merklichen getrewen dienst, di sein eldern, etwenn hochgeborn kunge zu <cei:placeName>Behem</cei:placeName>, dem obgenanten reich erleich und
+                    <cei:lb facs="#facs_1_r2l15" n="N013"/>nutczliech offt getan haben, wan auch daz konigrich zu <cei:placeName>Behem</cei:placeName> ein edles und wirdigs gelit ist der, romischen cronen, so meynen und wollen wir
+                    <cei:lb facs="#facs_1_r2l16" n="N014"/>sulchen schaden dez obgenanten kungreichs zu <cei:placeName>Behem</cei:placeName> vernufticlichen understen durch die besundern trewe, domit wir, als eyn kurfurst dez heiligen
+                    <cei:lb facs="#facs_1_r2l17" n="N015"/>reichs verbunden sein, uf die rede daz der obgenante unser herre daz selbe kungrich zu <cei:placeName>Behem</cei:placeName> durch sulchen czweivel icht beschetiget oder gehindert
+                    <cei:lb facs="#facs_1_r2l18" n="N016"/>werde, so bechennen wir mit wolbedachtem mute und mit rechter wizze, daz die obgenante stat zu <cei:placeName>Eger</cei:placeName> mit dem lande und di vesten <cei:placeName>Flozz</cei:placeName> und
+                    <cei:lb facs="#facs_1_r2l19" n="N017"/><cei:placeName>Barchstein</cei:placeName> mit merchten dofern, mit edlen und unedlen, armen und reichen, kreizzen und allen czugehorunge, di in den gemerken der selben lande
+                    <cei:lb facs="#facs_1_r2l20" n="N018"/>und vesten gelegen und gesezzen sein, dez obgenanten unsers herren, als eynes kuniges zu <cei:placeName>Behem</cei:placeName>, seyner erben und nachkomen, kunige zu <cei:placeName>Behem</cei:placeName>, und
+                    <cei:lb facs="#facs_1_r2l21" n="N019"/>der cronen dez selbin kungreichs rechte pfantschafte lange gevesen sein und noch sein vor virtzig tusent mark lotigs silbers sulches gewichtes,
+                    <cei:lb facs="#facs_1_r2l22" n="N020"/>als dovor begriffen ist. Und di selben pfantschaft bestetigen wir mit rechter wissen in aller maze, als dovor begriffen ist, und geben dorczu unser
+                    <cei:lb facs="#facs_1_r2l23" n="N021"/>gunst, villen und wort, als ein hertzog von <cei:placeName>Sachsen</cei:placeName>, obriste marchalk und ein kurfurst dez heiligen reichs. Mit urkund dicz brives versigelt
+                    <cei:lb facs="#facs_1_r2l24" n="N022"/>mit unserm ingesidel. Geben zu <cei:placeName>Prag</cei:placeName> <cei:date value="99999999">nach Christes geburt, do man czalt dreuczehen hundert jar und in dem vier und funfczigsten jar, an</cei:date>
+                    <cei:lb facs="#facs_1_r2l25" n="N023"/><cei:date value="99999999">dem suntag in der vasten, als man singet Letare Jerusalem</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

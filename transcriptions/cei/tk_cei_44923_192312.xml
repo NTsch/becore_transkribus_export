@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_714_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_714_I</cei:title><cei:idno type="Transkribus">192312</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Albrecht</cei:persName> und <cei:persName>Ffriderich von Gotes gnaden buregrafen ze <cei:placeName>Nurmberg</cei:placeName></cei:persName> verichen und tun kunt offenlichen an
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>disem brif allen den, die in sehent oder horent lesen, daz wir dem allerdurchluhtigsten unserm lieben
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>gnedigen herren, herr <cei:persName>Karln römischer keyser ze allen zeitehn merer des reichs und kung ze <cei:placeName>Beheim</cei:placeName></cei:persName>, mit
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>guter vorbetrachtung und mit unsers rats rat recht und redlichen verkauft und ze kauften geben
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>haben, im und dem kungreich ze <cei:placeName>Beheim</cei:placeName>, die lehenschaft der vesten und des pergs zu dem
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:placeName>Rotenberg</cei:placeName>, als die selben vesten und den perg unserer lieber getrewer <cei:persName>Heinrich der Wildensteiner genant von</cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:persName><cei:placeName>Rotenberg</cei:placeName></cei:persName> von uns und unserer herschaft ze lehen hat gehabt, umb drew tusent guter und swerr
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>guldein, der wir gar und genczlichen von im gewert und bezalt sint, also daz wir, dhein unser erben
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>noch nachkomen nymmermer kein ansprache nach derselben lehenschaft der vesten und des perges zu
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>dem <cei:placeName>Rotenberg</cei:placeName> und über alles, daz zder selben vorgenanten vesten und perg gehört. daz der obgenant
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/><cei:persName>Heinrich Wildensteiner</cei:persName> von uns und unserr herschaft ze lehen gehabt hat, haben noch gewinnen sullen in
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>dhein weyse on geverde. Und daz daz also ewiclichen craft und macht habe und nymmer vergezzen werde, und
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>auch zu ainer merern sicherheit und urchunde geben wir disen brif, versigelten mit unsern grozzen anhangen¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>den insigeln, der <cei:date value="99999999">geben ist am nechsten montag vor sant Pauls tag, als er bekert wart, ze <cei:placeName>Plassen¬</cei:placeName></cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:date value="99999999"><cei:placeName>berg</cei:placeName> uf der vesten, do man zalt von Kristus geburt drewzehenhundert und in dem sechczigstem</cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N016"/><cei:date value="99999999">iare</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,29 @@
+[
+    {
+        "type": "trpDocMetadata",
+        "docId": 1317737,
+        "title": "Germkn\u00f6del (Sample Document)",
+        "uploadTimestamp": 1675075232187,
+        "uploader": "Admin",
+        "uploaderId": 0,
+        "nrOfPages": 1,
+        "pageId": 52015389,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DAEQZNPMDNXLWKBWOHOHPWDD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DAEQZNPMDNXLWKBWOHOHPWDD",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_889295",
+        "origDocId": 889295,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 183812,
+                    "colName": "niklas.tscherne@uni-graz.at Collection",
+                    "description": "niklas.tscherne@uni-graz.at",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    }
+]

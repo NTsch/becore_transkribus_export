@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_437_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_437_I</cei:title><cei:idno type="Transkribus">189217</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Ruprecht der Junge von Gots gnaden pfallentzgrafe bei R<cei:placeName>eyn</cei:placeName> und hertzog in <cei:placeName>Beiern</cei:placeName></cei:persName> bekennen und tun kunt offenlich mit diesem briefe allen den, die in sehent oder horent lesen, sint dem mal,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>daz wir mit wolbedachtem mute, mit rate unser frunde und mit rechter wizzen dem allerdurchluchtigsten fursten und herren, hern <cei:persName>Karle romischem kunige ze allen zeiten merer dez reichs und kunge zu</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName><cei:placeName>Beheim</cei:placeName></cei:persName>, unserm lieben gnedigen herren, seinen erben und nachkomen, kunigen ze <cei:placeName>Beheim</cei:placeName>, erbiclich und eweclich umb tzwelf tusent marck lotiges silbers, domit er uns aus unserm gevengnuz von <cei:placeName>Sachsen</cei:placeName> ge¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>ledigt und gelosit hat di nachgeschrieben vesten <cei:placeName>Nuwenstat</cei:placeName>, <cei:placeName>Sturnstein</cei:placeName>, <cei:placeName>Hirsow</cei:placeName> und <cei:placeName>Lichtenstein</cei:placeName> und dornach, umb tzwenzig tusent mark lotiges silbers, die er uff seliger gedechntnuz den hochgeborn fursten
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>hern <cei:persName>Rudolfen etwenn pfallentzgrafen bei <cei:placeName>Rein</cei:placeName> und hertzogen in <cei:placeName>Beiern</cei:placeName></cei:persName>, unsern lieben vettern, uns wizzentlich gewendet und im gelihen hat, die nachgeschriben vesten, stete und merkte <cei:placeName>Sultzbach</cei:placeName>, <cei:placeName>Rosemberg</cei:placeName>, <cei:placeName>Hirtenstein</cei:placeName>, <cei:placeName>Niedstein</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:placeName>Turrendorf</cei:placeName>, <cei:placeName>Hiltpoltstein</cei:placeName>, <cei:placeName>Hoenstein</cei:placeName>, <cei:placeName>Lichtenecke</cei:placeName>, <cei:placeName>Frankemberg</cei:placeName>, <cei:placeName>Lauffen</cei:placeName>, <cei:placeName>Eschembach</cei:placeName>, <cei:placeName>Hersbrücke</cei:placeName>, <cei:placeName>Aurbach</cei:placeName>, <cei:placeName>Velden</cei:placeName>, <cei:placeName>Begnicz</cei:placeName> und daz <cei:placeName>Plech</cei:placeName> und allez, daz der egenant unser vetter zu <cei:placeName>Beiern</cei:placeName> innegehabt und besezzen hat, mit allen dorfen,
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>leuten, herschefften, guten, gerichten, bennen, zollen, geleiten, vorsten, wiltpennen, gulden, zinsen, nutzen, vellin, welden, puschen, geiageden, vogelweiden, wiesen, weiden, wazzern, mulen, wazzerleuften, deichen, vischereien,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>bergen, grunden, slichten, gemirken, kreizzen, weichpilden und allen nutzen, ob und under der erden, wie man die benennen mag, und auch mit rittern, knechten, mannen, manschefften, lehen, lehenschefften, verlehenten guten, 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>kirchlehen und gotsgaben, dienern, pfantschefften von dem reich oder sust von ymand anders und allen zugehorungen, erbe und eigen, als iz gelegen ist, pfantschaft fur pfantschaft, recht und redelich, verkauft haben in aller der
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>mazzen, als sei der obgenant unser vetter seliger inngehabt und besezzen hat, und als sei von seinem tode uff uns erbeclich vervallen waren, und uns auch vertziehen haben vor uns, unser erben und nachkomen ewiclich allis rechten, an¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>sprachen und anredungen, die wir zu den obgenanten vesten, steten, merkten und allen zugehorungen, als sei dovor begriffen sint, gehabt haben, haben oder gehaben muchten in dheine weis, und uns auchvertzeihen haben aller hilfe
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>geistlichs und werentlichs rechten und aller gesetze keiserlicher und babstlicher buche, der lande gewonheit und aller ubungen und behaltnuzz, domit derselbe kouff muchte in dheine weis gehindert werden, und meynen,
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>daz wir, unser erben und nachkomen uns domit nymer in dheinen zeiten mit dem rechten oder mit der tat,mit worten oder werken behelfen sullen oder wullen. Auch han wir gelobt mit guten truwen anegeverde vor uns, unser
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>erben und nachkomen dem obgenanten unserm herren, seinen erben und nachkomen, kunigen ze <cei:placeName>Beheim</cei:placeName>, daz wir in und der cronen desselben kunigrichs alle die obgenanten vesten, stete, merkte und zugehorungen als sie dovor begriffen
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>sint, versprechen und entwerren sullen und wullen beinamen fur unser vettern, <cei:persName>keyser Lodowigis</cei:persName> seligen kinden, den hochgeborn <cei:persName>fursten hertzogen Ruprecht den Eltern</cei:persName>, unsers lieben vettern, und fur allermenlichen und
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>fur alle ansprache eyns iglichen, wie der genant sei, als in den landen recht und gewonlichen ist. Dovon geloben wir mit guten truwen anegeverde und mit gesworem eide fur uns, unser erben und nachkomen dem obgenanten
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>unserm herren, seinen erben und nachkomen, kunigen ze <cei:placeName>Beheim</cei:placeName>, daz wir sie und auch die cronen desselben kunigreichs in allen den obgenanten vesten und iren zugehorungen, als sie dovor begriffen sin, bei allen rechten und guten gewon
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>heiten lazen sullen und wullen ewecliehen, dobei wir furmals den <cei:persName>hertzogen Rudolfen</cei:persName> seligen, unsern vettern obgenanten, gelazen haben und in den er bei uns uff diese zeit geseszen ist, und sie zu denselben rechten und
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>gewonheiten getruwelichen und fruntlichen schirmen und dobei behalten nach unserm vermogen anegeverde. Were auch, daz tzvisschen unserm lande zu <cei:placeName>Beiern</cei:placeName>, amptluten, luten und dienern beiden seiten dheinerlei uflauf
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>oder tzweiungen entstunden und man dieselben mit fruntsehafft nicht versunen muchte, die sol man mit dem rechten uztragen, als in den lande zu Beiern von alter recht und gewonlich gewesen ist. Mit urkunt
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>ditz brifes, versigelt mit unserm insigel, der geben ist zu <cei:placeName>Hagenow</cei:placeName> <cei:date value="99999999">nach Crists geburt drautzen hundert jar, dornach in dem drau und funftzigstem jar, an dem nechsten mitwochen nach aller heiligen tag</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1564396244034_28">
+              
+              
+            </cei:pTenor></cei:tenor><cei:tenor><cei:pb facs="#facs_2" n="2" id="img_0002"/></cei:tenor>
+         
+      
+   
+</cei:cei>

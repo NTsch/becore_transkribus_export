@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_395_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_395_I</cei:title><cei:idno type="Transkribus">198997</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l2" n="N001"/>Wir, <cei:persName>Bolke, von Gots gnaden herczog in <cei:placeName>Slezien</cei:placeName>, herre von <cei:placeName>Furstemberg</cei:placeName>, czu der <cei:placeName>Swydnicz</cei:placeName> unde czu dem <cei:placeName>Jawir</cei:placeName></cei:persName><cei:placeName/>, bekennen und tun kunt offenlich mit disem brive, alle den die in sehent odir horen lesen, das wir haben ange¬
+                    <cei:lb facs="#facs_1_r2l3" n="N002"/>sohen die sundirliche gnade und fruntliche gunst des allirdurchluchtigsten fursten und herren hern <cei:persName>Karls Romischen kungs</cei:persName> czu allen czeiten merer des reichs und kung czu <cei:placeName>Behem</cei:placeName>, unsirs liebin genedign herren, die er uns und
+                    <cei:lb facs="#facs_1_r2l4" n="N003"/>unsirn geslechte beweisit hat mit der konschaft, die geschebin ist czwischen im an einem teil, und der durchluchtigsten furstinne vrowen <cei:persName>Annen, der Romischen kunginne und kunginne zu <cei:placeName>Behem</cei:placeName></cei:persName>, unsir liebin vrowen und
+                    <cei:lb facs="#facs_1_r2l5" n="N004"/>mumen, etwenne herczogin, <cei:persName>Heinrichs</cei:persName>, unsirs bruders tochter an dem anderen, und darumb gebin machin und verschreiben wir der obgennanten unsir vrowen und mumen als einer kunginnen zu <cei:placeName>Beheim</cei:placeName> und ires leibes erbin, die
+                    <cei:lb facs="#facs_1_r2l6" n="N005"/>sie mit dem obgenannten unsirm heren dem kunge habin wirdit unsir herczogtum, furstentum und herschafft zu der <cei:placeName>Swidnicz</cei:placeName> und zu dem <cei:placeName>Jawir</cei:placeName> mit den steten <cei:placeName>Swidnicz</cei:placeName>, <cei:placeName>Strigon</cei:placeName>, <cei:placeName>Hayn</cei:placeName>, <cei:placeName>Landshut</cei:placeName>, <cei:placeName>Reichenbach</cei:placeName>, <cei:placeName>Nympcz</cei:placeName>,
+                    <cei:lb facs="#facs_1_r2l7" n="N006"/><cei:placeName>Jawr</cei:placeName>, <cei:placeName>Lewinberg</cei:placeName>, <cei:placeName>Hirsberg</cei:placeName>, <cei:placeName>Bunczlav</cei:placeName> und <cei:placeName>Czoboten</cei:placeName> mit den vesten und merkten <cei:placeName>Greiffenstein</cei:placeName>, <cei:placeName>Greiffemberg</cei:placeName>, <cei:placeName>Len</cei:placeName>, <cei:placeName>Schonow</cei:placeName>, <cei:placeName>Kliczchdorf</cei:placeName>, <cei:placeName>Hornsberg</cei:placeName>, <cei:placeName>Kinsperg</cei:placeName> mit allen mannen, manscheften, lehen, lehenscheften, verlehin¬
+                    <cei:lb facs="#facs_1_r2l8" n="N007"/>ten guten, gerichten, czollen, munczen, czinsen, gulden, kreizzen, weichpilden, kirchlehen, pfrimdin und gotsgaben, welden, puschen, pergen, slichten, wazzern, wazzerleuften, mulen, wizen, weiden, geyegde vogilweide, rech¬
+                    <cei:lb facs="#facs_1_r2l9" n="N008"/>ten nutczen, gewonheiten und allen zugehorungen, wie man die benennen mag mit sundirlichen worten nichtesnicht usczenenemen in aller der mazze, als wir si mit haben und hernach mit rechte zu uns brengen mochten
+                    <cei:lb facs="#facs_1_r2l10" n="N009"/>in sulcher bescheidinheit sei, daz sache, das wir von Gots verhenknuzze also verscheiden, daz wir eliche leibes erbin mannes geslechte hinder uns nicht lazzen, daz denne die obgennante unsir gnedige vrowe und liebe mume
+                    <cei:lb facs="#facs_1_r2l11" n="N010"/>und ires leibes erbin, die sie mit unsirn herren dem kunge habin wirdit als dovor geschribin stet dieselben unsir herczogtum, furstentum, herschefte, lant, leute und alle andire zugehorunge als dovor begriffen
+                    <cei:lb facs="#facs_1_r2l12" n="N011"/>ist, erben und besiczen sol genczlich ungehindert und domite tun und lazzen nach vrey willekur als mit irem rechten erbe unschedlich, doch der hochgeborne furstinne vrowen <cei:persName>Agnesen</cei:persName>, unsirn elichen wirtinne, in irem
+                    <cei:lb facs="#facs_1_r2l13" n="N012"/>leipgedinge wanne sie alle die obgenante furstentum, lant und herschefte mit allen nutczen habin und besiczen sol, nur czu iren lebtagen wer aber daz wir mit gnadin Gots eliche leibe erbin, mannes, geslechte, gewunnen
+                    <cei:lb facs="#facs_1_r2l14" n="N013"/>so sullen, die selben unsir erbin der obgenanten unsir vrowen und mumen odir ires leibs erben, ob sie nicht were czehentusent schok grozzer pfennige pragischer müncze mit gereitem gelde berichten und bezalen, odir die
+                    <cei:lb facs="#facs_1_r2l15" n="N014"/>vesten <cei:placeName>Lewenberg</cei:placeName> und <cei:placeName>Bunczlaw</cei:placeName> mit weichpilden, vesten, rechten, nuczen und zugehorungen zu rechtem pfande setczen, als lange uncz, daz sie die obgenanten czehintusent schok genczlich berichten und bezalen und domite sullen,
+                    <cei:lb facs="#facs_1_r2l16" n="N015"/>denne dieselbin unsir erben bei den obgenanten unsirn herscheften, furstentumme und landen ungehindl bleiben, wer auch daz wir eliche leibes, erben, mannes, geslechte nicht hetten und doch tochter liezzen so sullen die obgenanten unsir liebe
+                    <cei:lb facs="#facs_1_r2l17" n="N016"/>gnedige vrowe odir ires leibes erbin, die sie mit unsirm herren dem kunge gewinnet, iglicher unsir tochter czehentusent schog grozzer pfennige geben und sie bestaten nach rechtir gewonheit, als gebornen fursten kinder ouch
+                    <cei:lb facs="#facs_1_r2l18" n="N017"/>haben, wir gelobt und geteidingt bei daz sache, daz die obgenante unsir eleiche wirtinne, unsirn tot gelebit, daz sie danne nach der czeit unsirs todes keinen burggraven, pfleger, odir amptman uf vesten heusirn in steten odir
+                    <cei:lb facs="#facs_1_r2l19" n="N018"/>in landin verkeren, endern odir wechsiln sol es sei danne, daz sie einen biderman, der do gleich gut und gewizz sei dem erstin an sein stat setcze an dem der obgenanten unsir vrowen, odir iren erbin muge billichen genugen,
+                    <cei:lb facs="#facs_1_r2l20" n="N019"/>und daz der selbe zu vor sich aller gelubde eide und truwen verbunden, habe der obgennante unsir vrowen, der kuniginnen odir iren erbin, gleich seinen vorvaren an dez stat er geseczit wirdit, wer auch daz die obgennante
+                    <cei:lb facs="#facs_1_r2l21" n="N020"/>unsir genedige vrowe und liebe mume wartende dez obgenanten, <cei:persName>Anen</cei:persName> alles ee wanne sie in gewere, keme also sturbe, daz sie leibes erbin mit dem obgennanten unsirn herren nicht gewinne, so sullen alle man, ritter,
+                    <cei:lb facs="#facs_1_r2l22" n="N021"/>knechte, burggraven, burger und alle lancsezzen, alle der obgenannten eide und gelubde, ledig sein doch in sulcher bescheidinheit, daz dem obgennanten unsirn herren dem kunige und seinen erben, daz obgenante egelt und heymsteur
+                    <cei:lb facs="#facs_1_r2l23" n="N022"/>der obgenanten czehentusent schok gevallen sol, odir mit pfandin gesichert, wenden in allir der mazze als dovor begriffen ist, daz sie domite tun und lazzen noch vrey willekur und daz gebin, wenne sie wollen wer ouch
+                    <cei:lb facs="#facs_1_r2l24" n="N023"/>daz die obgenante unsir vrowe und mume, den obgenanten unsirn herren den kunig ubirlebte und einen andirn man neme an unsirn rat und willen, so sullen beide sie der man und alle kint, die sie mit in gewinnet in den obgenanten
+                    <cei:lb facs="#facs_1_r2l25" n="N024"/>unsirn furstentumme und herscheften nichtes haben, ouch ist geredit und geteidinget, daz die obgenante unsir vrowe, die kuneginne und unsir liebe mume, noch yemant von iren wegen uns und unsir erben mannes geslechte
+                    <cei:lb facs="#facs_1_r2l26" n="N025"/>umb dhemerlei erbeteil odir umb kein andir sache anreden odir ansprechin sullen, anders wenne dovor geschribin ist ouch meinen und wollen wir sei daz sache, das uns eehaftige not antreten wirdit umb
+                    <cei:lb facs="#facs_1_r2l27" n="N026"/>genanknuzze kriege, odir andir geschichte unsir odir unsir manne, ere und leibe zulosen, daz wir danne derselben unsir furstentumme, lant und leute gewaltig sein zetun und ze lazzen, doch in guten, trewen
+                    <cei:lb facs="#facs_1_r2l28" n="N027"/>on geverde dornach sintdemal, das uns, der obgenante unsir gnedigen herre mit sulchin seinen gnaden gunstlich und fruntlich begriffen hat, so gelobin und wollen wir im mit guten, truwen on geverde beige¬
+                    <cei:lb facs="#facs_1_r2l29" n="N028"/>stendig und beholfen sein wider allirmenglichen, niemand usczenemenn und in einen indirwegen lazzen mit leibe, noch mit gute und alle seine veinde, sullen unsir veinde sein, und meinen und wollen auch keine
+                    <cei:lb facs="#facs_1_r2l30" n="N029"/>seine widersachen odir veinde, cristen, juden odir beyden in unsir landen, hausen, hoven halden odir verteidingen, sundir von gunnen in und seine ampleuten, daz sie dieselbin angreiffen und rechentigen
+                    <cei:lb facs="#facs_1_r2l31" n="N030"/>sullen und mugen, wo sie der bekomen in allen unsirn herscheften und landen. Mit urkunde dicz brives, versigilt mit unsirn grezzerin insigel, der geben ist zu der <cei:placeName>Swidnicz</cei:placeName> <cei:date value="99999999">an der nechsten mittewochen nach</cei:date>
+                    <cei:lb facs="#facs_1_r2l32" n="N031"/><cei:date value="99999999">santh Petirs und Pauls tage, der heiligen zwelfboten, nach Cristus geburtte dreizehnhundert jare und in dem dreyundfunfczigistem jare</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

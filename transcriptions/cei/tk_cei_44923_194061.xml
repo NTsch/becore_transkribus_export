@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_753_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_753_I</cei:title><cei:idno type="Transkribus">194061</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ich <cei:persName>Fryderich von Haydeck</cei:persName> bekennen und tun kunt offenlich mit diesem brief allen den, die yn sehen odir horen lesen, daz ich vur mich,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>alle meyn erben und nachkomen mit fryen wille und umb redeliche sache dem allerdurchluchtigestem fursten und meinem gnedigen 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>herren hern <cei:persName>Karl, romischem keiser, zu allen zeiten merer des reichs und kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, seinen erben und nachkomen kunigen zu <cei:placeName>Beheim</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>und der crone desselben kunigrichs und yn gegenwertekeit desselben meins herren als eyns Romischen keisers und ander dieser nachge¬
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>schreben fursten, grafen, fryen herren, rittern und knechten aufgetragen und aufgegeben, habe mit rechter und gewonlicher czerlich¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>keit den eigetum myner vestene und herschaft von <cei:placeName>Haydeck</cei:placeName> und alle ir zugehorunge, und daz derselbe meyn herre als eyn kunig 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>zu <cei:placeName>Beheim</cei:placeName> vor sich, sein erben und nachkomen kunige zu <cei:placeName>Beheim</cei:placeName>, und von wege der crone desselben kunigrichs mir und mynen 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>erben, die vorgenante vestene und herschaft zu <cei:placeName>Haydeck</cei:placeName> mit all ir zugehorunge zu rechter edilen lehenschaft und zu aufgebegem haus 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>und vestene zu all irem willen und notdorft geluhen hat zu edil lehene, und daz ich und meyn erben yn dorumb und mit der¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>selben warten sal und gehorsam sein als meins hern des keisers, und myne brieve, die dorubir zu beidem teil geben sein volkomlich 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>halden und begrifen, und seint hiebei gewesen, die hochgeborn fursten und herren her <cei:persName>Rudolf, herczoge zu <cei:placeName>Sassen</cei:placeName></cei:persName><cei:placeName/>, des heiligen reichs 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>obrist marschalk, her <cei:persName>Bolko, herezog zu der <cei:placeName>Swidnicz</cei:placeName></cei:persName>, und her <cei:persName>Redacher, herezog zu <cei:placeName>Brunswig</cei:placeName></cei:persName>, die erwirdigen in God vater und herren 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>her <cei:persName>Dyderich, byschoff zu <cei:placeName>Mynden</cei:placeName></cei:persName><cei:placeName/>, und her <cei:persName>Albrecht, byschoff zu <cei:placeName>Swerin</cei:placeName></cei:persName>, die edilen hern her <cei:persName>Burghart, burgraf zu <cei:placeName>Meygdeburg</cei:placeName>, hofmeister </cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:persName>des keiserlichen hofs</cei:persName>, her <cei:persName>Eberhart, graff zu <cei:placeName>Wirtemberg</cei:placeName></cei:persName>, her <cei:persName>Ulrich der elter, graff zu <cei:placeName>Helfenstein</cei:placeName></cei:persName>, her <cei:persName>Thome von <cei:placeName>Koldicz</cei:placeName></cei:persName>, her <cei:persName>Johan </cei:persName>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:persName>von <cei:placeName>Rosemberg</cei:placeName></cei:persName>, her <cei:persName>Ulrich vom <cei:placeName>Nuwenhaus</cei:placeName></cei:persName>, her <cei:persName>Borsse von <cei:placeName>Rysemburg</cei:placeName></cei:persName>, der <cei:persName>Schenke von <cei:placeName>Lymburg</cei:placeName></cei:persName>, her <cei:persName>Swiker von <cei:placeName>Gunderfingen</cei:placeName></cei:persName><cei:placeName/>  
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>und ander vil edel und erber lute, und des zu urkund han ich mein ingesegel an diesen brieff gehangen,  der geben ist zu <cei:placeName>Nuremberg</cei:placeName>  
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:date value="99999999">nach Crists geburt drutzenhundert jar darnach in dem sechczigsten jar an sant Clementen tag</cei:date>.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

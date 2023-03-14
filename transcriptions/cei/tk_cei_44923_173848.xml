@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_108_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>katerina.zenklova@nacr.cz Collection</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_108_I</cei:title><cei:idno type="Transkribus">173848</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Leopold von Gotes gnaden hertzog ze <cei:placeName>Osterreich</cei:placeName> und ze <cei:placeName>Steyer</cei:placeName></cei:persName> verichen offenlichen mit disem Brief, daz wir von unsers 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>lieben bruder <cei:persName>hertzog Heinrichs</cei:persName> und der gevangen, die gen <cei:placeName>Behem</cei:placeName> mit im gevangen wurden ledigunge, wegen dem mech¬
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>tigen herren <cei:persName>chunig Johansen von <cei:placeName>Behem</cei:placeName> und von <cei:placeName>Polan</cei:placeName></cei:persName> gelobt haben ze geben und suldig sein mit sampt unsern 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>brudern <cei:persName>Albrechten</cei:persName>, <cei:persName>Heinrichen</cei:persName> und <cei:persName>Otten, den hertzogen ze <cei:placeName>Osterreich</cei:placeName> und zu <cei:placeName>Steyr</cei:placeName></cei:persName>, als auch ir brief dar uber sagent neun
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>tausent march silbers, ie fur ein march vier und sechtzich grozzer behemischer pfenninge. Und wan wir ietzu dez 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>silbers nicht haben, so setzen wir im fur daz selben gut mit diesem brief, als auch unser bruder gesetzet habent unser 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>stat ze <cei:placeName>La</cei:placeName> und <cei:placeName>Weitra</cei:placeName>, purg und stat, daz er die pfant als lang inne haben sol mit alIen rechten und nutzen 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>als wir seu untz her inne haben gehabt, untz daz wir und unser bruder, die selben pfant von im umb daz
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>vorgenant silber geledigen, swein wir auch daz silber halbes gehaben mügen, so soll er uns der vesten aine weliche 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>wir wellen zelosen geben und sol die andere vesten haben, für daz ander gut untzen, daz wir in des auch verrichten, 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>so sol die auch von im dann ledig sein. Wir sullen auch den chunig, des gutes weren ze <cei:placeName>Retz</cei:placeName>, und dann hin im 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>daz belaitten an allez geverde fuer die unsern untzen gen <cei:placeName>Znoym</cei:placeName>. Und ze einer besserer sicherhait geben wir diesen brief
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>dem vorgenanten <cei:persName>chunig Johansen</cei:persName>, versigelt mit unserm insigel, der ist geben ze <cei:placeName>Brugg</cei:placeName>, do man zalt von 
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>Christes geburde <cei:date value="99999999">dreutzehenhundert jar, vier und zwaintzich jar, und dar nach dez nochsten Sunnentags vor dem</cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:date value="99999999">Vashang tag</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

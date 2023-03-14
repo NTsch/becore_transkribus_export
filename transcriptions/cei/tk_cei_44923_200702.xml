@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_732_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_732_I</cei:title><cei:idno type="Transkribus">200702</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Rudolf von Gotz gnaden herezog ze <cei:placeName>Österreich</cei:placeName>, cze <cei:placeName>Steyr</cei:placeName> und ze <cei:placeName>Kernden</cei:placeName> et cetera</cei:persName> tun chunt, daz
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>wir dem durluchtigen hochgepornen fürsten herrn <cei:persName>Ludwigen, kunig ze <cei:placeName>Ungern</cei:placeName></cei:persName>, unserm
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>lieben bruder, von soleicher sache und taygding wegen, als er zwuschen dem allerdur¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>luchtigisten unserm gnedigen herren, herr <cei:persName>Karlen roemischem keyser und kunig ze <cei:placeName>Beheim</cei:placeName></cei:persName>, und
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>uns gefuert und getan hat, geantwurt und geben haben genczlich alle die hantvesten
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>und briefe, die unser vordern, wir und unser prueder von lehens oder phantschaft wegen
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>uf den landen <cei:placeName>Beheim</cei:placeName> und <cei:placeName>Merhern</cei:placeName> oder auf andern irn landen und herscheften uncz
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>uf disen huttigen tag dhains wegs gehebt haben. Were aber, daz furbazzer hinder uns,
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>unsern prudern oder unsern erben solicher briefe, die unser vordem oder uns gegeben weren, icht
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>mere funden wurden, die sullen alle tod und absein und enhein chraft mere haben, uzge¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>nomen allain des briefes, den wir haben von dem hochgepornen fürsten, unserm lieben
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>oheim, herrn <cei:persName>Johan marchgrafen ze <cei:placeName>Merhern</cei:placeName></cei:persName> umb den dienst, den er uns tun sol von
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>der richtung wegen, die der vorgenannte unser pruder von <cei:placeName>Ungern</cei:placeName> zwuschen unserm vatter
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>seligen und im gemachet hat. Mit urchund dicz priefs, versigelt mit unserm anhangendem
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>insigel, der geben ist ze <cei:placeName>Tyerna</cei:placeName> <cei:date value="99999999">an samztag nach dem heiligen auffart tag unsers</cei:date>
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:date value="99999999">herren nach Cristi gepurt tausent dreuhundert iaren darnach in dem sechtzigisten iare</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

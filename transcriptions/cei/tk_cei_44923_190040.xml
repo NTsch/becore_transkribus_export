@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_445_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_445_I</cei:title><cei:idno type="Transkribus">190040</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r4">
+              
+              
+                    <cei:lb facs="#facs_1_r4l4" n="N001"/>Wir <cei:persName>Wilhelm von Gots gnaden ertzebischof zu <cei:placeName>Cöln</cei:placeName>, des heiligen reichs ertzcanzler in <cei:placeName>Italien</cei:placeName></cei:persName>, bekennen und tun kunt offenlich mit disem brive
+                    <cei:lb facs="#facs_1_r4l5" n="N002"/>allen den, die in sehent odir horent lesen. Alleine die brive dez allirdurchluchtigsten fursten und herren, hern <cei:persName>Karls romischen kungs zu allen tzeiten merer</cei:persName>
+                    <cei:lb facs="#facs_1_r4l6" n="N003"/><cei:persName>des reichs und kungs zu <cei:placeName>Behem</cei:placeName></cei:persName>, unsirs lieben gnedigen herren, die er ubir seine pfantschefte der stat und dez landez zu <cei:placeName>Eger</cei:placeName> und der vesten <cei:placeName>Flozz</cei:placeName> und <cei:placeName>Park¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r4l7" n="N004"/><cei:placeName>stein</cei:placeName> und waz dorczu gehoret, gehabt hat und die auch seliger gedechtnuzze die hochgebornen fursten, ettwenne kunge zu <cei:placeName>Beheim</cei:placeName>, seine eltern durch merkli¬
+                    <cei:lb facs="#facs_1_r4l8" n="N005"/>chir sachen willen von dem heiligen reiche behalden und dirworbin haben, von widirczemer ungeschicht beide verbrennet und verlorn sint, das er domite
+                    <cei:lb facs="#facs_1_r4l9" n="N006"/>sein recht nicht beweisen mag, als billich were, doch, sintdemmal, daz uns dieselbe pfantschaft wol kundig ist und wir sulcher geleginheit wol und gencz¬
+                    <cei:lb facs="#facs_1_r4l10" n="N007"/>lich undirweisit sein, daz die obgenante stat zu <cei:placeName>Eger</cei:placeName> mit dem lande und die vesten <cei:placeName>Flozz</cei:placeName> und <cei:placeName>Parkstein</cei:placeName> mit allen zugehorungen dem kungrich und der cronen
+                    <cei:lb facs="#facs_1_r4l11" n="N008"/>zu <cei:placeName>Beheim</cei:placeName> umb viertzig tausent mark lotigs silbers, sechst halbin guldin florenczer gewicht fur ye die mark tze reyten, zu rechtem pfande, recht und red¬
+                    <cei:lb facs="#facs_1_r4l12" n="N009"/>lichen von wegen des heiligen reichs versetzit sind, und sein eldirn und vorvarn, kunge zu <cei:placeName>Behem</cei:placeName>, in gewere und rechter besitzunge derselbin pfant¬
+                    <cei:lb facs="#facs_1_r4l13" n="N010"/>schefte gewesen sint und er noch ist uf disen heutigen tag, des haben wir angesehen die besundire gnade und den nutczen, fleizz und auch die steticli¬
+                    <cei:lb facs="#facs_1_r4l14" n="N011"/>che arbeit, domite der obgenante romische kung, unsir herre, dez heiligen reichs nutcz und ere getrewlichen undirstanden hat, und haben auch gebruvet die merklichen getrew¬
+                    <cei:lb facs="#facs_1_r4l15" n="N012"/>en dienst, die seine eldern, ettwenne hochgeborne kunge zu <cei:placeName>Behem</cei:placeName>, dem obgenanten reiche erlichen und nuczlichen offte getan haben, wanne auch das kungriche zu
+                    <cei:lb facs="#facs_1_r4l16" n="N013"/><cei:placeName>Behem</cei:placeName> ein edles wirdiges gelyet ist der, romischen cronen. So meinen und wollen wir sulchen schaden des obgenanten kungrichs zu <cei:placeName>Behem</cei:placeName> vernumfticlichen
+                    <cei:lb facs="#facs_1_r4l17" n="N014"/>undirsteen durch die besundir trewe, domite wir, als ein kurfurste dem heiligen reiche verbundin sein, uf die rede, daz der obgenante unsir herre daz selbe seine 
+                    <cei:lb facs="#facs_1_r4l18" n="N015"/>kungrich zu <cei:placeName>Behem</cei:placeName> durch sulchen tzweivel icht beschedigit odir gehindirt werde, so bekennen wir mit wolbedachtem mute und mit rechter wizzen, daz die
+                    <cei:lb facs="#facs_1_r4l19" n="N016"/>obgenante stat zu <cei:placeName>Eger</cei:placeName> mit dem lande und die vesten <cei:placeName>Flozz</cei:placeName> und <cei:placeName>Parkstein</cei:placeName> mit merkten, dofern, mit edlen und unedlen, armen und reichen, kreizzen und allen
+                    <cei:lb facs="#facs_1_r4l20" n="N017"/>czugehorungen, die in den gemerken derselbin lande und vesten gelegin und gesezzin sint, dez obgenanten unsirs herren, als eines kungs zu <cei:placeName>Behem</cei:placeName>, seiner erbin und
+                    <cei:lb facs="#facs_1_r4l21" n="N018"/>nachkumen, kungen zu <cei:placeName>Behem</cei:placeName>, und der cronen dezselbin kungriches rechte pfantschaft lange gewesin sind und noch sein fur viertzig tausent mark lotigs
+                    <cei:lb facs="#facs_1_r4l22" n="N019"/>silbirs sulchis gewichtes, als dovor begriffen ist, und dieselbin pfantschaft bestetigen wir mit rechter wizzen in aller der mazze, als dovor begriffen ist,
+                    <cei:lb facs="#facs_1_r4l23" n="N020"/>und geben dortzu unsire gunst, willen und wort, als ein erczbischove zu <cei:placeName>Cöln</cei:placeName>, dez heiligen reichs erczcancler in <cei:placeName>Italien</cei:placeName> und ein kurfurste dez heiligin reichs. Mit urkund
+                    <cei:lb facs="#facs_1_r4l24" n="N021"/>dicz brives, versigilt mit unserm insigel der gebin ist zu <cei:placeName>Speyr</cei:placeName> <cei:date value="99999999">nach Cristus geburtte dreuczen hundert jare, dor noch in dem drey und fumfczigsten jare</cei:date>,
+                    <cei:lb facs="#facs_1_r4l25" n="N022"/><cei:date value="99999999">an der nechstin mitwochin vor dez heiligin santh Niclas tage</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

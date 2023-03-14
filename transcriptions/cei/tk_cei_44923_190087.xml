@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_635_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_635_I</cei:title><cei:idno type="Transkribus">190087</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Wir <cei:persName>Friderich</cei:persName>, <cei:persName>Balthazar</cei:persName>, und <cei:persName>Wilhelm von Gotes gnaden lantgraven zcu <cei:placeName>Duringen</cei:placeName>, marcgrafen zcu <cei:placeName>Myssen</cei:placeName> in dem <cei:placeName>Osterlande</cei:placeName> und zcu <cei:placeName>Landesperg</cei:placeName>, graven zcu <cei:placeName>Orlamund</cei:placeName> und herren des </cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/><cei:persName>landes zcu <cei:placeName>Plyssen</cei:placeName></cei:persName>, bekennen und tun kunt offenlich mit disem brive allen den, die in sehen, horen oder lesen, daz wir mit wolbedachtem mute mit rate unser getruwen undertanen
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>in guten truwen on geverde uns vorbunden haben und vorbinden auch mit dem hochgeboren fursten, herren <cei:persName>Johans, marcgraven zcu <cei:placeName>Merhern</cei:placeName></cei:persName>, unserm lieben oheim und sweher, sinen erben und nach¬
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>kumen marcgraven zcu <cei:placeName>Merhern</cei:placeName>, und geloben mit geswornem eide fur uns, unser erben und nachkumen lantgraven zcu <cei:placeName>Duringen</cei:placeName> und marcgraven zcu <cei:placeName>Myssen</cei:placeName>, daz wir in den obgenanten sinen erben 
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>und nachkumen bigestendig geraten und geholfen sin, sullen und wollen ewiglich zcu behalden ire furstentum, lande, herscheft, erb, gut, ere, recht und gewonheit und die hilf sullen und wollen 
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>wir tun mit aller unser macht on geverde wider allermennglich, von den sie angriffen gehindert oder geschedigt wurden, und die an ir libe furstentum, herschefte, lande oder lute, geistlich oder 
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>werltlich, manschaft, lehen, vesten, burge, stete, gut und alle ire zcugehorunge, wo oder in welchen landen die gelegen sint, die sie yzcunt haben oder furbaz in dheine wis gewinnen, griffen, wolten 
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>oder sie daran hindern, uzgenumen dem allerdurchluhtigsten fursten und herren herren <cei:persName>Karl, Romischem keiser, zu allen zeiten merer des richs und kunge zu <cei:placeName>Beheim</cei:placeName></cei:persName><cei:placeName/>, unserm lieben gnedigen herren,
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>sinen erben und nachkumen kungen zcu <cei:placeName>Bemen</cei:placeName>, wanne sie der marcgraven zcu <cei:placeName>Merhern</cei:placeName>, rechte herren sin und ire land, die marke zcu <cei:placeName>Merhern</cei:placeName>, von in zcu rechten furstenlehen ruren, und wanne wir 
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>oder unser einer unser erben oder nachkumen lantgraven zcu <cei:placeName>Duringen</cei:placeName> und marcgraven zcu <cei:placeName>Myssen</cei:placeName> von wegen des obgenanten unsers oheimen marcgraven zcu <cei:placeName>Merhern</cei:placeName>, siner erben und nachkumen, 
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>des ermanet worden, so sullen und wollen wir innewendig fierzcen tagen oder so wir schierst mugen, nach dem als der hulfe not geschiit on geverde nach dem tage sulcher manung in czu hilfe ku¬
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>men in der maze, als davor begriffen ist, wenne auch wir den egenanten unserm oheim oder sinen erben oder nachkument zcu hilfe kumen oder unser volk in zcu hilfe senden, so sullen sie uns oder die selben,
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>die wir senden werden mit bier, mit brote, kachinspise und wo man nicht zcu selde lege mit futer besorgen on geverd nemen, aber wir oder die unsern dheinen schaden, das sint sie uns nicht phlichtig 
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>uz zcurichten, bewunnen wir aber mit einander vesten, die in unsern landen beidersit nicht gelegen weren, oder von uns beidersit nicht zculehen giengen, die sullen wir brechen oder sullen, sie glich mit einander teilen,
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>wie uns daz allerbest gevellet nemen, wir aber frumen an vesten, die in unsern landen gelegen weren oder von uns zcu lehen, giengen der frume sal uns alleine blieben, were aber daz wir oder die
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>unsern frumen nemen an gevangen, die sullen wir nach iecliches manzcal gewapenter lute glich mit einander teilen. Mit urkund ditz brieves vorsigelt mit unsern insigeln, der geben ist zcu <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">nach</cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/><cei:date value="99999999">Cristes geburt drizcen hundert iar, darnach in dem acht und funfzcigisten jare an dem nechsten donrestag nach dem suntage, als man singet reminiscere in der vasten</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_795_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_795_I</cei:title><cei:idno type="Transkribus">197847</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Johannes, lantgrafe zdem <cei:placeName>Lutenberg</cei:placeName></cei:persName><cei:placeName/>, bekennen und tun kunt offenlichen mit disem brief allen den, die in sehent oder horent
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>lesen, daz wir durch fleizzig bet des edeln unsers lieben oheims <cei:persName>Friderichs, burcgrafen zu <cei:placeName>Nurinberg</cei:placeName></cei:persName>, und auch mit guter 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>gewizzen rat und vorbetrachtung geheizzen und gelobt haben bey unsern trewen, an eydes stat, wer daz der obgenante unserr lieber 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>oheim abgieng, und nicht mer sein solt, des got lang nicht geb e, daz die fruntschaft mit werken vollpracht wurde, die der 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>allerdurchluchtigst furst her <cei:persName>Karl, romischer keyser, zu allen zeiten merer des reichs und kung zu <cei:placeName>Beheim</cei:placeName></cei:persName>, unser gnediger herre, 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>gemacht und gestift hat mit der elichen konschaft von seines suns wegen des hochgeborn hern <cei:persName>Wenczlawen</cei:persName>, unsers lieben herren, den 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>er gelobt hat zu geben zu einem elichen manne der edeln <cei:persName>Elspeten</cei:persName>, des vorgenanten unsers oheim <cei:persName>Friderich, burcgrafen zu <cei:placeName>Nurmberg</cei:placeName></cei:persName><cei:placeName/> toch¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>ter, und dieselben sein tochter, unserr mumen, dem vorgenanten hern <cei:persName>Wenczlawen</cei:persName> zu zelegen, inwendig zehen iaren, die nechst nach¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>einander komen, so sullen und wellen, auch wir bey dem obgenanten unserm eyde getrewlichen on geverde, nach aller unser macht als verre 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>wir vermugen, alles daz genczlichen und unverzogenlichen enden und volfuren, daz der vorgenant unserr oheim gelobt und geheizzen hat 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>in den obgeschribenen sachen, in aller der weyse und form sam die brif sagen, die der selb unserr oheim dauber geben hat on geverde, und 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>sullen auch wir die vorgenanten unsers oheims tochter fruntlichen daran weysen und ernstlichen daczu halten, als verre wir vermugen, nach 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>aller unserr macht on geverde, daz sie die obgeschribene konschaft mit werken ende halde und volfure, als unserr egenanter oheim, ir va¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>ter, die hat gemacht und als auch die brif luten und sprechen, die er daruber geben hat, wer auch daz die vorgenant <cei:persName>Elspet</cei:persName> ab¬
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>ging, des got nicht enwelle ee, daz die obgeschriben konschaft vollzogen und vollfurt wurde und unser obgenanter oheim, <cei:persName>borc¬ </cei:persName>
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:persName>grafe Friderich</cei:persName>, ein ander tochter oder mer gewun und liezz, so sullen und wellen wir bey dem obgenanten eyde, die vorgeschribene konschaft 
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>mit der eitesten seiner tochter enden und vollfuren in den zilen und in aller der weyse, als vorgeschriben stet, und mit namen 
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>als die brif sprechen und luten, die der oftgenant unser lieber oheim, <cei:persName>burcgrafe Friderich</cei:persName>, daruber hat gegeben, als verre 
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>wir vermugen nach aller unserr macht on alles geverde. Mit urchund dicz brifes, versigelt mit unserm anhangenden 
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>insigel, der geben ist zu <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">do man zalt von Kristus geburt drewzehenhundert iar und in dem ein und </cei:date>
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/><cei:date value="99999999">sechczigistem jare an dem achten tag des heiligen leychnams unsers herren</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

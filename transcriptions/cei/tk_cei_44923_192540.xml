@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_719_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_719_I</cei:title><cei:idno type="Transkribus">192540</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r3">
+              
+              
+                    <cei:lb facs="#facs_1_r3l5" n="N001"/>Wir <cei:persName>Ludweig genant der Romer, von Gots gnaden marggraff zu <cei:placeName>Brandemburg</cei:placeName> und zu <cei:placeName>Lusicz</cei:placeName>, dez heiligen römischen reichs obrister camerer, pfallenczgraff bey <cei:placeName>Reyn</cei:placeName></cei:persName><cei:placeName/>
+                    <cei:lb facs="#facs_1_r3l6" n="N002"/><cei:persName>und herezog in <cei:placeName>Beyern</cei:placeName></cei:persName>, bekennen und tun kunt offenlich mit disem brieff allen den, die in sehen oder horen lesen, wann vormals die stat zu <cei:placeName>Eger</cei:placeName>, mit dem
+                    <cei:lb facs="#facs_1_r3l7" n="N003"/>lande und die vesten <cei:placeName>Flozz</cei:placeName> und <cei:placeName>Parkstein</cei:placeName>, mit yren zugehorungen den hochgebornen kunigen zu <cei:placeName>Beheim</cei:placeName> und der cronen desselben kunigrichs vor vierczig
+                    <cei:lb facs="#facs_1_r3l8" n="N004"/>tausent mark lotiges silbers von wegen des heiligen romischen reichs ze rechtem pfande verseczet sein, und wann wir und andern unsern mitkurfursten mit
+                    <cei:lb facs="#facs_1_r3l9" n="N005"/>warhaftiger kuntschaft wol underweiset sein, daz <cei:placeName>Flozz</cei:placeName>, die vesten und waz darczu gehoret, des kunigrichs zu <cei:placeName>Beheim</cei:placeName> recht eygen ist und von unwizzen und irre¬
+                    <cei:lb facs="#facs_1_r3l10" n="N006"/>sal dem egenanten kunigreich ze <cei:placeName>Beheim</cei:placeName> zu pfande worden ist in der weise als unsern und andrer unsrer mitkurfursten brife, die wir doruber geben haben volkomenlich
+                    <cei:lb facs="#facs_1_r3l11" n="N007"/>ist begriffen dovon und uff die rede, daz die hochgebornen kunige zu <cei:placeName>Beheim</cei:placeName> und die crone desselben kunigrichs in der andern pfantschaft ungehindert bleiben 
+                    <cei:lb facs="#facs_1_r3l12" n="N008"/>sint denmal daz <cei:placeName>Flozz</cei:placeName> als vorgeschriben ist, ir rechtes eigen ist und dorumb ir pfant nicht gewesen mag, so meinen, sprechen und leutern wir mit wolbedachtem
+                    <cei:lb facs="#facs_1_r3l13" n="N009"/>mute, als ein kurfurste dez heiligen reichs und obrister camerer, daz die obgenanten hochgeborn kunige zu <cei:placeName>Beheim</cei:placeName>, ir erben und nachkomen, ewiclich und die crone
+                    <cei:lb facs="#facs_1_r3l14" n="N010"/>desselben kunigreichs ze <cei:placeName>Beheim</cei:placeName> ,die obgenante vierczigtusent mark lotiges silbers, uff die stat zu <cei:placeName>Eger</cei:placeName> und dem lande und ouch uff der vesten <cei:placeName>Parkstein</cei:placeName> und
+                    <cei:lb facs="#facs_1_r3l15" n="N011"/>iren zugehorungen haben sullen, als die pfant briefe sagen, die von dez romischen reichs wegen doruber geben sint glicherweis, als ob <cei:placeName>Flozz</cei:placeName> in der egenanten
+                    <cei:lb facs="#facs_1_r3l16" n="N012"/>pfandungen nie benennet were. Mit urkund dicz briefs versigelt mit unsern insigel, der geben ist zu <cei:placeName>Prag</cei:placeName> <cei:date value="99999999">nach Crists geburt dreuczenhundert iar und darnach</cei:date>
+                    <cei:lb facs="#facs_1_r3l17" n="N013"/><cei:date value="99999999">in dem sechczigsten iar, an unser frawen abend liechtmesse</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1565160135700_78">
+              
+              
+                    <cei:lb facs="#facs_1_line_1565160152157_84" n="N001"/><cei:persName>Morner</cei:persName>   
+            </cei:pTenor></cei:tenor><cei:tenor><cei:pb facs="#facs_2" n="2" id="img_0002"/></cei:tenor><cei:tenor><cei:pb facs="#facs_3" n="3" id="img_0003"/></cei:tenor>
+         
+      
+   
+</cei:cei>

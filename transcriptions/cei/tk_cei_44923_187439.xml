@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_327_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_327_I</cei:title><cei:idno type="Transkribus">187439</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Rudolph der Junger</cei:persName> und <cei:persName>Otte von Gots gnaden herczogen ze <cei:placeName>Sachsen</cei:placeName></cei:persName> veriehen und tun kunt offenlich mit disem brief allen den, di in sehen, horen odir lesen, wenn 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>der allirdurchleuchtigster furste und unsir genediger herre her <cei:persName>KarI, Romischer kung, ze allen zeiten merer des reichs und kung ze <cei:placeName>Beheim</cei:placeName></cei:persName><cei:placeName/>, von den erwirdigen 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>fursten und herren hern <cei:persName>Baldewin, erczbischof ze <cei:placeName>Trier</cei:placeName></cei:persName>, her <cei:persName>Gerlach, erczbischof ze <cei:placeName>Gencz</cei:placeName></cei:persName>, hern <cei:persName>Walram, erczbisehof ze <cei:placeName>Coln</cei:placeName></cei:persName><cei:placeName/>, und den hochgebornen <cei:persName>fursten hern Jo¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>hansen seliger gedechtnuzz, ettwenn kunge ze <cei:placeName>Beheim</cei:placeName></cei:persName>, hern <cei:persName>Rudolphe, herczogen ze <cei:placeName>Sachsen</cei:placeName></cei:persName>, unserm lieben herren und vater und hern <cei:persName>Woldmar, marggraven ze <cei:placeName>Brandemburch</cei:placeName> </cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName>und ze <cei:placeName>Landsperg</cei:placeName></cei:persName>, unserm lieben oheim, ze Romischem kunge recht und redlich und eynmuticlichen irwelt und irkoren ist, dorumb verbinden wir uns, unsir erben 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>und nochkomen herczogen ze <cei:placeName>Sachsen</cei:placeName> mit dem vorgenanten unserm herren dem Romischen kunge und kunge ze <cei:placeName>Beheim</cei:placeName>, als mit eynem kunge ze <cei:placeName>Beheim</cei:placeName> und des 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>reichs kurfursten, seinen erben und nochkomen an der selben kur, kungen ze <cei:placeName>Beheim</cei:placeName>, und mit den vorgenanten erwirdigen kurfursten und herren, geistlichen 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>und werltlichen, und mit allen andern fursten, graven, vreyen herren und steten, di dem vorgenanten unserm herren, dem Romischen kunge gehorsam und 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>undirtenyg sein, und di in dem selben verbuntnuzz sten und bleiben wellen und geloben mit guten trewen on geverd an eydes stat, das wir mit den vor¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>genanten fursten und si mit uns, dem vorgenanten unserm herren dem Romischen kunge und unsir yttlicher dem andern umb des vorgenanten Romischen reichs 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>und unsir kurfurstlichen recht, ere und wirde ze beherten und ze behalden, beholfen und beraten sein wollen, mit leib und mit gut und mit allir 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>macht widir allirmenngleich und sundirlichen, widir <cei:persName>graven Guntheren von <cei:placeName>Swarczburch</cei:placeName></cei:persName>, der sieh des reichs vrevellichen, und ze unrecht widir 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>unsirn herren den vorgenanten und widir den stul ze <cei:placeName>Rome</cei:placeName>, widir unsir und des reichs recht angenomen hat und annymet, und widir alle
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>sein helfer und gunner, di er hat odir noch gewinnen mag unsir herre her <cei:persName>KarI, der Romische kung</cei:persName>, sei lebende odir tod, wann wir des billich 
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>und ze rechte ze tun pflichtig sein, also und wir der stymmen und der kur, di eyn herezog ze <cei:placeName>Sachsen</cei:placeName> hat an der wal eyns Romischen kunges von or-
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>dinlichen und rechtem anevalle, wartende sein noch tode des hochgebornen fursten und herren hern <cei:persName>Rudolphs, herczogen ze <cei:placeName>Sachsen</cei:placeName></cei:persName><cei:placeName/>, unsirs lieben vetter 
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>des vorgenanten, den Got geruche ze behuten und bynamen geloben wir mit den vorgenanten kurfursten und andern fursten, graven, herren und steten 
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>als vorgeschriben stet, das wir weder den vorgenanten <cei:persName>graven Gunther</cei:persName>, noch nymand andirs, wi er genant sei, er sei geboren odir wurde geboren 
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>bei unsirs vorgenanten herren leben und widir in der sich des reichs angenomen hat odir annymet ouf gerukt ist odir ouf gerukt wirt 
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>unsir vorgenante herre, sei lebende odir tod, odir wi er sust von dem reiche hezze des Got nicht enwelle eynen Romischen kung halden wellen 
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>noch sullen, noch in zu dem reich newnis kiesen odir unsir kur an in wenden, ob es ze schulden kumpt ouch geloben wir, wer das ymand ey¬
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>ner odir mer wenn eyner dem vorgenanten <cei:persName>graven Gunther</cei:persName> odir eynem andirn, der zu kunge ouf gerukket wurde behulfen weren 
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>und in eynen kung halden, und im helfen welden, das wir des und derselben offembar vynde sein wellen, und uns mit denselben nymmer 
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>verrichten noch sunen, es sei denne, das si den selben oufgerukkten kung allirsachen begeben und bei uns geloben vesticlich ze bleiben, dornoch geloben 
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>wir mit guten trewen an eydes stat, als vorgeschriben stet, das wir in dise verbuntnuzz eyde und gelubde bringen und nemen, wellen alle 
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>di fursten, bischove stifte, capitel, graven, herren, vreyen, dynstmann, stete und andir leute, so wir allirmeist mugen, di alle dise vorge¬
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/>nanten stukke sweren, sicheren und geloben sullen, gancz stete und unczubrochen ze behalden und dorumb ze geben ir sundirlichen 
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>briefe ouch geloben, wir fur uns, unsir erben und nochkomen herczogen ze <cei:placeName>Sachsen</cei:placeName> mit guten trewen an eydes stat, das wir alle 
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/>di vorgenanten stukke in allir meynung als vorgeschriben stet gancz und unverrukket haben und halden wellen, und do wi-
+                    <cei:lb facs="#facs_1_r1l30" n="N030"/>dir nicht ze tun, noch do widir ze komen heymelichen odir offembar in dheynenweis. Mit urchund dicz briefs, der versigilt 
+                    <cei:lb facs="#facs_1_r1l31" n="N031"/>ist mit unsirm, des vorgenanten <cei:persName>Rudolphs des Jungern, herczogen ze <cei:placeName>Sachsen</cei:placeName></cei:persName>, ingesigil und wir <cei:persName>herczog Otte</cei:persName> der egenante, 
+                    <cei:lb facs="#facs_1_r1l32" n="N032"/>wann wir eygens ingesigils ze disem mal nicht enhaben, so veriehe wir alle dise vorgenante rede undir dem inge¬
+                    <cei:lb facs="#facs_1_r1l33" n="N033"/>sigil <cei:persName>herczogen Rudolphs</cei:persName>, unsirs brudirs des vorgenanten. Geben ze <cei:placeName>Coln an dem Reyn</cei:placeName>, <cei:date value="99999999">do man czalte noch Cristus ge</cei:date>¬
+                    <cei:lb facs="#facs_1_r1l34" n="N034"/><cei:date value="99999999">burth drewczenhundirt und newn und fierczig jar an dem nehisten dinstag noch sand Valentyns tag</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1563972456459_32">
+              
+              
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

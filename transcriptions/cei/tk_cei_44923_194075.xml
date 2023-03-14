@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_774_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_774_I</cei:title><cei:idno type="Transkribus">194075</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Ulrich</cei:persName> und <cei:persName>Johans, lantgraven zu dem <cei:placeName>Leutemberg</cei:placeName></cei:persName>, bekennen und tun kunt offenlich mit dysem brieff allen den, die yn sehen oder horen
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>lesen, wann die edelen herren <cei:persName>Heinrich von dem <cei:placeName>Newenhaus</cei:placeName></cei:persName> und <cei:persName>Ruzze von <cei:placeName>Luticz</cei:placeName></cei:persName>, unserr lieben frunde, die sache, die czwischen dem allirdurch¬
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>luchtigstem fursten und herren her <cei:persName>Karl, romischem keyser, zu allen zeiten merer des reichs und kung ze <cei:placeName>Beheim</cei:placeName></cei:persName><cei:placeName/>, unserm lieben genedigen herren, 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>an einem teil, und uns an dem andern teil umb die greniczen des <cei:placeName>Behemischen waldes</cei:placeName> verlauffen ist durch gebot des obgenanten unsers herren 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>des keysers und durch unser bete willen entscheiden haben, als hernach geschriben stet, des ersten haben sie gemerket drew puechen mit dryn 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>crewczen under dem <cei:placeName>Eywimperg</cei:placeName> uf <cei:placeName>Dytirstorffer veld</cei:placeName> und derselb rayn sol stozzen uf <cei:placeName>Eselarner velde</cei:placeName>, das do haizzet daz <cei:placeName>Rutlus</cei:placeName>, als vere 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>unser merke wendet und nicht furbaz, und an der andern seiten von den dreyn puechen herwider auf czwischen dem <cei:placeName>Behemischem wald</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>und <cei:placeName>Dytirstorffer veld</cei:placeName>, uncz an drey viechten, die ouch gemerket sint, und furbas hinauf als man gerichtigst mag uncz an ein puechen und 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>an ein viechten vor daz haus, die ouch gemerket sint, und von dannen hinab gen <cei:placeName>Hyrzsteins</cei:placeName> wercz als verre <cei:placeName>Reichenstein</cei:placeName> begriffen hat 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>und herwider auz gen <cei:placeName>Reichensteiner velde</cei:placeName>, und wann der obgenante unser herre, der keyser als ein kung ze <cei:placeName>Beheim</cei:placeName> bestetigt hat, die egenanten greniczen 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>und raynung, als sie dovor begriffen sint, dorumb sullen und wollen wir und unsir erben und nachkomen dieselben greniczen und raynungen 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>stet und unverruket haben und halden, also daz wir und unser erben und nachkomen der vorgenanten greniczen und raynung ein teil, die an uns 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>gehoret sullen von dem egenanten unserm herren, dem keyser als von einem kunig zu <cei:placeName>Beheim</cei:placeName>, seinen erben und nachkomen kunigen zu <cei:placeName>Beheim</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>und von der cronen desselben kunigreichs ze <cei:placeName>Beheim</cei:placeName> zu rechtem lehen und manschafft haben und halden, gleich andern guten, die czu dem <cei:placeName>Reichen¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:placeName>stein</cei:placeName> gehoren, die wir ouch von dem egenanten unserm herren dem keyser als von einem kunig ze <cei:placeName>Beheim</cei:placeName> und von den cronen desselben kunigreichs ze lehen 
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>haben und halden. Mit urkund dics brives, versigelt mit unsern ingesigel, der geben ist zu <cei:placeName>Nuremberg</cei:placeName> <cei:date value="99999999">nach Cristus geburt drewczenhundert </cei:date>
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:date value="99999999">jar, dornach in dem ein und sechzigstem jar am freytag vor dem suntag als man singet Oculi in der vasten</cei:date> 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

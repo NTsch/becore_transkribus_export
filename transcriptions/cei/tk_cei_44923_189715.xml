@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_631_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_631_I</cei:title><cei:idno type="Transkribus">189715</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Dem allirdurchluchtistin herrin herrin <cei:persName>Karl, Romischin keysir, czu allen czeitin</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>merer des rychis und kinige czu <cei:placeName>Behemen</cei:placeName></cei:persName>, unsim libin gnedigin herrin, enpi¬
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>te ich, <cei:persName>Ludwig von Gotis gnadin herczog in <cei:placeName>Slesien</cei:placeName> und herre czu <cei:placeName>Legnicz</cei:placeName> und czu </cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName><cei:placeName>Lobin</cei:placeName></cei:persName>, myn willigis dinst czu allin czeitin bereit libir gnedigir herre, uwirr 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>gnadin, tun ich czu wissin und bekenne offinlichin an desim brife, das mich 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>herr <cei:persName>Heynke von <cei:placeName>Czedlicz</cei:placeName></cei:persName><cei:placeName/> und herr <cei:persName>Heynich von <cei:placeName>Landiskron</cei:placeName>, rittere</cei:persName>, und <cei:persName>Ysaac </cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:persName>der Jude</cei:persName> beczalt habin vier hundirt schocke groschin von uwirre weyne 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>gutlich unde liplich, also das mir gar wol doran genugit, des sag ich uwin
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>keysirlichin gnadin grosin dank, und sage unde lase uwir gnade ledig unde 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>qwit und los, und wellin uch um dy genantin vier hundirt schok 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>nymmirrme gemanen. Und czu orkunde dis bekentnissis hab ich myn ingese¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>gil angehangin. Gegebin czu <cei:placeName>Breslaw</cei:placeName> <cei:date value="99999999">an den nesten fritage noch sente Paulus </cei:date>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:date value="99999999">tag, als her bekant wart noch Gotis geburt driczenhundirt jar in dem acht</cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:date value="99999999">und fumfczigstin jare</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

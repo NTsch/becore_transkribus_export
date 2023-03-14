@@ -45,7 +45,8 @@
 
     <xsl:template match="ab"/>
 
-    <xsl:template match="ab//*[not(name() = 'hi' or name() = 'choice' or name() = 'foreign' or name() = 'sic')]">
+    <xsl:template
+        match="ab//*[not(name() = 'hi' or name() = 'choice' or name() = 'foreign' or name() = 'sic' or name() = 'rs' or name() = 'date')]">
         <xsl:element name="cei:{name()}" namespace="http://www.monasterium.net/NS/cei">
             <xsl:copy-of select="@*[normalize-space()]"/>
             <xsl:apply-templates/>
@@ -61,14 +62,14 @@
             <xsl:apply-templates/>
         </cei:hi>
     </xsl:template>
-    
+
     <xsl:template match="foreign">
         <cei:foreign>
             <xsl:copy-of select="@*[not(name() = 'continued')]"/>
             <xsl:apply-templates/>
         </cei:foreign>
     </xsl:template>
-    
+
     <xsl:template match="choice[sic and corr]">
         <cei:sic corr="{corr}">
             <xsl:copy-of select="sic/@*[normalize-space()]"/>
@@ -80,9 +81,27 @@
             <xsl:apply-templates select="sic"/>
         </cei:sic>
     </xsl:template>
-    
+
     <xsl:template match="sic[parent::choice]">
         <xsl:apply-templates/>
     </xsl:template>
 
+    <xsl:template match="rs[@type = 'person']">
+        <cei:persName>
+            <xsl:apply-templates/>
+        </cei:persName>
+    </xsl:template>
+    
+    <xsl:template match="rs[@type = 'place']">
+        <cei:placeName>
+            <xsl:apply-templates/>
+        </cei:placeName>
+    </xsl:template>
+    
+    <xsl:template match="date">
+        <cei:date value="99999999">
+            <xsl:apply-templates/>
+        </cei:date>
+    </xsl:template>
+    
 </xsl:stylesheet>

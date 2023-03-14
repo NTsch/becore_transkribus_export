@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_805_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_805_I</cei:title><cei:idno type="Transkribus">201059</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir<cei:persName> Rudolff von Gots genaden hertzog zu <cei:placeName>Sachsen</cei:placeName>, dez Heiligen reichs erczmarschalk</cei:persName>, bekennen und tun kunt offenlich mit diesem briefe allen,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>di in sehen oder haren lesen, daz wir haben an gesehen di sinderlich gnad und gunst dez allerurchleuchtigist fürsten und herren, herr <cei:persName>Karls dez</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>virden, romischen keysers zu allen zeiten merer dez reichs und kunigs zu <cei:placeName>Beheim</cei:placeName></cei:persName>, unsers liben genedigen herren, da mit er seliger gedechtnis
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>unsirer liben vater, uns und unseren bruder gemeinet hat und nach allewege tuet durch sunder sein gnade, und da von mit wolbedachtem
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>mute, mit rate unser freunde und manne und mit rechter wizzen geloben wir in guten trewen an geverde für uns, unseren bruder, unser
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>bruder kinder und unser aller erben dem egenanten unserem herren dem keyser, seinen erben und nachkumen kunigen zu <cei:placeName>Beheim</cei:placeName>, daz wir in beige¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>stendig und beholfen sein und wollen mit unserr macht, dar nach der hilfe not wirdet, wider allermeinclich, di sie, ire lant, leuete, gut, festen. 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>stete, herschefte, greniczen und alle zugehorunge, wo sie di haben oder gelegen sind, angrifen, hinderen oder schedigen woellen, in welchen wirden 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>eren oder wesen ouch di selben weren. Ouch geloben wir dem egenanten unserm genedigen herren, dem romischen keyser, daz wir, unser bruder
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>und unser bruder kinder mit samt unser allen erben dez rechten alle wege gehorsam sein und sullen umb alle sachen, die ymand gen
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>uns begunner zu wirderen und zu clagen. Mit urkund ditz brifes versigelt mit unserem insigel, der geben ist zu <cei:placeName>Prag</cei:placeName> <cei:date value="99999999">do man zalt</cei:date>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:date value="99999999">von Cristus geburt dreutzehenhundert iar und dar nach in dem ain und sechtzigsten iar dez nechsten donerstages nach unserr frawen</cei:date>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:date value="99999999">tag, als si gen himel emphangen ward</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

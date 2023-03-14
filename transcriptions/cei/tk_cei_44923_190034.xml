@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_451_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_451_I</cei:title><cei:idno type="Transkribus">190034</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Ruprecht der Junge von Gotz gnaden pfalentzgrave an dem <cei:placeName>Rin</cei:placeName>, dez heiligen richs oberster</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>thruses und hertzog in <cei:placeName>Beyern</cei:placeName></cei:persName>, bekennen uns offenbar an disem briefe, daz wir uns erkant
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>haben und bekennen uns auch mit disem briefe, daz die burg genant der <cei:placeName>Sthörenstein</cei:placeName> und
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>die stat genant die <cei:placeName>Nuwenstat</cei:placeName> und allez daz, daz dar zu gehort, erbeliche und eweclich
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>sin sol unsers gnedigen herren, dez allerdurchluchtigisten hern <cei:persName>Karl dez romischen kuniges und</cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/><cei:persName>kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, und siner erben also, daz die vorgenante burg und stat und waz
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>dar zu gehort eweclich zu der cronen zu <cei:placeName>Beheim</cei:placeName> gehoren sol, und verczihen für uns und
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>alle unser erben, aller der rechte und aller der ansprach, die wir oder unser erben an
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>die vorgenanten burg und stat gehaben mochten. Und dez zu urkunde so gebin wir unserm
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>vorgenanten gnedigen herren, sin erben und der cronen zu <cei:placeName>Beheime</cei:placeName> disen brief, versigelt mit
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>unserm hangenden ingesigel, der geben ist zu <cei:placeName>Mentze</cei:placeName> <cei:date value="99999999">an dem mantage nach sant Thomas</cei:date>
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/><cei:date value="99999999">tage dez jars, doman zcalt von Cristes geburt drutzehen hundert jar in dem dritten</cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/><cei:date value="99999999">und funftzegistem jare</cei:date>.
+            </cei:pTenor></cei:tenor><cei:tenor><cei:pb facs="#facs_2" n="2" id="img_0002"/></cei:tenor>
+         
+      
+   
+</cei:cei>

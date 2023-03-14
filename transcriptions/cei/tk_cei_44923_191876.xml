@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_621_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_621_I</cei:title><cei:idno type="Transkribus">191876</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Johan</cei:persName> und <cei:persName>Gunther, gebruder grafen zu <cei:placeName>Swarczburg</cei:placeName></cei:persName>, veriehen und tun kunt offenlich mit diesem briefe allen den, die yn
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>sehen odir horen lesen, daz wir dem allirdurchluchtigisten fursten und herren hern <cei:persName>Karlen, Romischen keiser zu allen zeiten merer </cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>des richs und kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, unsirm lieben gnedigen herren, daz haus <cei:placeName>Hayerswerde</cei:placeName> mit allir seiner zugehorung ez sei heide, 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>dorfer, hemern odir andir guter, wie die genant sint, in allirweis als wir und unser vorfarn daz selbe von altir gehabet haben, umb
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>viertzehen hundirt schog beheimscher grozer pragesche wernug recht und redelich verkauft haben, ym seinen erben und nachko¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>men kunigen zu <cei:placeName>Beheim</cei:placeName> und der cronen, doselbes zu einem rechten erbe und eygen eweclich zu besiczen, und wann wir 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>dieselben festen dem vorgenanten unserm herren odir von seinen wegen dem erwirdige vattir in Gote her <cei:persName>Dietherich, bisschoff zu <cei:placeName>Myn¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName><cei:placeName>den</cei:placeName></cei:persName>, odir <cei:persName>Nikil</cei:persName> und <cei:persName>Ertmer von <cei:placeName>Ertmersdurf</cei:placeName></cei:persName> zu stunt inantworten sollen, so hat er uns iczunt und zu diesen zeiten syben
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>hundirt schog der obgenanten werung genczlich und gar gewert und bezalt, und die ubrigen syben hundirt schog sol er uns 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>odir ob wir beide nicht enweren unsirn vettirn <cei:persName>Henrichen</cei:persName> und <cei:persName>Gunther, grafen zu <cei:placeName>Swarcburg</cei:placeName></cei:persName>, ane alle hindernuss und ofver¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>zog auf sant Georgien tag der schirste kumpt geben und bezaln, und wez sache, daz der egenante unsir herre odir sine erben diesel¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>ben syben hundirt schog auf den egenanten tag nicht bezalten, so sal er odir seine erben odir die vorgeschriben der bisschof von 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:placeName>Minden</cei:placeName>, <cei:persName>Nickel</cei:persName> und <cei:persName>Ertmer von <cei:placeName>Ertmersdorf</cei:placeName></cei:persName> dazselbe haus <cei:placeName>Hayerswerde</cei:placeName> mit seiner zugehorung zu einem rechten pfande 
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>vor die unbezalten syben hundirt schog ane alle wiederrede uns, odir ob wir nicht enwen den vorgescbriben unsirn vettirn 
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>yn antworten in der masze, daz wir dazselbe haus in pfandes weis ynhalten sollen als lange biz uns odir unsirn vettirn vorgenanten, 
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>ob wir nicht enweren dieselben syben hundirt schog genczlichen und gar von dem vorgenanten unserm herren dem keiser odir
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>seinen erben kunigen zu <cei:placeName>Beheim</cei:placeName> bezalt werden. Auch globen wir vor uns und unser erben, daz wir ob ez zusachen queme,
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>daz uns daz haus zu eime pfande yn geantwortet wurde, daz wir daz dem vorgenanten unserm herren dem keiser und seinen erben
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>kunigen zu <cei:placeName>Beheim</cei:placeName> umb die sieben hundirt schog ane alle wiederrede zu lesen geben sollen, und yn abdreten ane alle 
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>argelist und geverde, auch sollen wir dazselbe haus, ob ez uns zu pfande queme also ynne haben, daz ez von unsirn wegen an 
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>keinerley ding geergirt sol werden, noht die leute die uff den guten sitzen, daz zu dem hause gehoret sollen, besweren 
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>ane alle geverde, und wir <cei:persName>Heinrich, graf zu <cei:placeName>Swarczburg</cei:placeName></cei:persName> vorgenanter, globen vor uns und unsirn brudir <cei:persName>Gunther</cei:persName>, ob ez zu soli¬
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>chen sachen queme, daz die vorgenanten unsir vettirn abgingen, und man uns daz haus <cei:placeName>Hoyrswerde</cei:placeName> in pfandes weis in antworten 
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>solte, daz wir alle globede, die vorgeschriben sint glich unsirn vettirn verschriben sollen, eeidane wirz innemen. Mit urtkund dicz
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>briefs, virsigilt mit unsern insiegiln, der geben ist <cei:date value="99999999">nach Cristus geburt drutzenhundirt jar, darnach in dem syben und funftzi</cei:date>¬
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/><cei:date value="99999999">gisten jar an aller selen tag</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_363_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>katerina.zenklova@nacr.cz Collection</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_363_I</cei:title><cei:idno type="Transkribus">173883</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:comment comment="Fridrich\u0020von\u0020Schonnburch\u0020herr\u0020zu\u0020Hassenstein"><cei:persName>Fridrich</cei:persName></cei:comment> und <cei:persName>Bernhart von <cei:placeName>Schonnburch</cei:placeName> herren zu dem <cei:placeName>Hassenstein</cei:placeName></cei:persName> verjehen und tun chunt offenlich mit disem
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>brief allen den, die in sehen oder hören lesen, daz wir, unser hus den <cei:placeName>Hassenstein</cei:placeName>, <cei:placeName>Sletyn</cei:placeName> und die <cei:placeName>Beznicz</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>mit aller zugehörunge zu rehtem mannes lehen von dem allerdurhlutigstem fürsten und herren, hern <cei:persName>Karln</cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>romischem kung zu allen ziten merer des richs und künge zu <cei:placeName>Beheim</cei:placeName></cei:persName>, unserm lieben genedigen herren, als
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>von eynem künge und der cronen zu <cei:placeName>Beheim</cei:placeName>, empfangen haben und haben auch gehuldet, gelobet und
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>gesworn, hulden, geloben und sweren mit guten trewen an geverd, für uns, unser erben und nachkomen,
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>dem obgenanten unserm herren, sinen erben und nachkomen, kungen zu <cei:placeName>Beheim</cei:placeName>, und der cronen da selbest get¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>rewe, gehorsam und undertenig ze sin ewiclichen in aller der wize, als man von manschefften und mannes
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>lehen gen iren rehten erbherren ze tun pflihtig sint. Mit urkund dicz briefs versigelt mit unsern
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>ingsigeln, der geben ist zu <cei:placeName>Prage</cei:placeName> da man zalt <cei:date value="99999999">nach Cristus gebürt drwzehen hundert jar, darnach</cei:date>
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/><cei:date value="99999999">in dem eyn und funfzigsten jar an dem abende der heiligen aufferte unsers Herren</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

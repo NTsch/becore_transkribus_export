@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_571_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_571_I</cei:title><cei:idno type="Transkribus">189302</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Wir <cei:persName>Katherin von Gotis gnadin herczogin von <cei:placeName>Slesien</cei:placeName> und frouwe czu dem <cei:placeName>Brige</cei:placeName></cei:persName> bekennen und tun kunt offinlich
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>mit desim brife allen den, di in sehen adir horin lesin, das wir allir sachin, czweinnge und aufleuffe, di czwischin dem 
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>hochgebornen furstin hern <cei:persName>Wenczlaw, herczogin von <cei:placeName>Slesien</cei:placeName> und herrin czu der <cei:placeName>Legnicz</cei:placeName></cei:persName>, unsirm libin sun, an eyme teil und 
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>uns an dem andirn, dy sich czwischin uns irhebit, und ouch uncz uf desin hutegin tak ergangin habin, wy man di mit
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>sundirlichin wortin genennen mag, uff den allerdurchluchtigstin furstin und herrin hern <cei:persName>Karl, Romischin keisir, czu allin</cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/><cei:persName>czeitin merer des reichis und kunig czu <cei:placeName>Beheim</cei:placeName></cei:persName>, unsirn libin gnedigin herrin, genczlich gegangin sin und gebin im gancze und 
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>vollenkomene macht, di selbin sachin czweinnge und aufleuffe, wor umme das sei mit rechte adir mit fruntschaft, wy er 
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>das noch seynen vornunftin und wirdin czu rate wirdit zu vorrichtin und czu entscheidin und gelobin mit gutin stetin, truwin 
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>an geverd, das wir alle sulche dink und entscheidunge, di der egenant unsir herre der keisir czwischin uns bedirseit noch 
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>rote, siner getruwin vindin, wirdet gancz stete und unverrukt haldin und habin, wollin und sullin, by penen der vorluste 
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>alles unsirs gutis und allis, das wir yczunt habin und noch gewinnen mochtin in kumftigen czeitin. Und des czu or¬
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>kunde habin wir gegebin desin brief, versegeltin mit unsirm anhangindin insigil, der gegebin ist czu <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">noch Cristus</cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/><cei:date value="99999999">geburt dritzenhundirt jarj dor noch in dem sechs und finnfczegstin jar des nohstin sunnabends vor santh Jacobs tak</cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/><cei:date value="99999999">des heiligen czwelfbotn</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_415_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_415_I</cei:title><cei:idno type="Transkribus">197809</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Albrecht von Gotes genaden pfallenczgrafe ze <cei:placeName>Ryn</cei:placeName> und herczog in <cei:placeName>Peyern</cei:placeName></cei:persName>, bechennen und tun chunt offenlichen mit disem
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>brief allen den, die in sehent oder horen lesen, das wir mit sunderlichem rat der hochgeborn fursten und herren <cei:persName>Ludwig, marggrafen</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>ze <cei:placeName>Brandenburg</cei:placeName></cei:persName>, unsers pruder, <cei:persName>Ruprechts des Eltern, pfallenczgraven by <cei:placeName>Rein</cei:placeName> und herczogen in <cei:placeName>Peyern</cei:placeName></cei:persName>, unsers lieben vettern, <cei:persName>Albrechts</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>des vater, und <cei:persName>Rudolfs, des suns, hertzogen ze <cei:placeName>Osterreich</cei:placeName></cei:persName>, unserr oheim, und anderr fursten, freunde und edelr laute mit
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>wolbedachtem mut und mit gutem willen dem allerdurchluchtigsten fursten und herren hern <cei:persName>Karln, romischem kunig, ze allen zeiten</cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:persName>merer des reichs und kunig ze <cei:placeName>Peheim</cei:placeName></cei:persName>, unserm lieben herren, sweher und vater gelobt haben und geloben, auch mit guten trewen ane
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>geverde mit dem gesworen aid, den wir daruber zu den heiligen getan haben, daz wir die hochgeboren furstinne, die herczoginne von
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:placeName>Lignicz</cei:placeName>, des obgenanten unsers herren des kunigs tochter und mumen, die er in seinem kunklichen haus freuntlichen erzogen hat, zu
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>einer elichen wirtinne und zu rehter konschaft nemen, wellen und sulen, von disem heutigen tag inwendig einem ganczen iare
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>oder in kurczern vristen, wenne oder auf welhe zeit unser herre der kunig, des ze rat wirt und mainen und wellen ir geben
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>dreizzig tausent guldin florin gut von golde und swar von gewichte ze rehter morgengabe, da mit ze tun und ze lazzen nach freyer
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>wilkure und dasselb gelt machen wir der obgenanten furstinn, unserr gemaheln, auf unserr stat ze <cei:placeName>Tekkendorf</cei:placeName> mit stewrn, mauten
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>und zollen und auf dem gericht ze <cei:placeName>Viechtach</cei:placeName> mit dem kasten und seiner zugehorung, das sie dieselben ze rehter morgengabe
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>innehaben und besiczzen sol, ob an uns von todes wegen icht geschäch. Uncz an die zeit, das unser erben oder nachkomen ir die
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>obgenanten dreizzig tausent guldin gar und genczlich verrichten und bezaln. Auch geloben wir mit guten trewen on geverde, daz wir die
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>zweinczig tausent guldin, die uns der vorgenante unser herre der kunig ze haimsteur geben sol, und alles ander gelt, das er uns von
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>seinen gnaden schaffend wirt an chein stat wenden noch legen sulen. Und damit nicht anders tun, denne neur nach seinem sunderlichen
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>rat. Mit urchund dits briefs, der versigelt ist mit unserm anhangenden insigel und geben ze <cei:placeName>Pazzawe</cei:placeName> <cei:date value="99999999">nach Krists gepurt</cei:date>
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/><cei:date value="99999999">dreutzehen hundert jare, darnach in dem dreu und fumfzigstem jare, des freitags nach sand Alexii tag</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

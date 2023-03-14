@@ -1,0 +1,3368 @@
+[
+    {
+        "type": "trpDocMetadata",
+        "docId": 169931,
+        "title": "A\u010cK_1389_H_I",
+        "uploadTimestamp": 1559737657596,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 6426603,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=SMOKEUZBJQYTRLCXOTTGXSUY",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=SMOKEUZBJQYTRLCXOTTGXSUY",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Czech",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_169931",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 42647,
+                    "colName": "ACK_czech",
+                    "description": "created by firely@prolight.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187003,
+        "title": "A\u010cK_0064_H_I",
+        "uploadTimestamp": 1563891998681,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7447804,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=EJMITCVYGPCFRBIMEPZQBEHI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=EJMITCVYGPCFRBIMEPZQBEHI",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187003",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187004,
+        "title": "A\u010cK_0065_H_I",
+        "uploadTimestamp": 1563892179209,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7447926,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=WDTSFKHZPYUIMUIRJDXFTWPO",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=WDTSFKHZPYUIMUIRJDXFTWPO",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187004",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187502,
+        "title": "A\u010cK_0071_H_I",
+        "uploadTimestamp": 1563977551810,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458384,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=MPQKQELTLPYPCPDJUDGPPTKX",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=MPQKQELTLPYPCPDJUDGPPTKX",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187502",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187503,
+        "title": "A\u010cK_0066_H_I",
+        "uploadTimestamp": 1563977582919,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458386,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=SNOSPWJJINAKNNPIWJARKCMF",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=SNOSPWJJINAKNNPIWJARKCMF",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187503",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187506,
+        "title": "A\u010cK_0070_H_I",
+        "uploadTimestamp": 1563977659227,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458391,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=NZSJQQZOWUOTLGPMMUFQDSTW",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=NZSJQQZOWUOTLGPMMUFQDSTW",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187506",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187507,
+        "title": "A\u010cK_0072_H_I",
+        "uploadTimestamp": 1563977692373,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458393,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=CSKJZWQCGIOJXWOHYHUCZHMM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=CSKJZWQCGIOJXWOHYHUCZHMM",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187507",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187520,
+        "title": "A\u010cK_0076_H_I",
+        "uploadTimestamp": 1563979723843,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458427,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KFWGDPJBTKTBBPCBOKWJQVNG",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KFWGDPJBTKTBBPCBOKWJQVNG",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187520",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187530,
+        "title": "A\u010cK_0079_H_I",
+        "uploadTimestamp": 1563980204329,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458518,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=BIOZJNFXOTUFQPBJKXCYVGPB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=BIOZJNFXOTUFQPBJKXCYVGPB",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187530",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187531,
+        "title": "A\u010cK_0080_H_I",
+        "uploadTimestamp": 1563980227465,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458520,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZCTZOUBUZCYPZVYGSXNKVRIY",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZCTZOUBUZCYPZVYGSXNKVRIY",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187531",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187533,
+        "title": "A\u010cK_0081_H_I",
+        "uploadTimestamp": 1563980300649,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458524,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TDNKLEDKFHHKWOVQBJHFERWM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TDNKLEDKFHHKWOVQBJHFERWM",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187533",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187535,
+        "title": "A\u010cK_0083_H_I",
+        "uploadTimestamp": 1563980354999,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458528,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=JIAOCCIRPCESXOORAXWTLRCT",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=JIAOCCIRPCESXOORAXWTLRCT",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187535",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187537,
+        "title": "A\u010cK_0086_H_I",
+        "uploadTimestamp": 1563980453073,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458532,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YGKPWEUSHQRKLSAKJTHGCEXG",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YGKPWEUSHQRKLSAKJTHGCEXG",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187537",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187539,
+        "title": "A\u010cK_0088_H_I",
+        "uploadTimestamp": 1563980530353,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458536,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FIQNPQAPCVNXWGGPITSPKHFD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FIQNPQAPCVNXWGGPITSPKHFD",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187539",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187541,
+        "title": "A\u010cK_0089_H_I",
+        "uploadTimestamp": 1563980594446,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 2,
+        "pageId": 7458538,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TWSZDLQUQPMOLFAPSBAHEECD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TWSZDLQUQPMOLFAPSBAHEECD",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187541",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189391,
+        "title": "A\u010cK_0091_H_I",
+        "uploadTimestamp": 1564424857109,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 1,
+        "pageId": 7493068,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=OKPFIKWZUGNIBZGVFIEAVYJJ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=OKPFIKWZUGNIBZGVFIEAVYJJ",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189391",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189392,
+        "title": "A\u010cK_0092_H_I",
+        "uploadTimestamp": 1564424892087,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 1,
+        "pageId": 7493069,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=CMGILMTURXTHOHHJPWQSBAFR",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=CMGILMTURXTHOHHJPWQSBAFR",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189392",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189411,
+        "title": "A\u010cK_0093_H_I",
+        "uploadTimestamp": 1564430377561,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 1,
+        "pageId": 7493298,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GXCJRYVJKTZASNTJKTIQQZJE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GXCJRYVJKTZASNTJKTIQQZJE",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189411",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189675,
+        "title": "A\u010cK_0094_H_I",
+        "uploadTimestamp": 1564480548394,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 1,
+        "pageId": 7502601,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=LHKQCJRDXWMTIMLERFRNJBBZ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=LHKQCJRDXWMTIMLERFRNJBBZ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189675",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189696,
+        "title": "A\u010cK_0095_H_I",
+        "uploadTimestamp": 1564482406749,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 1,
+        "pageId": 7503164,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GNCAENUUJKYGBKJKLWSAILYC",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GNCAENUUJKYGBKJKLWSAILYC",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189696",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189876,
+        "title": "A\u010cK_0100_H_I",
+        "uploadTimestamp": 1564506387524,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 1,
+        "pageId": 7514547,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KLIKCVOQFEIABMNMLYMWYHHM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KLIKCVOQFEIABMNMLYMWYHHM",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189876",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190307,
+        "title": "A\u010cK_0101_H_I",
+        "uploadTimestamp": 1564587993277,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 1,
+        "pageId": 7532539,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=UBHJNAGOICRAKWNYBLMBPNDQ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=UBHJNAGOICRAKWNYBLMBPNDQ",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190307",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190328,
+        "title": "A\u010cK_0102_H_I",
+        "uploadTimestamp": 1564594404478,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 1,
+        "pageId": 7532609,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=HVHQUSSQGKBKKJGMERFVOYWA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=HVHQUSSQGKBKKJGMERFVOYWA",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190328",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190566,
+        "title": "A\u010cK_0103_H_I",
+        "uploadTimestamp": 1564656849936,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "firely@prolight.cz",
+        "uploaderId": 36516,
+        "nrOfPages": 1,
+        "pageId": 7539679,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=NJBDLZNAGLHWQTRYYWBYRBIY",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=NJBDLZNAGLHWQTRYYWBYRBIY",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190566",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 199632,
+        "title": "A\u010cK_0104_H_I",
+        "uploadTimestamp": 1566481307113,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8319987,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TJIONQONCWUYMKUBJNYELPYL",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TJIONQONCWUYMKUBJNYELPYL",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_199632",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 199636,
+        "title": "A\u010cK_0110_H_I",
+        "uploadTimestamp": 1566482246298,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8320429,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=AVOXKESMAEYAQKWQWORRKXZH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=AVOXKESMAEYAQKWQWORRKXZH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_199636",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 199639,
+        "title": "A\u010cK_0111_H_I",
+        "uploadTimestamp": 1566482764976,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8320449,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZYNWEBCYRZBDMKEVWWNFZMEI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZYNWEBCYRZBDMKEVWWNFZMEI",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_199639",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 199641,
+        "title": "A\u010cK_0114_H_I",
+        "uploadTimestamp": 1566483186326,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8320454,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VWRVJWEEYQSHBGMMDNNMCMAD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VWRVJWEEYQSHBGMMDNNMCMAD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_199641",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 200339,
+        "title": "A\u010cK_0115_H_I",
+        "uploadTimestamp": 1566752158191,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8339003,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=CLEHVLITGMSWFVBBVBXDEJSJ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=CLEHVLITGMSWFVBBVBXDEJSJ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_200339",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 200347,
+        "title": "A\u010cK_0116_H_I",
+        "uploadTimestamp": 1566753887269,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8339435,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TDWHXPHIAXZJTWCPNHOOSXVX",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TDWHXPHIAXZJTWCPNHOOSXVX",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_200347",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 200567,
+        "title": "A\u010cK_0117_H_I",
+        "uploadTimestamp": 1566805699094,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8361262,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=OGNXBHAPMTLGPFHUHHEYISLG",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=OGNXBHAPMTLGPFHUHHEYISLG",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_200567",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 200586,
+        "title": "A\u010cK_0118_H_I",
+        "uploadTimestamp": 1566807577949,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8361986,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GAEHXTUTAVVXFKWEMWLSZENE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GAEHXTUTAVVXFKWEMWLSZENE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_200586",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 200608,
+        "title": "A\u010cK_0119_H_I",
+        "uploadTimestamp": 1566808347022,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8364532,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=BIIGRARYBHTCFDBQRAXUPGXP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=BIIGRARYBHTCFDBQRAXUPGXP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_200608",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 201371,
+        "title": "A\u010cK_0138_H_I",
+        "uploadTimestamp": 1566917723692,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 8401932,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VGUVBMYHHANTOLRGCSHPSTGR",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VGUVBMYHHANTOLRGCSHPSTGR",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_201371",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202179,
+        "title": "AZK 0204_H_I",
+        "uploadTimestamp": 1567061927137,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8448886,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FFKMOZZORNLFRQAPVJSEGIQE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FFKMOZZORNLFRQAPVJSEGIQE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202179",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202181,
+        "title": "AZK 0205_H_I",
+        "uploadTimestamp": 1567062455945,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8448891,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RZEJCVOMQDQXDOZQJQPSOHCS",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RZEJCVOMQDQXDOZQJQPSOHCS",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202181",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202183,
+        "title": "A\u010cK_0122_H_I",
+        "uploadTimestamp": 1567062875214,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8448896,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ETDWSFFJVQYODGFUBSYCNTHA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ETDWSFFJVQYODGFUBSYCNTHA",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202183",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202188,
+        "title": "AZK 0207_H_I",
+        "uploadTimestamp": 1567063694099,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8448902,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=MRADMSJZTVRCPDRKXYMSZFDR",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=MRADMSJZTVRCPDRKXYMSZFDR",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202188",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202189,
+        "title": "A\u010cK_0124_H_I",
+        "uploadTimestamp": 1567063699868,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8448903,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=AREDZPLXLHARVOXLQGNQRKLE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=AREDZPLXLHARVOXLQGNQRKLE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202189",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202191,
+        "title": "A\u010cK_0128_H_I",
+        "uploadTimestamp": 1567064207182,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8448916,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KJLSLNHGBBQHMNQOQEVOIYMJ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KJLSLNHGBBQHMNQOQEVOIYMJ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202191",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202194,
+        "title": "A\u010cK_0136_H_I",
+        "uploadTimestamp": 1567064858519,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8448935,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DLTJCKEXWKQTJXWFZFTIMPUX",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DLTJCKEXWKQTJXWFZFTIMPUX",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202194",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202195,
+        "title": "AZK 0497_H_I",
+        "uploadTimestamp": 1567064942497,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8448936,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=NZDVOJVRIRWJVKWCCMREMLZV",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=NZDVOJVRIRWJVKWCCMREMLZV",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202195",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202201,
+        "title": "A\u010cK_0137_H_I",
+        "uploadTimestamp": 1567065340967,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8448951,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TXUBUHCJIMQVLFLJIWKQFWAA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TXUBUHCJIMQVLFLJIWKQFWAA",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202201",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202202,
+        "title": "AZK 0498_H_I",
+        "uploadTimestamp": 1567065542541,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8448952,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=HOBZRLRFCGYZTLPMKFXVVBPA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=HOBZRLRFCGYZTLPMKFXVVBPA",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202202",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202208,
+        "title": "AZK 0575_H_I",
+        "uploadTimestamp": 1567065960511,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8448958,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=WJIMOHDZXKRVPLCJLRYNTKVW",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=WJIMOHDZXKRVPLCJLRYNTKVW",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202208",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202215,
+        "title": "AZK 0576_H_I",
+        "uploadTimestamp": 1567066732446,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8448971,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=AFNUBWPKTUANFTKVSDQCOABL",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=AFNUBWPKTUANFTKVSDQCOABL",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202215",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202232,
+        "title": "AZK 0578_H_I",
+        "uploadTimestamp": 1567068267192,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8449167,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FLFSNFBSBPNDHRPSFPFZRILI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FLFSNFBSBPNDHRPSFPFZRILI",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202232",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202237,
+        "title": "AZK 0579_H_I",
+        "uploadTimestamp": 1567068805781,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8449180,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZZLUXBPEMARCEEFDVEERYGER",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZZLUXBPEMARCEEFDVEERYGER",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202237",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202247,
+        "title": "AZK 0581_H_I",
+        "uploadTimestamp": 1567069421064,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8449338,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=UPZPJKUHILXIVAAMKUUUYYRL",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=UPZPJKUHILXIVAAMKUUUYYRL",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202247",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202255,
+        "title": "AZK 0583_H_I",
+        "uploadTimestamp": 1567069857121,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8450167,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YHCJHRMNKPEHSJCDYJEWPKHP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YHCJHRMNKPEHSJCDYJEWPKHP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202255",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202274,
+        "title": "AZK 0584_H_I",
+        "uploadTimestamp": 1567070533331,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8453327,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TIYFOAFOPNOKJUPNKGIFQOKB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TIYFOAFOPNOKJUPNKGIFQOKB",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202274",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202279,
+        "title": "AZK 0585_H_I",
+        "uploadTimestamp": 1567071026836,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8454907,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=CHLAXLYRYWJEMCNOJLKEUQRA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=CHLAXLYRYWJEMCNOJLKEUQRA",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202279",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202317,
+        "title": "AZK 0586_H_I",
+        "uploadTimestamp": 1567079186518,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467348,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DYKNZURQEVXKABHJDWNHGSQC",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DYKNZURQEVXKABHJDWNHGSQC",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202317",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202320,
+        "title": "AZK 0587_H_I",
+        "uploadTimestamp": 1567079680240,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467407,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=SAMROUGFGOJNNSRTCHEFIVAJ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=SAMROUGFGOJNNSRTCHEFIVAJ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202320",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202324,
+        "title": "AZK 0588_H_I",
+        "uploadTimestamp": 1567080521452,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467413,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=JPOVTAUAQDIDBJWBZVPANKUW",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=JPOVTAUAQDIDBJWBZVPANKUW",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202324",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202327,
+        "title": "AZK 0589_H_I",
+        "uploadTimestamp": 1567080926140,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467418,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=CNBZAZKRUZLDKZVELAOZRKEN",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=CNBZAZKRUZLDKZVELAOZRKEN",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202327",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202335,
+        "title": "AZK 0590_H_I",
+        "uploadTimestamp": 1567081285495,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467487,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FNPYSKAVGQAIJQZIOGORDHXF",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FNPYSKAVGQAIJQZIOGORDHXF",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202335",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202343,
+        "title": "AZK 0591_H_I",
+        "uploadTimestamp": 1567082148149,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467736,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=LWOPMRWTIATJQNXVGKPPXYIS",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=LWOPMRWTIATJQNXVGKPPXYIS",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202343",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202365,
+        "title": "AZK 0595_H_I",
+        "uploadTimestamp": 1567082991359,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467790,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=OZOCWAOZMKJRUDDDLNKKRJOP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=OZOCWAOZMKJRUDDDLNKKRJOP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202365",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202371,
+        "title": "AZK 0596_H_I",
+        "uploadTimestamp": 1567083330980,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467797,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VRJYTMKGLEBKZBPGDFVROJID",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VRJYTMKGLEBKZBPGDFVROJID",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202371",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202383,
+        "title": "AZK 0598_H_I",
+        "uploadTimestamp": 1567083847119,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467833,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RYTDIDPVLZIHNCKXVQHCEQRG",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RYTDIDPVLZIHNCKXVQHCEQRG",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202383",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202386,
+        "title": "AZK 1593_H_I",
+        "uploadTimestamp": 1567084537093,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467852,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GXFLYURCTSOOPIQEZGSJOQKB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GXFLYURCTSOOPIQEZGSJOQKB",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202386",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202390,
+        "title": "AZK 1594_H_I",
+        "uploadTimestamp": 1567084884183,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467858,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZGZHIWLSSJDKETHSZOSYJJAC",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZGZHIWLSSJDKETHSZOSYJJAC",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202390",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202392,
+        "title": "AZK 2347_H_I",
+        "uploadTimestamp": 1567085190396,
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467900,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DSCNYDIIMZAKEDWQWFNNWOVL",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DSCNYDIIMZAKEDWQWFNNWOVL",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202392",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202395,
+        "title": "AZK 2348_H_I",
+        "uploadTimestamp": 1567085962382,
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8467932,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=SKKWVAHCCFIYHQPHWKMQKJCH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=SKKWVAHCCFIYHQPHWKMQKJCH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202395",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202396,
+        "title": "A\u010cK_0120_H_I",
+        "uploadTimestamp": 1567086075850,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8467971,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RLPSUUHBUVNJBBQXLQDTMHFT",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RLPSUUHBUVNJBBQXLQDTMHFT",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202396",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202401,
+        "title": "A\u010cK_0121_H_I",
+        "uploadTimestamp": 1567086468068,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8468092,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=OQUIQZZOTUMUNYPLOMDEAZBT",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=OQUIQZZOTUMUNYPLOMDEAZBT",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202401",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202403,
+        "title": "A\u010cK_0123_H_I",
+        "uploadTimestamp": 1567087061067,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8468271,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VXMPZKOSHVKNYEBTXLVLPNZD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VXMPZKOSHVKNYEBTXLVLPNZD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202403",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 205086,
+        "title": "A\u010cK_0140_H_I",
+        "uploadTimestamp": 1567582197110,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8841336,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YDPJTDDMFGEMBFTDATKIFNAI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YDPJTDDMFGEMBFTDATKIFNAI",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_205086",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 205096,
+        "title": "A\u010cK_0147_H_I",
+        "uploadTimestamp": 1567583146555,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8844509,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=AMUZODXAOLFMVDLEKYYILNZW",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=AMUZODXAOLFMVDLEKYYILNZW",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_205096",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 205360,
+        "title": "A\u010cK_0148_H_I",
+        "uploadTimestamp": 1567583673478,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8845879,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=QFSSUJFPDWSWOMEJKYWSNBOC",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=QFSSUJFPDWSWOMEJKYWSNBOC",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_205360",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 205525,
+        "title": "A\u010cK_0151_H_I",
+        "uploadTimestamp": 1567584449041,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8846871,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=SBFLEARCECCLWEWLCGXMCQOZ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=SBFLEARCECCLWEWLCGXMCQOZ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_205525",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 206626,
+        "title": "A\u010cK_1514_H_I",
+        "uploadTimestamp": 1567695801074,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 8882723,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KSNDLXWMQLBISXRIBWQITSBC",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KSNDLXWMQLBISXRIBWQITSBC",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_206626",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 206813,
+        "title": "A\u010cK_0135_H_I",
+        "uploadTimestamp": 1567756317565,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8890934,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=QRLFQNTPPJWPMBNCWNSQFQXW",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=QRLFQNTPPJWPMBNCWNSQFQXW",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_206813",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 206818,
+        "title": "A\u010cK_1485_H_I",
+        "uploadTimestamp": 1567757226899,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8890939,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ONOFPMAGFMBKHZWTCEUZMEBK",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ONOFPMAGFMBKHZWTCEUZMEBK",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_206818",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 206829,
+        "title": "A\u010cK_1486_H_I",
+        "uploadTimestamp": 1567758317598,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8891242,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TEPEVPAYAXAYWIMRGWRWEUAM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TEPEVPAYAXAYWIMRGWRWEUAM",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_206829",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 208817,
+        "title": "A\u010cK_1487_H_I",
+        "uploadTimestamp": 1568190263818,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8945449,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KZNZFIGCMKEJPFQWBYVJGCFS",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KZNZFIGCMKEJPFQWBYVJGCFS",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_208817",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 208820,
+        "title": "A\u010cK_1494_H_I",
+        "uploadTimestamp": 1568190902706,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8945687,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=IOZWYWDVQLUATRJGYXPWGBEA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=IOZWYWDVQLUATRJGYXPWGBEA",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_208820",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 208828,
+        "title": "A\u010cK_1501_H_I",
+        "uploadTimestamp": 1568191591908,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8945705,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TSWLFIOQEDGDXPMFREWHNQIP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TSWLFIOQEDGDXPMFREWHNQIP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_208828",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 208835,
+        "title": "A\u010cK_1507_H_I",
+        "uploadTimestamp": 1568192550100,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8945727,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RSEXJBQIZDHHEEUWOVXPQGFA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RSEXJBQIZDHHEEUWOVXPQGFA",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_208835",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 211747,
+        "title": "A\u010cK_1647_H_I",
+        "uploadTimestamp": 1568643647213,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9089150,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RRTPMUHRVGBUXGHMQXLLNCBP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RRTPMUHRVGBUXGHMQXLLNCBP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_211747",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 211753,
+        "title": "A\u010cK_1560_H_I",
+        "uploadTimestamp": 1568644252177,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 9091894,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=BSKJVIVMOVOLYJLDWMFDCVUG",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=BSKJVIVMOVOLYJLDWMFDCVUG",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_211753",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 211757,
+        "title": "A\u010cK_1690_H_I",
+        "uploadTimestamp": 1568644844295,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9094467,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YVFESXTQJVULWWVQEIICPLCG",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YVFESXTQJVULWWVQEIICPLCG",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_211757",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212059,
+        "title": "A\u010cK_1707_H_I",
+        "uploadTimestamp": 1568704274828,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9100511,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=WBCXHIPMZUDIUSPZPQGBDLAH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=WBCXHIPMZUDIUSPZPQGBDLAH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Czech",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212059",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212108,
+        "title": "A\u010cK_1593_H_I",
+        "uploadTimestamp": 1568708246870,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 9100736,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=LLZWWVPITJGMCUXYJUFOEUSI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=LLZWWVPITJGMCUXYJUFOEUSI",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212108",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212138,
+        "title": "A\u010cK_1599_H_I",
+        "uploadTimestamp": 1568710532045,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9100821,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=QWSSIQSXIAIPRRCSVHOAFDVE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=QWSSIQSXIAIPRRCSVHOAFDVE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212138",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212242,
+        "title": "A\u010cK_1601_H_I",
+        "uploadTimestamp": 1568714594012,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9105834,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=XKGDRNIZPNQNWBRLLWDHIGYK",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=XKGDRNIZPNQNWBRLLWDHIGYK",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212242",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212335,
+        "title": "A\u010cK_1603_H_I",
+        "uploadTimestamp": 1568721292345,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9109027,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DHYTWCHDHVPYPFYCHSWHEAHE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DHYTWCHDHVPYPFYCHSWHEAHE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212335",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212352,
+        "title": "A\u010cK_1631_H_I",
+        "uploadTimestamp": 1568723335995,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9110500,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RFUBNPDIZCHDJHSRCLTZVYRF",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RFUBNPDIZCHDJHSRCLTZVYRF",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212352",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212397,
+        "title": "A\u010cK_1635_H_I",
+        "uploadTimestamp": 1568726651553,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9112401,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=IQGVKIYAOSZTBJPIJLYNERGS",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=IQGVKIYAOSZTBJPIJLYNERGS",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212397",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212445,
+        "title": "A\u010cK_1672_H_I",
+        "uploadTimestamp": 1568729238975,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9115283,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GHJEESASHAHHZDETCEMCJIVU",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GHJEESASHAHHZDETCEMCJIVU",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212445",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212448,
+        "title": "A\u010cK_1686_H_I",
+        "uploadTimestamp": 1568730766755,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9115300,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=LTWEOMFANGGDYYUQTIVVSSDU",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=LTWEOMFANGGDYYUQTIVVSSDU",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212448",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212454,
+        "title": "A\u010cK_1708_H_I",
+        "uploadTimestamp": 1568731880019,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9115374,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=XHKKLPKCXHUBPRZZFWPAPBIZ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=XHKKLPKCXHUBPRZZFWPAPBIZ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212454",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212463,
+        "title": "A\u010cK_0189_H_I",
+        "uploadTimestamp": 1568733664487,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9115399,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=AWXZZJLJCVWTEYTEJAHSUPMP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=AWXZZJLJCVWTEYTEJAHSUPMP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212463",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212731,
+        "title": "A\u010cK_0174_H_I",
+        "uploadTimestamp": 1568793544910,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9118861,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FWCWSVUSSNMZXBDFXILYWOKD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FWCWSVUSSNMZXBDFXILYWOKD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212731",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212779,
+        "title": "A\u010cK_0168_H_I",
+        "uploadTimestamp": 1568801605673,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9127611,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ICHJLUMGWTBFQWSLHBCZAFAE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ICHJLUMGWTBFQWSLHBCZAFAE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212779",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212812,
+        "title": "A\u010cK_1589_H_I",
+        "uploadTimestamp": 1568807803894,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 9133704,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DCIGGKHKDUCTYLOBAYKFXJWH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DCIGGKHKDUCTYLOBAYKFXJWH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212812",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212828,
+        "title": "A\u010cK_0175_H_I",
+        "uploadTimestamp": 1568810598601,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9134959,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ULAFOEDJIRWJAPFHSQLIASLD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ULAFOEDJIRWJAPFHSQLIASLD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212828",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212835,
+        "title": "A\u010cK_0179_H_I",
+        "uploadTimestamp": 1568811278887,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9134988,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=MHRAMBNKLXUEKXLYEJFIEHBD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=MHRAMBNKLXUEKXLYEJFIEHBD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212835",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212841,
+        "title": "A\u010cK_0182_H_I",
+        "uploadTimestamp": 1568811821747,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9135582,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KFFWUHKBFOFRQHGJIWYVTTZR",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KFFWUHKBFOFRQHGJIWYVTTZR",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212841",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212858,
+        "title": "A\u010cK_1588_H_I",
+        "uploadTimestamp": 1568813191883,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 9135620,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GUFWJRNEXBXTZOFRZLOFJDUY",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GUFWJRNEXBXTZOFRZLOFJDUY",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212858",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 212877,
+        "title": "A\u010cK_0188_H_I",
+        "uploadTimestamp": 1568817674668,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9136110,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=JSJUOQBPAIADTIWDQVDFPBPD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=JSJUOQBPAIADTIWDQVDFPBPD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_212877",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 213868,
+        "title": "A\u010cK_1587_H_I",
+        "uploadTimestamp": 1568973379532,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 9158848,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=IPNTLDZESQDPYKQQZMSJOAFT",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=IPNTLDZESQDPYKQQZMSJOAFT",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_213868",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 213871,
+        "title": "A\u010cK_0176_H_I",
+        "uploadTimestamp": 1568974964980,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9158854,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RLMLZEFMPXBVQWNCGSJIYRFC",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RLMLZEFMPXBVQWNCGSJIYRFC",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_213871",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 213872,
+        "title": "A\u010cK_0181_H_I",
+        "uploadTimestamp": 1568975550581,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 9158855,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=WNABVPZAWSNQMDWIGMLJMRXZ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=WNABVPZAWSNQMDWIGMLJMRXZ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_213872",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 222068,
+        "title": "A\u010cK_1509_H_I",
+        "uploadTimestamp": 1570103405648,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 9462055,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FBOYVPWHXLSNGQSCELTBSQWX",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FBOYVPWHXLSNGQSCELTBSQWX",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_222068",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 222687,
+        "title": "A\u010cK_1511_H_I",
+        "uploadTimestamp": 1570190720971,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 9477173,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DRPKPMOVICYBJFEOCLYMFAWV",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DRPKPMOVICYBJFEOCLYMFAWV",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_222687",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 222730,
+        "title": "A\u010cK_1512_H_I",
+        "uploadTimestamp": 1570194901407,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 9478054,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=LEUOHEAGGFKEJSERKAOJFGQU",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=LEUOHEAGGFKEJSERKAOJFGQU",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_222730",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 222752,
+        "title": "A\u010cK_1513_H_I",
+        "uploadTimestamp": 1570197361240,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 9478262,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=IYBXYIFWWTMAOFZRWGHIGHDG",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=IYBXYIFWWTMAOFZRWGHIGHDG",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_222752",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44925,
+                    "colName": "NACR - Latin charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_614_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_614_I</cei:title><cei:idno type="Transkribus">191851</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Adelheit, von Gots gnaden abtesinne zu <cei:placeName>Pergen</cei:placeName></cei:persName>, und wir die gemein dez convents da selbes bekennen und tun kunt offenlich mit disem
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>brief allen den, die in ansehent horent oder lesent, wanne der allerdurchleuhtigst furste und herre her <cei:persName>Karl, der romisch keyser und kunig </cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N003"/><cei:persName>zu <cei:placeName>Beheim</cei:placeName></cei:persName>, unser genediger herre, uns und unsers closters lewt und gut, die wir haben in der gegende umb <cei:placeName>Herspruk</cei:placeName> in sein und seiner 
+                    <cei:lb facs="#facs_1_r1l7" n="N004"/>nachkumen kunig zu <cei:placeName>Beheim</cei:placeName> versprechnuzz, schutz und scherm genedichlich genumen und enphangen hat, als ein kunig zu <cei:placeName>Beheim</cei:placeName> und dar
+                    <cei:lb facs="#facs_1_r1l8" n="N005"/>umb daz uns, unser lewt und gut in der obgenanten herschaft, dieselben unser herre und ir amptlewt fuderlich versprechen, schutzen und schermen 
+                    <cei:lb facs="#facs_1_r1l9" n="N006"/>gen allermenigchlich sullen wir und unser closter dem vorgenanten unserm herren und seinen nachkomen kunig zu <cei:placeName>Beheim</cei:placeName> in daz ampt gen 
+                    <cei:lb facs="#facs_1_r1l10" n="N007"/><cei:placeName>Herspruk</cei:placeName>, ierlichen vom unserm closter geben zwo und dreizzig mutt habern und aht mutt roken und von unsern guten aht vogtswein und 
+                    <cei:lb facs="#facs_1_r1l11" n="N008"/>von iglichem unserm gut, daz der vorgenant unser her mit vogtey innen hat oder haben sol, den vogteweitz und kes, als daz von alter herkomen ist, 
+                    <cei:lb facs="#facs_1_r1l12" n="N009"/>und uber daz, daz vorgenant ist, sol der vorgenant unser herr sein vorgenanten nachkumen und amptlewt kein bet stewr gab reht gewonheit oder keinerley 
+                    <cei:lb facs="#facs_1_r1l13" n="N010"/>beswerung uf die egenante unser lewt und gut setzen oder immer gevorden oder von in nemen, und dar umb sullen in unser arm lewt in der egenanten
+                    <cei:lb facs="#facs_1_r1l14" n="N011"/>gegende gesezzen ierlichen in daz obgenanten ampt gen <cei:placeName>Herspruk</cei:placeName> funtzig pfunt haller antwurten und bezaln, halbe zu sant Michaels tag
+                    <cei:lb facs="#facs_1_r1l15" n="N012"/>und halbe zu sant Walpurgen tag, und di vorgenanten haller sullen getrewlich uf die gut geteilt und gelegt worden, dar nach und si gut sint,
+                    <cei:lb facs="#facs_1_r1l16" n="N013"/>und igliches mer oder minner getragen mag, und uber daz sol uns vorgenanten herre sein egenanten nachkumen und amptlewt bey allen 
+                    <cei:lb facs="#facs_1_r1l17" n="N014"/>unsern rechten und freiheit behalten und lazzen beleiben, auz genumen dez halsgerihts oder andere gerihte, als von alter herkumen
+                    <cei:lb facs="#facs_1_r1l18" n="N015"/>sint, und wanne der vorgenanten unser her uns und unserm closter solche genade getan hat, dar umb daz uns und unserm closter furbaz hin,
+                    <cei:lb facs="#facs_1_r1l19" n="N016"/>alleweg unser reht gantzz gult nach unsers salbuchs sag von allen unsern guten in der obgenanten gegende ierlichen werden, und ob sich dez 
+                    <cei:lb facs="#facs_1_r1l20" n="N017"/>iemant widersatzt den sullen unser amptlewt darzu twingen und halden, und wo in daz zu swere wurde, so sullen in dez vorgenanten  
+                    <cei:lb facs="#facs_1_r1l21" n="N018"/>unsere herren und sein nachchumen amptlewt zu dem <cei:placeName>Hohenstein</cei:placeName> und zu <cei:placeName>Herspruk</cei:placeName>, ernstlich und getrewlich darzu geholfen sein. Ez sol 
+                    <cei:lb facs="#facs_1_r1l22" n="N019"/>auch der vorgenant unser herre und sein egenanten nachkumen kein unser gut oder keinerley reht daruf niemant geben, leihen, versetzen oder ver¬
+                    <cei:lb facs="#facs_1_r1l23" n="N020"/>kumern, dar von uns und unserm closter schade an unserm rehten gulten oder nutzen komen moht. Ez sol ouch kein unser lowt oder gut 
+                    <cei:lb facs="#facs_1_r1l24" n="N021"/>fur den obgenanten unsern herren, sein nachkumen kunig zu <cei:placeName>Beheim</cei:placeName> oder amptlewt, pfant oder pfantler niht sein, noch fur niemant anders
+                    <cei:lb facs="#facs_1_r1l25" n="N022"/>danne fur uns und unser closter, und zu urchunde gebn wir vorgenanten <cei:persName>Alheit, abtessinn dez egenanten closters zu <cei:placeName>Pegren</cei:placeName></cei:persName><cei:placeName/>, und wir der egenanten convent
+                    <cei:lb facs="#facs_1_r1l26" n="N023"/>dez selben closters, unsern egenanten herren hern <cei:persName>Karl, dem Romischen keyser und kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, und seinen nachkumen kunig zu <cei:placeName>Beheim</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l27" n="N024"/>disen brief mit unsern insigeln versigelten, die beyde daran hangent. Der brief ist geben <cei:date value="99999999">do man zalt von Christs geburt drewtzehn</cei:date>
+                    <cei:lb facs="#facs_1_r1l28" n="N025"/><cei:date value="99999999">hundert jar und in dem siben und funftzigstem jar an dem nehsten freytag vor dem suntag in der vasten, so man singet oculi</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_712_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_712_I</cei:title><cei:idno type="Transkribus">198337</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Wir, <cei:persName>Johans</cei:persName> und <cei:persName>Gunther, gebruder, grafen von <cei:placeName>Swarczburg</cei:placeName></cei:persName>, bekennen und tun kunt offinlich mit diesem briefe allen
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>den, die in sehent odir horent lesen, daz wir vor uns, unsir erben und nachkomen mit wolbedachtem mute, mit rate unsir 
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>frunde und mit rechter wizzen dem allirdurchluchtigistem fursten und herren hern<cei:persName> Karln, romschem keiser, zu allen zeiten me¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/><cei:persName>rer des reichs und kunige zu <cei:placeName>Beheim</cei:placeName></cei:persName>, unserm lieben gnedigen herren als einem kunige zu <cei:placeName>Beheim</cei:placeName>, seinen erben und nach¬
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>komen, kunigen dem kungreich und der cronen desselben kungrichs czu <cei:placeName>Beheim</cei:placeName> erblich und eweclich umb funftausent 
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>und funfczig schok guter pragescher grossen, die uns genczliche bezalet und in unsern schinberlich kuntlichen nutz gekeret 
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>sein, ee dirre brieff gegeben sei, die vesten <cei:placeName>Spremberg</cei:placeName>, burg und stat, mit allen dorfern, leuten, herscheften, landen, guten, gerich¬
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>ten, bennen, zollen, geleiten, vorsten, wiltpennen, gulten, zinsen, nutzen, velden, welden, pusschen, geiegden, vogelweiden, wysen,
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>weiden, wazzern, mulen, wazzerleufen, teichen viesschenen, bergen, grunden, sleten, gemerken, creizen, grenitzen, und alle nut¬
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>zen oben und under der erden und ouch mit rittern, knechten, mannen, manscheften, lehen, lehenscheften, verlehenten guten,
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>kirchlehen und gotslehen, dienern, eigenen leuten, pfantscheften und allen andern zugehorungen, wie man die mit sunder¬
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>lichen worten benennen mag, recht und redelich verkouft haben und verkeufen an diesem brieve und verzeihen uns vor uns,
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>unsir erben und nachkomen ewecliche alles rechten, ansprache, anredunge, die wir zu der obgenanten vesten <cei:placeName>Spremberg</cei:placeName>, burg 
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>und stat, und allen iren zugehorungen, als dovor begriffen ist, gehabet haben, noch hetten odir haben mochten in dheinewis, 
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>und verzeihen uns auch sunderlich aller hulfe geistliches und werntliches rechten und aller gesecze, keiserlicher und babst¬
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>licher buche, der lande gewonheit und aller ander sache do mit dieser kouf in dheine weis mochte gehindert werden. Ouch 
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>han wir <cei:persName>Johan</cei:persName> und <cei:persName>Gunther</cei:persName> egenante vor uns, unsir erben und nachkomen in guten trewen mit rechter wizzen globt und 
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/>globen in disem briefe, daz wir dem vorgenanten unsirn herren dem keiser als einem kunige zu <cei:placeName>Beheim</cei:placeName>, seinen erben und nach¬
+                    <cei:lb facs="#facs_1_r1l20" n="N019"/>komen, kunigen, dem kungreiche und der cronen desselben kungrichs zu <cei:placeName>Beheim</cei:placeName> als von der vesten <cei:placeName>Spremberg</cei:placeName>, burg 
+                    <cei:lb facs="#facs_1_r1l21" n="N020"/>und stat, und allen iren egenanten zugehorungen sullen und wellen gute stete werung tun, als in den landen recht und gewon¬
+                    <cei:lb facs="#facs_1_r1l22" n="N021"/>heit ist. Und aller dieser sache zu urtkund und ewiger warheit han wir unsir insiegel an diesen brieff gehangen. Der geben ist 
+                    <cei:lb facs="#facs_1_r1l23" n="N022"/>zu <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">nach Cristus geburt dreutzenhundirt jar dornach in dem sechtzigstem jar, an dem nechsten dinstag nach dem </cei:date>
+                    <cei:lb facs="#facs_1_r1l24" n="N023"/><cei:date value="99999999">Obristen tage</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

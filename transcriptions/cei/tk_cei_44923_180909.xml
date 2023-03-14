@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_316_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>katerina.zenklova@nacr.cz Collection</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_316_I</cei:title><cei:idno type="Transkribus">180909</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Wir <cei:persName>Rudolph von Gots gnaden herczoge ze <cei:placeName>Sachsen</cei:placeName>, des heilgen Romischen reichs erczmarschalk</cei:persName>, <cei:persName>herczog Rudolph</cei:persName>, sein sun, <cei:persName>Johans, herczog ze</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/><cei:persName><cei:placeName>Mekkelnburg</cei:placeName></cei:persName>, <cei:persName>Albrecht, grave ze <cei:placeName>Anhalt</cei:placeName> und fürste ze <cei:placeName>Aschaye</cei:placeName></cei:persName>, und <cei:persName>Albrecht, graf ze <cei:placeName>Muglingen</cei:placeName> und herre ze <cei:placeName>Barbey</cei:placeName></cei:persName><cei:placeName/>, viriehen und tun kunt 
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>offenlich mit disem brive allen den, di in sehent, horent odir lesent, wann der hochgeborn fürste und unsir liber oheim, her <cei:persName>Woldmar, marggraf</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/><cei:persName>ze <cei:placeName>Brandenburg</cei:placeName>, des heilgen Romischen reichs erczkamerer</cei:persName>, angesehen hat die besunder gnad und hilfe, di im der allerdurchleuchtigiste fürste
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>und unsirr gnedigir herr her <cei:persName>Karl, romischer küng, ze allen zeiten merer des reichs und küng ze <cei:placeName>Beheim</cei:placeName></cei:persName>, von seiner künglicher güte getan
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>hat mit trewen und mit ganczem vleizze und noch tun mag, sein land und erbe ze gewinnen, und hat im und seinen erben und nach¬
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>komen kungen ze <cei:placeName>Beheim</cei:placeName> mit bedachtem mut und mit gutem rat, di marke ze <cei:placeName>Lwsicz</cei:placeName> mit dem lande vereygent und gegeben, mit
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>aller irr zugehörung als in den briefen, di dorubir gegeben seint volkomichlicher stet geschriben, do von geloben wir mit ganczen trewen
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>on geverd, für uns, unsir erben und nachkomen dem vorgenanten unserm genedigen herren dem romischen künge und künge ze <cei:placeName>Beheim</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>das wir im, seinen erben und nachkomen küngen ze <cei:placeName>Beheim</cei:placeName> getrewlich und on geverd mit allir unsirr macht beholfen sein wellen und 
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>schüllen, das si das vorgenante land ze <cei:placeName>Lwsicz</cei:placeName> erchriegen, und in ir gehorsam bringen in aller der mazze als di briefe, luten, di in von
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>dem vorgenanten unserm lieben oheim, <cei:persName>marggraf Woldmarn</cei:persName>, darubir seint gegeben. Und dornoch geloben wir mit guten trewen on alles geverd,
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>das wir das schaffin wellen und schikken, das unsir liben frünt, <cei:persName>herczog Otte von <cei:placeName>Sachsen</cei:placeName></cei:persName>, herczog <cei:persName>Albrecht von <cei:placeName>Mekkelnburg</cei:placeName></cei:persName><cei:placeName/> und
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/><cei:persName>grave Woldmar ze <cei:placeName>Anhalt</cei:placeName>, fürste von <cei:placeName>Aschaye</cei:placeName></cei:persName>, di zu demmal nicht gegenwurtig waren, di selbe gelubden, di wir getan habn
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>in disem brive ouch tun sullen von worte ze wort, als wir und des ir besundern brief geben in allir der mazze als do vor
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>geschriben stet, und di versigiln mit irn insigiln, so wir das allirschirist gefügen und geschaffen mügen on geverd. Mit urchünd
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>diczs briefs virsiglt mit unsern insigiln, der geben ist ze <cei:placeName>Tempelberg bey Furstenwald</cei:placeName> <cei:date value="99999999">do man czalt von Christes geburth dreuczehen </cei:date>
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/><cei:date value="99999999">hundert jar, darnach in dem acht und virczgistem jar des nesten dornstages noch sand Michels tag</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_472_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_472_I</cei:title><cei:idno type="Transkribus">190251</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Stephan von Gots gnaden pfallenczgrafe bi <cei:placeName>Rein</cei:placeName> und herczog in <cei:placeName>Beyern</cei:placeName></cei:persName>, bekennen offenlich und tun
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>kunt allen den, di disen brief horen, sehen odir lesen, daz wir dem alleriduchtigstein fursten und
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>herren, hern <cei:persName>Karlen romischem kunge ze allen zeiten mererer des reichs und kunge ze <cei:placeName>Beheim</cei:placeName></cei:persName>, unserm lieben gnedi¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>gen herren, und dem hochgebornen fürsten, hern <cei:persName>Johansen marggrafen ze <cei:placeName>Merhern</cei:placeName></cei:persName>, unserm oheim, iren erben und
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>nachkomen, kunigen ze <cei:placeName>Beheim</cei:placeName> und marggrafen ze <cei:placeName>Merhern</cei:placeName>, gelobt haben und geloben auch fur uns, un¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>sir erben und nachkomen ewiclichen in guten trewen on geverde, daz wir in iren landen und herscheften,
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>wo sie di habent, dheine <cei:missing>veste</cei:missing>n, stat odir gut koufen noch dheinen man, der in iren landen gesezzen sei,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>zu diener emphahe<cei:missing>n welle</cei:missing>n oder sullen, ez were danne, das si uns das mit guten willen gunnen wolten.
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>Und das selbe sullen die egenanten unser herre der kunig, der marggraf ze <cei:placeName>Merhern</cei:placeName>, unser oheim,
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>ir erben und nahkomen, kunig ze <cei:placeName>Beheim</cei:placeName> und marggrafen ze <cei:placeName>Merhern</cei:placeName>, gen uns, unsern erben und
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>nachkomen, herczogen in <cei:placeName>Beyern</cei:placeName>, ze tun pflichtig sein geleicher weiz, als vor begriffen ist. Mit urkund dicz
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>brieves versigelt mit unser ingesigel, der geben ist ze <cei:placeName>Peyse</cei:placeName> <cei:date value="99999999">am mantage vor sant Gergorii tag des</cei:date>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:date value="99999999">heiligen lerers nach Christes geburd dreuczehen hundert jar, darnach in dem funf und fumfczigstem jar</cei:date>.
+            </cei:pTenor></cei:tenor><cei:tenor><cei:pb facs="#facs_2" n="2" id="img_0002"/></cei:tenor>
+         
+      
+   
+</cei:cei>

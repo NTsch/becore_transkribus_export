@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_394_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_394_I</cei:title><cei:idno type="Transkribus">190076</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir burgermaister und der gesworne rat der stat zu <cei:placeName>Tekendorf</cei:placeName> bekennen und tun chunt offenlich
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>mit disem brive allen den, di in sehen oder horen lesen, daz wir durch sunderlich gebot des hochge¬
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>bornen fursten hern <cei:persName>Albrechts, pfalczgraven bei <cei:placeName>Rein</cei:placeName> und herczogen in <cei:placeName>Beyern</cei:placeName></cei:persName>, unsers lieben
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>genedigen herren, mit wolbedachtem mute, mit rat, gunst, wizzen und willen unserr gemein¬
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>schefte gelobt haben und geloben, auch in guten trewen an geverd, der hochgebornen furstin¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>nen <cei:persName>herczogen Ludweigs</cei:persName> tochter von <cei:placeName>Lignicz</cei:placeName>, des obgenanten unsers heren eliche wir¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>tinne, zu einem rechtem pfande umb dreizzig tausent guldeiner irerr morgengab,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>daz wir derselben unserr vraun und zu irer hant dem allerdurchluchtigsten fursten und herren
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>hern <cei:persName>Karl, Romischen kunig, zu allen zeiten merer des reichs und kunig zu <cei:placeName>Behem</cei:placeName></cei:persName> zu einem
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>rechten pfand warten, gehorsam und undertenig sein wellen und sullen, mit dem gerichte zu
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>viechtach, dem ckasten und seiner zugehorung, uncz an die czeit, das der obgenant unser
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>herr <cei:persName>herczog Albrecht</cei:persName>, sein erben oder nachkomen, der obgenanten unserr vrawn oder wem
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>si das verschaft, di egenanten dreizzig tausent guldein gar und genczlich verrichten
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>und beczalen in aller der mazze, als des obgenanten unsers herren <cei:persName>herczogen Albrechts</cei:persName> brive,
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>di er daruber geben hat, lauterlich begreiffen. Mit urkund dicz brives, versigelt mit
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>unserr stat insigel, der geben ist zu <cei:placeName>Tekendorf</cei:placeName> <cei:date value="99999999">nach Cristus geburte dreuczenhundert</cei:date>
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:date value="99999999">und in dem drei und fumfczgistem jare an sant Prothasius tag des heiligen merterers</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_716_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_716_I</cei:title><cei:idno type="Transkribus">190184</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Karl von Gots gnaden Römischir keisir, zu allen zeiten merer des reichs und kü</cei:persName>¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>nig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, bekenne und tun kunt offenlich mit diesem briefe allen den, die in sehent 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>odir horent lesen, daz wir den hochgeborn <cei:persName>Ludweigen dem Römer, marggrafen zu <cei:placeName>Brandem</cei:placeName></cei:persName>¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName><cei:placeName>burg</cei:placeName>, des heiligen Römischin reichs obristen camrer, pfallentzgrafen by <cei:placeName>Ryn</cei:placeName> und hertzogen</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName>in <cei:placeName>Beyrn</cei:placeName></cei:persName>, und marggrafen <cei:persName>Otten, seinem bruder</cei:persName>, unsern lieben öheim und fürsten, iren erben
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>und nachkomen marggrafen zu <cei:placeName>Brandemburg</cei:placeName> und zu <cei:placeName>Lusitz</cei:placeName> gelobt haben und geloben auch 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>für uns, unsir erben und nachkomen künige zu <cei:placeName>Beheim</cei:placeName>, daz wir in iren landen und kschef¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>ten, so die habent, und der sie in gewer seint, dhein vesten stat odir gut kauffen nach dhei¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>nen man, der in iren landen gesezzen sey zu diener emphalen, wellen odir sullen. Ez were denne,
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>daz sie uns des mit gutem willen günnen wolten und dasselbe sullen die egenanten unser oheim,
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>ire erben und nachkomen, gen uns, unsern erben und nachkomen kunigen zu <cei:placeName>Beheim</cei:placeName> zutun, phlich¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>tig sein gleichirweis, als vor begriffen ist. Mit urkunde ditz briefes, versigelt mit unserm keisirlich¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>im ingsiegel, der gebin ist zu <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">nach Cristes geburde dreizenhundirt iar, darnach in dem</cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:date value="99999999">sechtzgistem iare an dem nahsten freitage vor unser Frawen tag, zu der liechtmezze unser rei</cei:date>¬
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:date value="99999999">che in dem vierczenden und des keisirtums in dem fumften jare</cei:date>.
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>Per dominum cancellarium 
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:persName>Heinricus Australis</cei:persName>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

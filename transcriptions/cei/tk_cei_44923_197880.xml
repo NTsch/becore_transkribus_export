@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_629_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_629_I</cei:title><cei:idno type="Transkribus">197880</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Albrecht von Gots gnaden pfalenczgraf bei <cei:placeName>Rein</cei:placeName> und herczogen zu <cei:placeName>Beyern</cei:placeName></cei:persName> bekennen und tun kunt offenlich mit diesem brief
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>allen den die yn sehen odir lesen, das wir mit wolbedachtem mut und mit rat unser getruwen und ouch mit rechter wize
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>vor uns, unsir erben und nakomen eweclich uns verczigen haben und verczihen aller der recht, anredung und ansprach, ob wir dheine 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>gehabt haben und haben odir gehaben mochten in kunftigen ziten zu den landen zu <cei:placeName>Budissin</cei:placeName> und zu <cei:placeName>Gorlicz</cei:placeName> und zu den steten <cei:placeName>Luban</cei:placeName>, 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:placeName>Lubaw</cei:placeName>, <cei:placeName>Camencz</cei:placeName> und andern steten, lehenen, mannen, manscheften, weipilden und kreizz, die dar zu geherent geistlich und werntlich 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>und bei namen zu den edilen herren von <cei:placeName>Pack</cei:placeName>, von <cei:placeName>Saraw</cei:placeName> und zu dem lande zu <cei:placeName>Sarow</cei:placeName> und zu den herren von <cei:placeName>Hackenborn</cei:placeName> und irer 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>herschafft und ir aller erben und nakomen eweclich, und was doselbes der allerdurchluchtigiste furst, unser gnediger herre herr <cei:persName>Karl, </cei:persName>
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName>romischir keisir, zu allen zeiten merer des richs und kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, innehat und die hochgeborn fursten und herren her <cei:persName>Johan, </cei:persName>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/><cei:persName>eczwan kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, sein vatter seliger und her <cei:persName>Heinrich, weilent hertzog zu dem <cei:placeName>Jauwir</cei:placeName></cei:persName>, unsir oheim seliger, innegehabt 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>und besezzen haben und globen mit guten truwen ane geverde vor uns, unsir erben und nakomen mit gesworn eide, dem wir dor¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>uber zu den heiligen getan haben, das wir dem vorgenanten unsirm lieben genedigem herren sinen erben und nakomen kunigen zu <cei:placeName>Beheim</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>an dem vorgenanten lande <cei:placeName>Budissin</cei:placeName>, <cei:placeName>Gerlicz</cei:placeName> und den steten <cei:placeName>Luban</cei:placeName>, <cei:placeName>Lubow</cei:placeName>, <cei:placeName>Camencz</cei:placeName> und andern steten, lehenen, mannen, manscheften, 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>weipilden, kreizzen und allen zugeherungen, geistlichen und werntlichen und beinamen an den vorgenanten edilen herren von <cei:placeName>Pack</cei:placeName>, von 
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:placeName>Sarow</cei:placeName> und von <cei:placeName>Hackenburn</cei:placeName>, iren erben und nachkomen und aller zugeherung, nicht hindern bescheitigen ansprechen noch becrudin 
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>wollen und geloben mit guten truwen an geverde und mit dem vorgenanten gesworen eide, das wir nach den vorgenanten landen, herren, steten, 
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>mannen, manscheften und allen zugeherungen als vor geschriben stet nymmer gesten enwollen noch sollen mit ansprach anredunge 
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>noch mit dheinen sachen geistlich odir werntlich, wie man die genennen mag ez sollen, auch alle briefe und hantfesten, die wir von unsirm 
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>vater seligen odir von ymand andirs, doruber haben unkreftig, untugelich und allir sachen abesein und dem vorgenanten unsirm gnedigem 
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>herren, sinen erben und nakomen kunigen zu <cei:placeName>Beheim</cei:placeName> keinen schaden bringen, wan wir uns mit wolbedachtem mut und mit gutem 
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>rat verzigen haben und verczihen genczlich vor uns, unsir erben und nakomen eweclichen, aller derselben hantfesten und brife, ob die¬
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>heine zu lichte quemen odir furbracht worden. Mit urkunt ditz brifes, versigilt mit unserm insigel geben, zu <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">nach Gots</cei:date>
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/><cei:date value="99999999">geburte drutzenhundirt jar und darnach in dem acht und funfzigistem jar, am nehisten dinstag nach dem heiligen jars tag</cei:date>. 
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>super <cei:placeName>Budissim</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>et <cei:placeName>Gorlicz</cei:placeName>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

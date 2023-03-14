@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_341_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_341_I</cei:title><cei:idno type="Transkribus">186500</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l2" n="N001"/>Wir burgermeister, der rat, die schepphen, die hantwerkmeister und die burger gemeinlich der stat zu <cei:placeName>Eger</cei:placeName> veriehen und tun kunt offenlich mit disem brive 
+                    <cei:lb facs="#facs_1_r2l3" n="N002"/>allen den, di in sehen oder horen lesen, daz wir und di stat zu <cei:placeName>Eger</cei:placeName> mit dem lande und aller zugehorung von dem heyligen Romischen reiche, den 
+                    <cei:lb facs="#facs_1_r2l4" n="N003"/>durchleuchtigen und den hochgeboren fürsten und herren seliger gedechtnüzz herren <cei:persName>Otaker</cei:persName>, herren <cei:persName>Wentzlaw</cei:persName> und herren <cei:persName>Johans, etwenn kunigen zu <cei:placeName>Beheim</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r2l5" n="N004"/>iren erben und nachkomen kunigen zu <cei:placeName>Beheim</cei:placeName> umb etlich summe geldes zu rechtem pfande recht und redlich verseczet sein, daz uns allen on 
+                    <cei:lb facs="#facs_1_r2l6" n="N005"/>zweifel kunt und wol wissentlich ist, und davon wann wir in disen zeiten an den allerdurchleuchtigsten fursten und unsern genedigen herren 
+                    <cei:lb facs="#facs_1_r2l7" n="N006"/>herren <cei:persName>KarI, Romischen kunig, zu allen zeiten merer dez reichs und kunig ze <cei:placeName>Beheim</cei:placeName></cei:persName>, noch seines vater tod <cei:persName>kunig Johans</cei:persName> seligen, unsers liben 
+                    <cei:lb facs="#facs_1_r2l8" n="N007"/>herren, mit rechte komen sein, darumb haben wir dem obgenanten unserm herren, <cei:persName>kunige KarI</cei:persName> als einem kunig zu <cei:placeName>Beheim</cei:placeName>, seinen erben und nachkomen 
+                    <cei:lb facs="#facs_1_r2l9" n="N008"/>kunigen zu <cei:placeName>Beheim</cei:placeName> mit wolbedachtem mut mit gantzem rat, mit rechter wissen und mit gutem willen für uns, unser erben und nachkommen 
+                    <cei:lb facs="#facs_1_r2l10" n="N009"/>zu einem rechten pfande gehuldet, gelobt und gesworen, hulden, geloben und sweren mit guten, trewen on geverd, getrewe, gehorsam und 
+                    <cei:lb facs="#facs_1_r2l11" n="N010"/>undertenig zu sein, als unserm rechten herren alleweg und alle stund on widerred und on all hindernuzze, untz an di zeit, daz uns daz reich 
+                    <cei:lb facs="#facs_1_r2l12" n="N011"/>von im umb sulches gelt, als wir verseczet sein wider ledigt und lozet, und also daz uns, unser erben und nachkomen, die obgenanten 
+                    <cei:lb facs="#facs_1_r2l13" n="N012"/>unser herren, kunige zu <cei:placeName>Beheim</cei:placeName>, der selben pfantschaft mit gutem willen umbetwungen loz und ledig sagen, mit urkund dicz briefes, versigelt 
+                    <cei:lb facs="#facs_1_r2l14" n="N013"/>mit unser stat insigel, der geben ist zu <cei:placeName>Eger</cei:placeName>, do man zalt <cei:date value="99999999">von Cristus geburt druczehenhundert jar, und dar nach in dem funfczigsten </cei:date>
+                    <cei:lb facs="#facs_1_r2l15" n="N014"/><cei:date value="99999999">jar dez nechsten donerstages vor dem heyligen pfingestag</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

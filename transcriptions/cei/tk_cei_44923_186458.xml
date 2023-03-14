@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_331_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - German charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_331_I</cei:title><cei:idno type="Transkribus">186458</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>lch <cei:persName>Reynhart, herre zu <cei:placeName>Westerburg</cei:placeName></cei:persName><cei:placeName/>, bekennen offenlich mit disem brief und tun kunt allen den, die in sehent, horent oder 
+                    <cei:lb facs="#facs_1_r1l4" n="N002"/>lesent, wann mir der allerdurchluchtigst furste und mein gnediger herre her <cei:persName>KarI, Romischer kunig und kunig </cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N003"/><cei:persName>zu <cei:placeName>Beheim</cei:placeName></cei:persName>, die gnad getan hat, daz er mir meine lehen, diu ich von dem reich ze recht haben sol gnedichlich ver¬
+                    <cei:lb facs="#facs_1_r1l8" n="N004"/>lihen hat, und mir dar zu uf seinem zolle uf dem <cei:placeName>Ryn</cei:placeName> von iedem fuder weins zwen grozze turnos, wo oder 
+                    <cei:lb facs="#facs_1_r1l10" n="N005"/>wie ich die erwerben mag von fursten, herren und friunden, die zolle uf dem <cei:placeName>Reyn</cei:placeName> haben uzgenumen, der burger 
+                    <cei:lb facs="#facs_1_r1l12" n="N006"/>von <cei:placeName>Coln</cei:placeName>, die dar inn nicht sullen begriffen, sein gegeben und verschriben hat, dar umb han ich im gehuldet, ge¬
+                    <cei:lb facs="#facs_1_r1l13" n="N007"/>lubt und gesworn, daz ich im getrewe gehorsam und undertenig sein wil und sol, als einem Romischen kunge und 
+                    <cei:lb facs="#facs_1_r1l14" n="N008"/>meinem rechten herren und im geholfen sein sol, wider aller menichlich, die weil er lebt an allez geverde und gelobe 
+                    <cei:lb facs="#facs_1_r1l16" n="N009"/>im auch getriwlich ze helfen und dinen mit fumfczig man, mit helm uf sein kost in dutschen landen, nicht in daz 
+                    <cei:lb facs="#facs_1_r1l18" n="N010"/><cei:placeName>Gepyrg</cei:placeName> noch uber walt, wenn er mich dez ermont. Dar uber zu urkund gib ich disen brief, versigelt mit 
+                    <cei:lb facs="#facs_1_r1l19" n="N011"/>meinem insigel, der geben ist zu <cei:placeName>Mentz</cei:placeName>, <cei:date value="99999999">nach Crists geburt dreuezehen hundert und neun und vierezig jar </cei:date>
+                    <cei:lb facs="#facs_1_r1l21" n="N012"/><cei:date value="99999999">an dem suntag der heiligen drivalticheit</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

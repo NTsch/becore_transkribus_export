@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_318_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>katerina.zenklova@nacr.cz Collection</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_318_I</cei:title><cei:idno type="Transkribus">181075</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Wir burgermeistir, der rate und di burger gemainlich der stat ze <cei:placeName>Frankensteyn</cei:placeName> viehen und tun kunt offenlich mit disem briefe allen den, di in sehen, horen odir lesen, das der hochgeborne fürste, unsir herre,
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>herczog <cei:persName>Niclos von <cei:placeName>Münstirberg</cei:placeName></cei:persName><cei:placeName/>, dem edlen manne, hern <cei:persName>Heinrich von <cei:placeName>Hügwicz</cei:placeName></cei:persName> und seinen erben, unsir vorgenante stat ze <cei:placeName>Frankensteyn</cei:placeName> mit dem wicbilde, dem clostir ze <cei:placeName>Camencz</cei:placeName>, mannen, manscheften und allir 
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>zugehörunge nichtes auszenemen recht und redlich virsaczt hat, als in seinem brief, der do noch geschriben stet volkomenlich begriffen ist, in sülchem lwte wir <cei:persName>herczog Niclaus von Gots gnaden eyn</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/><cei:persName>fürste von <cei:placeName>Slezien</cei:placeName>, here ze <cei:placeName>Münstirberg</cei:placeName></cei:persName>, tun kunt allen, di disen brief ansehen, das wir uns mit guten willen und mit bedochtem mute und mit rate unsir getrewen manne, und ouch unsir burger 
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>ze <cei:placeName>Munstirberg</cei:placeName> haben mit hern <cei:persName>Heinrich von <cei:placeName>Hugwicz</cei:placeName></cei:persName>, unserm liben und getrewn, fruntlich und lieplich berichtet und entscheyden, umb alle sache und umb allen bruch, der czwischen uns beidir seit ist 
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>gewest, und mit namen umb alle schult, di wir im sein schuldig gewest, beide von unsir vatir wegen und ouch von unsir wegen welherlei, di sei von gewertem gelde, von pferden, von schaden, von
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>versaczung, pfanclosunge, wi sy her komen, sei dorumb er uns mecher han gemaint bis an disen hwtigen tag. Also das wir im, hern <cei:persName>Heinrich</cei:persName> und allen erben han versaczt, unsir stat
+                    <cei:lb facs="#facs_1_r1l10" n="N008"/><cei:placeName>Frankensteyn</cei:placeName> mit wem wicbilde und alle, di man di dor in gehoren, das clostir <cei:placeName>Camencz</cei:placeName> mit allem dem gute, das dorczu gehoret, und im selben wicbilde gelegen ist, und das hofegerichte,
+                    <cei:lb facs="#facs_1_r1l11" n="N009"/>do selbis mit allir herschaft, mit allem rechte und mit namen, mit allem den nuczcze, der von der stat <cei:placeName>Frankensteyn</cei:placeName> und dem wicbilde bekomen mag, als wirs gehabt haben, slechclichen nicht aus¬
+                    <cei:lb facs="#facs_1_r1l13" n="N010"/>zenemen vor tüsunt marg polanischir zal pragischer pfennyge von unsir Vrowen tag, würczewei der nehist kümpt ubir czwei gancze iar, und geloben dorczu zegebin sechczig marg
+                    <cei:lb facs="#facs_1_r1l14" n="N011"/>grosschen hern <cei:persName>Heinrich</cei:persName> und seinen kinden, das si stat und das wicbilde gehalden mügen, di selben sechczig marg sullen si uf schaden gewynnen uf den fierden pfennyng, also das ir 
+                    <cei:lb facs="#facs_1_r1l15" n="N012"/>achtzig werden, di sullen sy uf das selbe pfant slon zu dem houbtgute, wer abir das wir in der zeit der satzunge hern <cei:persName>Heinrich</cei:persName> und seinen kinden icht geldis gebin vil odir wenyng, odir ab
+                    <cei:lb facs="#facs_1_r1l16" n="N013"/>in ron anevellen eynis gutes, das do ledig wurde icht geviele, ob si es vorkouften odir selbir wolden behalden, für also vil geldes, als das gut wert wer odir ob in von totslegen, di
+                    <cei:lb facs="#facs_1_r1l17" n="N014"/>er und seine kint selbir richten welden, icht gevile wen si dem lantrichter czehen marg on eyn let dovon gegebin, das sullen si uns zeniale obslon, wer ouch ab wir in dem ersten 
+                    <cei:lb facs="#facs_1_r1l18" n="N015"/>iar, di stat  <cei:placeName>Frankensteyn</cei:placeName> mit dem witbilde nicht enlösten, so sullen si, her Heinrich und seine kint das vorgenanten gelt tüsunt marg und achtzig marg, on als vil ob in des icht gevile, 
+                    <cei:lb facs="#facs_1_r1l19" n="N016"/>als hi vorgeschrebn stet gewynnen uf schaden, uf den fierden pfennyng, und sullen abir beyd schaden und houpt gut und ouch achczig 
+                    <cei:lb facs="#facs_1_r1l21" n="N017"/>in dem andirn jare, uf das vorgenanten pfant slon, wer ouch ab wir di selben stat <cei:placeName>Frankensteyn</cei:placeName> mit dem wicbilde in dem andirn iare nicht inlosten, so sol der vorgenante
+                    <cei:lb facs="#facs_1_r1l22" n="N018"/><cei:persName>Heinrich</cei:persName> und seine kint, di stat mit dem wicbilde vorkoufen odir vorsetzen umb di tusunt marg und umb allen schaden, der doruf get als dovor geschriben stet, und ouch
+                    <cei:lb facs="#facs_1_r1l23" n="N019"/>umb czwir achtzig marg, di von dem kost gelde zwei iar dorczu geslagen seint, wo odir weme si mugen, do alleyne, di man des witbildes nicht von genidirt werden, doch 
+                    <cei:lb facs="#facs_1_r1l24" n="N020"/>in sulchen undirscheid, das her <cei:persName>Heinrich</cei:persName> und seine kint, wenn di stat mit dem wicbilde vorkouft wirt, ir gelt tusunt marg und zwir achtzig marg, und ouch den schaden, 
+                    <cei:lb facs="#facs_1_r1l25" n="N021"/>der uf di tusunt marg gegangen ist, dovon nemen sullen, und was deme ubirig ist, das sal uns werden und gevallen, ouch geloben wir <cei:persName>herczog Niclos</cei:persName> vorgenant on arge list 
+                    <cei:lb facs="#facs_1_r1l26" n="N022"/>das, wir den odir di, den di vorgenanten stat mit dem wicbilde von hern <cei:persName>Heinrich</cei:persName> und seinen kinden vorkouft wirt odir versaczt nicht hindinr sullen mit keynir an 
+                    <cei:lb facs="#facs_1_r1l27" n="N023"/>sproche. Gegeben zu <cei:placeName>Munstirberg</cei:placeName> an santh Marien Magdalenen obund, noch Gotes geburth tusunt iar, drewhundert iar in den sechs und fierczigstem iar. undir unsirm 
+                    <cei:lb facs="#facs_1_r1l28" n="N024"/>grossen ingesigl. dornoch bekennen wir vorgenanten burgermeister. der rat und burger, gemainlich der vorgenanten stat ze <cei:placeName>Frankensteyn</cei:placeName>, das her <cei:persName>Heinrich von <cei:placeName>Hugwicz</cei:placeName></cei:persName> der
+                    <cei:lb facs="#facs_1_r1l29" n="N025"/>vorgenante, beid mon manschefte, das clostir ze <cei:placeName>Camencz</cei:placeName> uns und unsir stat mit allir zugehörung, dem allirdurchleuchtigsten fürsten und unsirm gnedigen herren hern
+                    <cei:lb facs="#facs_1_r1l30" n="N026"/><cei:persName>Karl, Römischen künge, ze allen zeiten merer des reichs und kunge ze <cei:placeName>Beheim</cei:placeName></cei:persName>, sein erben und nochkomen kungen ze <cei:placeName>Beheim</cei:placeName> ze rechtem pfande versaczt hat in allir der weis als 
+                    <cei:lb facs="#facs_1_r1l31" n="N027"/>in dem vorgenanten brief geschriben stet, dorumb geloben wir vorgenanter burgermeistir und der rat von worte, wizzen und willen der gemeine der vorgenanten unsir stat ze
+                    <cei:lb facs="#facs_1_r1l32" n="N028"/><cei:placeName>Frankenstein</cei:placeName> mit guten trewin on alle argelist, das wir dem vorgenanten unserm herren dem römischen künge und kunge ze <cei:placeName>Beheim</cei:placeName>, seinen erben und nochkomen kungen ze <cei:placeName>Be¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l33" n="N029"/><cei:placeName>heim</cei:placeName>, getrew, gewer, gehorsam, undirtenyk und wartende welIen sein, ze eynem rechten pfande in allir der weis als in den vorgenanten briefen geschriben und begriffen ist, und
+                    <cei:lb facs="#facs_1_r1l34" n="N030"/>von worte zu worte nichtes auszenemen, als wir des vorgenanten hern <cei:persName>Heinrichs von <cei:placeName>Hugwicz</cei:placeName></cei:persName> pfant gewesin sein, noch des briefs lüte und des ze urkünd und ze 
+                    <cei:lb facs="#facs_1_r1l35" n="N031"/>gedechtnuzz geben wir disen brief, versigilt mit unsir stat insigil, der geben ist ze <cei:placeName>Breslow</cei:placeName> <cei:date value="99999999">noch Cristus geburth drewczen hundert und acht und fierczig iar an dem</cei:date>
+                    <cei:lb facs="#facs_1_r1l36" n="N032"/><cei:date value="99999999"> nehisten freitage noch santh Mertins tag</cei:date>.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

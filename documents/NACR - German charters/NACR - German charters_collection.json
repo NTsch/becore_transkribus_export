@@ -1,0 +1,4819 @@
+[
+    {
+        "type": "trpDocMetadata",
+        "docId": 163522,
+        "title": "ACK_313_I",
+        "uploadTimestamp": 1558081985290,
+        "scriptType": "GOTHIC",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 6018843,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GVYCAPXLVFVGNUSMVGNJNGAL",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GVYCAPXLVFVGNUSMVGNJNGAL",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_163522",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 173848,
+        "title": "ACK_108_I",
+        "uploadTimestamp": 1560760345684,
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 6611195,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=IKYLLSDDLGEWGEEMZVWEVMVI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=IKYLLSDDLGEWGEEMZVWEVMVI",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_173848",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 173869,
+        "title": "ACK_314_I",
+        "uploadTimestamp": 1560762026824,
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 6611355,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VIEXWKIVYSOXCZBABEAOVHOA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VIEXWKIVYSOXCZBABEAOVHOA",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_173869",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 173877,
+        "title": "ACK_362_I",
+        "uploadTimestamp": 1560763416381,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 6611433,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=JERODSVBXQQRVMWVPEWDWZVO",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=JERODSVBXQQRVMWVPEWDWZVO",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_173877",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 173883,
+        "title": "ACK_363_I",
+        "uploadTimestamp": 1560763963713,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 6611465,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KAAUXVZWWGTXZGQRVJTQWRVS",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KAAUXVZWWGTXZGQRVJTQWRVS",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_173883",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 173997,
+        "title": "ACK_131_I",
+        "uploadTimestamp": 1560778192512,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 6613525,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=XHEBOBSXIJRMCSOIWMLPGYJQ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=XHEBOBSXIJRMCSOIWMLPGYJQ",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_173997",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 174064,
+        "title": "ACK_132_I",
+        "uploadTimestamp": 1560783738406,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 6618891,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KSRSOOWNJQTOFZPLOXRGKKDS",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KSRSOOWNJQTOFZPLOXRGKKDS",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_174064",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 180153,
+        "title": "ACK_422_I",
+        "uploadTimestamp": 1562573037402,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7034174,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=PZLOGKWQFNQAGRSSYLGGZMRC",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=PZLOGKWQFNQAGRSSYLGGZMRC",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_180153",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 43607,
+                    "colName": "marketa.hrdlickova@nacr.cz Collection",
+                    "description": "marketa.hrdlickova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 180172,
+        "title": "ACK_364_I",
+        "uploadTimestamp": 1562576641477,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7034232,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=CAWDZWCONRVNYCRJIWDCYJJI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=CAWDZWCONRVNYCRJIWDCYJJI",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_180172",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 180179,
+        "title": "ACK_368_I",
+        "uploadTimestamp": 1562577259782,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7034438,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=UPNWIJWNIFXFTAWLUJZZCHNC",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=UPNWIJWNIFXFTAWLUJZZCHNC",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_180179",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 180369,
+        "title": "ACK_370_I",
+        "uploadTimestamp": 1562655635753,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7055900,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FUEBLFJICPRYMKCPTJRRDDJM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FUEBLFJICPRYMKCPTJRRDDJM",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_180369",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 180385,
+        "title": "ACK_418_I",
+        "uploadTimestamp": 1562659755783,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7056858,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=CEXZGNUZBBKLMTOISQIJNTPZ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=CEXZGNUZBBKLMTOISQIJNTPZ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_180385",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 43607,
+                    "colName": "marketa.hrdlickova@nacr.cz Collection",
+                    "description": "marketa.hrdlickova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 180508,
+        "title": "ACK_372_I",
+        "uploadTimestamp": 1562679176954,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7073352,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YNEBWNAQZDYXEVSZDOGKTQEB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YNEBWNAQZDYXEVSZDOGKTQEB",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_180508",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44528,
+                    "colName": "magdalena.benesova@nacr.cz Collection",
+                    "description": "magdalena.benesova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 180527,
+        "title": "ACK_426_I",
+        "uploadTimestamp": 1562680431248,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7075993,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KFEMZBQNPADXXMJLBDYORFWU",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KFEMZBQNPADXXMJLBDYORFWU",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_180527",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 43607,
+                    "colName": "marketa.hrdlickova@nacr.cz Collection",
+                    "description": "marketa.hrdlickova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 180736,
+        "title": "ACK_150_I",
+        "uploadTimestamp": 1562741113694,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7133757,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=QWNEGYZAQOIBWNURDLFWGUOJ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=QWNEGYZAQOIBWNURDLFWGUOJ",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_180736",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 180816,
+        "title": "ACK_222_I",
+        "uploadTimestamp": 1562751721177,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7152239,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FLIXBGHELQOAAXUSJBMHOYHX",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FLIXBGHELQOAAXUSJBMHOYHX",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_180816",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 180892,
+        "title": "ACK_268_I",
+        "uploadTimestamp": 1562760520935,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7168038,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KOUJNDOSJQMHPFLJBBREMSAT",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KOUJNDOSJQMHPFLJBBREMSAT",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_180892",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 180909,
+        "title": "ACK_316_I",
+        "uploadTimestamp": 1562764978248,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7174873,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=UIYDOABUAEJZMFUAZSIXIYPT",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=UIYDOABUAEJZMFUAZSIXIYPT",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_180909",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 181075,
+        "title": "ACK_318_I",
+        "uploadTimestamp": 1562826094749,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7257027,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VUFOJDTDMIYSPYXKMEUUGIYO",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VUFOJDTDMIYSPYXKMEUUGIYO",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_181075",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 181088,
+        "title": "ACK_321_I",
+        "uploadTimestamp": 1562827931534,
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7261603,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZBFTHNBUKRCUKTKOJFQCTMKX",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZBFTHNBUKRCUKTKOJFQCTMKX",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_181088",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 181104,
+        "title": "ACK_322_I",
+        "uploadTimestamp": 1562829361621,
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7264743,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZNKIXLYPGAZJLXKIGYKIQUNA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZNKIXLYPGAZJLXKIGYKIQUNA",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_181104",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 181625,
+        "title": "ACK_279_I",
+        "uploadTimestamp": 1562919193208,
+        "scriptType": "GOTHIC",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7311268,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZBSAKWPZIZCSTPHPIKXUNGAE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZBSAKWPZIZCSTPHPIKXUNGAE",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_181625",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 183162,
+        "title": "ACK_315_I",
+        "uploadTimestamp": 1563175004264,
+        "scriptType": "GOTHIC",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7332588,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=NGGCBXOAQWZLGSCUBQCHOFWN",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=NGGCBXOAQWZLGSCUBQCHOFWN",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_183162",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 185435,
+        "title": "ACK_324_I",
+        "uploadTimestamp": 1563541225778,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7418433,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=OWSXJDQKWZTCPFCUNOIHEIQK",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=OWSXJDQKWZTCPFCUNOIHEIQK",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_185435",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 185451,
+        "title": "ACK_421_I",
+        "uploadTimestamp": 1563543287067,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7418481,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RUXCLEUXNTBLFSHYGJHDTBKM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RUXCLEUXNTBLFSHYGJHDTBKM",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_185451",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 185452,
+        "title": "ACK_423_I",
+        "uploadTimestamp": 1563543366592,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7418482,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YTEUFZLHEWDNVDIFOZKHQVWH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YTEUFZLHEWDNVDIFOZKHQVWH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_185452",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 185457,
+        "title": "ACK_425_I",
+        "uploadTimestamp": 1563543506423,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7418487,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=AEWCIMLUNSEBVAOUGQWYYQUZ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=AEWCIMLUNSEBVAOUGQWYYQUZ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_185457",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 185458,
+        "title": "ACK_428_I",
+        "uploadTimestamp": 1563543637867,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7418488,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=BBRBNSBCYJXMDKFEZUQYCREM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=BBRBNSBCYJXMDKFEZUQYCREM",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_185458",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 185459,
+        "title": "ACK_430_I",
+        "uploadTimestamp": 1563543721063,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7418489,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=URRKAPTCHTRUWXSOSSZEBGGJ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=URRKAPTCHTRUWXSOSSZEBGGJ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_185459",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 185461,
+        "title": "ACK_431_I",
+        "uploadTimestamp": 1563543895568,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7418491,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=SCKBJBIMDYKKISIICFMQMEVW",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=SCKBJBIMDYKKISIICFMQMEVW",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_185461",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 185467,
+        "title": "ACK_325_I",
+        "uploadTimestamp": 1563545111733,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7418506,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=QPYUCFLUDYWHUEKKWHIASMJO",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=QPYUCFLUDYWHUEKKWHIASMJO",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_185467",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 186363,
+        "title": "ACK_326_I",
+        "uploadTimestamp": 1563781986443,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7428092,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FSXHOPIBGQEEBQHVDKGHKMLW",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FSXHOPIBGQEEBQHVDKGHKMLW",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_186363",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 186398,
+        "title": "ACK_330_I",
+        "uploadTimestamp": 1563789467524,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7431397,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZKEZUEEHYHDUDTYWRPFGZREU",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZKEZUEEHYHDUDTYWRPFGZREU",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_186398",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 186458,
+        "title": "ACK_331_I",
+        "uploadTimestamp": 1563798131086,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7435875,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DZHURQQNMZTHUOCYTAVOLZQT",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DZHURQQNMZTHUOCYTAVOLZQT",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_186458",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 186486,
+        "title": "ACK_340_I",
+        "uploadTimestamp": 1563801639501,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7437012,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=BUOQPRNPVYESBTNXMVLCSASM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=BUOQPRNPVYESBTNXMVLCSASM",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_186486",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 186500,
+        "title": "ACK_341_I",
+        "uploadTimestamp": 1563804081726,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7437170,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=PNTNTJMZDQAODVSBQFQRVMVS",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=PNTNTJMZDQAODVSBQFQRVMVS",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_186500",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 186519,
+        "title": "ACK_350_I",
+        "uploadTimestamp": 1563807324421,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7437231,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=HCXWHCEODOUVRPEYSENSNMYY",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=HCXWHCEODOUVRPEYSENSNMYY",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_186519",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 186786,
+        "title": "ACK_351_I",
+        "uploadTimestamp": 1563863484903,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7439987,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FCBFERUAOVHIWHXODNQQYHLR",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FCBFERUAOVHIWHXODNQQYHLR",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_186786",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 186793,
+        "title": "ACK_360_I",
+        "uploadTimestamp": 1563865926313,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7440008,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=STNDTNIWYHFNDKFGIQETFUJQ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=STNDTNIWYHFNDKFGIQETFUJQ",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_186793",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 186835,
+        "title": "A\u010cK_373_I",
+        "uploadTimestamp": 1563871380453,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7442253,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RVJFNQQHZCUSVPMHOOKKJUAJ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RVJFNQQHZCUSVPMHOOKKJUAJ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_186835",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44528,
+                    "colName": "magdalena.benesova@nacr.cz Collection",
+                    "description": "magdalena.benesova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 186934,
+        "title": "A\u010cK_374_I",
+        "uploadTimestamp": 1563881396678,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7444642,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=WOZMQLGRKWIPKWFDATSOZMRL",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=WOZMQLGRKWIPKWFDATSOZMRL",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_186934",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 186962,
+        "title": "ACK_323_I",
+        "uploadTimestamp": 1563885783846,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7444838,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=JCNKVXXDBCYHVOECIYRHDKIX",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=JCNKVXXDBCYHVOECIYRHDKIX",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_186962",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187439,
+        "title": "ACK_327_I",
+        "uploadTimestamp": 1563971910385,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7457045,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ICDXEFSAWCYBRPFGWIMZXKVH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ICDXEFSAWCYBRPFGWIMZXKVH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187439",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 187810,
+        "title": "ACK_487_I",
+        "uploadTimestamp": 1564051955842,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7465852,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KYTQNRJRAMUXZANIGUOPWZCZ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KYTQNRJRAMUXZANIGUOPWZCZ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_187810",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 188133,
+        "title": "ACK_339a_I",
+        "uploadTimestamp": 1564123028833,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7473169,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=UTQJZBPBIJQUZKYTBYRGNOAP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=UTQJZBPBIJQUZKYTBYRGNOAP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_188133",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 188167,
+        "title": "ACK_435_I",
+        "uploadTimestamp": 1564129666796,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7475637,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=IGWNIYZMEIORICBDUURGBKFB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=IGWNIYZMEIORICBDUURGBKFB",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_188167",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 188199,
+        "title": "ACK_328_I",
+        "uploadTimestamp": 1564132520171,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7475762,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KFZCXVRTLERIWZSMMUFWNQHK",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KFZCXVRTLERIWZSMMUFWNQHK",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_188199",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 188206,
+        "title": "A\u010cK_385_I",
+        "uploadTimestamp": 1564132564272,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7475936,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TTYQRXYIQTMKONTBNFDWCCKQ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TTYQRXYIQTMKONTBNFDWCCKQ",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_188206",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 188239,
+        "title": "A\u010cK_388_I",
+        "uploadTimestamp": 1564134096900,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7476070,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FZLUXJKULMKZJXNYXNEZEGFH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FZLUXJKULMKZJXNYXNEZEGFH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_188239",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 188321,
+        "title": "A\u010cK_389_I",
+        "uploadTimestamp": 1564146143103,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7476641,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=PBBBLKPKYSOXVDDVJADDETFX",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=PBBBLKPKYSOXVDDVJADDETFX",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_188321",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 188342,
+        "title": "A\u010cK_390_I",
+        "uploadTimestamp": 1564149286372,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7477094,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VCCUJZFBAUNQZDIMNSELNZCN",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VCCUJZFBAUNQZDIMNSELNZCN",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_188342",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189201,
+        "title": "ACK_334_I",
+        "uploadTimestamp": 1564389448211,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7486113,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZXFDCSASNFXDFSBDHKLFFVGO",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZXFDCSASNFXDFSBDHKLFFVGO",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189201",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189214,
+        "title": "ACK_337_I",
+        "uploadTimestamp": 1564391451347,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7487336,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=QKLJXEUDOYCTTOPMBQPMSRHE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=QKLJXEUDOYCTTOPMBQPMSRHE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189214",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189217,
+        "title": "ACK_437_I",
+        "uploadTimestamp": 1564391971453,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7487792,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=NAVWDJFFAJIAUWFGVUUSGJZJ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=NAVWDJFFAJIAUWFGVUUSGJZJ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189217",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189240,
+        "title": "ACK_338_I",
+        "uploadTimestamp": 1564393950469,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7488524,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=XHPWZXDBXDMCPWPHCDZSTFBJ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=XHPWZXDBXDMCPWPHCDZSTFBJ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189240",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189253,
+        "title": "ACK_339_I",
+        "uploadTimestamp": 1564396079105,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7489191,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VJKRJWQFZHWWLICGMZAVEFEP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VJKRJWQFZHWWLICGMZAVEFEP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189253",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189274,
+        "title": "ACK_560_I",
+        "uploadTimestamp": 1564399504097,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7489548,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=SFVAWAQVIRPNKWBZBQYAYNKR",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=SFVAWAQVIRPNKWBZBQYAYNKR",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189274",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189293,
+        "title": "ACK_567_I",
+        "uploadTimestamp": 1564403983111,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7490377,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=AJCRJYLICIHJCWBPNMMLANQP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=AJCRJYLICIHJCWBPNMMLANQP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189293",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189302,
+        "title": "ACK_571_I",
+        "uploadTimestamp": 1564405820443,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7490398,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GAHIUMBXAVWEZASWQZQWDMJE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GAHIUMBXAVWEZASWQZQWDMJE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189302",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189312,
+        "title": "ACK_441_I",
+        "uploadTimestamp": 1564408358233,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7490474,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=LNRNBITWMNKMXBSALPNRMRNB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=LNRNBITWMNKMXBSALPNRMRNB",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189312",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189317,
+        "title": "ACK_581_I",
+        "uploadTimestamp": 1564409138074,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7490540,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=OZFNZSPSJSCKOROLMYJWPOXK",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=OZFNZSPSJSCKOROLMYJWPOXK",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189317",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189653,
+        "title": "ACK_623_I",
+        "uploadTimestamp": 1564479429203,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7502256,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=XNBVFTTCQAUXKCMUNMKTWUCI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=XNBVFTTCQAUXKCMUNMKTWUCI",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189653",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189700,
+        "title": "ACK_627A_I",
+        "uploadTimestamp": 1564482736783,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 2,
+        "pageId": 7503873,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RJEUXFLWYRGZZPPVRYOQMXCW",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RJEUXFLWYRGZZPPVRYOQMXCW",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189700",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189715,
+        "title": "ACK_631_I",
+        "uploadTimestamp": 1564483923422,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7506968,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=XAPYMTCESLEZZRBEFTZCRJNF",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=XAPYMTCESLEZZRBEFTZCRJNF",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189715",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189727,
+        "title": "ACK_625_I",
+        "uploadTimestamp": 1564485295167,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7509033,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RTOVLFBKIODDOUEAFODILVEW",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RTOVLFBKIODDOUEAFODILVEW",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189727",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189785,
+        "title": "ACK_626_I",
+        "uploadTimestamp": 1564491949803,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7509755,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DTLKBMKRFHDZNSAFMUDACLSI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DTLKBMKRFHDZNSAFMUDACLSI",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189785",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189810,
+        "title": "ACK_702_I",
+        "uploadTimestamp": 1564494927820,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7510796,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YMDCNPHYMSZWTHCJMOVYFIII",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YMDCNPHYMSZWTHCJMOVYFIII",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189810",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189813,
+        "title": "ACK_447_I",
+        "uploadTimestamp": 1564495597089,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7511589,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GTEQVPYSTSBJGZAMKHFVNJYS",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GTEQVPYSTSBJGZAMKHFVNJYS",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189813",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189818,
+        "title": "ACK_650_I",
+        "uploadTimestamp": 1564496463941,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7512619,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=UEATCCLUTCEPCEOJQYTDXTXU",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=UEATCCLUTCEPCEOJQYTDXTXU",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189818",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189834,
+        "title": "ACK_695_I",
+        "uploadTimestamp": 1564498912547,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7514140,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=URUYMVHXGPSAHNBCVFNTOAUI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=URUYMVHXGPSAHNBCVFNTOAUI",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189834",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 189850,
+        "title": "ACK_648_I",
+        "uploadTimestamp": 1564501089035,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7514379,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GBYRXZYSPMXIMWPLBHPIXPIB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GBYRXZYSPMXIMWPLBHPIXPIB",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_189850",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190034,
+        "title": "ACK_451_I",
+        "uploadTimestamp": 1564557050618,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7516910,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DSWNMQQEBGPOTCHWMSJGFBLA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DSWNMQQEBGPOTCHWMSJGFBLA",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190034",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190036,
+        "title": "ACK_450_I",
+        "uploadTimestamp": 1564557564331,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7516917,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=PIGLAVYKFIBHWDGQBIDNBTLU",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=PIGLAVYKFIBHWDGQBIDNBTLU",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190036",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190040,
+        "title": "ACK_445_I",
+        "uploadTimestamp": 1564558122641,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7516929,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TZLAGYXKODYUHZWDZPCZQGVD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TZLAGYXKODYUHZWDZPCZQGVD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190040",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190074,
+        "title": "ACK_443_I",
+        "uploadTimestamp": 1564562359115,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7517802,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VHJCSGRRQXYSXBXDOAPNIUKO",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VHJCSGRRQXYSXBXDOAPNIUKO",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190074",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190076,
+        "title": "A\u010cK_394_I",
+        "uploadTimestamp": 1564562783750,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7518219,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KBQGHOBOXKQHJIEKIAHCOSQX",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KBQGHOBOXKQHJIEKIAHCOSQX",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190076",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190087,
+        "title": "ACK_635_I",
+        "uploadTimestamp": 1564563573276,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7518990,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YWVOSRWQPQKDQUQPVJLWDYUN",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YWVOSRWQPQKDQUQPVJLWDYUN",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190087",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190111,
+        "title": "A\u010cK_397_I",
+        "uploadTimestamp": 1564564575682,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7519972,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TQYKXMDGXLFJGHSVJBSHUPGM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TQYKXMDGXLFJGHSVJBSHUPGM",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190111",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190118,
+        "title": "ACK_432_I",
+        "uploadTimestamp": 1564564763009,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 3,
+        "pageId": 7520297,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=LBJFOSDVLTJBFFWKNUXIERJO",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=LBJFOSDVLTJBFFWKNUXIERJO",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190118",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190134,
+        "title": "ACK_642_I",
+        "uploadTimestamp": 1564565915959,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7522622,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=SEEFUHRCCINCTWHHNFQCXXLF",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=SEEFUHRCCINCTWHHNFQCXXLF",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190134",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190156,
+        "title": "ACK_455_I",
+        "uploadTimestamp": 1564569578055,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7525030,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=OYJQJXNDIDGMZGLDOIOBSQLG",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=OYJQJXNDIDGMZGLDOIOBSQLG",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190156",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190176,
+        "title": "ACK_453_I",
+        "uploadTimestamp": 1564572082978,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7525661,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FPHKAUMTBLUGGFKFGGJLQXVR",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FPHKAUMTBLUGGFKFGGJLQXVR",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190176",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190184,
+        "title": "ACK_716_I",
+        "uploadTimestamp": 1564573174887,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7525852,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YJSWACYGKQDEBRABXESGPKTE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YJSWACYGKQDEBRABXESGPKTE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190184",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190240,
+        "title": "ACK_471_I",
+        "uploadTimestamp": 1564579265897,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7528300,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DFMBJGPPPOQURGNUNHNULTPH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DFMBJGPPPOQURGNUNHNULTPH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190240",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190251,
+        "title": "ACK_472_I",
+        "uploadTimestamp": 1564580315884,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7529549,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DTESLGIBOQOAVVVSMUVFGKZD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DTESLGIBOQOAVVVSMUVFGKZD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190251",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190254,
+        "title": "ACK_456_I",
+        "uploadTimestamp": 1564580637799,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7530366,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YLUUHUAOELYPKGMMXDMLCPDA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YLUUHUAOELYPKGMMXDMLCPDA",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190254",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190508,
+        "title": "ACK_643_I",
+        "uploadTimestamp": 1564646511122,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7535159,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=GLISQONGOSYJWATOZONSFESA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=GLISQONGOSYJWATOZONSFESA",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190508",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190517,
+        "title": "ACK_655_I",
+        "uploadTimestamp": 1564648678954,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7535341,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KIMMVOFFFXHURMTPWISEROZN",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KIMMVOFFFXHURMTPWISEROZN",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190517",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190528,
+        "title": "ACK_700_I",
+        "uploadTimestamp": 1564650719657,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7535783,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=OWXHCLYUDHNXLRHFGYJTEEPB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=OWXHCLYUDHNXLRHFGYJTEEPB",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190528",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190538,
+        "title": "ACK_622_I",
+        "uploadTimestamp": 1564653111878,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7537649,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=XPQSCROQWJBXPNCTSSDOIHRJ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=XPQSCROQWJBXPNCTSSDOIHRJ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190538",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190550,
+        "title": "ACK_461_I",
+        "uploadTimestamp": 1564655008614,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7538089,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=HMBONUFWAMHAWWRWTTFHNRQP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=HMBONUFWAMHAWWRWTTFHNRQP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190550",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190614,
+        "title": "ACK_1019_H_I",
+        "uploadTimestamp": 1564666523986,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7543705,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YXFHTBQUWVJRMEWDWLIEJGGH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YXFHTBQUWVJRMEWDWLIEJGGH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190614",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190860,
+        "title": "A\u010cK_403_I",
+        "uploadTimestamp": 1564730080945,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7551858,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=XCFJIOHHPBIYGKSJGQLFCOZH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=XCFJIOHHPBIYGKSJGQLFCOZH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190860",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 190871,
+        "title": "A\u010cK_405_I",
+        "uploadTimestamp": 1564733402056,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7552525,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=KKXCLQWUNSWTUGBJFRAJXYFQ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=KKXCLQWUNSWTUGBJFRAJXYFQ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_190871",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 191097,
+        "title": "ACK_462_I",
+        "uploadTimestamp": 1564757549855,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7559407,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZSSHNQZEXNTRVPOYVDOHTGBP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZSSHNQZEXNTRVPOYVDOHTGBP",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_191097",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 191119,
+        "title": "ACK_463_I",
+        "uploadTimestamp": 1564760416122,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7559730,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=NOCYCWUIHLDAVUROCCNSBUXE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=NOCYCWUIHLDAVUROCCNSBUXE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_191119",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 191123,
+        "title": "ACK_464_I",
+        "uploadTimestamp": 1564760788900,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7559864,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=NCGSGKJVZGDCYOSLXHELMUZS",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=NCGSGKJVZGDCYOSLXHELMUZS",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_191123",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 191127,
+        "title": "ACK_467_I",
+        "uploadTimestamp": 1564761450192,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7559995,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=WMWMDZUMMGVCQUGTRHRDUGZE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=WMWMDZUMMGVCQUGTRHRDUGZE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_191127",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 191428,
+        "title": "A\u010cK_407_I",
+        "uploadTimestamp": 1564865621713,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7577313,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DJRYJVNFATAQURQVRWLJCBMR",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DJRYJVNFATAQURQVRWLJCBMR",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_191428",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 191442,
+        "title": "A\u010cK_408_I",
+        "uploadTimestamp": 1564903794215,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7577385,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=AXNCUUWDSARLNAYXSKJIJLSF",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=AXNCUUWDSARLNAYXSKJIJLSF",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_191442",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 191851,
+        "title": "ACK_614_I",
+        "uploadTimestamp": 1565013357744,
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7589801,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=EGXKBFPSSXFORGBMERYQRBRP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=EGXKBFPSSXFORGBMERYQRBRP",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_191851",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 191866,
+        "title": "ACK_617_I",
+        "uploadTimestamp": 1565014510486,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7590881,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FIYBIQNQVULFOYETIOKGXAGA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FIYBIQNQVULFOYETIOKGXAGA",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_191866",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 191876,
+        "title": "ACK_621_I",
+        "uploadTimestamp": 1565017364391,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7592387,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=PLAQQJJHZNAIEDGAHNALZSPM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=PLAQQJJHZNAIEDGAHNALZSPM",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_191876",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192271,
+        "title": "A\u010cK_411_I",
+        "uploadTimestamp": 1565093710232,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7601190,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TQDTSILOCEKCXSGLJLZZNTGX",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TQDTSILOCEKCXSGLJLZZNTGX",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192271",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192312,
+        "title": "ACK_714_I",
+        "uploadTimestamp": 1565097879692,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7602109,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=QYJVTPFQBRJDSKZJOSLEACJI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=QYJVTPFQBRJDSKZJOSLEACJI",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192312",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192314,
+        "title": "A\u010cK_412_I",
+        "uploadTimestamp": 1565098117896,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7602111,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=LNQXPCEFXBDHLYBQINVOPEKO",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=LNQXPCEFXBDHLYBQINVOPEKO",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192314",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192317,
+        "title": "A\u010cK_413_I",
+        "uploadTimestamp": 1565098868472,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7602120,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=QMUIOEVOLLIIHTEOFFGKVVAO",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=QMUIOEVOLLIIHTEOFFGKVVAO",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192317",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192322,
+        "title": "A\u010cK_414_I",
+        "uploadTimestamp": 1565099785091,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 7602133,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=LIZSUPBSCECBYHTJZYEYYDVG",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=LIZSUPBSCECBYHTJZYEYYDVG",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192322",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192337,
+        "title": "ACK_801_H_I",
+        "uploadTimestamp": 1565102919751,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7602243,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=HCIUFXKUTQWSQWPOBZAAPWXD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=HCIUFXKUTQWSQWPOBZAAPWXD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192337",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192353,
+        "title": "ACK_798_H_I",
+        "uploadTimestamp": 1565104264093,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7602473,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=PQMKYXORHVKIXYAZPZXCVJIL",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=PQMKYXORHVKIXYAZPZXCVJIL",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German, Latin",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192353",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192360,
+        "title": "ACK_1070_H_I",
+        "uploadTimestamp": 1565105752914,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7603429,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=JEGVKMLUOVAHIJFLIZIUNXKB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=JEGVKMLUOVAHIJFLIZIUNXKB",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192360",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192540,
+        "title": "ACK_719_I",
+        "uploadTimestamp": 1565159615709,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 3,
+        "pageId": 7606226,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RLVBSGBGDDLYNKFUDUFOXMMD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RLVBSGBGDDLYNKFUDUFOXMMD",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192540",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192613,
+        "title": "ACK_724_I",
+        "uploadTimestamp": 1565169092214,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 3,
+        "pageId": 7606699,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=QTWBOSNJHNKUORLRAETRTXEE",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=QTWBOSNJHNKUORLRAETRTXEE",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192613",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192705,
+        "title": "ACK_733_I",
+        "uploadTimestamp": 1565180407835,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7608056,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=PJLYAGBHEKPHHDNTAJJVFECB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=PJLYAGBHEKPHHDNTAJJVFECB",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192705",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192730,
+        "title": "ACK_735_I",
+        "uploadTimestamp": 1565182880671,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7608179,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=LTTYESCUYZHXSKFERDVWTZSM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=LTTYESCUYZHXSKFERDVWTZSM",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192730",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 192736,
+        "title": "ACK_727_I",
+        "uploadTimestamp": 1565183306201,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 2,
+        "pageId": 7608188,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VVNGMHZUDVMPGAYOFHNAXMGP",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VVNGMHZUDVMPGAYOFHNAXMGP",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_192736",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 193123,
+        "title": "ACK_728_I",
+        "uploadTimestamp": 1565254576343,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7616951,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=MQLWHTAVQGPSJJKGTCANDJZY",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=MQLWHTAVQGPSJJKGTCANDJZY",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_193123",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 193158,
+        "title": "ACK_429_H_I",
+        "uploadTimestamp": 1565264054387,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7618333,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=QMJHOMDWAACYUITGNHGXPDOG",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=QMJHOMDWAACYUITGNHGXPDOG",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_193158",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 193174,
+        "title": "ACK_570_H_I",
+        "uploadTimestamp": 1565268502447,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7618972,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TRZUBDZPDEEKVPCXOVXFQWBQ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TRZUBDZPDEEKVPCXOVXFQWBQ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_193174",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 193189,
+        "title": "ACK_585_H_I",
+        "uploadTimestamp": 1565271397674,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7624836,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DBXCZXLFZZLAZRNWAIZZRADZ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DBXCZXLFZZLAZRNWAIZZRADZ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_193189",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 193519,
+        "title": "ACK_730_I",
+        "uploadTimestamp": 1565337737665,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 7637513,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=BSTTXVXHQPEMGNZNPZNCVBKQ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=BSTTXVXHQPEMGNZNPZNCVBKQ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_193519",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 193821,
+        "title": "ACK_738_I",
+        "uploadTimestamp": 1565378220752,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 3,
+        "pageId": 7643136,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZGDWRQNMHYEPESMSEMEDPLIK",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZGDWRQNMHYEPESMSEMEDPLIK",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_193821",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 194061,
+        "title": "ACK_753_I",
+        "uploadTimestamp": 1565441909436,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7649388,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TEMRHGUMOGFZQWEYERJXPOXH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TEMRHGUMOGFZQWEYERJXPOXH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_194061",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 194075,
+        "title": "ACK_774_I",
+        "uploadTimestamp": 1565445346631,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 7650081,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RUBJGHAXEDUKRWOFIYHYFQQF",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RUBJGHAXEDUKRWOFIYHYFQQF",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_194075",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 194728,
+        "title": "ACK_882_H_I",
+        "uploadTimestamp": 1565603605771,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7663894,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=YKKXEYGOXYEYELBFWEVXZAOW",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=YKKXEYGOXYEYELBFWEVXZAOW",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_194728",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 194821,
+        "title": "ACK_883_H_I",
+        "uploadTimestamp": 1565616186289,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7668003,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=OOGQBAMIGFZEADFYZSWDBMJX",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=OOGQBAMIGFZEADFYZSWDBMJX",
+        "externalId": "NA",
+        "authority": "NA",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_194821",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 195430,
+        "title": "ACK_958_H_I",
+        "uploadTimestamp": 1565686829175,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7683788,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=PTZUKCOYCGPLXFDOSRZTDFHV",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=PTZUKCOYCGPLXFDOSRZTDFHV",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_195430",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 195456,
+        "title": "ACK_999_H_I",
+        "uploadTimestamp": 1565689887338,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7694704,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=LGMYGDZGGVATVXJZZPGQYGBD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=LGMYGDZGGVATVXJZZPGQYGBD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_195456",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 195585,
+        "title": "ACK_1069_H_I",
+        "uploadTimestamp": 1565705502707,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 7758622,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=NNTFKATJPZUKXTYZQMVSMZHD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=NNTFKATJPZUKXTYZQMVSMZHD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_195585",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 197789,
+        "title": "A\u010cK_400_I",
+        "uploadTimestamp": 1566203669051,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8257858,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VIEWVAUGSCYZFHUEXARXZYUO",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VIEWVAUGSCYZFHUEXARXZYUO",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_197789",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 197803,
+        "title": "ACK_804_I",
+        "uploadTimestamp": 1566206874122,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 8258430,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DLVJKUKTSLRJRZQXPCTZPBMI",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DLVJKUKTSLRJRZQXPCTZPBMI",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_197803",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 197809,
+        "title": "A\u010cK_415_I",
+        "uploadTimestamp": 1566207402111,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8259267,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=NIYJEPMFPMLRVXLOCGTDIGJN",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=NIYJEPMFPMLRVXLOCGTDIGJN",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_197809",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 197847,
+        "title": "ACK_795_I",
+        "uploadTimestamp": 1566212031376,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 8274190,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=RBQVRHDAIDLFEZORTGGCDWPC",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RBQVRHDAIDLFEZORTGGCDWPC",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_197847",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 197865,
+        "title": "A\u010cK_417_I",
+        "uploadTimestamp": 1566213288982,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8274714,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=TQYKRZISSTQBVCLPIWZCHZRV",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=TQYKRZISSTQBVCLPIWZCHZRV",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_197865",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 197866,
+        "title": "ACK_800_I",
+        "uploadTimestamp": 1566213297139,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 8274715,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZMUMZKMJXJLBLCKCLHQUMESD",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZMUMZKMJXJLBLCKCLHQUMESD",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_197866",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 197876,
+        "title": "ACK_737_I",
+        "uploadTimestamp": 1566214870093,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 2,
+        "pageId": 8274742,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=FCLSYMXSNVBLPKFBNCJDAJNL",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=FCLSYMXSNVBLPKFBNCJDAJNL",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_197876",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 197880,
+        "title": "ACK_629_I",
+        "uploadTimestamp": 1566216403992,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 8274753,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=DWLVDUBPQUBVKLTIVHYSISFU",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=DWLVDUBPQUBVKLTIVHYSISFU",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_197880",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 197890,
+        "title": "ACK_624_I",
+        "uploadTimestamp": 1566218958580,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 8274880,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=EYXBWXMAAAVFWPHHJZRZUCJH",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=EYXBWXMAAAVFWPHHJZRZUCJH",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_197890",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 198024,
+        "title": "ACK_630_I",
+        "uploadTimestamp": 1566225024776,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 8280128,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=AYWMCCSYTENGSRNFNEDNARGB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=AYWMCCSYTENGSRNFNEDNARGB",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_198024",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 198337,
+        "title": "ACK_712_I",
+        "uploadTimestamp": 1566291528547,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 8284564,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=SERVKHEYKSBVHLEWHBUCQECB",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=SERVKHEYKSBVHLEWHBUCQECB",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_198337",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 198654,
+        "title": "A\u010cK_133_I",
+        "uploadTimestamp": 1566308549077,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8295014,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=THGTBZEKSFFZOGXRLRXUFUKV",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=THGTBZEKSFFZOGXRLRXUFUKV",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_198654",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 198671,
+        "title": "A\u010cK_139_I",
+        "uploadTimestamp": 1566309278821,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8295676,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=BMFJKGKDLZYXURINJBKFXYLA",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=BMFJKGKDLZYXURINJBKFXYLA",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_198671",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 198997,
+        "title": "ACK_395_I",
+        "uploadTimestamp": 1566376652785,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 8303480,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=EKIWWNTJKOBMHLFBVAUJNQXW",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=EKIWWNTJKOBMHLFBVAUJNQXW",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_198997",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 199135,
+        "title": "A\u010cK_142_I",
+        "uploadTimestamp": 1566390367748,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "magdalena.benesova@nacr.cz",
+        "uploaderId": 41299,
+        "nrOfPages": 1,
+        "pageId": 8306242,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=ZPRNOQNYAIJNWHPNYINLUDAY",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZPRNOQNYAIJNWHPNYINLUDAY",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_199135",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 200559,
+        "title": "ACK_731_I",
+        "uploadTimestamp": 1566804532303,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 8360191,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=JRGNREMTNBTZWBOYJCKCFGIQ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=JRGNREMTNBTZWBOYJCKCFGIQ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_200559",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 200702,
+        "title": "ACK_732_I",
+        "uploadTimestamp": 1566819155791,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 8370113,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=VUHWQSIUFTBEVGBKMUHEGMIJ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=VUHWQSIUFTBEVGBKMUHEGMIJ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_200702",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 201059,
+        "title": "ACK_805_I",
+        "uploadTimestamp": 1566893130176,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "marketa.hrdlickova@nacr.cz",
+        "uploaderId": 40502,
+        "nrOfPages": 1,
+        "pageId": 8389869,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=SGFRNPXNLCYOOJXTZJQBCMPZ",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=SGFRNPXNLCYOOJXTZJQBCMPZ",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_201059",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202402,
+        "title": "ACK_961_H_I",
+        "uploadTimestamp": 1567086926723,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8468227,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=PNJWSRKVNNOPGDDQYEDJFGES",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=PNJWSRKVNNOPGDDQYEDJFGES",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202402",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 202410,
+        "title": "ACK_1159_H_I",
+        "uploadTimestamp": 1567088221451,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "petr.mares@nacr.cz",
+        "uploaderId": 42230,
+        "nrOfPages": 1,
+        "pageId": 8468699,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=PKBIGWGTHCMVEUJOCHIPONJL",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=PKBIGWGTHCMVEUJOCHIPONJL",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_202410",
+        "origDocId": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 268705,
+        "title": "ACK_409_I_actual",
+        "uploadTimestamp": 1574691915485,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "katerina.zenklova@nacr.cz",
+        "uploaderId": 38723,
+        "nrOfPages": 1,
+        "pageId": 11242236,
+        "url": "https://files.transkribus.eu/Get?fileType=view&id=HIULSUUEOFXYLOKLLFINWADM",
+        "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=HIULSUUEOFXYLOKLLFINWADM",
+        "externalId": "NA",
+        "authority": "NA",
+        "language": "German",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_191798",
+        "origDocId": 191798,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 44923,
+                    "colName": "NACR - German charters",
+                    "description": "created by katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 40968,
+                    "colName": "katerina.zenklova@nacr.cz Collection",
+                    "description": "katerina.zenklova@nacr.cz",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    }
+]
