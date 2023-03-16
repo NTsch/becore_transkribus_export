@@ -21,7 +21,7 @@
 
     <xsl:template match="facsimile"/>
 
-    <xsl:template match="pb">
+    <xsl:template match="pb[following-sibling::ab[contains(@facs, @facs/current())]]">
         <cei:tenor>
             <cei:pb>
                 <xsl:copy-of select="@*[not(name() = 'xml:id')]"/>

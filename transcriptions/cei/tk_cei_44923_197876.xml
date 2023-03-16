@@ -22,7 +22,7 @@
               
               
                     <cei:lb facs="#facs_1_r1l1" n="N001"/>Wir <cei:persName>Johans</cei:persName>, <cei:persName>Jurge</cei:persName> und <cei:persName>Thomas, bruder genant Freuntzberger</cei:persName>, bekennen und tun kunt offinlich mit diesem brieve allen den, die yn 
-                    <cei:lb facs="#facs_1_r1l2" n="N002"/>se<cei:missing>he</cei:missing>n odir lesen, wann der allirdurchluchtigiste furste und <cei:missing>he</cei:missing>rre her <cei:persName>Karl von Gots gnaden romischer keiser, zu allen zeiten merer des</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>se<cei:supplied>he</cei:supplied>n odir lesen, wann der allirdurchluchtigiste furste und <cei:supplied>he</cei:supplied>rre her <cei:persName>Karl von Gots gnaden romischer keiser, zu allen zeiten merer des</cei:persName>
                     <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>richs und kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName>, unsir lieber gnediger herre, vor alle schult, die er und seliger gedechtnuzze der hochgeborn furste und herre 
                     <cei:lb facs="#facs_1_r1l4" n="N004"/>her <cei:persName>Johans, etwenn kunig zu <cei:placeName>Beheim</cei:placeName></cei:persName><cei:placeName/>, sein vatter, unsir lieber herre, uns und unsirn erben und nachkomen schuldig gewesen seint und 
                     <cei:lb facs="#facs_1_r1l5" n="N005"/>doruber wir yre brieve gehabt haben, uns von unsir und unsir erben und nachkomen wegen syben hundert guter guldin geben und ver¬
@@ -34,7 +34,7 @@
                     <cei:lb facs="#facs_1_r1l11" n="N011"/>vorgenanten, und wir <cei:persName>Jurge</cei:persName> und <cei:persName>Thomas</cei:persName>, bruder des obgenanten <cei:persName>Johans</cei:persName>, bekennen uns aller dieser vorgeschriben dinge under desselben unsirs bruders 
                     <cei:lb facs="#facs_1_r1l12" n="N012"/>insiegel, wann wir unsirs eygen insiegel nicht enhaben zu diesem male. Geben zu <cei:placeName>Nuremberg</cei:placeName> <cei:date value="99999999">nach Cristus geburt drutzenhundert jar, dornach </cei:date>
                     <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:date value="99999999">in den sechtzigstem jare an sant Jacobes tag, des heiligen aposteln</cei:date>.
-            </cei:pTenor></cei:tenor><cei:tenor><cei:pb facs="#facs_2" n="2" id="img_0002"/></cei:tenor>
+            </cei:pTenor></cei:tenor>
          
       
    
