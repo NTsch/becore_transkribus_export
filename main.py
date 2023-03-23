@@ -3,6 +3,8 @@ import os
 import json
 import subprocess
 import argparse
+from helper import extract_key_value
+import xml.etree.ElementTree as ET
 
 # Log in to Transkribus and get a session ID
 login_url = 'https://transkribus.eu/TrpServer/rest/auth/login'
@@ -74,24 +76,39 @@ def get_xml(collection_id: int, document_id: int, page_no: int):
 
     # Find the URLs for the PAGE-XML transcription files of the given page
     for page in doc_json['pageList']['pages']:
-        if page['pageNr'] == int(page_no):
+        if page_no is None or page['pageNr'] == int(page_no):
             for transcript in page['tsList']['transcripts']:
                 urls.append(transcript['url'])
     
-    # Download and save all XMLs
+    # Download and save most recent XML
+    latest_date = None
+    latest_content = None
+    latest_url = None
+
     for url in urls:
         response = requests.get(url)
         if response.status_code == 200:
             content = response.content
+            xml_tree = ET.fromstring(content)
+            last_change = xml_tree.find('.//{http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15}LastChange')
+            lc_content = None
+            if last_change is not None:
+                lc_content = last_change.text
         
-            with open(url.split('=')[1] + '.xml', 'wb') as f:
-                f.write(content)
-            
-            print(f"File {url.split('=')[1]}.xml saved successfully.")
+            if latest_date is None or (lc_content is not None and lc_content > latest_date):
+                latest_date = lc_content
+                latest_content = content
+                latest_url = url
+           
         else:
             print(f"Error downloading file from URL {url}.")
+        
+    if latest_content is not None:
+        with open('transcriptions/pages/' + f'tk_page_{collection_id}_{document_id}_{page_no}.xml', 'wb') as f:
+            f.write(latest_content)
+        print(f"File tk_page_{collection_id}_{document_id}_{page_no}.xml saved successfully.")
 
-def get_transcription(collection_id: int, document_id: int):
+def get_transcription_doc(collection_id: int, document_id: int):
     
     # Download the METS file for the desired document
     doc_url = f'https://transkribus.eu/TrpServer/rest/collections/{collection_id}/{document_id}/mets'
@@ -115,35 +132,13 @@ def get_transcription(collection_id: int, document_id: int):
 
 def get_all_transcriptions(collection_id: int):
 
-    # Get all document IDs that exist for this collection
-    def extract_key_value(file_path, key):
-        with open(file_path, 'r') as f:
-            data = json.load(f)
-
-        values = []
-
-        def extract_value(obj, key):
-            # Recursively search for values of key in nested objects
-            if isinstance(obj, dict):
-                for k, v in obj.items():
-                    if k == key:
-                        values.append(v)
-                    elif isinstance(v, (dict, list)):
-                        extract_value(v, key)
-            elif isinstance(obj, list):
-                for item in obj:
-                    extract_value(item, key)
-
-        extract_value(data, key)
-        return values
-
     file_path = 'documents/NACR - German charters/NACR - German charters_collection.json'
     key = 'docId'
     values = extract_key_value(file_path, key)
     
-    # Run get_transcription for every such ID  
+    # Run get_transcription_doc for every page of every ID  
     for doc_id in values:
-        get_transcription(collection_id, doc_id)
+            get_transcription_doc(collection_id, doc_id)
 
 # Allowing running the desired function via argument
 parser = argparse.ArgumentParser()
@@ -154,11 +149,11 @@ parser_get_everything = subparsers.add_parser('get_everything')
 parser_get_xml = subparsers.add_parser('get_xml')
 parser_get_xml.add_argument('collection_id', nargs='?', default=87230)
 parser_get_xml.add_argument('document_id', nargs='?', default=1002019)
-parser_get_xml.add_argument('page_no')
+parser_get_xml.add_argument('page_no', nargs='?')
 
-parser_get_transcription = subparsers.add_parser('get_transcription')
-parser_get_transcription.add_argument('collection_id', nargs='?', default=87230)
-parser_get_transcription.add_argument('document_id', nargs='?', default=1002019)
+parser_get_transcription_doc = subparsers.add_parser('get_transcription_doc')
+parser_get_transcription_doc.add_argument('collection_id', nargs='?', default=87230)
+parser_get_transcription_doc.add_argument('document_id', nargs='?', default=1002019)
 
 parser_get_all_transcriptions = subparsers.add_parser('get_all_transcriptions')
 parser_get_all_transcriptions.add_argument('collection_id', nargs='?', default=44923)
@@ -169,7 +164,7 @@ if args.func_name == "get_everything":
     get_everything()
 elif args.func_name == "get_xml":
     get_xml(args.collection_id, args.document_id, args.page_no)
-elif args.func_name == "get_transcription":
-    get_transcription(args.collection_id, args.document_id)
+elif args.func_name == "get_transcription_doc":
+    get_transcription_doc(args.collection_id, args.document_id)
 elif args.func_name == "get_all_transcriptions":
     get_all_transcriptions(args.collection_id)
