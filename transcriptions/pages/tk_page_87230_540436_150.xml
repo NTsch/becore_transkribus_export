@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;hyphen=4.0):v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-17T17:10:51.954+01:00</Created>
+        <LastChange>2023-01-09T11:28:25.129+01:00</LastChange>
+        <TranskribusMetadata docId="540436" pageId="22765837" pageNr="150"/>
+    </Metadata>
+    <Page imageFilename="149.jpg" imageWidth="6120" imageHeight="7464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1673260105130" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="2334,2859 2334,6163 5194,6163 5194,2859"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2346,2935 2488,2944 2630,2953 2773,2961 2915,2967 3058,2971 3200,2975 3342,2977 3485,2979 3627,2981 3770,2981 3912,2983 4054,2983 4197,2985 4339,2985 4482,2987 4624,2990 4766,2993 4909,2997 5051,3003 5194,3009 5194,2933 5051,2927 4909,2921 4766,2917 4624,2914 4482,2911 4339,2909 4197,2909 4054,2907 3912,2907 3770,2905 3627,2905 3485,2903 3342,2901 3200,2899 3058,2895 2915,2891 2773,2885 2630,2877 2488,2868 2346,2859"/>
+                <Baseline points="2346,2910 2488,2919 2630,2928 2773,2936 2915,2942 3058,2946 3200,2950 3342,2952 3485,2954 3627,2956 3770,2956 3912,2958 4054,2958 4197,2960 4339,2960 4482,2962 4624,2965 4766,2968 4909,2972 5051,2978 5194,2984"/>
+                <TextEquiv>
+                    <Unicode>Nos, Bernardus de Valle, sacrista Belliioci, tenentes sigillum commu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2360,3059 2499,3063 2639,3067 2778,3071 2918,3075 3057,3077 3197,3081 3336,3083 3476,3085 3615,3087 3755,3089 3894,3091 4034,3093 4173,3095 4313,3097 4452,3099 4592,3101 4731,3103 4871,3105 5010,3109 5150,3113 5150,3038 5010,3034 4871,3030 4731,3028 4592,3026 4452,3024 4313,3022 4173,3020 4034,3018 3894,3016 3755,3014 3615,3012 3476,3010 3336,3008 3197,3006 3057,3002 2918,3000 2778,2996 2639,2992 2499,2988 2360,2984"/>
+                <Baseline points="2360,3034 2499,3038 2639,3042 2778,3046 2918,3050 3057,3052 3197,3056 3336,3058 3476,3060 3615,3062 3755,3064 3894,3066 4034,3068 4173,3070 4313,3072 4452,3074 4592,3076 4731,3078 4871,3080 5010,3084 5150,3088"/>
+                <TextEquiv>
+                    <Unicode>ne domni regis Francie in ballivia Matisconense constitutum, notum facimus universis presentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2362,3173 2502,3176 2642,3179 2782,3181 2922,3183 3063,3185 3203,3185 3343,3187 3483,3187 3623,3189 3764,3189 3904,3191 4044,3192 4184,3193 4324,3196 4465,3199 4605,3201 4745,3205 4885,3210 5025,3215 5166,3221 5166,3146 5025,3140 4885,3135 4745,3130 4605,3126 4465,3124 4324,3121 4184,3118 4044,3117 3904,3116 3764,3114 3623,3114 3483,3112 3343,3112 3203,3110 3063,3110 2922,3108 2782,3106 2642,3104 2502,3101 2362,3098"/>
+                <Baseline points="2362,3148 2502,3151 2642,3154 2782,3156 2922,3158 3063,3160 3203,3160 3343,3162 3483,3162 3623,3164 3764,3164 3904,3166 4044,3167 4184,3168 4324,3171 4465,3174 4605,3176 4745,3180 4885,3185 5025,3190 5166,3196"/>
+                <TextEquiv>
+                    <Unicode>litteras inspecturis quod, in presentia mandati nostri videlicet Stephani dicti bailli de Matiscono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="2356,3281 2495,3283 2635,3287 2775,3289 2915,3290 3055,3291 3195,3293 3335,3295 3475,3295 3615,3297 3755,3299 3894,3301 4034,3303 4174,3305 4314,3307 4454,3309 4594,3313 4734,3317 4874,3322 5014,3327 5154,3333 5154,3257 5014,3251 4874,3246 4734,3241 4594,3237 4454,3233 4314,3231 4174,3229 4034,3227 3894,3225 3755,3223 3615,3221 3475,3219 3335,3219 3195,3217 3055,3215 2915,3214 2775,3213 2635,3211 2495,3207 2356,3205"/>
+                <Baseline points="2356,3256 2495,3258 2635,3262 2775,3264 2915,3265 3055,3266 3195,3268 3335,3270 3475,3270 3615,3272 3755,3274 3894,3276 4034,3278 4174,3280 4314,3282 4454,3284 4594,3288 4734,3292 4874,3297 5014,3302 5154,3308"/>
+                <TextEquiv>
+                    <Unicode>clerici jurati dicti domni regis et nostri et ad hec a nobis specialiter deputati et testium subscriptorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="2352,3387 2490,3390 2629,3393 2767,3395 2906,3397 3044,3398 3183,3399 3321,3401 3460,3403 3598,3405 3737,3407 3875,3409 4014,3411 4152,3413 4291,3415 4429,3417 4568,3420 4706,3423 4845,3425 4983,3429 5122,3433 5122,3358 4983,3354 4845,3350 4706,3348 4568,3345 4429,3342 4291,3340 4152,3338 4014,3336 3875,3334 3737,3332 3598,3330 3460,3328 3321,3326 3183,3324 3044,3323 2906,3322 2767,3320 2629,3318 2490,3315 2352,3312"/>
+                <Baseline points="2352,3362 2490,3365 2629,3368 2767,3370 2906,3372 3044,3373 3183,3374 3321,3376 3460,3378 3598,3380 3737,3382 3875,3384 4014,3386 4152,3388 4291,3390 4429,3392 4568,3395 4706,3398 4845,3400 4983,3404 5122,3408"/>
+                <TextEquiv>
+                    <Unicode>ad hoc specialiter vocatorum et rogatorum, anno et die infra scriptis, propter personaliter constituti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="2340,3493 2480,3497 2621,3499 2761,3501 2902,3503 3043,3503 3183,3505 3324,3505 3464,3507 3605,3507 3746,3508 3886,3509 4027,3511 4167,3513 4308,3517 4449,3519 4589,3523 4730,3528 4870,3535 5011,3542 5152,3549 5152,3474 5011,3467 4870,3460 4730,3453 4589,3448 4449,3444 4308,3442 4167,3438 4027,3436 3886,3434 3746,3433 3605,3432 3464,3432 3324,3430 3183,3430 3043,3428 2902,3428 2761,3426 2621,3424 2480,3422 2340,3418"/>
+                <Baseline points="2340,3468 2480,3472 2621,3474 2761,3476 2902,3478 3043,3478 3183,3480 3324,3480 3464,3482 3605,3482 3746,3483 3886,3484 4027,3486 4167,3488 4308,3492 4449,3494 4589,3498 4730,3503 4870,3510 5011,3517 5152,3524"/>
+                <TextEquiv>
+                    <Unicode>Aymo Ronati, Petrus Chanueti, Guillelmus Copini, Petrus Lupi, Stephanus de Manisia¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="2348,3601 2487,3603 2627,3605 2767,3606 2907,3607 3047,3608 3187,3609 3327,3609 3467,3611 3607,3611 3747,3613 3886,3615 4026,3616 4166,3619 4306,3621 4446,3624 4586,3628 4726,3633 4866,3637 5006,3644 5146,3651 5146,3575 5006,3568 4866,3561 4726,3557 4586,3552 4446,3548 4306,3545 4166,3543 4026,3540 3886,3539 3747,3537 3607,3535 3467,3535 3327,3533 3187,3533 3047,3532 2907,3531 2767,3530 2627,3529 2487,3527 2348,3525"/>
+                <Baseline points="2348,3576 2487,3578 2627,3580 2767,3581 2907,3582 3047,3583 3187,3584 3327,3584 3467,3586 3607,3586 3747,3588 3886,3590 4026,3591 4166,3594 4306,3596 4446,3599 4586,3603 4726,3608 4866,3612 5006,3619 5146,3626"/>
+                <TextEquiv>
+                    <Unicode>co, Dyonisius de Burziaco, Guillelmus de Donziaco, Stephanus Groaz, Petrus de Aziaco,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="2334,3715 2474,3715 2615,3713 2756,3713 2897,3715 3038,3715 3178,3715 3319,3717 3460,3717 3601,3719 3742,3721 3882,3723 4023,3726 4164,3729 4305,3731 4446,3735 4586,3739 4727,3743 4868,3747 5009,3751 5150,3757 5150,3681 5009,3675 4868,3671 4727,3667 4586,3663 4446,3659 4305,3655 4164,3653 4023,3650 3882,3647 3742,3645 3601,3643 3460,3641 3319,3641 3178,3639 3038,3639 2897,3639 2756,3637 2615,3637 2474,3639 2334,3639"/>
+                <Baseline points="2334,3690 2474,3690 2615,3688 2756,3688 2897,3690 3038,3690 3178,3690 3319,3692 3460,3692 3601,3694 3742,3696 3882,3698 4023,3701 4164,3704 4305,3706 4446,3710 4586,3714 4727,3718 4868,3722 5009,3726 5150,3732"/>
+                <TextEquiv>
+                    <Unicode>Johannes Quarrelli, et Galterus Preco burgenses et habitatores ville Cluniacensis ac procuratores quorumdam alio¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="2348,3827 2487,3825 2626,3825 2765,3823 2904,3823 3043,3823 3182,3823 3321,3823 3460,3825 3599,3825 3739,3827 3878,3829 4017,3833 4156,3835 4295,3839 4434,3843 4573,3849 4712,3853 4851,3858 4990,3864 5130,3871 5130,3795 4990,3788 4851,3782 4712,3777 4573,3773 4434,3767 4295,3763 4156,3759 4017,3757 3878,3753 3739,3751 3599,3749 3460,3749 3321,3747 3182,3747 3043,3747 2904,3747 2765,3747 2626,3749 2487,3749 2348,3751"/>
+                <Baseline points="2348,3802 2487,3800 2626,3800 2765,3798 2904,3798 3043,3798 3182,3798 3321,3798 3460,3800 3599,3800 3739,3802 3878,3804 4017,3808 4156,3810 4295,3814 4434,3818 4573,3824 4712,3828 4851,3833 4990,3839 5130,3846"/>
+                <TextEquiv>
+                    <Unicode>rum burgensium et habitatorum dicte ville, quorum nomina continenta in quodam procuratorio signato </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="2358,3931 2497,3929 2636,3927 2775,3927 2914,3926 3053,3925 3192,3927 3331,3927 3470,3929 3609,3931 3749,3933 3888,3937 4027,3940 4166,3945 4305,3948 4444,3953 4583,3957 4722,3963 4861,3968 5000,3975 5140,3981 5140,3905 5000,3899 4861,3892 4722,3887 4583,3881 4444,3877 4305,3872 4166,3869 4027,3864 3888,3861 3749,3857 3609,3855 3470,3853 3331,3851 3192,3851 3053,3849 2914,3850 2775,3851 2636,3851 2497,3853 2358,3855"/>
+                <Baseline points="2358,3906 2497,3904 2636,3902 2775,3902 2914,3901 3053,3900 3192,3902 3331,3902 3470,3904 3609,3906 3749,3908 3888,3912 4027,3915 4166,3920 4305,3923 4444,3928 4583,3932 4722,3938 4861,3943 5000,3950 5140,3956"/>
+                <TextEquiv>
+                    <Unicode>signo magistri Stephani Bermondi clerici auctoritate apostolica publici notarii, ut prima facie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="2348,4039 2489,4037 2630,4035 2771,4035 2912,4033 3053,4033 3194,4035 3335,4035 3476,4037 3617,4039 3759,4041 3900,4045 4041,4047 4182,4051 4323,4055 4464,4059 4605,4063 4746,4069 4887,4073 5028,4079 5170,4083 5170,4007 5028,4003 4887,3997 4746,3993 4605,3987 4464,3983 4323,3979 4182,3975 4041,3971 3900,3969 3759,3965 3617,3963 3476,3961 3335,3959 3194,3959 3053,3957 2912,3957 2771,3959 2630,3959 2489,3961 2348,3963"/>
+                <Baseline points="2348,4014 2489,4012 2630,4010 2771,4010 2912,4008 3053,4008 3194,4010 3335,4010 3476,4012 3617,4014 3759,4016 3900,4020 4041,4022 4182,4026 4323,4030 4464,4034 4605,4038 4746,4044 4887,4048 5028,4054 5170,4058"/>
+                <TextEquiv>
+                    <Unicode>apparet sua spontanea et voluntate venerunt in capitulo Cluniacense hora prima consueta domno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="2360,4145 2500,4145 2641,4145 2781,4143 2922,4143 3062,4143 3203,4145 3343,4145 3484,4147 3624,4149 3765,4151 3905,4155 4046,4157 4186,4162 4327,4166 4467,4171 4608,4177 4748,4183 4889,4190 5029,4197 5170,4205 5170,4130 5029,4122 4889,4115 4748,4108 4608,4102 4467,4096 4327,4091 4186,4087 4046,4082 3905,4080 3765,4076 3624,4074 3484,4072 3343,4070 3203,4070 3062,4068 2922,4068 2781,4068 2641,4070 2500,4070 2360,4070"/>
+                <Baseline points="2360,4120 2500,4120 2641,4120 2781,4118 2922,4118 3062,4118 3203,4120 3343,4120 3484,4122 3624,4124 3765,4126 3905,4130 4046,4132 4186,4137 4327,4141 4467,4146 4608,4152 4748,4158 4889,4165 5029,4172 5170,4180"/>
+                <TextEquiv>
+                    <Unicode>abbati et conventui Cluniacensi ad capitulandum ibidem, ubi reverendus in Christo pater ac domnus H., divi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="2336,4261 2477,4259 2618,4257 2759,4255 2900,4253 3041,4253 3182,4253 3323,4253 3464,4255 3605,4257 3747,4259 3888,4261 4029,4265 4170,4269 4311,4273 4452,4277 4593,4282 4734,4288 4875,4293 5016,4299 5158,4305 5158,4229 5016,4223 4875,4217 4734,4212 4593,4206 4452,4201 4311,4197 4170,4193 4029,4189 3888,4185 3747,4183 3605,4181 3464,4179 3323,4177 3182,4177 3041,4177 2900,4177 2759,4179 2618,4181 2477,4183 2336,4185"/>
+                <Baseline points="2336,4236 2477,4234 2618,4232 2759,4230 2900,4228 3041,4228 3182,4228 3323,4228 3464,4230 3605,4232 3747,4234 3888,4236 4029,4240 4170,4244 4311,4248 4452,4252 4593,4257 4734,4263 4875,4268 5016,4274 5158,4280"/>
+                <TextEquiv>
+                    <Unicode>na permissione abbas Clunicensis, totusque conventus ejusdem loci erant in capitulo in simul con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="2346,4375 2486,4371 2627,4367 2768,4363 2909,4361 3050,4361 3190,4361 3331,4361 3472,4361 3613,4363 3754,4367 3894,4369 4035,4373 4176,4377 4317,4382 4458,4387 4598,4393 4739,4399 4880,4405 5021,4411 5162,4417 5162,4341 5021,4335 4880,4329 4739,4323 4598,4317 4458,4311 4317,4306 4176,4301 4035,4297 3894,4293 3754,4291 3613,4287 3472,4285 3331,4285 3190,4285 3050,4285 2909,4285 2768,4287 2627,4291 2486,4295 2346,4299"/>
+                <Baseline points="2346,4350 2486,4346 2627,4342 2768,4338 2909,4336 3050,4336 3190,4336 3331,4336 3472,4336 3613,4338 3754,4342 3894,4344 4035,4348 4176,4352 4317,4357 4458,4362 4598,4368 4739,4374 4880,4380 5021,4386 5162,4392"/>
+                <TextEquiv>
+                    <Unicode>gregati canpana pulsata. Qui procuratores amoventes de capitibus suis caputia su¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="2358,4482 2496,4475 2635,4472 2773,4468 2912,4466 3051,4466 3189,4465 3328,4466 3466,4468 3605,4470 3744,4473 3882,4477 4021,4480 4159,4486 4298,4492 4437,4498 4575,4504 4714,4510 4852,4519 4991,4526 5130,4532 5130,4459 4991,4453 4852,4446 4714,4437 4575,4431 4437,4425 4298,4419 4159,4413 4021,4407 3882,4404 3744,4400 3605,4397 3466,4395 3328,4393 3189,4392 3051,4393 2912,4393 2773,4395 2635,4399 2496,4402 2358,4409"/>
+                <Baseline points="2358,4458 2496,4451 2635,4448 2773,4444 2912,4442 3051,4442 3189,4441 3328,4442 3466,4444 3605,4446 3744,4449 3882,4453 4021,4456 4159,4462 4298,4468 4437,4474 4575,4480 4714,4486 4852,4495 4991,4502 5130,4508"/>
+                <TextEquiv>
+                    <Unicode>a, flexis genibus junctisque manibus, humiliter et devote et capitibus inclinatis, coram domno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="2360,4594 2498,4590 2636,4586 2774,4582 2912,4580 3050,4580 3188,4578 3326,4580 3464,4580 3602,4582 3741,4584 3879,4586 4017,4590 4155,4594 4293,4598 4431,4602 4569,4608 4707,4612 4845,4618 4983,4624 5122,4630 5122,4557 4983,4551 4845,4545 4707,4539 4569,4535 4431,4529 4293,4525 4155,4521 4017,4517 3879,4513 3741,4511 3602,4509 3464,4507 3326,4507 3188,4505 3050,4507 2912,4507 2774,4509 2636,4513 2498,4517 2360,4521"/>
+                <Baseline points="2360,4570 2498,4566 2636,4562 2774,4558 2912,4556 3050,4556 3188,4554 3326,4556 3464,4556 3602,4558 3741,4560 3879,4562 4017,4566 4155,4570 4293,4574 4431,4578 4569,4584 4707,4588 4845,4594 4983,4600 5122,4606"/>
+                <TextEquiv>
+                    <Unicode>abbate et toto conventu predictis, tam pro se quam nomine procuratorum predictorum indicto procuratorio conten¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="2358,4699 2495,4695 2632,4693 2769,4691 2906,4689 3043,4687 3180,4687 3317,4687 3454,4687 3591,4689 3728,4689 3865,4691 4002,4695 4139,4697 4276,4701 4413,4706 4550,4711 4687,4717 4824,4723 4961,4730 5098,4737 5098,4661 4961,4654 4824,4647 4687,4641 4550,4635 4413,4630 4276,4625 4139,4621 4002,4619 3865,4615 3728,4613 3591,4613 3454,4611 3317,4611 3180,4611 3043,4611 2906,4613 2769,4615 2632,4617 2495,4619 2358,4623"/>
+                <Baseline points="2358,4674 2495,4670 2632,4668 2769,4666 2906,4664 3043,4662 3180,4662 3317,4662 3454,4662 3591,4664 3728,4664 3865,4666 4002,4670 4139,4672 4276,4676 4413,4681 4550,4686 4687,4692 4824,4698 4961,4705 5098,4712"/>
+                <TextEquiv>
+                    <Unicode>torum petierunt veniam sibi dari et benigniter indulgeri a domno abbate et conventu predictis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="2350,4816 2487,4812 2624,4808 2761,4804 2898,4802 3036,4800 3173,4798 3310,4798 3447,4798 3584,4798 3722,4800 3859,4800 3996,4803 4133,4806 4270,4810 4408,4814 4545,4818 4682,4824 4819,4830 4956,4837 5094,4844 5094,4771 4956,4764 4819,4757 4682,4751 4545,4745 4408,4741 4270,4737 4133,4733 3996,4730 3859,4727 3722,4727 3584,4725 3447,4725 3310,4725 3173,4725 3036,4727 2898,4729 2761,4731 2624,4735 2487,4739 2350,4743"/>
+                <Baseline points="2350,4792 2487,4788 2624,4784 2761,4780 2898,4778 3036,4776 3173,4774 3310,4774 3447,4774 3584,4774 3722,4776 3859,4776 3996,4779 4133,4782 4270,4786 4408,4790 4545,4794 4682,4800 4819,4806 4956,4813 5094,4820"/>
+                <TextEquiv>
+                    <Unicode>de commissis ominibus per eosdem contra ipsos. Qui domus abbas et conventus predicti, zelo misericor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="2350,4915 2490,4911 2630,4907 2771,4905 2911,4903 3052,4901 3192,4901 3332,4899 3473,4901 3613,4901 3754,4903 3894,4905 4034,4909 4175,4912 4315,4917 4456,4921 4596,4927 4736,4932 4877,4937 5017,4944 5158,4951 5158,4881 5017,4874 4877,4867 4736,4862 4596,4857 4456,4851 4315,4847 4175,4842 4034,4839 3894,4835 3754,4833 3613,4831 3473,4831 3332,4829 3192,4831 3052,4831 2911,4833 2771,4835 2630,4837 2490,4841 2350,4845"/>
+                <Baseline points="2350,4892 2490,4888 2630,4884 2771,4882 2911,4880 3052,4878 3192,4878 3332,4876 3473,4878 3613,4878 3754,4880 3894,4882 4034,4886 4175,4889 4315,4894 4456,4898 4596,4904 4736,4909 4877,4914 5017,4921 5158,4928"/>
+                <TextEquiv>
+                    <Unicode>die et pietatis commoti etiam et inducti, dictos burgenses pro se et nomine procuratorum aliorum indicto </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="2358,5011 2499,5009 2640,5005 2781,5004 2922,5003 3064,5001 3205,5001 3346,5001 3487,5001 3628,5003 3770,5005 3911,5007 4052,5011 4193,5014 4334,5019 4476,5022 4617,5027 4758,5033 4899,5039 5040,5047 5182,5053 5182,4983 5040,4977 4899,4969 4758,4963 4617,4957 4476,4952 4334,4949 4193,4944 4052,4941 3911,4937 3770,4935 3628,4933 3487,4931 3346,4931 3205,4931 3064,4931 2922,4933 2781,4934 2640,4935 2499,4939 2358,4941"/>
+                <Baseline points="2358,4988 2499,4986 2640,4982 2781,4981 2922,4980 3064,4978 3205,4978 3346,4978 3487,4978 3628,4980 3770,4982 3911,4984 4052,4988 4193,4991 4334,4996 4476,4999 4617,5004 4758,5010 4899,5016 5040,5024 5182,5030"/>
+                <TextEquiv>
+                    <Unicode>procuratorio contentorum tanquam homines suos favore benivolo prosequentes eisdem omnibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="2374,5158 2511,5156 2648,5154 2785,5152 2922,5150 3059,5150 3196,5150 3333,5148 3470,5148 3607,5150 3744,5150 3881,5152 4018,5154 4155,5157 4292,5160 4429,5165 4566,5170 4703,5175 4840,5182 4977,5189 5114,5196 5114,5124 4977,5117 4840,5110 4703,5103 4566,5098 4429,5093 4292,5088 4155,5085 4018,5082 3881,5080 3744,5078 3607,5078 3470,5076 3333,5076 3196,5078 3059,5078 2922,5078 2785,5080 2648,5082 2511,5084 2374,5086"/>
+                <Baseline points="2374,5134 2511,5132 2648,5130 2785,5128 2922,5126 3059,5126 3196,5126 3333,5124 3470,5124 3607,5126 3744,5126 3881,5128 4018,5130 4155,5133 4292,5136 4429,5141 4566,5146 4703,5151 4840,5158 4977,5165 5114,5172"/>
+                <TextEquiv>
+                    <Unicode>omnia contra ipsos commissa misericorditer indulserunt : veniamque de omnibus commissis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="2368,5256 2506,5254 2645,5252 2784,5250 2922,5250 3061,5248 3200,5248 3338,5248 3477,5248 3616,5248 3755,5248 3893,5250 4032,5252 4171,5254 4309,5256 4448,5260 4587,5264 4725,5268 4864,5272 5003,5278 5142,5284 5142,5212 5003,5206 4864,5200 4725,5196 4587,5192 4448,5188 4309,5184 4171,5182 4032,5180 3893,5178 3755,5176 3616,5176 3477,5176 3338,5176 3200,5176 3061,5176 2922,5178 2784,5178 2645,5180 2506,5182 2368,5184"/>
+                <Baseline points="2368,5232 2506,5230 2645,5228 2784,5226 2922,5226 3061,5224 3200,5224 3338,5224 3477,5224 3616,5224 3755,5224 3893,5226 4032,5228 4171,5230 4309,5232 4448,5236 4587,5240 4725,5244 4864,5248 5003,5254 5142,5260"/>
+                <TextEquiv>
+                    <Unicode>hylariter concesserunt. Acta fuerunt hec in presentia dicti jurati domni regis et nostri anno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="2384,5355 2522,5355 2660,5355 2799,5355 2937,5354 3076,5353 3214,5353 3352,5353 3491,5352 3629,5352 3768,5353 3906,5353 4044,5353 4183,5355 4321,5357 4460,5361 4598,5363 4736,5369 4875,5374 5013,5379 5152,5387 5152,5311 5013,5303 4875,5298 4736,5293 4598,5287 4460,5285 4321,5281 4183,5279 4044,5277 3906,5277 3768,5277 3629,5276 3491,5276 3352,5277 3214,5277 3076,5277 2937,5278 2799,5279 2660,5279 2522,5279 2384,5279"/>
+                <Baseline points="2384,5330 2522,5330 2660,5330 2799,5330 2937,5329 3076,5328 3214,5328 3352,5328 3491,5327 3629,5327 3768,5328 3906,5328 4044,5328 4183,5330 4321,5332 4460,5336 4598,5338 4736,5344 4875,5349 5013,5354 5152,5362"/>
+                <TextEquiv>
+                    <Unicode>Domini millesimo .ccc°. nono, die sabbati post translationem beati Nicholay in capitulo supra dicto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="2374,5465 2512,5461 2650,5459 2788,5457 2926,5457 3064,5455 3202,5455 3340,5455 3478,5455 3616,5455 3754,5455 3892,5457 4030,5457 4168,5459 4306,5461 4444,5463 4582,5464 4720,5465 4858,5468 4996,5470 5134,5473 5134,5404 4996,5401 4858,5399 4720,5396 4582,5395 4444,5394 4306,5392 4168,5390 4030,5388 3892,5388 3754,5386 3616,5386 3478,5386 3340,5386 3202,5386 3064,5386 2926,5388 2788,5388 2650,5390 2512,5392 2374,5396"/>
+                <Baseline points="2374,5442 2512,5438 2650,5436 2788,5434 2926,5434 3064,5432 3202,5432 3340,5432 3478,5432 3616,5432 3754,5432 3892,5434 4030,5434 4168,5436 4306,5438 4444,5440 4582,5441 4720,5442 4858,5445 4996,5447 5134,5450"/>
+                <TextEquiv>
+                    <Unicode>presentibus religiosis viris domino Guillelmo Dalmacii camerario et Bernardo de Cornalou </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="2392,5564 2529,5564 2666,5562 2803,5562 2940,5560 3078,5560 3215,5558 3352,5558 3489,5556 3626,5556 3764,5556 3901,5554 4038,5554 4175,5554 4312,5554 4450,5556 4587,5556 4724,5558 4861,5560 4998,5562 5136,5566 5136,5499 4998,5495 4861,5493 4724,5491 4587,5489 4450,5489 4312,5487 4175,5487 4038,5487 3901,5487 3764,5489 3626,5489 3489,5489 3352,5491 3215,5491 3078,5493 2940,5493 2803,5495 2666,5495 2529,5497 2392,5497"/>
+                <Baseline points="2392,5542 2529,5542 2666,5540 2803,5540 2940,5538 3078,5538 3215,5536 3352,5536 3489,5534 3626,5534 3764,5534 3901,5532 4038,5532 4175,5532 4312,5532 4450,5534 4587,5534 4724,5536 4861,5538 4998,5540 5136,5544"/>
+                <TextEquiv>
+                    <Unicode>cano[ni]cis sancti Petri Matisconensis, et Guio[ne]to Julioti et pluribus aliis ad hoc vocatis testibus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="2384,5656 2523,5660 2663,5662 2802,5664 2942,5664 3082,5664 3221,5664 3361,5663 3500,5662 3640,5660 3780,5659 3919,5658 4059,5656 4198,5656 4338,5656 4478,5656 4617,5656 4757,5658 4896,5662 5036,5665 5176,5670 5176,5603 5036,5598 4896,5595 4757,5591 4617,5589 4478,5589 4338,5589 4198,5589 4059,5589 3919,5591 3780,5592 3640,5593 3500,5595 3361,5596 3221,5597 3082,5597 2942,5597 2802,5597 2663,5595 2523,5593 2384,5589"/>
+                <Baseline points="2384,5634 2523,5638 2663,5640 2802,5642 2942,5642 3082,5642 3221,5642 3361,5641 3500,5640 3640,5638 3780,5637 3919,5636 4059,5634 4198,5634 4338,5634 4478,5634 4617,5634 4757,5636 4896,5640 5036,5643 5176,5648"/>
+                <TextEquiv>
+                    <Unicode>specialiter et rogatis. In cujus rei testimonium et robur perpetue firmitatis ad instantiam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="2372,5767 2508,5769 2645,5771 2781,5771 2918,5773 3055,5773 3191,5773 3328,5771 3464,5771 3601,5769 3738,5767 3874,5767 4011,5765 4147,5763 4284,5763 4421,5761 4557,5761 4694,5761 4830,5761 4967,5761 5104,5761 5104,5685 4967,5685 4830,5685 4694,5685 4557,5685 4421,5685 4284,5687 4147,5687 4011,5689 3874,5691 3738,5691 3601,5693 3464,5695 3328,5695 3191,5697 3055,5697 2918,5697 2781,5695 2645,5695 2508,5693 2372,5691"/>
+                <Baseline points="2372,5742 2508,5744 2645,5746 2781,5746 2918,5748 3055,5748 3191,5748 3328,5746 3464,5746 3601,5744 3738,5742 3874,5742 4011,5740 4147,5738 4284,5738 4421,5736 4557,5736 4694,5736 4830,5736 4967,5736 5104,5736"/>
+                <TextEquiv>
+                    <Unicode>et preces dictorum procuratorum nobis oblatas pro ipsis per dictum juratum nostrum cui super hiis et aliis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="2360,5885 2496,5881 2633,5879 2770,5877 2906,5875 3043,5873 3180,5873 3316,5871 3453,5871 3590,5869 3727,5869 3863,5867 4000,5865 4137,5863 4273,5861 4410,5857 4547,5853 4683,5848 4820,5842 4957,5834 5094,5825 5094,5755 4957,5764 4820,5772 4683,5778 4547,5783 4410,5787 4273,5791 4137,5793 4000,5795 3863,5797 3727,5799 3590,5799 3453,5801 3316,5801 3180,5803 3043,5803 2906,5805 2770,5807 2633,5809 2496,5811 2360,5815"/>
+                <Baseline points="2360,5862 2496,5858 2633,5856 2770,5854 2906,5852 3043,5850 3180,5850 3316,5848 3453,5848 3590,5846 3727,5846 3863,5844 4000,5842 4137,5840 4273,5838 4410,5834 4547,5830 4683,5825 4820,5819 4957,5811 5094,5802"/>
+                <TextEquiv>
+                    <Unicode>fidem plenariam adhibemus presentibus litteris sigillum commune domni regis predictum duximus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="2376,5981 2458,5981 2540,5979 2622,5979 2705,5977 2787,5977 2869,5975 2952,5975 3034,5973 3116,5971 3199,5971 3281,5969 3363,5969 3445,5967 3528,5967 3610,5965 3692,5965 3775,5963 3857,5963 3939,5963 4022,5961 4022,5891 3939,5893 3857,5893 3775,5893 3692,5895 3610,5895 3528,5897 3445,5897 3363,5899 3281,5899 3199,5901 3116,5901 3034,5903 2952,5905 2869,5905 2787,5907 2705,5907 2622,5909 2540,5909 2458,5911 2376,5911"/>
+                <Baseline points="2376,5958 2458,5958 2540,5956 2622,5956 2705,5954 2787,5954 2869,5952 2952,5952 3034,5950 3116,5948 3199,5948 3281,5946 3363,5946 3445,5944 3528,5944 3610,5942 3692,5942 3775,5940 3857,5940 3939,5940 4022,5938"/>
+                <TextEquiv>
+                    <Unicode>apponendum. Datum anno et die supradictis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="2554,6072 2684,6072 2814,6074 2944,6074 3074,6076 3204,6076 3334,6078 3464,6078 3594,6080 3724,6080 3854,6080 3984,6080 4114,6080 4244,6078 4374,6076 4504,6074 4634,6070 4764,6066 4894,6060 5024,6054 5154,6046 5154,5986 5024,5994 4894,6000 4764,6006 4634,6010 4504,6014 4374,6016 4244,6018 4114,6020 3984,6020 3854,6020 3724,6020 3594,6020 3464,6018 3334,6018 3204,6016 3074,6016 2944,6014 2814,6014 2684,6012 2554,6012"/>
+                <Baseline points="2554,6052 2684,6052 2814,6054 2944,6054 3074,6056 3204,6056 3334,6058 3464,6058 3594,6060 3724,6060 3854,6060 3984,6060 4114,6060 4244,6058 4374,6056 4504,6054 4634,6050 4764,6046 4894,6040 5024,6034 5154,6026"/>
+                <TextEquiv>
+                    <Unicode>Ita fuit actum in mei presentia Stephani balli testibus predictis presentibus sub hoc sig¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="2522,6153 2576,6153 2630,6153 2684,6153 2738,6153 2793,6153 2847,6155 2901,6155 2955,6155 3009,6155 3064,6155 3118,6155 3172,6156 3226,6157 3280,6157 3335,6157 3389,6159 3443,6159 3497,6161 3551,6162 3606,6163 3606,6105 3551,6104 3497,6103 3443,6101 3389,6101 3335,6099 3280,6099 3226,6099 3172,6098 3118,6097 3064,6097 3009,6097 2955,6097 2901,6097 2847,6097 2793,6095 2738,6095 2684,6095 2630,6095 2576,6095 2522,6095"/>
+                <Baseline points="2522,6134 2576,6134 2630,6134 2684,6134 2738,6134 2793,6134 2847,6136 2901,6136 2955,6136 3009,6136 3064,6136 3118,6136 3172,6137 3226,6138 3280,6138 3335,6138 3389,6140 3443,6140 3497,6142 3551,6143 3606,6144"/>
+                <TextEquiv>
+                    <Unicode>no meo vocatus et rogatus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nos, Bernardus de Valle, sacrista Belliioci, tenentes sigillum commu¬&#13;
+ne domni regis Francie in ballivia Matisconense constitutum, notum facimus universis presentes&#13;
+litteras inspecturis quod, in presentia mandati nostri videlicet Stephani dicti bailli de Matiscono&#13;
+clerici jurati dicti domni regis et nostri et ad hec a nobis specialiter deputati et testium subscriptorum&#13;
+ad hoc specialiter vocatorum et rogatorum, anno et die infra scriptis, propter personaliter constituti&#13;
+Aymo Ronati, Petrus Chanueti, Guillelmus Copini, Petrus Lupi, Stephanus de Manisia¬&#13;
+co, Dyonisius de Burziaco, Guillelmus de Donziaco, Stephanus Groaz, Petrus de Aziaco,&#13;
+Johannes Quarrelli, et Galterus Preco burgenses et habitatores ville Cluniacensis ac procuratores quorumdam alio¬&#13;
+rum burgensium et habitatorum dicte ville, quorum nomina continenta in quodam procuratorio signato &#13;
+signo magistri Stephani Bermondi clerici auctoritate apostolica publici notarii, ut prima facie&#13;
+apparet sua spontanea et voluntate venerunt in capitulo Cluniacense hora prima consueta domno&#13;
+abbati et conventui Cluniacensi ad capitulandum ibidem, ubi reverendus in Christo pater ac domnus H., divi¬&#13;
+na permissione abbas Clunicensis, totusque conventus ejusdem loci erant in capitulo in simul con¬&#13;
+gregati canpana pulsata. Qui procuratores amoventes de capitibus suis caputia su¬&#13;
+a, flexis genibus junctisque manibus, humiliter et devote et capitibus inclinatis, coram domno&#13;
+abbate et toto conventu predictis, tam pro se quam nomine procuratorum predictorum indicto procuratorio conten¬&#13;
+torum petierunt veniam sibi dari et benigniter indulgeri a domno abbate et conventu predictis&#13;
+de commissis ominibus per eosdem contra ipsos. Qui domus abbas et conventus predicti, zelo misericor¬&#13;
+die et pietatis commoti etiam et inducti, dictos burgenses pro se et nomine procuratorum aliorum indicto &#13;
+procuratorio contentorum tanquam homines suos favore benivolo prosequentes eisdem omnibus&#13;
+omnia contra ipsos commissa misericorditer indulserunt : veniamque de omnibus commissis&#13;
+hylariter concesserunt. Acta fuerunt hec in presentia dicti jurati domni regis et nostri anno&#13;
+Domini millesimo .ccc°. nono, die sabbati post translationem beati Nicholay in capitulo supra dicto,&#13;
+presentibus religiosis viris domino Guillelmo Dalmacii camerario et Bernardo de Cornalou &#13;
+cano[ni]cis sancti Petri Matisconensis, et Guio[ne]to Julioti et pluribus aliis ad hoc vocatis testibus &#13;
+specialiter et rogatis. In cujus rei testimonium et robur perpetue firmitatis ad instantiam&#13;
+et preces dictorum procuratorum nobis oblatas pro ipsis per dictum juratum nostrum cui super hiis et aliis &#13;
+fidem plenariam adhibemus presentibus litteris sigillum commune domni regis predictum duximus &#13;
+apponendum. Datum anno et die supradictis.&#13;
+Ita fuit actum in mei presentia Stephani balli testibus predictis presentibus sub hoc sig¬&#13;
+no meo vocatus et rogatus.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

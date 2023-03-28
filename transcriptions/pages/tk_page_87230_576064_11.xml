@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-01-20T10:13:41.413+01:00</Created>
+        <LastChange>2022-10-05T13:49:03.525+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="10.jpg" imageWidth="7692" imageHeight="5191">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1664970543526" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="371,579 371,4685 7485,4685 7485,579"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="412,1090 2707,1063 2957,1059 3207,1054 3456,1050 3706,1045 3956,1041 4205,1037 4455,1033 4705,1029 4955,1025 5204,1021 5454,1017 5704,1013 5953,1009 6203,1005 6453,1001 6702,997 6952,993 7202,989 7472,985 7472,933 7202,937 6952,941 6702,945 6453,949 6203,953 5953,957 5704,961 5454,965 5204,969 4955,973 4705,977 4456,981 4206,985 3956,989 3706,993 3456,998 3207,1002 2957,1007 2707,1011 412,1038"/>
+                <Baseline points="589,1091 838,1087 2957,1042 3207,1037 3456,1033 3706,1028 3956,1024 4205,1020 4455,1016 4705,1012 4955,1008 5204,1004 5454,1000 5704,996 5953,992 6203,988 6453,984 6702,980 6952,976 7216,972 7466,968"/>
+                <TextEquiv>
+                    <Unicode>Nos Hugo Forcis de Edua Junior, clericus burgensis Balne tenentes sigillum [commune regium in bai]llivia Matisconense constitutum, notum facimus universis presentes litteras inspecturis, cum dilectus noster Bartholomeus de Cabilone auctoritate regia publicus notarius juratusque domini nostri regis et noster ad hoc et majora a nobis deputatus nobis retulit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="422,1184 2699,1141 2948,1137 3197,1133 3446,1127 3696,1123 3945,1119 4194,1115 4443,1111 4692,1107 4942,1103 5191,1099 5440,1095 5689,1091 5938,1087 6188,1085 6437,1081 6686,1079 6935,1075 7184,1073 7434,1071 7434,1019 7184,1021 6935,1023 6686,1027 6437,1029 6188,1033 5938,1035 5689,1039 5440,1043 5191,1047 4942,1051 4692,1055 4443,1059 4194,1063 3945,1067 3696,1071 3446,1075 3197,1081 2948,1085 2699,1089 422,1132"/>
+                <Baseline points="445,1181 1450,1154 2948,1127 3197,1123 3446,1117 3696,1113 3856,1118 4194,1105 4443,1101 4692,1097 4942,1093 5191,1089 5440,1085 5689,1081 5938,1077 6188,1075 6437,1071 6686,1069 6935,1065 7184,1063 7434,1061"/>
+                <TextEquiv>
+                    <Unicode>per suum juramentum se vidisse, tenuisse et imspecxisse ac de verbo ad verbum legisse quasdem litteras nostras sigillo regio sigillatas non viciatas, non rasas, non corruptas, non abolitas, non cancellatas, nec in aliqua sui parte suspectas, sed omni vicio prosrus et suspectione carentes ut prima facie apparebat formam que sequitur continentes. Nos Hugo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="426,1244 2703,1215 2949,1211 3195,1207 3440,1203 3686,1199 3932,1193 4177,1189 4423,1185 4669,1180 4915,1175 5160,1171 5406,1167 5652,1163 5897,1159 6143,1156 6389,1153 6634,1151 6880,1149 7126,1147 7455,1142 7455,1090 7126,1095 6880,1097 6634,1099 6389,1101 6143,1104 5897,1107 5652,1111 5406,1115 5160,1119 4915,1123 4669,1128 4423,1133 4177,1137 3932,1141 3686,1147 3440,1151 3195,1155 2949,1159 2703,1163 426,1192"/>
+                <Baseline points="438,1237 1432,1221 2462,1205 3203,1200 3448,1196 3681,1194 3927,1188 4172,1174 4418,1170 4663,1159 4909,1154 5154,1150 5400,1146 5646,1143 5891,1145 6137,1145 6384,1141 6625,1138 6879,1138 7194,1133 7432,1131"/>
+                <TextEquiv>
+                    <Unicode>Forcis burgensis Eduensis Junior, tenentes sigillum commune regium in baillivia Matisconense constitutum, notum facimus universis presentes litteras inspecturis quod, cum Guiotus de Matiscono et Guillermus de Marcignaco quondam notarii regii receperint quondem contractum seu composicionem et tractatum dudum factum et inhitum inter illustrem principem dominum Johannem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="425,1329 2719,1289 2964,1287 3209,1285 3454,1281 3699,1277 3944,1273 4189,1269 4434,1265 4679,1259 4925,1255 5170,1251 5415,1245 5660,1241 5905,1235 6150,1231 6395,1227 6640,1223 6885,1221 7130,1219 7402,1216 7402,1164 7130,1167 6885,1169 6640,1171 6395,1175 6150,1179 5905,1183 5660,1189 5415,1193 5170,1199 4925,1203 4679,1207 4434,1213 4189,1217 3944,1221 3699,1225 3454,1229 3209,1233 2964,1235 2719,1237 425,1277"/>
+                <Baseline points="451,1313 2119,1285 2963,1267 3208,1265 3453,1261 3698,1257 3943,1253 4188,1249 4433,1245 4678,1239 4924,1235 5169,1231 5391,1230 5649,1226 5904,1227 6148,1218 6394,1214 6640,1211 6884,1201 7145,1201 7391,1199"/>
+                <TextEquiv>
+                    <Unicode>quondam comitem Armigniaci et Kadrelleni seu ejus procuratorem, ex una parte, et reverendum patrem in Christo dominum Symonem quondam abbatem Cluniacensem ex altera, de et super garda superioritateque et ressorto decanatus de Paredo et pertinentiis ejusdem ac quorumdem aliorum debatorum tunc motorum inter ipsos quondam dominos, comitem et abbatem, ipsique notarii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="421,1411 2695,1363 2940,1361 3185,1357 3430,1355 3676,1351 3921,1347 4166,1343 4411,1341 4656,1337 4902,1333 5147,1329 5392,1325 5637,1320 5882,1315 6128,1311 6373,1307 6618,1303 6863,1299 7108,1295 7354,1291 7354,1239 7108,1243 6863,1247 6618,1251 6373,1255 6128,1259 5882,1263 5637,1268 5392,1273 5147,1277 4902,1281 4656,1285 4411,1289 4166,1291 3921,1295 3676,1299 3430,1303 3185,1305 2940,1309 2695,1311 421,1359"/>
+                <Baseline points="435,1393 680,1391 2940,1344 3185,1340 3430,1338 3676,1334 3921,1330 4166,1326 4411,1324 4656,1320 4902,1316 5147,1312 5392,1308 5637,1303 5882,1298 6128,1294 6373,1290 6618,1286 6863,1282 7108,1278 7354,1274"/>
+                <TextEquiv>
+                    <Unicode>contractum seu concordiam et tractatum hujusmodi in notam conscripserint et registraverint ipsamque notulam morte preventi grossare et in formam publicam reddigere nequiverint. Et propter hoc prefatus dominus abbas obtinuerit a viro nobili et potenti domino Kariados de Quesnes milite, domino de Saresviller cambellano domini nostri regis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="428,1479 2698,1441 2947,1437 3195,1433 3444,1429 3692,1425 3941,1421 4189,1417 4438,1413 4686,1410 4935,1407 5183,1403 5432,1399 5680,1395 5929,1391 6177,1387 6421,1391 6669,1387 6923,1375 7171,1371 7447,1368 7447,1317 7171,1320 6923,1324 6674,1328 6426,1332 6177,1336 5929,1340 5680,1344 5432,1348 5183,1352 4935,1356 4686,1359 4438,1362 4189,1366 3941,1370 3692,1374 3444,1378 3195,1382 2947,1386 2698,1390 428,1428"/>
+                <Baseline points="442,1469 690,1465 2947,1420 3195,1416 3444,1412 3692,1408 3941,1404 4189,1400 4438,1396 4686,1393 4935,1390 5183,1386 5432,1382 5680,1378 5929,1374 6177,1370 6427,1369 6675,1368 6924,1364 7186,1354 7435,1350"/>
+                <TextEquiv>
+                    <Unicode>ejusque baillivo Matisconense et senescallo Lugduni quasdem litteras diretas Mileto de Marcignaco [et Andree] de Carlato clericis auctoritate regia publicis notariis de et pro grossando et in formam publiquam reddigendo notulam, contractum et concordiam predictam, quarum litterarum tenor talis est. Kariados des Quesnes, dominus de Saresviller cambella¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="425,1553 2715,1519 2962,1515 3209,1513 3456,1509 3703,1505 3950,1501 4197,1496 4444,1491 4691,1487 4938,1482 5185,1477 5432,1473 5679,1467 5926,1463 6173,1459 6420,1453 6667,1449 6914,1445 7161,1441 7408,1437 7408,1386 7161,1390 6914,1394 6667,1398 6420,1402 6173,1408 5926,1412 5679,1416 5432,1422 5185,1426 4938,1431 4691,1436 4444,1440 4197,1445 3950,1450 3703,1454 3456,1458 3209,1462 2962,1464 2715,1468 425,1502"/>
+                <Baseline points="448,1548 695,1546 2962,1498 3209,1496 3456,1492 3703,1488 3950,1484 4197,1479 4444,1474 4691,1470 4938,1465 5185,1460 5432,1456 5679,1450 5926,1446 6173,1442 6420,1436 6667,1432 6914,1428 7161,1424 7408,1420"/>
+                <TextEquiv>
+                    <Unicode>nus domini nostri regis ejusque baillivius Matisconensis et senescallus Lugdunensis dilectis nostris Mileto de Marcigniaco et Andree de Carlato clericis auctoritate regia publicis notariis et curie nostre juratis salutem. Cum Guiotus de Matiscone et Guillermus de Marcigniaco quondam notarii regii inter ceteros contractus et instrumenta per ipsos receptos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:7;}">
+                <Coords points="438,1638 2604,1595 2853,1593 3102,1591 3351,1588 3600,1585 3848,1581 4097,1577 4346,1571 4595,1567 4844,1563 5092,1557 5341,1551 5590,1547 5839,1541 6088,1537 6336,1531 6585,1527 6834,1521 7083,1517 7332,1513 7332,1461 7083,1465 6834,1469 6585,1475 6336,1479 6088,1485 5839,1489 5590,1495 5341,1499 5092,1505 4844,1511 4595,1515 4346,1519 4097,1525 3848,1529 3600,1533 3351,1536 3102,1539 2853,1541 2604,1543 438,1586"/>
+                <Baseline points="447,1631 695,1629 2853,1576 3102,1574 3351,1571 3600,1568 3848,1564 4097,1560 4346,1554 4595,1550 4844,1546 5092,1540 5341,1534 5590,1530 5839,1524 6088,1520 6336,1514 6585,1510 6834,1504 7083,1500 7332,1496"/>
+                <TextEquiv>
+                    <Unicode>et expeditos reciperint diu est quendem tractatum seu contractum factum et inhitum inter illustrem baronem dominum Johannem quondam comitem Armigniaci et Kadrellen. seu Johannem de Marcigniaco quondam procuratorem suum, ex una parte, et reverendum patrem in Christo dominum Symonem pro tunc abbatem Cluniacensem, ex altera, de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:8;}">
+                <Coords points="433,1721 2615,1671 2867,1668 3118,1665 3370,1661 3622,1657 3873,1653 4125,1649 4376,1645 4628,1640 4880,1635 5131,1629 5383,1625 5634,1619 5886,1613 6138,1609 6389,1603 6641,1598 6892,1593 7144,1587 7396,1583 7396,1531 7144,1535 6892,1541 6641,1546 6389,1551 6138,1557 5886,1561 5634,1567 5383,1573 5131,1577 4880,1583 4628,1588 4376,1593 4125,1597 3873,1601 3622,1605 3370,1609 3118,1613 2867,1616 2615,1619 433,1669"/>
+                <Baseline points="447,1713 698,1711 2867,1651 3118,1648 3370,1644 3622,1640 3873,1636 4125,1632 4376,1628 4628,1623 4880,1618 5131,1612 5383,1608 5634,1602 5886,1596 6138,1592 6389,1586 6641,1581 6892,1576 7144,1570 7396,1566"/>
+                <TextEquiv>
+                    <Unicode>et super garda superioritateque et ressorto decanatus de Paredo et pertinentium suarum certisque aliis querelis, controversiis et debatis pro tunc motis inter ipsas partes, ipsique notarii dictum tractatum seu contractum et accordum in notam redigerint nec eam morte preventi grossare potuerint. Hinc est quod ad requestam venerabilium religiosorum vi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:9;}">
+                <Coords points="450,1795 797,1787 1145,1779 1492,1771 1840,1763 2188,1757 2535,1751 2883,1745 3230,1739 3578,1733 3926,1727 4273,1721 4621,1715 4968,1709 5316,1703 5664,1697 6011,1691 6359,1684 6706,1677 7054,1669 7443,1664 7443,1612 7054,1617 6706,1625 6359,1632 6011,1639 5664,1645 5316,1651 4968,1657 4621,1663 4273,1669 3926,1675 3578,1681 3230,1687 2883,1693 2535,1699 2188,1705 1840,1711 1492,1719 1145,1727 797,1735 450,1743"/>
+                <Baseline points="450,1778 797,1770 1145,1762 1492,1754 1840,1746 2188,1740 2535,1734 2883,1728 3230,1722 3578,1716 3926,1710 4273,1704 4621,1698 4968,1692 5316,1686 5664,1680 6012,1680 6369,1676 6711,1664 7055,1659 7436,1653"/>
+                <TextEquiv>
+                    <Unicode>rorum dominorum abbatis et conventus Cluniacensis dicentium quod dicta notula que in papiro extitit registrata propter ipsius plicationem et vestutatem in pluribus ipsius partibus est corupta possetque propter ipsius debilitate perire nisi reddigeretur in formam publicam vobis de quorum probitate et diligentia conscidimus[pro confidimus], in hac parte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:10;} textStyle {offset:309; length:2;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="425,1870 2716,1826 2964,1822 3212,1816 3460,1812 3708,1806 3956,1802 4204,1797 4452,1792 4700,1788 4949,1782 5197,1778 5445,1772 5693,1768 5941,1762 6189,1758 6437,1752 6685,1747 6933,1742 7181,1736 7446,1730 7446,1678 7181,1684 6933,1690 6685,1695 6437,1700 6189,1706 5941,1710 5693,1716 5445,1720 5197,1726 4949,1730 4700,1736 4452,1740 4204,1745 3955,1754 3707,1758 3460,1760 3212,1764 2964,1770 2716,1774 425,1818"/>
+                <Baseline points="446,1859 694,1855 2960,1806 3208,1800 3456,1796 3704,1790 3952,1786 4200,1781 4448,1776 4696,1772 4945,1766 5193,1762 5441,1756 5689,1752 5937,1746 6185,1742 6447,1743 6700,1744 6924,1739 7231,1732 7432,1717"/>
+                <TextEquiv>
+                    <Unicode>tenore presentium comictendo mandamus, quatinus dictam notulam juxta ipsius essentiam grossetis in formam publicam, reddigatis facti sustenciam non mutatam eamque partibus quarum intererit reddatis pro salario moderato. Datum Matisconi, sub sigillo curie nostre, die .xii°. aprilis, anno Domini millesimo .cccmo. nonagesimo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:11;}">
+                <Coords points="416,1952 2722,1903 2970,1899 3218,1894 3466,1889 3715,1885 3963,1880 4211,1875 4459,1869 4707,1865 4956,1859 5204,1853 5452,1847 5700,1841 5948,1835 6197,1828 6445,1821 6693,1815 6941,1807 7189,1800 7468,1800 7468,1748 7189,1748 6941,1755 6693,1763 6445,1769 6197,1776 5948,1783 5700,1789 5452,1795 5204,1801 4956,1807 4707,1813 4459,1817 4211,1823 3963,1828 3715,1833 3466,1837 3218,1842 2970,1847 2722,1851 416,1900"/>
+                <Baseline points="439,1943 687,1939 2970,1882 3218,1877 3466,1872 3715,1868 3963,1863 4211,1858 4459,1852 4707,1848 4956,1842 5204,1836 5452,1830 5700,1824 5948,1818 6197,1811 6445,1804 6693,1798 6941,1790 7212,1790 7461,1783"/>
+                <TextEquiv>
+                    <Unicode>sexto per dominum baillivum J. Gracerii. Hinc est quod prenominati Miletus et Andreas notarii et commissarii nobis retulerunt se vidisse, tenuisse et in hanc formam publicam redegisse notulam tractatus et concordie hujusmodi signatam signis manualibus propriis ipsorum Guioti de Matiscone et Guillermi de Marcigniaco, quondam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:12;}">
+                <Coords points="408,2042 2566,1985 2820,1979 3074,1973 3328,1968 3582,1963 3836,1957 4090,1953 4344,1947 4598,1942 4852,1937 5106,1931 5360,1925 5614,1919 5868,1913 6122,1905 6376,1898 6630,1891 6884,1883 7138,1873 7392,1863 7392,1811 7138,1821 6884,1831 6630,1839 6376,1846 6122,1853 5868,1861 5614,1867 5360,1873 5106,1879 4852,1885 4598,1890 4344,1895 4090,1901 3836,1905 3582,1911 3328,1916 3074,1921 2820,1927 2566,1933 408,1990"/>
+                <Baseline points="443,2034 697,2030 2820,1962 3074,1956 3328,1951 3582,1946 3836,1940 4090,1936 4344,1930 4598,1925 4852,1920 5106,1914 5360,1908 5614,1902 5868,1896 6122,1888 6376,1881 6630,1874 6884,1866 7138,1856 7392,1846"/>
+                <TextEquiv>
+                    <Unicode>notariorum, ut apparebat prima facie, cujus quidem notule tenor sequitur in hec verba. Noverint universi quod, cum questio seu controversia jam diu mota fuisset, inter religiosos priores et conventum de Paredo ex una parte et dominum comitem Kadrellen. ex altera, super eo, quod idem dominus Kadrellen. dicebat et proponebat monasterium seu </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:13;}">
+                <Coords points="395,2114 2707,2062 2955,2055 3202,2047 3450,2041 3698,2035 3945,2029 4193,2025 4440,2021 4688,2015 4936,2011 5183,2007 5431,2001 5678,1996 5926,1991 6174,1984 6421,1977 6669,1968 6916,1959 7164,1947 7412,1935 7412,1883 7164,1895 6916,1907 6669,1916 6421,1925 6174,1932 5926,1939 5678,1944 5431,1949 5183,1955 4936,1959 4688,1963 4440,1969 4193,1973 3945,1977 3698,1983 3450,1989 3202,1995 2955,2003 2707,2010 395,2062"/>
+                <Baseline points="436,2107 683,2098 2955,2038 3202,2030 3450,2024 3698,2018 3945,2012 4193,2008 4440,2004 4688,1998 4936,1994 5183,1990 5431,1984 5678,1979 5926,1974 6174,1967 6421,1960 6669,1951 6916,1942 7164,1930 7412,1918"/>
+                <TextEquiv>
+                    <Unicode>prioratum de Paredo fuisse et esse fundatum per comitem Cabilonensem tunc dominum terre et baronie Kadrellen., quodque a tempore fondacionis predicte dominus comes Cabilonensis et sui successores fuerant in possessione et saisina garde et ressorti ac superioritatis ejusdem prioratus et pertinentiarum ejusdem et quibusdem aliis juribus percipiendis et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:14;}">
+                <Coords points="407,2187 2723,2135 2970,2127 3217,2119 3464,2114 3711,2109 3958,2105 4205,2101 4452,2097 4699,2093 4946,2089 5193,2085 5440,2081 5687,2077 5934,2071 6181,2065 6428,2059 6675,2050 6922,2041 7169,2029 7416,2017 7416,1965 7169,1977 6922,1989 6675,1998 6428,2007 6181,2013 5934,2019 5687,2025 5440,2029 5193,2033 4946,2037 4699,2041 4452,2045 4205,2049 3958,2053 3711,2057 3464,2062 3217,2067 2970,2075 2723,2083 407,2135"/>
+                <Baseline points="446,2180 693,2172 2970,2110 3217,2102 3464,2097 3711,2092 3958,2088 4205,2084 4452,2080 4699,2076 4946,2072 5193,2068 5440,2064 5687,2060 5934,2054 6181,2048 6428,2042 6675,2033 6922,2024 7169,2012 7416,2000"/>
+                <TextEquiv>
+                    <Unicode>levandis in terra dicti prioratus, et de dictis garda, ressorto, superioritate et aliis usi fuerant a tempore fundacionis predicte paciffice et quiete, sine contradictione quacumque, quousque quidem prior dicti prioratus Henricus nomine impedimentum apposuit seu apponi fecit et procuravit per gentes regias in dictis saisina et possessione adeo quod ac pre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:15;}">
+                <Coords points="420,2267 2628,2213 2877,2207 3125,2201 3374,2195 3622,2189 3871,2185 4119,2181 4368,2175 4616,2171 4865,2167 5113,2162 5362,2157 5610,2153 5859,2149 6107,2143 6356,2137 6604,2131 6853,2125 7101,2118 7350,2111 7350,2059 7101,2066 6853,2073 6604,2079 6356,2085 6107,2091 5859,2097 5610,2101 5362,2105 5113,2110 4865,2115 4616,2119 4368,2123 4119,2129 3871,2133 3622,2137 3374,2143 3125,2149 2877,2155 2628,2161 420,2215"/>
+                <Baseline points="443,2258 691,2250 2877,2190 3125,2184 3374,2178 3622,2172 3871,2168 4119,2164 4368,2158 4616,2154 4865,2150 5113,2145 5362,2140 5610,2136 5859,2132 6107,2126 6356,2120 6604,2114 6853,2108 7101,2101 7350,2094"/>
+                <TextEquiv>
+                    <Unicode>dicti inpedimenti prefatus dominus Kadrellensis qui pro tempore erat et etiam successores sui predictis garda, ressorto et superioritate et eorum exerciciis(?) fuerunt penitus impediti gentibus regiis exerceri predictam gardam, ressortum et superioritatem quequidem terra Kadrellense que erat de comitatu Cabilonense obvenerat Roberto duci Bur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:16;}">
+                <Coords points="409,2346 2714,2287 2960,2281 3206,2275 3453,2268 3699,2263 3945,2257 4192,2253 4438,2249 4684,2245 4931,2241 5177,2235 5423,2231 5669,2227 5916,2223 6162,2217 6408,2211 6655,2205 6901,2199 7147,2191 7394,2183 7394,2131 7147,2139 6901,2147 6655,2153 6408,2159 6162,2165 5916,2171 5669,2175 5423,2179 5177,2183 4931,2189 4684,2193 4438,2197 4192,2201 3945,2205 3699,2211 3453,2216 3206,2223 2960,2229 2714,2235 409,2294"/>
+                <Baseline points="444,2343 690,2335 2960,2264 3206,2258 3453,2251 3699,2246 3945,2240 4192,2236 4438,2232 4684,2228 4931,2224 5177,2218 5423,2214 5669,2210 5916,2206 6162,2200 6408,2194 6655,2188 6901,2182 7147,2174 7394,2166"/>
+                <TextEquiv>
+                    <Unicode>gondie et sunt tradicta domine Beatrici nepti dicti ducis Roberti, uxoris domini Roberti comitis de Claromonte pro partagio seu portione que dicta domna dicebat se habere cum dicto duce Roberto quodquidem partagium fuit per dominum nostrum regem Philippum, prout canetur in litteris sigillo dicti domini nostri regis in cera viridi sigillato, in quibus litteris canetur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:17;}">
+                <Coords points="418,2431 2718,2367 2964,2359 3210,2352 3456,2345 3702,2341 3948,2335 4194,2331 4440,2325 4686,2321 4933,2317 5179,2313 5425,2309 5671,2304 5917,2299 6163,2295 6409,2289 6655,2283 6901,2277 7147,2271 7394,2263 7394,2211 7147,2219 6901,2225 6655,2231 6409,2237 6163,2243 5917,2247 5671,2252 5425,2257 5179,2261 4933,2265 4686,2269 4440,2273 4194,2279 3948,2283 3702,2289 3456,2293 3210,2300 2964,2307 2718,2315 418,2379"/>
+                <Baseline points="445,2422 691,2414 2964,2342 3210,2335 3456,2328 3702,2324 3948,2318 4194,2314 4440,2308 4686,2304 4933,2300 5179,2296 5425,2292 5671,2287 5917,2282 6163,2278 6409,2272 6655,2266 6901,2260 7147,2254 7394,2246"/>
+                <TextEquiv>
+                    <Unicode>quod dicta terra Kadrellensis eidem domine fuit tradicta in baronia et comitatu una cum garda prioratus de Paredo alias de Pareyo et de Parreciaco cum pluribus aliis rebus et feodis in dictis litteris comprehensis et quod tempore impedimenti edicti appositi per gentes regias in premissis habitatores ville de Paredo contradicerint quantum poterint dicto impe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:18;}">
+                <Coords points="421,2495 2728,2443 2973,2435 3218,2429 3462,2422 3707,2417 3952,2411 4196,2407 4441,2401 4686,2397 4931,2393 5175,2389 5420,2385 5665,2381 5909,2376 6154,2371 6399,2367 6643,2361 6888,2355 7133,2348 7378,2341 7378,2289 7133,2296 6888,2303 6643,2309 6399,2315 6154,2319 5909,2324 5665,2329 5420,2333 5175,2337 4931,2341 4686,2345 4441,2349 4196,2355 3952,2359 3707,2365 3462,2370 3218,2377 2973,2383 2728,2391 421,2443"/>
+                <Baseline points="451,2488 695,2480 2973,2418 3218,2412 3462,2405 3707,2400 3952,2394 4196,2390 4441,2384 4686,2380 4931,2376 5175,2372 5420,2368 5665,2364 5909,2359 6154,2354 6399,2350 6643,2344 6888,2338 7133,2331 7378,2324"/>
+                <TextEquiv>
+                    <Unicode>dimento, asserentes ipsos esse et fuisse ab antiquo de garda, ressorto et superioritate inmediate dicti domini Kadrellense, prout continetur in quodem instrumento sigillo regio in Matisconense baillivia sigillato. Quare dicebat magnificus et potens dominus, dominus Johannes, comes Armigniaci et dominus predicte terre Kadrellensis ob causam domine Bea¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:19;}">
+                <Coords points="416,2573 2736,2518 2980,2510 3224,2504 3468,2498 3713,2492 3957,2487 4201,2482 4445,2478 4689,2474 4934,2470 5178,2466 5422,2462 5666,2458 5910,2454 6155,2450 6399,2444 6643,2438 6887,2432 7131,2424 7376,2416 7376,2368 7131,2376 6887,2384 6643,2390 6399,2396 6155,2402 5910,2406 5666,2410 5422,2414 5178,2418 4934,2422 4689,2426 4445,2430 4201,2434 3957,2439 3713,2444 3468,2450 3224,2456 2980,2462 2736,2470 416,2525"/>
+                <Baseline points="440,2570 684,2562 2980,2494 3224,2488 3468,2482 3713,2476 3957,2471 4201,2466 4445,2462 4689,2458 4934,2454 5178,2450 5422,2446 5666,2442 5910,2438 6155,2434 6399,2428 6643,2422 6887,2416 7131,2408 7376,2400"/>
+                <TextEquiv>
+                    <Unicode>tricis de Claromonte uxoris sue, seu ejus procurator, impedimentum fuisse et esse oppositum in dictis ressorto, garda et superioritate indebite et injuste, requisivit que requiri fecit pluries predictus dominus comes, reverendum in Christo patrem dominum Symonem abbatem Cluniacensem et predecessores suos, ad quod seu quem jure per unionem sedis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:20;}">
+                <Coords points="396,2654 2748,2596 2992,2588 3236,2580 3480,2573 3724,2566 3968,2562 4212,2556 4456,2552 4700,2548 4945,2543 5189,2538 5433,2534 5677,2530 5921,2524 6165,2519 6409,2513 6653,2506 6897,2498 7141,2490 7386,2480 7386,2432 7141,2442 6897,2450 6653,2458 6409,2465 6165,2471 5921,2476 5677,2482 5433,2486 5189,2490 4945,2495 4700,2500 4456,2504 4212,2508 3968,2514 3724,2518 3480,2525 3236,2532 2992,2540 2748,2548 396,2606"/>
+                <Baseline points="428,2649 672,2639 2992,2572 3236,2564 3480,2557 3724,2550 3968,2546 4212,2540 4456,2536 4700,2532 4945,2527 5189,2522 5433,2518 5677,2514 5921,2508 6165,2503 6409,2497 6653,2490 6897,2482 7141,2474 7386,2464"/>
+                <TextEquiv>
+                    <Unicode>appostolice pertinet dictus locus de Paredo cum suis pertinentiis dictum impedimentum in predictis rebus appositum procuraret amoveri et permitteret ipsum dominum comitem uti juribus suis predictis cum eciam quidem [?]atus licenter bene placito ac assenssu domini nostri regis [prius obtenire suum super] h[os] habitus inter predictum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:21;}">
+                <Coords points="393,2736 2753,2673 2998,2664 3243,2656 3488,2650 3733,2644 3978,2638 4223,2632 4468,2628 4713,2622 4959,2618 5204,2613 5449,2608 5694,2604 5939,2598 6184,2593 6429,2586 6674,2580 6919,2572 7164,2564 7410,2556 7410,2507 7164,2515 6919,2523 6674,2531 6429,2537 6184,2544 5939,2549 5694,2555 5449,2559 5204,2564 4959,2569 4713,2573 4468,2579 4223,2583 3978,2589 3733,2595 3488,2601 3243,2607 2998,2615 2753,2624 393,2687"/>
+                <Baseline points="421,2727 666,2718 2998,2648 3243,2640 3488,2634 3733,2628 3978,2622 4223,2616 4468,2612 4713,2606 4959,2602 5204,2597 5449,2592 5694,2588 5939,2582 6184,2577 6429,2570 6674,2564 6919,2556 7164,2548 7410,2540"/>
+                <TextEquiv>
+                    <Unicode>dominum comitem Kadrellensem ex una parte et reverendissimum in Christo patrem dominum Androinum tunc abbatem Cluniacensem, nunc sancte Romane ecclesie cardinalem, seu probos viros aut conmissarios electos a partibus supradictis. Tandem informato dicto domino abbate de fundacione facta per dictum dominum comitem Cabilonensem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:22;}">
+                <Coords points="385,2821 2744,2744 2988,2736 3232,2731 3476,2726 3721,2720 3965,2716 4209,2710 4453,2706 4697,2700 4942,2695 5186,2690 5430,2684 5674,2678 5918,2672 6163,2665 6407,2658 6651,2648 6895,2640 7139,2630 7384,2620 7384,2571 7139,2581 6895,2591 6651,2599 6407,2609 6163,2616 5918,2623 5674,2629 5430,2635 5186,2641 4942,2646 4697,2651 4453,2657 4209,2661 3965,2667 3721,2671 3476,2677 3232,2682 2988,2687 2744,2695 385,2772"/>
+                <Baseline points="420,2798 1592,2780 2988,2720 3232,2715 3476,2710 3721,2704 3965,2700 4209,2694 4453,2690 4697,2684 4942,2679 5186,2674 5430,2668 5674,2662 5918,2656 6163,2649 6407,2642 6651,2632 6895,2624 7139,2614 7384,2604"/>
+                <TextEquiv>
+                    <Unicode>de prioratu predicto et de contentu litteris et instrumento predictis eciam quod dominus Kadrellensis pro tempore erat, fuerat ab antiquo in possessione garde, ressorti et superioritatis predictorum, visis diligenter et inspectis pluribus tractatibus factis et habitis per predictum dominum tunc abbatem predecessorem suum et specialiter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:23;}">
+                <Coords points="375,2886 2735,2814 2978,2809 3221,2803 3465,2797 3708,2793 3951,2787 4195,2783 4438,2778 4681,2773 4925,2769 5168,2763 5411,2757 5654,2753 5898,2746 6141,2739 6384,2733 6624,2722 6867,2712 7114,2705 7358,2695 7358,2644 7114,2654 6871,2664 6628,2674 6384,2682 6141,2688 5898,2695 5654,2702 5411,2706 5168,2712 4925,2718 4681,2722 4438,2727 4195,2732 3951,2736 3708,2742 3465,2746 3221,2752 2978,2758 2735,2763 375,2835"/>
+                <Baseline points="404,2873 2107,2831 2978,2792 3221,2786 3465,2780 3708,2776 3951,2770 4195,2766 4438,2761 4681,2756 4925,2752 5168,2746 5411,2740 5654,2736 5898,2729 6141,2722 6384,2716 6628,2716 6871,2706 7114,2688 7358,2678"/>
+                <TextEquiv>
+                    <Unicode>per dictos probos viros et conmissarios electos per eundem ex una parte et gentes dicti domini Kadrallensis ex altera parte. Quem tractatum in capitulo toto conventu ecclesie Cluniacensis ad sonum campane ut moris est convocato, dicti domini abbas et conventus die septimo mensis junii anno Domini .m.ccc.lxii(?). in dicto capitulo presentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:24;}">
+                <Coords points="421,2949 2754,2889 2996,2882 3238,2875 3481,2869 3723,2863 3965,2859 4208,2854 4450,2849 4692,2844 4935,2839 5177,2835 5419,2829 5661,2823 5904,2818 6146,2811 6388,2804 6631,2795 6873,2787 7115,2777 7358,2765 7358,2714 7115,2726 6873,2736 6631,2744 6388,2753 6146,2760 5904,2767 5661,2772 5419,2778 5177,2784 4935,2788 4692,2793 4450,2798 4208,2803 3965,2808 3723,2812 3481,2818 3238,2824 2996,2831 2754,2838 421,2898"/>
+                <Baseline points="430,2943 1919,2909 2996,2865 3238,2858 3481,2852 3723,2846 3965,2842 4208,2837 4450,2832 4692,2827 4935,2822 5177,2818 5419,2812 5661,2806 5904,2801 6146,2794 6388,2787 6631,2778 6873,2770 7115,2760 7358,2748"/>
+                <TextEquiv>
+                    <Unicode>et propter hoc convocati. Et discretus vir Johannes de Martigniaco clericus procurator et procuratorio nomine dicti domini Kadrellensis dictum tractatum factum de et super premissis voluntate bene placito et consensu dicti domini nostri regis in omnibus reservatis et premitus obtentis legi fecerunt publice in pleno capitulo in modum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l52" custom="readingOrder {index:25;}">
+                <Coords points="389,3034 2736,2969 2981,2963 3226,2957 3471,2951 3716,2945 3961,2939 4206,2933 4451,2927 4696,2923 4941,2917 5185,2911 5430,2905 5675,2900 5920,2895 6165,2889 6410,2883 6655,2877 6900,2871 7145,2865 7390,2859 7390,2807 7145,2813 6900,2819 6655,2825 6410,2831 6165,2837 5920,2843 5675,2848 5430,2853 5185,2859 4941,2865 4696,2871 4451,2875 4206,2881 3961,2887 3716,2893 3471,2899 3226,2905 2981,2911 2736,2917 389,2982"/>
+                <Baseline points="422,3021 1880,2990 2981,2946 3226,2940 3471,2934 3716,2928 3961,2922 4206,2916 4451,2910 4696,2906 4941,2900 5185,2894 5430,2888 5675,2883 5920,2878 6165,2872 6410,2866 6655,2860 6900,2854 7145,2848 7390,2842"/>
+                <TextEquiv>
+                    <Unicode>qui sequitur et in formam. Primo, quod dictus prioratus seu decanatus de Paredo cum menbris et pertinentiis ejusdem erit et remanebit perpetuo de garda, ressorto et superioritate dicti domini Kadrellensis et successorum suorum sine prejudicio garda domini nostri regis. Et habebit dictus prioratus seu decanatus de Paredo cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l54" custom="readingOrder {index:26;}">
+                <Coords points="416,3108 2728,3045 2973,3039 3218,3033 3463,3029 3708,3023 3953,3019 4198,3013 4443,3009 4688,3003 4933,2999 5177,2995 5422,2989 5667,2983 5912,2978 6157,2973 6402,2966 6647,2959 6892,2953 7137,2945 7382,2937 7382,2885 7137,2893 6892,2901 6647,2907 6402,2914 6157,2921 5912,2926 5667,2931 5422,2937 5177,2943 4933,2947 4688,2951 4443,2957 4198,2961 3953,2967 3708,2971 3463,2977 3218,2981 2973,2987 2728,2993 416,3056"/>
+                <Baseline points="424,3094 1826,3072 2973,3022 3218,3016 3463,3012 3708,3006 3953,3002 4198,2996 4443,2992 4688,2986 4933,2982 5177,2978 5422,2972 5667,2966 5912,2961 6157,2956 6402,2949 6647,2942 6892,2936 7137,2928 7382,2920"/>
+                <TextEquiv>
+                    <Unicode>tota terra menbris et pertinentiis suis tantummodo ressortui in villa Kadrellense et coram dicto domino Kadrellense seu ejus baillivo vel locumtenente genalibus eorumdem et non coram quocumque alio judice vel conmissario dicti domini Kadrellensis, Qui quidem dominus Kadrellensis et ejus successores tenebuntur deffendere, juvare et confortare ecclesiam de Paredo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l56" custom="readingOrder {index:27;}">
+                <Coords points="406,3184 2758,3115 3002,3109 3246,3105 3490,3099 3734,3095 3978,3091 4222,3087 4466,3083 4710,3079 4954,3073 5198,3069 5442,3064 5686,3059 5930,3053 6174,3047 6418,3039 6662,3033 6906,3025 7150,3015 7394,3007 7394,2955 7150,2963 6906,2973 6662,2981 6418,2987 6174,2995 5930,3001 5686,3007 5442,3012 5198,3017 4954,3021 4710,3027 4466,3031 4222,3035 3978,3039 3734,3043 3490,3047 3246,3053 3002,3057 2758,3063 406,3132"/>
+                <Baseline points="428,3177 2314,3123 3002,3092 3246,3088 3490,3082 3734,3078 3978,3074 4222,3070 4466,3066 4710,3062 4954,3056 5198,3052 5442,3047 5686,3042 5930,3036 6174,3030 6418,3022 6662,3016 6906,3008 7150,2998 7394,2990"/>
+                <TextEquiv>
+                    <Unicode>et homines dicte ecclesie et eligentur domino servientes et non plures per dictum dominum Kadrellensem seu ejus baillivum qui poterunt in terra dicti prioratus seu decanatus de Paredo officiare seu officium servientis exercere in casibus superioritatis et resorti nec poterunt in dicta terra officiare seu officium servientis exercere nisi habeant conmissionem in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l58" custom="readingOrder {index:28;}">
+                <Coords points="415,3260 2744,3191 2989,3185 3234,3181 3479,3175 3724,3171 3969,3165 4214,3161 4459,3157 4704,3151 4949,3147 5193,3143 5438,3139 5683,3134 5928,3129 6173,3125 6418,3119 6663,3115 6908,3109 7153,3103 7398,3097 7398,3045 7153,3051 6908,3057 6663,3063 6418,3067 6173,3073 5928,3077 5683,3082 5438,3087 5193,3091 4949,3095 4704,3099 4459,3105 4214,3109 3969,3113 3724,3119 3479,3123 3234,3129 2989,3133 2744,3139 415,3208"/>
+                <Baseline points="417,3253 1907,3225 2989,3168 3234,3164 3479,3158 3724,3154 3969,3148 4214,3144 4459,3140 4704,3134 4949,3130 5193,3126 5438,3122 5683,3117 5928,3112 6173,3108 6418,3102 6663,3098 6908,3092 7153,3086 7398,3080"/>
+                <TextEquiv>
+                    <Unicode>qua factum contineatur pro quo habebunt officiare concernentem causam superioritatis seu ressorti [ejus?] natam a dicto domino seu baillivo suo Cadrellense nec locumtenente eorundem preterquam in casu celeritatis. Quos quidem servientes seu officiarios predictus dominus seu baillivius ejusdem Kadrellensis poterit amonere et alium seu alios ibidem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l60" custom="readingOrder {index:29;}">
+                <Coords points="406,3342 2751,3270 2995,3264 3239,3258 3482,3253 3726,3247 3970,3243 4213,3238 4457,3233 4701,3229 4945,3225 5188,3219 5432,3215 5676,3211 5919,3207 6163,3203 6407,3197 6650,3193 6894,3189 7138,3183 7382,3179 7382,3127 7138,3131 6894,3137 6650,3141 6407,3145 6163,3151 5919,3155 5676,3159 5432,3163 5188,3167 4945,3173 4701,3177 4457,3181 4213,3186 3970,3191 3726,3195 3482,3201 3239,3206 2995,3212 2751,3218 406,3290"/>
+                <Baseline points="427,3330 2055,3289 2995,3247 3239,3241 3482,3236 3726,3230 3970,3226 4213,3221 4457,3216 4701,3212 4945,3208 5188,3202 5432,3198 5676,3194 5919,3190 6163,3186 6407,3180 6650,3176 6894,3172 7138,3166 7382,3162"/>
+                <TextEquiv>
+                    <Unicode>instituere prout sibi videbitur expedire omnes que cause dictorum religiosorum coram dicto domino Kadrellense seu baillivo suo seu locumtenente eorundem tractando tractabuntur firmando et de plano sive rigore et prout justicia sua debit et non debebit procurator dicti domini Kadrellensis procurare nomine prosequi seu petitionem facere coram dicto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l62" custom="readingOrder {index:30;}">
+                <Coords points="409,3403 2732,3345 2976,3339 3220,3333 3465,3327 3709,3323 3953,3319 4198,3315 4442,3311 4686,3307 4931,3303 5175,3299 5419,3295 5663,3289 5908,3285 6152,3280 6396,3275 6641,3269 6885,3263 7129,3255 7374,3249 7374,3198 7129,3204 6885,3212 6641,3218 6396,3224 6152,3229 5908,3234 5663,3238 5419,3244 5175,3248 4931,3252 4686,3256 4442,3260 4198,3264 3953,3268 3709,3272 3465,3276 3220,3282 2976,3288 2732,3294 409,3352"/>
+                <Baseline points="424,3399 1939,3363 2976,3322 3220,3316 3465,3310 3709,3306 3953,3302 4198,3298 4442,3294 4686,3290 4931,3286 5175,3282 5419,3278 5663,3272 5908,3268 6152,3263 6396,3258 6641,3252 6885,3246 7129,3238 7374,3232"/>
+                <TextEquiv>
+                    <Unicode>domino Kadrellense seu baillivo suo aut locumtenentia eorumdem contra subdictos dicte ecclesie de Paredo nisi prius prestito juramento a dicto procuratore si super hoc fuerit requisitus quod sufficenter fuerit informatus super eo super quo prosequi voluerit dictos subdictos. Item, quod dictus dominus Kadrellensis qui pro tempore erit non poterit nec debebit imponere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l65" custom="readingOrder {index:31;}">
+                <Coords points="409,3499 2739,3423 2977,3415 3216,3411 3456,3406 3696,3403 3935,3399 4175,3395 4414,3391 4654,3387 4894,3385 5133,3381 5373,3377 5612,3371 5852,3367 6092,3361 6331,3355 6571,3347 6810,3339 7050,3330 7382,3331 7382,3279 7050,3278 6810,3287 6571,3295 6331,3303 6092,3309 5852,3315 5612,3319 5373,3325 5133,3329 4894,3333 4654,3335 4414,3339 4175,3343 3935,3347 3696,3351 3456,3354 3216,3359 2977,3363 2737,3369 405,3436"/>
+                <Baseline points="421,3481 2172,3441 2977,3398 3216,3394 3456,3389 3696,3386 3935,3382 4175,3378 4414,3374 4654,3370 4894,3368 5133,3364 5373,3360 5612,3354 5852,3350 6092,3344 6331,3338 6571,3330 6810,3322 7120,3325 7376,3319"/>
+                <TextEquiv>
+                    <Unicode>levare in dicta terra de Paredo aliquod subsidium, barragium, servicium, questam aut aliam imposicionem ab hominibus dicte ecclesie de Paredo nec ipsos homines justiciabiles dicte ecclesie compellere etiam ad mutuum faciendum ad excubandum nec deveniendum ad eundam dicti domini nec de eundo ad exercitum ejusdem nec capere poterit de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l67" custom="readingOrder {index:32;}">
+                <Coords points="387,3580 2749,3513 2991,3495 3233,3489 3474,3485 3716,3481 3958,3475 4199,3471 4441,3467 4683,3463 4925,3459 5166,3453 5408,3449 5650,3445 5891,3439 6133,3435 6375,3429 6616,3423 6858,3417 7100,3411 7342,3405 7342,3353 7100,3359 6858,3365 6616,3371 6375,3377 6133,3383 5891,3387 5650,3393 5408,3397 5166,3401 4925,3407 4683,3411 4441,3415 4199,3419 3958,3423 3716,3429 3474,3433 3233,3437 2991,3443 2749,3447 387,3514"/>
+                <Baseline points="421,3564 2328,3512 2991,3478 3233,3472 3474,3468 3716,3464 3958,3458 4199,3454 4441,3450 4683,3446 4925,3442 5166,3436 5408,3432 5650,3428 5891,3422 6133,3418 6375,3412 6616,3406 6858,3400 7100,3394 7342,3388"/>
+                <TextEquiv>
+                    <Unicode>facto bona mobilia dicte ecclesie de Paredo nec hominum ejusdem pro convertendo bona predicta in usus suos nec aliqua in dicta terra exigere nisi illa que dicti domini ab antiquo in dicta exigere consuerit et levare, videlicet pedagiam de Paredo et de Cholono et blada redditualia debita dicto domino Kadrellensi ab hominibus de Lesche¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l70" custom="readingOrder {index:33;}">
+                <Coords points="378,3664 2734,3577 2973,3570 3212,3564 3450,3559 3689,3554 3928,3549 4166,3545 4405,3541 4644,3537 4883,3533 5121,3529 5360,3525 5599,3521 5837,3515 6076,3511 6315,3504 6553,3497 6792,3490 7031,3482 7395,3480 7395,3428 7031,3430 6792,3438 6553,3445 6315,3452 6076,3459 5837,3463 5599,3469 5360,3473 5121,3477 4883,3481 4644,3485 4405,3489 4166,3493 3928,3497 3689,3502 3450,3507 3212,3512 2973,3518 2734,3525 378,3612"/>
+                <Baseline points="403,3648 2250,3592 2958,3553 3197,3547 3435,3542 3674,3537 3913,3532 4151,3528 4390,3524 4629,3520 4868,3516 5106,3512 5345,3508 5584,3504 5822,3498 6061,3494 6300,3487 6538,3480 6777,3473 7124,3481 7363,3472"/>
+                <TextEquiv>
+                    <Unicode>nelles et de Rueriis, qui quidem pedadia et blada levabuntur – prout levari consueverit per gentes dicti domini Kadrellensis, salvis et retentis eidem domino Kadrellensi et successoribus suis garda, ressorto et superioritati predictis curie juribus eorundem. Item, quod subdicti quicumque dicti domini Kadrellensis gravamine dictos religiosos de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l73" custom="readingOrder {index:34;}">
+                <Coords points="382,3740 2742,3661 2979,3645 3217,3641 3454,3635 3692,3631 3930,3629 4167,3625 4405,3621 4643,3617 4881,3614 5118,3611 5356,3605 5594,3601 5831,3595 6069,3589 6307,3581 6544,3573 6782,3563 7020,3553 7369,3545 7369,3494 7020,3502 6782,3512 6544,3522 6307,3530 6069,3538 5831,3544 5594,3550 5356,3554 5118,3560 4881,3563 4643,3566 4405,3570 4167,3574 3930,3578 3692,3580 3454,3584 3217,3590 2979,3594 2741,3600 381,3679"/>
+                <Baseline points="402,3718 2314,3673 2979,3632 3217,3628 3454,3622 3692,3618 3930,3616 4167,3612 4405,3608 4643,3604 4881,3601 5118,3598 5356,3592 5594,3588 5831,3582 6069,3576 6307,3568 6544,3560 6782,3550 7115,3547 7353,3535"/>
+                <TextEquiv>
+                    <Unicode>Paredo seu homines eorundem in aliquo dictus dominus seu ejus ballivius vel eorum locumtenentem tenebuntur ad instantiam dictorum religiosorum aut hominum suorum qui fuerint gravati evocare coram ipso illos qui ipsos gravaverint et tenebuntur compellere eosdem ad redendum perhemptorie(?) querelis dictorum gravatorum et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l75" custom="readingOrder {index:35;}">
+                <Coords points="400,3808 2737,3733 2980,3720 3222,3716 3464,3712 3706,3708 3948,3704 4190,3700 4432,3696 4674,3692 4917,3688 5159,3684 5401,3678 5643,3672 5885,3666 6127,3659 6369,3652 6611,3644 6853,3635 7095,3625 7338,3614 7338,3566 7095,3577 6853,3587 6611,3596 6369,3604 6127,3611 5885,3618 5643,3624 5401,3630 5159,3636 4917,3640 4674,3644 4432,3648 4190,3652 3948,3656 3706,3660 3464,3664 3222,3668 2980,3672 2738,3676 401,3751"/>
+                <Baseline points="428,3799 2276,3742 2980,3704 3222,3700 3464,3696 3706,3692 3948,3688 4190,3684 4432,3680 4674,3676 4917,3672 5159,3668 5401,3662 5643,3656 5885,3650 6127,3643 6369,3636 6611,3628 6853,3619 7095,3609 7338,3598"/>
+                <TextEquiv>
+                    <Unicode>inquirere, firmare veritatem et de eisdem facere justitie complementum alias poterunt dicti sit gravati propter deffectum justitie apellare nec poterunt dicti domini Kadrellensis neque dicti religiosi habere nec de novo acquirere unus contra alium aliqua jura in futuram occasione cujuscumque possessionis exorcende preterque illa que superius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l77" custom="readingOrder {index:36;}">
+                <Coords points="391,3879 2739,3808 2978,3795 3219,3789 3459,3785 3700,3781 3940,3777 4180,3773 4421,3769 4661,3765 4902,3761 5142,3757 5382,3753 5623,3747 5863,3741 6104,3735 6344,3727 6584,3718 6825,3709 7065,3696 7306,3683 7306,3631 7065,3644 6825,3657 6584,3666 6344,3675 6104,3683 5863,3689 5623,3695 5382,3701 5142,3705 4902,3709 4661,3713 4421,3717 4180,3721 3940,3725 3700,3729 3459,3733 3219,3737 2978,3743 2738,3749 390,3820"/>
+                <Baseline points="428,3865 668,3859 2978,3778 3219,3772 3459,3768 3700,3764 3940,3760 4180,3756 4421,3752 4661,3748 4902,3744 5142,3740 5382,3736 5623,3730 5863,3724 6104,3718 6344,3710 6584,3701 6825,3692 7065,3679 7306,3666"/>
+                <TextEquiv>
+                    <Unicode>sunt divisa et per compositionem hujusmodi concordiam seu tractatum super omnibus accionibus, querellis, controversiis que poterunt moneri temporibus retroactis occasione dictorum garde, ressorti et superioritatis eidem domino et successoribus suis in dicta ecclesia de Paredo et pertineri suis garda, ressorto et superioritate predictis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l79" custom="readingOrder {index:37;}">
+                <Coords points="402,3951 2747,3877 2986,3871 3225,3865 3464,3861 3704,3857 3943,3853 4182,3850 4421,3847 4660,3845 4900,3841 5139,3837 5378,3835 5617,3830 5856,3825 6096,3819 6335,3812 6574,3803 6813,3795 7052,3783 7318,3771 7318,3719 7052,3731 6813,3743 6574,3751 6335,3760 6096,3767 5856,3773 5617,3778 5378,3783 5139,3785 4900,3789 4660,3793 4421,3795 4182,3798 3943,3801 3704,3805 3464,3809 3225,3813 2986,3819 2747,3825 402,3899"/>
+                <Baseline points="429,3938 2069,3896 2986,3854 3225,3848 3464,3844 3704,3840 3943,3836 4182,3833 4421,3830 4660,3828 4900,3824 5139,3820 5378,3818 5617,3813 5856,3808 6095,3805 6336,3799 6553,3803 6813,3778 7069,3772 7309,3760"/>
+                <TextEquiv>
+                    <Unicode>et aliis superius expressatis nec poterunt etiam dicti domini Kadrellensis qui pro tempore erunt aliquem de hominibus dicte ecclesie recipere in advoyatione nec decanus de Paredo aliquem de hominibus dicti domini Kadrellensis in advoyationem simili modo recipere. Et tenebuntur dicti domini Kadrellensis in novitate eorundem et ipsorum baillam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l81" custom="readingOrder {index:38;}">
+                <Coords points="376,4036 2751,3964 2996,3947 3236,3941 3477,3937 3717,3935 3957,3931 4198,3927 4438,3925 4678,3921 4919,3917 5159,3913 5399,3909 5639,3904 5880,3899 6120,3892 6360,3884 6601,3875 6841,3865 7081,3854 7322,3841 7322,3789 7081,3802 6841,3813 6601,3823 6360,3832 6120,3840 5880,3847 5639,3852 5399,3857 5159,3861 4919,3865 4678,3869 4438,3873 4198,3875 3957,3879 3717,3883 3477,3885 3236,3889 2996,3895 2756,3899 381,3971"/>
+                <Baseline points="410,4026 2355,3964 2996,3930 3236,3924 3477,3920 3717,3918 3957,3914 4198,3910 4438,3908 4678,3904 4919,3900 5159,3896 5399,3892 5639,3887 5880,3882 6120,3875 6360,3867 6601,3858 6841,3848 7081,3837 7322,3824"/>
+                <TextEquiv>
+                    <Unicode>prestare juramentum tenere inviolabiliter premissa et contra non venire licenter voluntate consensu bene placito et assensu dicti domini nostri regis in omnibus reservatis et premitus obtentis. Quo tractatu lecto in dicto capitulo dicti domini abbas et conventus de facto suo ad plenum certifficatum ipsum tractatum et omnia contenta in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l83" custom="readingOrder {index:39;}">
+                <Coords points="413,4107 2746,4034 2988,4023 3228,4019 3469,4015 3709,4011 3949,4009 4190,4005 4430,4003 4670,3999 4911,3996 5151,3993 5391,3989 5631,3983 5872,3977 6112,3971 6352,3963 6593,3955 6833,3945 7073,3934 7314,3921 7314,3869 7073,3882 6833,3893 6593,3903 6352,3911 6112,3919 5872,3925 5631,3931 5391,3937 5151,3941 4911,3944 4670,3947 4430,3951 4190,3953 3949,3957 3709,3959 3469,3963 3228,3967 2988,3971 2748,3975 415,4048"/>
+                <Baseline points="425,4092 2341,4041 2988,4006 3228,4002 3469,3998 3709,3994 3949,3992 4190,3988 4430,3986 4670,3982 4911,3979 5151,3976 5391,3972 5631,3966 5872,3960 6112,3954 6352,3946 6593,3938 6833,3928 7073,3917 7314,3904"/>
+                <TextEquiv>
+                    <Unicode>eodem, prout superius fuit narrata, laudaverunt, ratifficaverunt, approbaverunt, laudant, ratifficant, approbant, et etiam procurator dicti domini Kadrellensis retentur ut prius consensu bene placito et licentia dicti domini nostri regis. Acta fuerunt hec in predicto capitulo monasterii Cluniacensis, anno et die quibus supra,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l87" custom="readingOrder {index:40;}">
+                <Coords points="406,4196 2593,4118 2662,4104 2731,4105 2800,4105 2869,4105 2938,4105 3007,4103 3076,4103 3145,4101 3215,4099 3284,4097 3353,4095 3422,4094 3491,4093 3560,4091 3629,4089 3698,4089 3817,4091 5939,4071 7372,4022 7365,3952 3836,4036 3767,4036 3698,4038 3629,4038 3560,4040 3491,4042 3422,4043 3353,4044 3284,4046 3215,4048 3145,4050 3076,4052 3007,4052 2938,4054 2869,4054 2800,4054 2731,4054 2662,4053 2593,4052 406,4130"/>
+                <Baseline points="427,4184 2379,4121 2662,4087 2731,4088 2800,4088 2869,4088 2938,4088 3007,4086 3076,4086 3145,4084 3215,4082 3284,4080 3353,4078 3422,4077 3491,4076 3560,4074 3629,4072 3698,4072 3767,4070 6512,4044 7344,3997"/>
+                <TextEquiv>
+                    <Unicode>presentibus nobilibus viris dominis Johanne de Pura(?) domino de Forgiis, Guillermo Sacheti militibus, Guillermo la Roque domicello, et discretis viris magistris Johanne de Onbreyo et Stephano de Moleins, testibus ad premissa vocatis. G. Mat. G. de Marcignaco. In quorum omni robur et testimonium cum nobis constet de premissis per fidelem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l91" custom="readingOrder {index:41;}">
+                <Coords points="408,4273 2600,4192 2658,4179 2716,4179 2775,4179 2833,4179 2891,4178 2950,4177 3008,4175 3066,4173 3125,4171 3183,4169 3241,4167 3299,4165 3358,4164 3416,4162 3474,4161 3533,4159 3591,4159 5917,4136 7396,4103 7378,4037 3649,4113 3591,4113 3533,4113 3474,4115 3416,4116 3358,4118 3299,4119 3241,4121 3183,4123 3125,4125 3066,4127 3008,4129 2950,4131 2891,4132 2833,4133 2775,4133 2716,4133 2658,4133 2600,4130 408,4211"/>
+                <Baseline points="427,4243 2347,4194 2658,4164 2716,4164 2775,4164 2833,4164 2891,4163 2950,4162 3008,4160 3066,4158 3125,4156 3183,4154 3241,4152 3299,4150 3358,4149 3416,4147 3474,4156 3533,4154 3598,4153 6562,4123 7362,4077"/>
+                <TextEquiv>
+                    <Unicode>relationem dicti Mileti et Andree notariorum et conmissorum, quibus et eorum quibus fidem plenariam adhibemus sigillum commune regium predictum huic presenti publico instrumento duximus apponendum. Actum et datum quoad hujusmodi grossare die octavo septembris, anno Domini millesimo .ccc°. nonagesimo septimo. Ego Miletus de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l92" custom="readingOrder {index:42;}">
+                <Coords points="397,4339 2782,4251 3025,4235 3265,4229 3506,4225 3746,4223 3987,4221 4227,4219 4468,4217 4708,4215 4949,4213 5189,4211 5430,4209 5670,4205 5911,4201 6151,4194 6392,4187 6632,4178 6873,4167 7113,4155 7354,4139 7354,4093 7113,4109 6873,4121 6632,4132 6392,4141 6151,4148 5911,4155 5670,4159 5430,4163 5189,4165 4949,4167 4708,4169 4468,4171 4227,4173 3987,4175 3746,4177 3506,4179 3265,4183 3025,4189 2784,4195 399,4283"/>
+                <Baseline points="426,4318 2293,4261 3025,4220 3265,4214 3506,4210 3746,4208 3987,4206 4227,4204 4468,4202 4708,4200 4949,4198 5189,4196 5430,4194 5670,4190 5911,4186 6151,4179 6392,4172 6632,4163 6873,4152 7113,4140 7354,4124"/>
+                <TextEquiv>
+                    <Unicode>Marcignaco clericus notarius regius una cum Andrea de Carlato etiam notario regio, ad hec commissarii et deputati per dictum baillivum Matisconensem, predicta vidimus, convertimus in notula superius declarata signis dictorum notariorum signatum et ipsa hanc formam redegimus ac signis nostris manualibus signavimus auctoritate et mandato nobis per dictum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l97" custom="readingOrder {index:43;}">
+                <Coords points="409,4402 2602,4332 2656,4319 2713,4321 2770,4321 2828,4321 2885,4321 2942,4319 2999,4317 3056,4314 3114,4310 3171,4308 3228,4304 3285,4301 3342,4298 3400,4295 3457,4291 3514,4289 5221,4293 5907,4280 7374,4219 7388,4182 3634,4253 3571,4239 3514,4243 3457,4245 3400,4249 3342,4252 3285,4255 3228,4258 3171,4262 3114,4264 3056,4268 2999,4271 2942,4273 2885,4275 2828,4275 2770,4275 2713,4275 2656,4273 2599,4271 406,4341"/>
+                <Baseline points="424,4385 2356,4334 2656,4304 2713,4306 2770,4306 2828,4306 2885,4306 2942,4304 2999,4302 3056,4299 3114,4295 3171,4293 3228,4289 3285,4286 3342,4283 3400,4280 3457,4276 3514,4274 4805,4280 5785,4280 7364,4210"/>
+                <TextEquiv>
+                    <Unicode>dominum baillivum facto. Mileto de Marcignaco. Ego etiam dictus Andreas de Carlato clericus auctoritate regis publicus notarius et commissarius una cum dicto Mileto de Marcignaco ad grossandum predictam notulam signis suis manuali dictorum Guioti de Matiscono et Guillermi de Marcignaco notariorum regiorum signatam deputatam factam sua diligentia collationem de ipsa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l99" custom="readingOrder {index:44;}">
+                <Coords points="403,4457 2738,4393 2912,4385 3086,4379 3260,4373 3434,4369 3608,4366 3782,4363 3956,4361 4130,4361 4304,4359 4478,4359 4652,4357 4826,4357 5000,4355 5174,4353 5348,4351 5522,4349 5696,4345 5870,4341 6044,4335 6044,4289 5870,4295 5696,4299 5522,4303 5348,4305 5174,4307 5000,4309 4826,4311 4652,4311 4478,4313 4304,4313 4130,4315 3956,4315 3782,4317 3608,4320 3434,4323 3260,4327 3086,4333 2912,4339 2738,4347 403,4411"/>
+                <Baseline points="433,4449 2310,4398 2912,4370 3086,4364 3260,4358 3434,4354 3608,4351 3782,4348 3956,4346 4130,4346 4304,4344 4478,4344 4652,4342 4826,4342 5000,4340 5174,4338 5348,4336 5522,4334 5696,4330 5870,4326 6044,4320"/>
+                <TextEquiv>
+                    <Unicode>originali notula ad presens publicum instrumentum signum meum manuale solitum eidem instrumento presenti apposui requisitum. A. de Carlato + de cetera questio seu querela valeat inter partes, salvis et retentis. Datum ut supra. J. de Cabilone.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l102" custom="readingOrder {index:45;}">
+                <Coords points="5474,4491 5545,4486 5617,4483 5688,4481 5760,4478 5831,4476 5903,4474 5974,4473 6046,4471 6117,4470 6189,4469 6260,4467 6332,4465 6403,4463 6475,4461 6546,4459 6618,4455 6689,4452 6761,4448 6832,4442 6904,4437 6904,4385 6832,4390 6761,4396 6689,4400 6618,4403 6546,4407 6475,4409 6403,4411 6332,4413 6260,4415 6189,4417 6117,4418 6046,4419 5974,4421 5903,4422 5831,4424 5760,4426 5688,4429 5617,4431 5545,4434 5474,4439"/>
+                <Baseline points="5474,4474 5545,4469 5617,4466 5688,4464 5760,4461 5831,4459 5903,4457 5974,4456 6046,4454 6117,4453 6189,4452 6260,4450 6332,4448 6403,4446 6475,4444 6546,4442 6618,4438 6689,4435 6761,4431 6832,4425 6904,4420"/>
+                <TextEquiv>
+                    <Unicode>Expedita est per me Bartholomem de Cabilone notarium et juratum predictum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l103" custom="readingOrder {index:46;}">
+                <Coords points="5528,4540 5597,4538 5667,4537 5737,4536 5806,4534 5876,4533 5946,4532 6015,4530 6085,4530 6155,4528 6225,4528 6294,4526 6364,4524 6434,4522 6503,4520 6573,4518 6643,4516 6712,4514 6782,4510 6852,4508 6957,4496 6957,4454 6852,4466 6782,4468 6712,4472 6643,4474 6573,4476 6503,4478 6434,4480 6364,4482 6294,4484 6225,4486 6155,4486 6085,4488 6015,4488 5946,4490 5876,4491 5806,4492 5737,4494 5667,4495 5597,4496 5528,4498"/>
+                <Baseline points="5529,4535 5598,4533 5668,4532 5738,4531 5807,4529 5876,4527 5946,4526 6016,4525 6084,4533 6154,4531 6226,4523 6295,4521 6365,4519 6435,4517 6504,4515 6574,4513 6644,4511 6713,4509 6783,4505 6871,4502 6938,4493"/>
+                <TextEquiv>
+                    <Unicode>sub hoc signo meo manuali consueto facta per me colla¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l105" custom="readingOrder {index:47;}">
+                <Coords points="5518,4594 5596,4594 5674,4594 5752,4592 5830,4592 5908,4590 5986,4588 6064,4586 6142,4584 6220,4582 6298,4580 6376,4577 6454,4574 6532,4572 6610,4570 6688,4568 6766,4566 6844,4565 6922,4564 7000,4564 7078,4564 7078,4534 7000,4534 6922,4534 6844,4535 6766,4536 6688,4538 6610,4540 6532,4542 6454,4544 6376,4547 6298,4550 6220,4552 6142,4554 6064,4556 5986,4558 5908,4560 5830,4562 5752,4562 5674,4564 5596,4564 5518,4564"/>
+                <Baseline points="5518,4584 5596,4584 5674,4584 5752,4582 5830,4582 5908,4580 5986,4578 6064,4576 6142,4574 6220,4572 6298,4570 6376,4567 6454,4564 6532,4562 6610,4560 6688,4558 6766,4556 6844,4555 6922,4554 7000,4554 7078,4554"/>
+                <TextEquiv>
+                    <Unicode>tione de dictis litteris originiablibus super conscriptis visis sanis et inte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l106" custom="readingOrder {index:48;}">
+                <Coords points="5532,4653 5562,4650 5593,4649 5623,4647 5654,4645 5684,4643 5715,4643 5745,4641 5776,4640 5806,4639 5837,4638 5867,4637 5898,4637 5928,4637 5959,4637 5989,4637 6020,4639 6050,4640 6081,4641 6111,4643 6142,4645 6142,4612 6111,4610 6081,4608 6050,4607 6020,4606 5989,4604 5959,4604 5928,4604 5898,4604 5867,4604 5837,4605 5806,4606 5776,4607 5745,4608 5715,4610 5684,4610 5654,4612 5623,4614 5593,4616 5562,4617 5532,4620"/>
+                <Baseline points="5532,4642 5562,4639 5593,4638 5623,4636 5654,4634 5684,4632 5715,4632 5745,4630 5776,4629 5806,4628 5837,4627 5867,4626 5898,4626 5928,4626 5959,4626 5989,4626 6020,4628 6050,4629 6081,4630 6111,4632 6142,4634"/>
+                <TextEquiv>
+                    <Unicode>gris prout superius est dictum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nos Hugo Forcis de Edua Junior, clericus burgensis Balne tenentes sigillum [commune regium in bai]llivia Matisconense constitutum, notum facimus universis presentes litteras inspecturis, cum dilectus noster Bartholomeus de Cabilone auctoritate regia publicus notarius juratusque domini nostri regis et noster ad hoc et majora a nobis deputatus nobis retulit&#13;
+per suum juramentum se vidisse, tenuisse et imspecxisse ac de verbo ad verbum legisse quasdem litteras nostras sigillo regio sigillatas non viciatas, non rasas, non corruptas, non abolitas, non cancellatas, nec in aliqua sui parte suspectas, sed omni vicio prosrus et suspectione carentes ut prima facie apparebat formam que sequitur continentes. Nos Hugo&#13;
+Forcis burgensis Eduensis Junior, tenentes sigillum commune regium in baillivia Matisconense constitutum, notum facimus universis presentes litteras inspecturis quod, cum Guiotus de Matiscono et Guillermus de Marcignaco quondam notarii regii receperint quondem contractum seu composicionem et tractatum dudum factum et inhitum inter illustrem principem dominum Johannem&#13;
+quondam comitem Armigniaci et Kadrelleni seu ejus procuratorem, ex una parte, et reverendum patrem in Christo dominum Symonem quondam abbatem Cluniacensem ex altera, de et super garda superioritateque et ressorto decanatus de Paredo et pertinentiis ejusdem ac quorumdem aliorum debatorum tunc motorum inter ipsos quondam dominos, comitem et abbatem, ipsique notarii&#13;
+contractum seu concordiam et tractatum hujusmodi in notam conscripserint et registraverint ipsamque notulam morte preventi grossare et in formam publicam reddigere nequiverint. Et propter hoc prefatus dominus abbas obtinuerit a viro nobili et potenti domino Kariados de Quesnes milite, domino de Saresviller cambellano domini nostri regis,&#13;
+ejusque baillivo Matisconense et senescallo Lugduni quasdem litteras diretas Mileto de Marcignaco [et Andree] de Carlato clericis auctoritate regia publicis notariis de et pro grossando et in formam publiquam reddigendo notulam, contractum et concordiam predictam, quarum litterarum tenor talis est. Kariados des Quesnes, dominus de Saresviller cambella¬&#13;
+nus domini nostri regis ejusque baillivius Matisconensis et senescallus Lugdunensis dilectis nostris Mileto de Marcigniaco et Andree de Carlato clericis auctoritate regia publicis notariis et curie nostre juratis salutem. Cum Guiotus de Matiscone et Guillermus de Marcigniaco quondam notarii regii inter ceteros contractus et instrumenta per ipsos receptos&#13;
+et expeditos reciperint diu est quendem tractatum seu contractum factum et inhitum inter illustrem baronem dominum Johannem quondam comitem Armigniaci et Kadrellen. seu Johannem de Marcigniaco quondam procuratorem suum, ex una parte, et reverendum patrem in Christo dominum Symonem pro tunc abbatem Cluniacensem, ex altera, de&#13;
+et super garda superioritateque et ressorto decanatus de Paredo et pertinentium suarum certisque aliis querelis, controversiis et debatis pro tunc motis inter ipsas partes, ipsique notarii dictum tractatum seu contractum et accordum in notam redigerint nec eam morte preventi grossare potuerint. Hinc est quod ad requestam venerabilium religiosorum vi¬&#13;
+rorum dominorum abbatis et conventus Cluniacensis dicentium quod dicta notula que in papiro extitit registrata propter ipsius plicationem et vestutatem in pluribus ipsius partibus est corupta possetque propter ipsius debilitate perire nisi reddigeretur in formam publicam vobis de quorum probitate et diligentia conscidimus[pro confidimus], in hac parte,&#13;
+tenore presentium comictendo mandamus, quatinus dictam notulam juxta ipsius essentiam grossetis in formam publicam, reddigatis facti sustenciam non mutatam eamque partibus quarum intererit reddatis pro salario moderato. Datum Matisconi, sub sigillo curie nostre, die .xii°. aprilis, anno Domini millesimo .cccmo. nonagesimo&#13;
+sexto per dominum baillivum J. Gracerii. Hinc est quod prenominati Miletus et Andreas notarii et commissarii nobis retulerunt se vidisse, tenuisse et in hanc formam publicam redegisse notulam tractatus et concordie hujusmodi signatam signis manualibus propriis ipsorum Guioti de Matiscone et Guillermi de Marcigniaco, quondam&#13;
+notariorum, ut apparebat prima facie, cujus quidem notule tenor sequitur in hec verba. Noverint universi quod, cum questio seu controversia jam diu mota fuisset, inter religiosos priores et conventum de Paredo ex una parte et dominum comitem Kadrellen. ex altera, super eo, quod idem dominus Kadrellen. dicebat et proponebat monasterium seu &#13;
+prioratum de Paredo fuisse et esse fundatum per comitem Cabilonensem tunc dominum terre et baronie Kadrellen., quodque a tempore fondacionis predicte dominus comes Cabilonensis et sui successores fuerant in possessione et saisina garde et ressorti ac superioritatis ejusdem prioratus et pertinentiarum ejusdem et quibusdem aliis juribus percipiendis et&#13;
+levandis in terra dicti prioratus, et de dictis garda, ressorto, superioritate et aliis usi fuerant a tempore fundacionis predicte paciffice et quiete, sine contradictione quacumque, quousque quidem prior dicti prioratus Henricus nomine impedimentum apposuit seu apponi fecit et procuravit per gentes regias in dictis saisina et possessione adeo quod ac pre¬&#13;
+dicti inpedimenti prefatus dominus Kadrellensis qui pro tempore erat et etiam successores sui predictis garda, ressorto et superioritate et eorum exerciciis(?) fuerunt penitus impediti gentibus regiis exerceri predictam gardam, ressortum et superioritatem quequidem terra Kadrellense que erat de comitatu Cabilonense obvenerat Roberto duci Bur¬&#13;
+gondie et sunt tradicta domine Beatrici nepti dicti ducis Roberti, uxoris domini Roberti comitis de Claromonte pro partagio seu portione que dicta domna dicebat se habere cum dicto duce Roberto quodquidem partagium fuit per dominum nostrum regem Philippum, prout canetur in litteris sigillo dicti domini nostri regis in cera viridi sigillato, in quibus litteris canetur&#13;
+quod dicta terra Kadrellensis eidem domine fuit tradicta in baronia et comitatu una cum garda prioratus de Paredo alias de Pareyo et de Parreciaco cum pluribus aliis rebus et feodis in dictis litteris comprehensis et quod tempore impedimenti edicti appositi per gentes regias in premissis habitatores ville de Paredo contradicerint quantum poterint dicto impe¬&#13;
+dimento, asserentes ipsos esse et fuisse ab antiquo de garda, ressorto et superioritate inmediate dicti domini Kadrellense, prout continetur in quodem instrumento sigillo regio in Matisconense baillivia sigillato. Quare dicebat magnificus et potens dominus, dominus Johannes, comes Armigniaci et dominus predicte terre Kadrellensis ob causam domine Bea¬&#13;
+tricis de Claromonte uxoris sue, seu ejus procurator, impedimentum fuisse et esse oppositum in dictis ressorto, garda et superioritate indebite et injuste, requisivit que requiri fecit pluries predictus dominus comes, reverendum in Christo patrem dominum Symonem abbatem Cluniacensem et predecessores suos, ad quod seu quem jure per unionem sedis&#13;
+appostolice pertinet dictus locus de Paredo cum suis pertinentiis dictum impedimentum in predictis rebus appositum procuraret amoveri et permitteret ipsum dominum comitem uti juribus suis predictis cum eciam quidem [?]atus licenter bene placito ac assenssu domini nostri regis [prius obtenire suum super] h[os] habitus inter predictum&#13;
+dominum comitem Kadrellensem ex una parte et reverendissimum in Christo patrem dominum Androinum tunc abbatem Cluniacensem, nunc sancte Romane ecclesie cardinalem, seu probos viros aut conmissarios electos a partibus supradictis. Tandem informato dicto domino abbate de fundacione facta per dictum dominum comitem Cabilonensem&#13;
+de prioratu predicto et de contentu litteris et instrumento predictis eciam quod dominus Kadrellensis pro tempore erat, fuerat ab antiquo in possessione garde, ressorti et superioritatis predictorum, visis diligenter et inspectis pluribus tractatibus factis et habitis per predictum dominum tunc abbatem predecessorem suum et specialiter&#13;
+per dictos probos viros et conmissarios electos per eundem ex una parte et gentes dicti domini Kadrallensis ex altera parte. Quem tractatum in capitulo toto conventu ecclesie Cluniacensis ad sonum campane ut moris est convocato, dicti domini abbas et conventus die septimo mensis junii anno Domini .m.ccc.lxii(?). in dicto capitulo presentes&#13;
+et propter hoc convocati. Et discretus vir Johannes de Martigniaco clericus procurator et procuratorio nomine dicti domini Kadrellensis dictum tractatum factum de et super premissis voluntate bene placito et consensu dicti domini nostri regis in omnibus reservatis et premitus obtentis legi fecerunt publice in pleno capitulo in modum&#13;
+qui sequitur et in formam. Primo, quod dictus prioratus seu decanatus de Paredo cum menbris et pertinentiis ejusdem erit et remanebit perpetuo de garda, ressorto et superioritate dicti domini Kadrellensis et successorum suorum sine prejudicio garda domini nostri regis. Et habebit dictus prioratus seu decanatus de Paredo cum&#13;
+tota terra menbris et pertinentiis suis tantummodo ressortui in villa Kadrellense et coram dicto domino Kadrellense seu ejus baillivo vel locumtenente genalibus eorumdem et non coram quocumque alio judice vel conmissario dicti domini Kadrellensis, Qui quidem dominus Kadrellensis et ejus successores tenebuntur deffendere, juvare et confortare ecclesiam de Paredo&#13;
+et homines dicte ecclesie et eligentur domino servientes et non plures per dictum dominum Kadrellensem seu ejus baillivum qui poterunt in terra dicti prioratus seu decanatus de Paredo officiare seu officium servientis exercere in casibus superioritatis et resorti nec poterunt in dicta terra officiare seu officium servientis exercere nisi habeant conmissionem in&#13;
+qua factum contineatur pro quo habebunt officiare concernentem causam superioritatis seu ressorti [ejus?] natam a dicto domino seu baillivo suo Cadrellense nec locumtenente eorundem preterquam in casu celeritatis. Quos quidem servientes seu officiarios predictus dominus seu baillivius ejusdem Kadrellensis poterit amonere et alium seu alios ibidem&#13;
+instituere prout sibi videbitur expedire omnes que cause dictorum religiosorum coram dicto domino Kadrellense seu baillivo suo seu locumtenente eorundem tractando tractabuntur firmando et de plano sive rigore et prout justicia sua debit et non debebit procurator dicti domini Kadrellensis procurare nomine prosequi seu petitionem facere coram dicto&#13;
+domino Kadrellense seu baillivo suo aut locumtenentia eorumdem contra subdictos dicte ecclesie de Paredo nisi prius prestito juramento a dicto procuratore si super hoc fuerit requisitus quod sufficenter fuerit informatus super eo super quo prosequi voluerit dictos subdictos. Item, quod dictus dominus Kadrellensis qui pro tempore erit non poterit nec debebit imponere&#13;
+levare in dicta terra de Paredo aliquod subsidium, barragium, servicium, questam aut aliam imposicionem ab hominibus dicte ecclesie de Paredo nec ipsos homines justiciabiles dicte ecclesie compellere etiam ad mutuum faciendum ad excubandum nec deveniendum ad eundam dicti domini nec de eundo ad exercitum ejusdem nec capere poterit de&#13;
+facto bona mobilia dicte ecclesie de Paredo nec hominum ejusdem pro convertendo bona predicta in usus suos nec aliqua in dicta terra exigere nisi illa que dicti domini ab antiquo in dicta exigere consuerit et levare, videlicet pedagiam de Paredo et de Cholono et blada redditualia debita dicto domino Kadrellensi ab hominibus de Lesche¬&#13;
+nelles et de Rueriis, qui quidem pedadia et blada levabuntur – prout levari consueverit per gentes dicti domini Kadrellensis, salvis et retentis eidem domino Kadrellensi et successoribus suis garda, ressorto et superioritati predictis curie juribus eorundem. Item, quod subdicti quicumque dicti domini Kadrellensis gravamine dictos religiosos de&#13;
+Paredo seu homines eorundem in aliquo dictus dominus seu ejus ballivius vel eorum locumtenentem tenebuntur ad instantiam dictorum religiosorum aut hominum suorum qui fuerint gravati evocare coram ipso illos qui ipsos gravaverint et tenebuntur compellere eosdem ad redendum perhemptorie(?) querelis dictorum gravatorum et&#13;
+inquirere, firmare veritatem et de eisdem facere justitie complementum alias poterunt dicti sit gravati propter deffectum justitie apellare nec poterunt dicti domini Kadrellensis neque dicti religiosi habere nec de novo acquirere unus contra alium aliqua jura in futuram occasione cujuscumque possessionis exorcende preterque illa que superius&#13;
+sunt divisa et per compositionem hujusmodi concordiam seu tractatum super omnibus accionibus, querellis, controversiis que poterunt moneri temporibus retroactis occasione dictorum garde, ressorti et superioritatis eidem domino et successoribus suis in dicta ecclesia de Paredo et pertineri suis garda, ressorto et superioritate predictis&#13;
+et aliis superius expressatis nec poterunt etiam dicti domini Kadrellensis qui pro tempore erunt aliquem de hominibus dicte ecclesie recipere in advoyatione nec decanus de Paredo aliquem de hominibus dicti domini Kadrellensis in advoyationem simili modo recipere. Et tenebuntur dicti domini Kadrellensis in novitate eorundem et ipsorum baillam&#13;
+prestare juramentum tenere inviolabiliter premissa et contra non venire licenter voluntate consensu bene placito et assensu dicti domini nostri regis in omnibus reservatis et premitus obtentis. Quo tractatu lecto in dicto capitulo dicti domini abbas et conventus de facto suo ad plenum certifficatum ipsum tractatum et omnia contenta in&#13;
+eodem, prout superius fuit narrata, laudaverunt, ratifficaverunt, approbaverunt, laudant, ratifficant, approbant, et etiam procurator dicti domini Kadrellensis retentur ut prius consensu bene placito et licentia dicti domini nostri regis. Acta fuerunt hec in predicto capitulo monasterii Cluniacensis, anno et die quibus supra,&#13;
+presentibus nobilibus viris dominis Johanne de Pura(?) domino de Forgiis, Guillermo Sacheti militibus, Guillermo la Roque domicello, et discretis viris magistris Johanne de Onbreyo et Stephano de Moleins, testibus ad premissa vocatis. G. Mat. G. de Marcignaco. In quorum omni robur et testimonium cum nobis constet de premissis per fidelem&#13;
+relationem dicti Mileti et Andree notariorum et conmissorum, quibus et eorum quibus fidem plenariam adhibemus sigillum commune regium predictum huic presenti publico instrumento duximus apponendum. Actum et datum quoad hujusmodi grossare die octavo septembris, anno Domini millesimo .ccc°. nonagesimo septimo. Ego Miletus de &#13;
+Marcignaco clericus notarius regius una cum Andrea de Carlato etiam notario regio, ad hec commissarii et deputati per dictum baillivum Matisconensem, predicta vidimus, convertimus in notula superius declarata signis dictorum notariorum signatum et ipsa hanc formam redegimus ac signis nostris manualibus signavimus auctoritate et mandato nobis per dictum&#13;
+dominum baillivum facto. Mileto de Marcignaco. Ego etiam dictus Andreas de Carlato clericus auctoritate regis publicus notarius et commissarius una cum dicto Mileto de Marcignaco ad grossandum predictam notulam signis suis manuali dictorum Guioti de Matiscono et Guillermi de Marcignaco notariorum regiorum signatam deputatam factam sua diligentia collationem de ipsa&#13;
+originali notula ad presens publicum instrumentum signum meum manuale solitum eidem instrumento presenti apposui requisitum. A. de Carlato + de cetera questio seu querela valeat inter partes, salvis et retentis. Datum ut supra. J. de Cabilone.&#13;
+Expedita est per me Bartholomem de Cabilone notarium et juratum predictum&#13;
+sub hoc signo meo manuali consueto facta per me colla¬&#13;
+tione de dictis litteris originiablibus super conscriptis visis sanis et inte¬&#13;
+gris prout superius est dictum.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

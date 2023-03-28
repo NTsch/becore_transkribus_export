@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-01-20T10:13:46.368+01:00</Created>
+        <LastChange>2021-04-21T14:53:43.732+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="25.jpg" imageWidth="5191" imageHeight="7004">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619009623813" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="120,2087 120,5727 5182,5727 5182,2087"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="164,2794 1089,2780 1301,2793 1513,2803 1725,2811 1937,2818 2149,2825 2361,2829 2573,2833 2785,2835 2997,2838 3208,2839 3420,2841 3632,2841 3844,2841 4056,2843 4268,2843 4480,2843 4692,2843 4904,2843 5116,2845 5116,2755 4904,2753 4692,2753 4480,2753 4268,2753 4056,2753 3844,2751 3632,2751 3420,2751 3208,2749 2997,2748 2785,2745 2573,2743 2361,2739 2149,2735 1937,2728 1725,2721 1513,2713 1301,2703 1089,2690 164,2704"/>
+                <Baseline points="428,2738 639,2751 851,2764 1063,2774 1275,2782 1487,2789 1699,2796 1911,2800 2123,2804 2335,2806 2547,2809 2758,2810 2970,2812 3182,2812 3394,2812 3606,2814 3818,2814 4030,2814 4242,2814 4891,2804 5103,2806"/>
+                <TextEquiv>
+                    <Unicode>Urbanus episcopus servus servorum Dei, dilecto filio Symoni abbati monasterii </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="134,2926 383,2930 632,2934 881,2938 1130,2942 1379,2946 1628,2950 1877,2952 2126,2956 2375,2958 2625,2962 2874,2964 3123,2966 3372,2968 3621,2970 3870,2972 4119,2974 4368,2976 4617,2978 4866,2980 5116,2980 5116,2890 4866,2890 4617,2888 4368,2886 4119,2884 3870,2882 3621,2880 3372,2878 3123,2876 2874,2874 2625,2872 2375,2868 2126,2866 1877,2862 1628,2860 1379,2856 1130,2852 881,2848 632,2844 383,2840 134,2836"/>
+                <Baseline points="134,2896 383,2900 632,2904 881,2908 1130,2912 1379,2916 1628,2920 1877,2922 2126,2926 2375,2928 2625,2932 2874,2934 3123,2936 3372,2938 3621,2940 3870,2942 4119,2944 4368,2946 4617,2948 4866,2950 5116,2950"/>
+                <TextEquiv>
+                    <Unicode>Cluniacensis ad Romanam ecclesiam nullo medio pertinentis, Matisconensis diocesis, salutem et apostolicam benedictionem. Exposcit tue devo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="158,3060 405,3064 652,3068 899,3072 1147,3076 1394,3078 1641,3082 1889,3084 2136,3088 2383,3090 2631,3092 2878,3094 3125,3096 3372,3098 3620,3100 3867,3102 4114,3102 4362,3103 4609,3104 4856,3104 5104,3104 5104,3013 4856,3013 4609,3013 4362,3012 4114,3011 3867,3011 3620,3009 3372,3007 3125,3005 2878,3003 2631,3001 2383,2999 2136,2997 1889,2993 1641,2991 1394,2987 1147,2985 899,2981 652,2977 405,2973 158,2969"/>
+                <Baseline points="158,3030 405,3034 652,3038 899,3042 1147,3046 1394,3048 1641,3052 1889,3054 2136,3058 2383,3060 2631,3062 2878,3064 3125,3066 3372,3068 3620,3070 3867,3072 4114,3072 4362,3073 4609,3074 4856,3074 5104,3074"/>
+                <TextEquiv>
+                    <Unicode>tionis sinceritas, et religionis promeretur honestas, ut petitionibus tuis illis presertim, que status tui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="154,3184 401,3188 648,3192 895,3197 1143,3202 1390,3204 1637,3208 1885,3210 2132,3214 2379,3216 2627,3218 2874,3220 3121,3220 3368,3222 3616,3224 3863,3224 4110,3224 4358,3226 4605,3226 4852,3226 5100,3226 5100,3135 4852,3135 4605,3135 4358,3135 4110,3133 3863,3133 3616,3133 3368,3131 3121,3129 2874,3129 2627,3127 2379,3125 2132,3123 1885,3119 1637,3117 1390,3113 1143,3111 895,3106 648,3101 401,3097 154,3093"/>
+                <Baseline points="154,3154 401,3158 648,3162 895,3167 1143,3172 1390,3174 1637,3178 1885,3180 2132,3184 2379,3186 2627,3188 2874,3190 3121,3190 3368,3192 3616,3194 3863,3194 4110,3194 4358,3196 4605,3196 4852,3196 5100,3196"/>
+                <TextEquiv>
+                    <Unicode>et monasterii Cluniacensis ad Romanam ecclesiam nullo medio pertinentis Matisconensis diocesis perrogativam et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="155,3307 280,3311 405,3315 530,3318 656,3321 781,3323 906,3323 1032,3325 1157,3325 1282,3327 1408,3327 1533,3327 1658,3327 1783,3327 1909,3329 2034,3329 2159,3330 2285,3331 2410,3333 2535,3335 5110,3356 5110,3263 2535,3242 2410,3240 2285,3238 2159,3237 2034,3236 1909,3236 1783,3234 1658,3234 1533,3234 1408,3234 1282,3234 1157,3232 1032,3232 906,3230 781,3230 656,3228 530,3225 405,3222 280,3218 155,3214"/>
+                <Baseline points="164,3290 289,3294 414,3298 539,3301 665,3304 790,3306 915,3306 1041,3308 1166,3308 1291,3310 1417,3310 1542,3310 1667,3310 1792,3310 1918,3312 2043,3312 2168,3313 2294,3314 2419,3316 4956,3336 5082,3340"/>
+                <TextEquiv>
+                    <Unicode>honorem respiciunt, favorabiliter annuamus. Hinc est quod nos tuis in hac parte supplicationibus in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="160,3447 405,3453 650,3457 895,3461 1140,3464 1386,3467 1631,3471 1876,3473 2121,3477 2366,3479 2612,3481 2857,3483 3102,3485 3347,3487 3592,3487 3838,3487 4083,3489 4328,3489 4573,3487 4818,3487 5112,3484 5112,3391 4818,3394 4573,3394 4328,3396 4083,3396 3838,3394 3592,3394 3347,3394 3102,3392 2857,3390 2612,3388 2366,3386 2121,3384 1876,3380 1631,3378 1386,3374 1140,3371 895,3368 650,3364 405,3360 160,3354"/>
+                <Baseline points="160,3416 405,3422 650,3426 895,3430 1140,3433 1386,3436 1631,3440 1876,3442 2121,3446 2366,3448 2612,3450 2857,3452 3102,3454 3347,3456 3592,3456 3838,3456 4083,3458 4328,3458 4573,3456 4818,3456 5064,3454"/>
+                <TextEquiv>
+                    <Unicode>clinati, ut tu et successores tui abbates dicti monasterii, qui erunt pro tempore, tam in eodem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="155,3576 784,3593 1011,3595 1238,3597 1464,3599 1691,3601 1918,3603 2144,3605 2371,3607 2598,3607 2825,3609 3051,3611 3278,3611 3505,3613 3731,3613 3958,3613 4185,3613 4411,3611 4638,3611 4865,3609 5092,3607 5092,3513 4865,3515 4638,3517 4411,3517 4185,3519 3958,3519 3731,3519 3505,3519 3278,3517 3051,3517 2825,3515 2598,3513 2371,3513 2144,3511 1918,3509 1691,3507 1464,3505 1238,3503 1011,3501 784,3499 155,3482"/>
+                <Baseline points="162,3548 388,3550 1011,3564 1238,3566 1464,3568 1691,3570 1918,3572 2144,3574 2371,3576 2598,3576 2825,3578 3051,3580 3278,3580 3505,3582 3731,3582 3958,3582 4185,3582 4411,3580 4638,3580 4865,3578 5092,3576"/>
+                <TextEquiv>
+                    <Unicode>monasterio, quam in prioratibus et ecclesiis, sive locis tibi et eidem monasterio immediate sub¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="154,3702 266,3702 378,3702 490,3702 602,3703 714,3704 826,3706 938,3708 1050,3710 1162,3712 1275,3714 1387,3716 1499,3718 1611,3720 1723,3721 1835,3722 1947,3724 2059,3724 2171,3724 2283,3722 5124,3728 5124,3638 2283,3632 2171,3634 2059,3634 1947,3634 1835,3632 1723,3631 1611,3630 1499,3628 1387,3626 1275,3624 1162,3622 1050,3620 938,3618 826,3616 714,3614 602,3613 490,3612 378,3612 266,3612 154,3612"/>
+                <Baseline points="154,3672 266,3672 378,3672 490,3672 602,3673 714,3674 826,3676 938,3678 1050,3680 1162,3682 1275,3684 1387,3686 1499,3688 1611,3690 1723,3691 1835,3692 1947,3694 2059,3694 2171,3694 4981,3706 5094,3706"/>
+                <TextEquiv>
+                    <Unicode>jectis, infra metas tamen exemptionis monasterii ejusdem consistentibus, omnibus et singulis sco¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;}">
+                <Coords points="146,3823 394,3827 642,3831 890,3835 1138,3839 1387,3841 1635,3845 1883,3847 2131,3849 2379,3851 2628,3853 2876,3853 3124,3855 3372,3855 3620,3855 3869,3855 4117,3855 4365,3855 4613,3853 4861,3853 5110,3851 5110,3763 4861,3765 4613,3765 4365,3767 4117,3767 3869,3767 3620,3767 3372,3767 3124,3767 2876,3765 2628,3765 2379,3763 2131,3761 1883,3759 1635,3757 1387,3753 1138,3751 890,3747 642,3743 394,3739 146,3735"/>
+                <Baseline points="146,3794 394,3798 642,3802 890,3806 1138,3810 1387,3812 1635,3816 1883,3818 2131,3820 2379,3822 2628,3824 2876,3824 3124,3826 3372,3826 3620,3826 3869,3826 4117,3826 4365,3826 4613,3824 4861,3824 5110,3822"/>
+                <TextEquiv>
+                    <Unicode>laribus volentibus clericali caractere insigniri, qui de locis hujusmodi oriundi fuerint, primam tonsuram clericalem conferre valeatis, constitutionibus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;}">
+                <Coords points="148,3951 394,3956 640,3961 887,3965 1133,3969 1380,3973 1626,3977 1872,3981 2119,3983 2365,3987 2612,3989 2858,3990 3104,3991 3351,3991 3597,3991 3844,3991 4090,3989 4336,3986 4583,3983 4829,3979 5076,3973 5076,3880 4829,3886 4583,3890 4336,3893 4090,3896 3844,3898 3597,3898 3351,3898 3104,3898 2858,3897 2612,3896 2365,3894 2119,3890 1872,3888 1626,3884 1380,3880 1133,3876 887,3872 640,3868 394,3863 148,3858"/>
+                <Baseline points="148,3920 394,3925 640,3930 887,3934 1133,3938 1380,3942 1626,3946 1872,3950 2119,3952 2365,3956 2612,3958 2858,3959 3104,3960 3351,3960 3597,3960 3844,3960 4090,3958 4336,3955 4583,3952 4829,3948 5076,3942"/>
+                <TextEquiv>
+                    <Unicode>apostolicis et aliis contrariis non obstantibus quibuscumque, tibi et eisdem successoribus auctoritate apostolica </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:10;}">
+                <Coords points="146,4077 269,4080 393,4083 517,4085 641,4087 765,4089 888,4092 1012,4095 1136,4097 1260,4099 1384,4101 1507,4102 1631,4105 1755,4105 1879,4107 2003,4109 2126,4109 2250,4111 2374,4111 2498,4112 5131,4109 5131,4022 2498,4025 2374,4024 2250,4024 2126,4022 2003,4022 1879,4020 1755,4018 1631,4018 1507,4015 1384,4014 1260,4012 1136,4010 1012,4008 888,4005 765,4002 641,4000 517,3998 393,3996 269,3993 146,3990"/>
+                <Baseline points="146,4048 269,4051 393,4054 517,4056 641,4058 765,4060 888,4063 1012,4066 1136,4068 1260,4070 1384,4072 1507,4073 1631,4076 1755,4076 1879,4078 2003,4080 2126,4080 2250,4082 2374,4082 4989,4073 5113,4074"/>
+                <TextEquiv>
+                    <Unicode>tenore presentium indulgemus. Nulli ergo omnino hominum liceat hanc paginam nostre concessionis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:11;}">
+                <Coords points="150,4193 272,4196 395,4199 518,4201 641,4203 764,4205 886,4207 1009,4209 1132,4211 1255,4212 1378,4214 1500,4215 1623,4217 1746,4219 1869,4221 1992,4223 2114,4225 2237,4227 2360,4230 2483,4233 5121,4226 5121,4139 2483,4146 2360,4143 2237,4140 2114,4138 1992,4136 1869,4134 1746,4132 1623,4130 1500,4128 1378,4127 1255,4125 1132,4124 1009,4122 886,4120 764,4118 641,4116 518,4114 395,4112 272,4109 150,4106"/>
+                <Baseline points="146,4168 268,4171 391,4174 514,4176 637,4178 760,4180 882,4182 1005,4184 1128,4186 1251,4187 1374,4189 1496,4190 1619,4192 1742,4194 1865,4196 1988,4198 2110,4200 2233,4202 2356,4205 4991,4202 5114,4204"/>
+                <TextEquiv>
+                    <Unicode>infringere vel ei ausu temerario contraire. Si quis autem attemptare presumpserit indignationem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:12;}">
+                <Coords points="140,4328 386,4334 633,4340 880,4346 1127,4350 1374,4352 1620,4356 1867,4358 2114,4360 2361,4360 2608,4360 2854,4360 3101,4360 3348,4360 3595,4360 3842,4358 4088,4358 4335,4356 4582,4356 4829,4354 5076,4354 5076,4264 4829,4264 4582,4266 4335,4266 4088,4268 3842,4268 3595,4270 3348,4270 3101,4270 2854,4270 2608,4270 2361,4270 2114,4270 1867,4268 1620,4266 1374,4262 1127,4260 880,4256 633,4250 386,4244 140,4238"/>
+                <Baseline points="140,4298 386,4304 633,4310 880,4316 1127,4320 1374,4322 1620,4326 1867,4328 2114,4330 2361,4330 2608,4330 2854,4330 3101,4330 3348,4330 3595,4330 3842,4328 4088,4328 4335,4326 4582,4326 4829,4324 5076,4324"/>
+                <TextEquiv>
+                    <Unicode>omnipotentis Dei et beatorum Petri et Pauli apostolorum ejus se noverit incursurum. Datum Avinioni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:13;}">
+                <Coords points="120,4453 146,4453 172,4455 199,4455 225,4457 5142,4479 5142,4385 225,4363 199,4361 172,4361 146,4359 120,4359"/>
+                <Baseline points="135,4434 617,4429 687,4435 789,4433 5053,4446 5080,4446"/>
+                <TextEquiv>
+                    <Unicode>kalendas aprilis, pontificatus nostri anno quinto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:14;}">
+                <Coords points="4414,5727 4452,5724 4490,5721 4529,5719 4567,5717 4606,5715 4644,5713 4682,5712 4721,5711 4759,5711 4798,5709 4836,5709 4874,5709 4913,5709 4951,5707 4990,5707 5028,5707 5066,5705 5105,5705 5143,5703 5182,5701 5182,5607 5143,5609 5105,5611 5066,5611 5028,5613 4990,5613 4951,5613 4913,5615 4874,5615 4836,5615 4798,5615 4759,5617 4721,5617 4682,5618 4644,5619 4606,5621 4567,5623 4529,5625 4490,5627 4452,5630 4414,5633"/>
+                <Baseline points="4414,5696 4452,5693 4490,5690 4529,5688 4567,5686 4606,5684 4644,5682 4682,5681 4721,5680 4759,5680 4798,5678 4836,5678 4874,5678 4913,5678 4951,5676 4990,5676 5028,5676 5066,5674 5105,5674 5143,5672 5182,5670"/>
+                <TextEquiv>
+                    <Unicode>A. de Mediolano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Urbanus episcopus servus servorum Dei, dilecto filio Symoni abbati monasterii &#xD;
+Cluniacensis ad Romanam ecclesiam nullo medio pertinentis, Matisconensis diocesis, salutem et apostolicam benedictionem. Exposcit tue devo¬&#xD;
+tionis sinceritas, et religionis promeretur honestas, ut petitionibus tuis illis presertim, que status tui &#xD;
+et monasterii Cluniacensis ad Romanam ecclesiam nullo medio pertinentis Matisconensis diocesis perrogativam et &#xD;
+honorem respiciunt, favorabiliter annuamus. Hinc est quod nos tuis in hac parte supplicationibus in¬&#xD;
+clinati, ut tu et successores tui abbates dicti monasterii, qui erunt pro tempore, tam in eodem &#xD;
+monasterio, quam in prioratibus et ecclesiis, sive locis tibi et eidem monasterio immediate sub¬&#xD;
+jectis, infra metas tamen exemptionis monasterii ejusdem consistentibus, omnibus et singulis sco¬&#xD;
+laribus volentibus clericali caractere insigniri, qui de locis hujusmodi oriundi fuerint, primam tonsuram clericalem conferre valeatis, constitutionibus &#xD;
+apostolicis et aliis contrariis non obstantibus quibuscumque, tibi et eisdem successoribus auctoritate apostolica &#xD;
+tenore presentium indulgemus. Nulli ergo omnino hominum liceat hanc paginam nostre concessionis&#xD;
+infringere vel ei ausu temerario contraire. Si quis autem attemptare presumpserit indignationem&#xD;
+omnipotentis Dei et beatorum Petri et Pauli apostolorum ejus se noverit incursurum. Datum Avinioni,&#xD;
+kalendas aprilis, pontificatus nostri anno quinto.&#xD;
+A. de Mediolano.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

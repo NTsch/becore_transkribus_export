@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-09T14:59:26.219+01:00</Created>
+        <LastChange>2022-09-27T17:45:34.712+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="178.jpg" imageWidth="8312" imageHeight="6120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1664293534712" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1054,869 1054,4824 7370,4824 7370,869"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1342,936 1643,944 1944,952 2245,960 2546,966 2848,972 3149,978 3450,982 3751,988 4052,994 4354,1000 4655,1007 4956,1016 5257,1026 5558,1038 5860,1050 6161,1066 6462,1085 6763,1104 7064,1129 7366,1156 7366,1089 7064,1062 6763,1037 6462,1018 6161,999 5860,983 5558,971 5257,959 4956,949 4655,940 4354,933 4052,927 3751,921 3450,915 3149,911 2848,905 2546,899 2245,893 1944,885 1643,877 1342,869"/>
+                <Baseline points="1342,914 1643,922 1944,930 2245,938 2546,944 2848,950 3149,956 3450,960 3751,966 4052,972 4354,978 4655,985 4956,994 5257,1004 5558,1016 5860,1028 6161,1044 6462,1063 6763,1082 7064,1107 7366,1134"/>
+                <TextEquiv>
+                    <Unicode>Clemens episcopus servus servorum Dei, dilectis filiis Thiernensis et Sancti Rigaudi monasteriorum abbatibus ac priori de Amberta Claromontensis, Matisconensis et Lugdunensis diocesium salutem et apostolicam benedictionem. Et si sedes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1076,1016 1390,1030 1705,1042 2020,1053 2334,1062 2649,1069 2964,1076 3278,1081 3593,1086 3908,1092 4223,1098 4537,1106 4852,1113 5167,1123 5481,1133 5796,1146 6111,1162 6425,1181 6740,1204 7055,1230 7370,1260 7370,1193 7055,1163 6740,1137 6425,1114 6111,1095 5796,1079 5481,1066 5167,1056 4852,1046 4537,1039 4223,1031 3908,1025 3593,1019 3278,1014 2964,1009 2649,1002 2334,995 2020,986 1705,975 1390,963 1076,949"/>
+                <Baseline points="1076,994 1390,1008 1705,1020 2020,1031 2334,1040 2649,1047 2964,1054 3278,1059 3593,1064 3908,1070 4223,1076 4537,1084 4852,1091 5167,1101 5481,1111 5796,1124 6111,1140 6425,1159 6740,1182 7055,1208 7370,1238"/>
+                <TextEquiv>
+                    <Unicode>apostolica que veritatem et justitiam sequitur et in suis actibus confovet honestatem delinquentium quorumlibet excessibus provocetur illis, tamen non indigne irritatur vehementius, qui a personis religiosis per quas debet potuis honorari mandatorum observantia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1096,1110 1408,1124 1720,1137 2032,1146 2344,1155 2656,1162 2968,1168 3280,1174 3592,1180 3904,1184 4217,1190 4529,1197 4841,1204 5153,1214 5465,1224 5777,1238 6089,1252 6401,1270 6713,1293 7025,1317 7338,1346 7338,1279 7025,1250 6713,1226 6401,1203 6089,1185 5777,1171 5465,1157 5153,1147 4841,1137 4529,1130 4217,1123 3904,1117 3592,1113 3280,1107 2968,1101 2656,1095 2344,1088 2032,1079 1720,1070 1408,1057 1096,1043"/>
+                <Baseline points="1096,1088 1408,1102 1720,1115 2032,1124 2344,1133 2656,1140 2968,1146 3280,1152 3592,1158 3904,1162 4217,1168 4529,1175 4841,1182 5153,1192 5465,1202 5777,1216 6089,1230 6401,1248 6713,1271 7025,1295 7338,1324"/>
+                <TextEquiv>
+                    <Unicode>committuntur. Sane nuper insinuatione dilectorum filiorum . . abbatis et conventus monasterii Cluniacensis Matisconensis diocesis percepimus, quod cum olim in prioratu Martiniaci Cluniacensis ordinis Eduensis diocesis prefato monasterio immediate subjecto certi mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1089,1197 1400,1211 1712,1221 2023,1231 2335,1239 2646,1246 2958,1251 3269,1257 3581,1263 3892,1267 4204,1273 4515,1280 4827,1287 5138,1297 5450,1309 5761,1322 6073,1337 6384,1355 6696,1377 7007,1402 7319,1431 7319,1364 7007,1335 6696,1310 6384,1288 6073,1270 5761,1255 5450,1242 5138,1230 4827,1220 4515,1213 4204,1206 3892,1200 3581,1196 3269,1190 2958,1184 2646,1179 2335,1172 2023,1164 1712,1154 1400,1144 1089,1130"/>
+                <Baseline points="1092,1186 1403,1200 1715,1210 2026,1220 2338,1228 2649,1235 2961,1240 3272,1246 3584,1252 3895,1256 4207,1262 4518,1269 4830,1276 5141,1286 5453,1298 5764,1311 6076,1326 6387,1344 6699,1366 7010,1391 7322,1420"/>
+                <TextEquiv>
+                    <Unicode>nachi et nonaginta novem moniales ejusdem ordinis ibidem incluse pariete inter ipsos monachos et moniales intermedio commorantes consuevissent horas canonicas simul alio tamen pariete medio psallere aliaque divina officia celebrare, dudum diffini¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1106,1310 1417,1323 1728,1334 2039,1342 2350,1350 2662,1356 2973,1361 3284,1366 3595,1371 3906,1376 4218,1382 4529,1388 4840,1396 5151,1405 5462,1416 5774,1430 6085,1446 6396,1464 6707,1487 7018,1513 7330,1542 7330,1476 7018,1447 6707,1421 6396,1398 6085,1380 5774,1364 5462,1350 5151,1339 4840,1330 4529,1322 4218,1316 3906,1310 3595,1305 3284,1300 2973,1295 2662,1290 2350,1284 2039,1276 1728,1268 1403,1257 1092,1244"/>
+                <Baseline points="1091,1287 1402,1300 1713,1311 2024,1319 2335,1327 2647,1333 2958,1338 3269,1343 3580,1348 3891,1353 4203,1359 4514,1365 4825,1373 5136,1382 5447,1393 5759,1407 6070,1423 6381,1441 6692,1464 7003,1490 7315,1519"/>
+                <TextEquiv>
+                    <Unicode>tores capituli dicti Cluniacensis ordinis provide attendentes honestati et juris equitati minime convenire quod sic simul duo conventus monachorum et monacharum videlicet horas simul canerent supradictas, ad consulendum honestati super hoc, et vitandi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1102,1418 1412,1426 1722,1431 2033,1436 2343,1440 2654,1446 2964,1450 3274,1454 3585,1459 3895,1465 4206,1472 4516,1481 4826,1490 5137,1500 5447,1515 5758,1529 6068,1546 6378,1566 6689,1589 6999,1616 7310,1644 7310,1578 6999,1550 6689,1523 6378,1500 6068,1480 5758,1463 5447,1449 5137,1434 4826,1424 4516,1415 4206,1406 3895,1399 3585,1393 3274,1388 2964,1384 2654,1380 2343,1374 2033,1370 1722,1365 1412,1360 1102,1352"/>
+                <Baseline points="1102,1396 1412,1404 1722,1409 2033,1414 2343,1418 2654,1424 2964,1428 3274,1432 3585,1441 3895,1447 4206,1450 4516,1459 4826,1468 5137,1478 5447,1493 5758,1507 6068,1524 6378,1544 6689,1567 6999,1594 7310,1622"/>
+                <TextEquiv>
+                    <Unicode>periculosa scandala que inde formidari probaliter poterant proventura tandem matura deliberatione previa diffiniverunt prout ex potestate sibi a sede apostolica concessa super hiis poterant et etiam ordinarunt quod monachi tunc commorantes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1102,1510 1411,1518 1720,1524 2030,1528 2339,1532 2649,1538 2958,1542 3267,1546 3577,1551 3886,1556 4196,1564 4505,1570 4814,1580 5124,1590 5433,1604 5743,1619 6052,1635 6361,1655 6671,1678 6980,1704 7290,1732 7290,1671 6980,1643 6671,1617 6361,1594 6052,1574 5743,1558 5433,1543 5124,1529 4814,1519 4505,1509 4196,1503 3886,1495 3577,1490 3267,1485 2958,1481 2649,1477 2339,1471 2030,1467 1720,1463 1411,1457 1102,1449"/>
+                <Baseline points="1102,1490 1411,1498 1720,1504 2030,1508 2339,1512 2649,1518 2958,1522 3267,1526 3577,1531 3886,1536 4196,1544 4505,1550 4814,1560 5124,1570 5433,1584 5743,1599 6052,1615 6361,1635 6671,1658 6980,1684 7290,1712"/>
+                <TextEquiv>
+                    <Unicode>in eodem prioratu et qui morarentur imposterum nequaquam ex tunc simul cum prefatis monialibus horas predictas psallerent sed per se ipsos in una capella dicti prioratus per abbatem predicti monasterii ad hoc specialiter deputandi, et adeo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1102,1602 1412,1606 1722,1608 2032,1611 2342,1614 2652,1618 2962,1622 3272,1626 3582,1632 3892,1638 4202,1646 4512,1654 4822,1664 5132,1676 5442,1690 5752,1705 6062,1722 6372,1743 6682,1766 6992,1790 7302,1818 7302,1770 6992,1742 6682,1718 6372,1695 6062,1674 5752,1657 5442,1642 5132,1628 4822,1616 4512,1606 4202,1598 3892,1590 3582,1584 3272,1578 2962,1574 2652,1570 2342,1566 2032,1563 1722,1560 1412,1558 1102,1554"/>
+                <Baseline points="1095,1582 1397,1596 1701,1609 2014,1617 2323,1626 2638,1615 2951,1610 3261,1614 3575,1612 3885,1618 4195,1626 4505,1634 4814,1651 5124,1663 5435,1670 5743,1701 6053,1718 6363,1738 6673,1761 6985,1770 7295,1798"/>
+                <TextEquiv>
+                    <Unicode>a choro monialium predictarum remota quod propter vocum dissonantiam divinum nequiret officium perturbari, horas predictas diurnas pariter et nocturnas recitarent et psallerent cum devotione debita reverenter, prefateque moniales</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="1079,1668 2804,1695 3042,1699 3280,1703 3518,1707 3756,1715 3994,1721 4232,1729 4470,1737 4708,1745 4946,1755 5184,1764 5422,1775 5660,1788 5898,1798 6136,1810 6374,1823 6612,1835 6850,1847 7088,1861 7326,1875 7326,1818 7088,1804 6850,1790 6612,1778 6374,1766 6136,1753 5898,1741 5660,1731 5422,1718 5184,1707 4946,1698 4708,1688 4470,1680 4232,1672 3994,1664 3756,1658 3518,1650 3280,1646 3042,1642 2804,1638 1079,1611"/>
+                <Baseline points="1105,1659 1983,1677 3042,1680 3280,1684 3518,1688 3756,1696 3994,1702 4232,1710 4470,1718 4708,1726 4946,1736 5184,1745 5422,1756 5660,1769 5898,1779 6136,1791 6374,1804 6612,1816 6850,1828 7088,1842 7326,1856"/>
+                <TextEquiv>
+                    <Unicode>choro suo meditate ipsarum a dextra et alia medietate a sinistra parte ipsius chori persistentes tractim et devote canerent etiam horas hujusmodi per se ipsas. Quodque abbas predictus diffinitionem et ordinationem hujusmodi prout ex consimili</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="1100,1740 1410,1740 1720,1742 2030,1747 2341,1752 2651,1760 2961,1768 3272,1777 3582,1788 3892,1800 4203,1811 4513,1824 4823,1837 5133,1850 5444,1865 5754,1880 6064,1894 6375,1909 6685,1922 6995,1936 7306,1950 7306,1907 6995,1893 6685,1879 6375,1866 6064,1851 5754,1837 5444,1822 5133,1807 4823,1794 4513,1781 4203,1768 3892,1757 3582,1745 3272,1734 2961,1725 2651,1717 2341,1709 2030,1704 1720,1699 1410,1697 1100,1697"/>
+                <Baseline points="1100,1726 1410,1726 1720,1728 2030,1733 2341,1738 2649,1755 2959,1763 3272,1763 3582,1774 3892,1786 4203,1797 4513,1810 4823,1823 5133,1836 5444,1851 5754,1866 6064,1880 6375,1895 6685,1908 6995,1922 7306,1936"/>
+                <TextEquiv>
+                    <Unicode>potestate sedis ejusdem poterat per se, vel alium seu alios ad executionis effectum deduceret, et faceret per censuram ecclesiasticam inviolabiliter observari. Et licet abbas predictus ad executionem diffinitionis et ordinationis predictorum sicut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="1088,1831 1395,1832 1702,1835 2010,1839 2317,1845 2625,1853 2932,1863 3239,1873 3547,1885 3854,1897 4162,1909 4469,1923 4776,1937 5084,1951 5391,1966 5699,1980 6006,1994 6313,2007 6621,2020 6928,2032 7236,2043 7236,1980 6928,1969 6621,1957 6313,1944 6006,1931 5699,1917 5391,1903 5084,1888 4776,1874 4469,1860 4162,1846 3854,1834 3547,1822 3239,1810 2932,1800 2625,1790 2317,1782 2010,1776 1702,1772 1395,1769 1088,1768"/>
+                <Baseline points="1088,1810 1395,1811 1702,1814 2010,1818 2317,1824 2625,1832 2932,1842 3239,1852 3547,1864 3854,1876 4162,1888 4469,1902 4776,1916 5084,1930 5391,1945 5699,1959 6006,1973 6313,1986 6621,1999 6928,2011 7236,2022"/>
+                <TextEquiv>
+                    <Unicode>tenebatur procedens eisdem monachis capellam in eadem prioratu ad psallendum horas canonicas et celebrandum diurnum officium juxta diffinitionem et ordinationem hujusmodi deputarit et sic aliquandiu extiterit observatum, tamen postimodum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="1084,1924 1396,1926 1708,1929 2020,1934 2333,1942 2645,1950 2957,1959 3270,1970 3582,1982 3894,1994 4207,2006 4519,2020 4831,2034 5143,2048 5456,2063 5768,2077 6080,2092 6393,2106 6705,2120 7017,2133 7330,2146 7330,2079 7017,2066 6705,2053 6393,2039 6080,2025 5768,2010 5456,1996 5143,1981 4831,1967 4519,1953 4207,1939 3894,1927 3582,1915 3270,1903 2957,1892 2645,1883 2333,1875 2020,1867 1708,1862 1396,1859 1084,1857"/>
+                <Baseline points="1084,1902 1396,1904 1708,1907 2020,1912 2333,1920 2645,1928 2957,1937 3270,1948 3582,1960 3894,1972 4207,1984 4519,1998 4831,2012 5143,2026 5456,2041 5768,2055 6080,2070 6393,2084 6705,2098 7017,2111 7330,2124"/>
+                <TextEquiv>
+                    <Unicode>quinquaginta ex eisdem monialibus vel circa maligno instigante spiritu contra easdem diffinitionem et ordinationem temere, ac in suarum animarum periculum, et dicti ordinis scandalum veniendo eas observare penitus absque alia causa rationabi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="1080,2016 1393,2018 1707,2021 2021,2026 2335,2034 2649,2043 2963,2052 3277,2063 3591,2075 3905,2088 4219,2102 4532,2116 4846,2129 5160,2144 5474,2159 5788,2174 6102,2188 6416,2200 6730,2215 7044,2228 7358,2240 7358,2173 7044,2161 6730,2148 6416,2133 6102,2121 5788,2107 5474,2092 5160,2077 4846,2062 4532,2049 4219,2035 3905,2021 3591,2008 3277,1996 2963,1985 2649,1976 2335,1967 2021,1959 1707,1954 1393,1951 1080,1949"/>
+                <Baseline points="1080,1994 1393,1996 1707,1999 2021,2004 2335,2012 2649,2021 2963,2030 3277,2041 3591,2053 3905,2066 4219,2080 4532,2094 4846,2107 5160,2122 5474,2137 5788,2152 6102,2166 6416,2178 6730,2193 7044,2206 7358,2218"/>
+                <TextEquiv>
+                    <Unicode>li, sed solum pro voluntatis libito recusarunt propter quod dilecti filii Aymo Salviniaci prioratus dicti ordinis Claromontensis diocesis, et Petrus Major dicti monasterii priores auctoritate dicti abbatis eis in hac parte commissa easdem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="1082,2118 1394,2118 1706,2122 2018,2126 2330,2132 2642,2140 2954,2150 3266,2161 3578,2172 3890,2185 4203,2198 4515,2212 4827,2227 5139,2241 5451,2255 5763,2270 6075,2285 6387,2299 6699,2312 7011,2324 7324,2336 7324,2269 7011,2257 6699,2245 6387,2232 6075,2218 5763,2203 5451,2188 5139,2174 4827,2160 4515,2145 4203,2131 3890,2118 3578,2105 3266,2094 2954,2083 2642,2073 2330,2065 2018,2059 1706,2055 1394,2051 1082,2051"/>
+                <Baseline points="1082,2096 1394,2096 1706,2100 2018,2104 2330,2110 2642,2118 2954,2128 3266,2139 3578,2150 3890,2163 4203,2176 4515,2190 4827,2205 5139,2219 5451,2233 5763,2248 6075,2263 6387,2277 6699,2290 7011,2302 7324,2314"/>
+                <TextEquiv>
+                    <Unicode>moniales rebelles nominatim expressas canonice monuerunt ut infra certum competentem terminum et extunc imposterum diffinitionem et ordinationem hujusmodi observarent excommunicationis in eas si hoc facere renuerent canonice per eos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="1098,2210 1410,2212 1722,2216 2034,2222 2346,2228 2658,2237 2970,2246 3282,2256 3594,2268 3906,2280 4219,2292 4531,2306 4843,2318 5155,2333 5467,2347 5779,2361 6091,2376 6403,2389 6715,2405 7027,2418 7340,2430 7340,2363 7027,2351 6715,2338 6403,2322 6091,2309 5779,2294 5467,2280 5155,2266 4843,2251 4531,2239 4219,2225 3906,2213 3594,2201 3282,2189 2970,2179 2658,2170 2346,2161 2034,2155 1722,2149 1410,2145 1098,2143"/>
+                <Baseline points="1098,2188 1410,2190 1722,2194 2034,2200 2346,2206 2658,2215 2970,2224 3282,2234 3594,2246 3906,2258 4219,2270 4531,2284 4843,2296 5155,2311 5467,2325 5779,2339 6091,2354 6403,2367 6715,2383 7027,2396 7340,2408"/>
+                <TextEquiv>
+                    <Unicode>nichilominus promulgata, et deinde quia predicte moniales nominatim expresse parere monitioni hujusmodi contumaciter recusarunt, nullam causam rationabilem super hoc allegantes, prelibati priores eas incurrisse sententiam ex¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="1092,2304 1404,2306 1717,2310 2030,2314 2343,2322 2656,2331 2969,2340 3282,2351 3595,2363 3908,2376 4221,2388 4533,2402 4846,2416 5159,2431 5472,2446 5785,2460 6098,2474 6411,2489 6724,2502 7037,2515 7350,2528 7350,2461 7037,2448 6724,2435 6411,2422 6098,2407 5785,2393 5472,2379 5159,2364 4846,2349 4533,2335 4221,2321 3908,2309 3595,2296 3282,2284 2969,2273 2656,2264 2343,2255 2030,2247 1717,2243 1404,2239 1092,2237"/>
+                <Baseline points="1092,2282 1404,2284 1717,2288 2030,2292 2343,2300 2656,2309 2969,2318 3282,2329 3595,2341 3908,2354 4221,2366 4533,2380 4846,2394 5159,2409 5472,2424 5785,2438 6098,2452 6411,2467 6724,2480 7037,2493 7350,2506"/>
+                <TextEquiv>
+                    <Unicode>communicationis hujusmodi declararunt. Subsequenter autem ut processus hujusmodi per prefatos priores ut prefertur habitus suum plenius sertiretur effectum supradicti abbas et conventus litteras apostolicas sub certa forma directas dilecto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="1092,2406 1403,2410 1715,2414 2027,2420 2338,2426 2650,2434 2962,2444 3273,2452 3585,2464 3897,2475 4209,2487 4520,2500 4832,2514 5144,2526 5455,2540 5767,2554 6079,2568 6390,2582 6702,2596 7014,2610 7326,2624 7326,2558 7014,2544 6702,2530 6390,2516 6079,2502 5767,2488 5455,2474 5144,2460 4832,2448 4520,2434 4209,2421 3897,2409 3585,2398 3273,2386 2962,2378 2650,2368 2338,2360 2027,2354 1715,2348 1403,2344 1092,2340"/>
+                <Baseline points="1092,2384 1403,2388 1715,2392 2027,2398 2338,2404 2650,2412 2962,2422 3273,2430 3585,2442 3897,2453 4209,2465 4520,2478 4832,2492 5144,2504 5455,2518 5767,2532 6079,2546 6390,2560 6702,2574 7014,2588 7326,2602"/>
+                <TextEquiv>
+                    <Unicode>filio abbati monasterii Trenorchiensis Cabilonensis diocesis impetrarunt qui quidem abbas Trenorchiensis super contentis in eisdem litteris eorum forma servata procedens declaravit justitia exigente dictum processum fore justum dictasque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="1096,2502 1407,2506 1718,2510 2030,2516 2341,2522 2653,2530 2964,2538 3275,2547 3587,2558 3898,2568 4210,2580 4521,2592 4832,2603 5144,2617 5455,2630 5767,2644 6078,2657 6389,2671 6701,2685 7012,2700 7324,2714 7324,2648 7012,2634 6701,2619 6389,2605 6078,2591 5767,2578 5455,2564 5144,2551 4832,2537 4521,2526 4210,2514 3898,2502 3587,2492 3275,2481 2964,2472 2653,2464 2341,2456 2030,2450 1718,2444 1407,2440 1096,2436"/>
+                <Baseline points="1087,2481 1398,2485 1718,2488 2030,2494 2341,2500 2653,2508 2964,2516 3275,2525 3587,2536 3898,2546 4210,2558 4521,2570 4832,2581 5144,2595 5455,2608 5767,2622 6078,2635 6389,2649 6701,2663 7012,2678 7324,2692"/>
+                <TextEquiv>
+                    <Unicode>moniales in predictis litteris nominatas eidem excommunicationis sententie subjecere ispasque mandavit et fecit excommunicatas in illis partibus publice nunciari, contra ipsas eandem sententiam prout earum exigebant contemptus et con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="1080,2598 1390,2604 1700,2608 2011,2614 2321,2622 2632,2629 2942,2638 3252,2646 3563,2656 3873,2665 4184,2676 4494,2687 4804,2699 5115,2711 5425,2723 5736,2736 6046,2749 6356,2762 6667,2777 6977,2791 7288,2804 7288,2737 6977,2724 6667,2710 6356,2695 6046,2682 5736,2669 5425,2656 5115,2644 4804,2632 4494,2620 4184,2609 3873,2598 3563,2589 3252,2579 2942,2571 2632,2562 2321,2555 2011,2547 1700,2541 1390,2537 1080,2531"/>
+                <Baseline points="1080,2576 1390,2582 1700,2586 2011,2592 2321,2600 2632,2607 2942,2616 3252,2624 3563,2634 3873,2643 4184,2654 4494,2665 4804,2677 5115,2689 5425,2701 5736,2714 6046,2727 6356,2740 6667,2755 6977,2769 7288,2782"/>
+                <TextEquiv>
+                    <Unicode>tumacie nichilominus aggravando. Verum moniales ipse deducentes sententiam et aggravationes hujusmodi dampnabiliter in contemptum eas per duos annos et amplius sustinuerunt presumptione temeraria et dampnanda et adhuc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="1080,2700 1393,2704 1706,2710 2019,2716 2332,2724 2645,2732 2958,2740 3271,2748 3584,2758 3897,2768 4210,2778 4523,2790 4836,2800 5149,2814 5462,2826 5775,2839 6088,2853 6401,2867 6714,2881 7027,2897 7340,2914 7340,2847 7027,2830 6714,2814 6401,2800 6088,2786 5775,2772 5462,2759 5149,2747 4836,2733 4523,2723 4210,2711 3897,2701 3584,2691 3271,2681 2958,2673 2645,2665 2332,2657 2019,2649 1706,2643 1393,2637 1080,2633"/>
+                <Baseline points="1080,2678 1393,2682 1706,2688 2019,2694 2332,2702 2645,2710 2958,2718 3271,2726 3584,2736 3897,2746 4210,2756 4523,2768 4836,2778 5149,2792 5462,2804 5775,2817 6088,2831 6401,2849 6714,2863 7027,2875 7340,2892"/>
+                <TextEquiv>
+                    <Unicode>viginti ex eis ceteris ad obedientiam saniori ductis consilio redeuntibus sustinent animis induratis et quod est dampnabilius a peccatorum suorum confessione ac sacramentorum ecclesiasticorum perceptione cessaverunt. Quinque annis continue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="1092,2792 1402,2798 1713,2804 2024,2810 2335,2817 2646,2825 2956,2832 3267,2842 3578,2850 3889,2860 4200,2871 4510,2882 4821,2894 5132,2906 5443,2919 5754,2932 6064,2947 6375,2961 6686,2977 6997,2993 7308,3010 7308,2943 6997,2926 6686,2910 6375,2894 6064,2880 5754,2865 5443,2852 5132,2839 4821,2827 4510,2815 4200,2804 3889,2793 3578,2783 3267,2775 2956,2765 2646,2758 2335,2750 2024,2743 1713,2737 1402,2731 1092,2725"/>
+                <Baseline points="1092,2770 1402,2776 1713,2782 2024,2788 2335,2795 2646,2803 2956,2810 3267,2820 3578,2828 3889,2838 4200,2849 4510,2860 4821,2872 5132,2884 5443,2897 5754,2910 6064,2925 6375,2939 6686,2955 6997,2971 7308,2988"/>
+                <TextEquiv>
+                    <Unicode>jam elapsis vel circa et adhuc cessare non sive gravi suspitione dicuntur ac velut date in sensum reprobum accumulantes continue mala malis divina officia cum per obedientes moniales celebrantur ibidem ipsasque obedientes in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="1084,2884 1410,2890 1720,2896 2030,2904 2340,2912 2650,2920 2960,2928 3270,2936 3580,2945 3890,2955 4200,2964 4510,2976 4820,2986 5130,2998 5440,3010 5750,3023 6060,3037 6370,3051 6680,3068 6990,3084 7300,3100 7300,3033 6990,3017 6680,3001 6370,2984 6060,2970 5750,2956 5440,2943 5130,2931 4820,2919 4510,2909 4200,2897 3890,2888 3580,2878 3270,2869 2960,2861 2650,2853 2340,2845 2030,2837 1720,2829 1410,2823 1084,2817"/>
+                <Baseline points="1100,2862 1410,2868 1720,2874 2030,2882 2340,2890 2650,2898 2960,2906 3270,2914 3580,2923 3890,2933 4200,2942 4510,2954 4820,2964 5130,2976 5440,2988 5750,3001 6060,3015 6370,3029 6680,3046 6990,3062 7300,3078"/>
+                <TextEquiv>
+                    <Unicode>faciendis peccatorum confessionibus et sacramentorum predictorum receptionibus impedire nephandis et temerariis ausibus moliuntur, alia execranda scandalosa et detestanda quamplurima sicut habet eadem insinuatio prodolor com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="1076,2978 1388,2985 1701,2992 2014,3000 2327,3008 2640,3017 2952,3026 3265,3035 3578,3044 3891,3055 4204,3066 4516,3076 4829,3088 5142,3100 5455,3112 5768,3126 6080,3139 6393,3153 6706,3168 7019,3184 7332,3200 7332,3133 7019,3117 6706,3101 6393,3086 6080,3072 5768,3059 5455,3045 5142,3033 4829,3021 4516,3009 4204,2999 3891,2988 3578,2977 3265,2968 2952,2959 2640,2950 2327,2941 2014,2933 1701,2925 1388,2918 1076,2911"/>
+                <Baseline points="1076,2956 1388,2963 1701,2970 2014,2978 2327,2986 2640,2995 2952,3004 3265,3013 3578,3022 3891,3033 4204,3044 4516,3054 4829,3066 5142,3078 5455,3090 5768,3104 6080,3117 6393,3131 6706,3146 7019,3162 7332,3178"/>
+                <TextEquiv>
+                    <Unicode>mittendo. Nostre igitur provisionis remedio pro parte dictorum abbatis et conventus predicti monasterii Cluniacensis humiliter implorato, Nos attendentes, quod talia sic presumptuosa, perniciosa et dampnanda nec tolleranda sunt nec sine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="1084,3074 1394,3080 1704,3088 2014,3095 2324,3102 2634,3110 2944,3120 3254,3128 3564,3137 3874,3146 4184,3156 4494,3168 4804,3178 5114,3190 5424,3202 5734,3214 6044,3228 6354,3241 6664,3255 6974,3271 7284,3286 7284,3225 6974,3210 6664,3194 6354,3180 6044,3167 5734,3153 5424,3141 5114,3129 4804,3117 4494,3107 4184,3095 3874,3085 3564,3076 3254,3067 2944,3059 2634,3049 2324,3041 2014,3034 1704,3027 1394,3019 1084,3013"/>
+                <Baseline points="1084,3054 1394,3060 1704,3068 2014,3075 2324,3082 2634,3090 2944,3100 3254,3108 3564,3117 3874,3126 4184,3136 4494,3148 4804,3158 5114,3170 5424,3182 5734,3194 6044,3208 6354,3221 6664,3235 6974,3251 7284,3266"/>
+                <TextEquiv>
+                    <Unicode>correctione debita, que aliis talia vel similia presumentibus in exemplum transeat relinquenda, discretioni vestre per apostolica scripta commitimus et mandamus quatinus vos vel duo aut unus vestrum per vos vel alium seu alios hujusmodi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="1082,3156 1394,3164 1706,3174 2018,3182 2330,3192 2642,3201 2954,3211 3266,3220 3578,3231 3890,3242 4203,3252 4515,3263 4827,3276 5139,3287 5451,3300 5763,3312 6075,3326 6387,3340 6699,3356 7011,3371 7324,3386 7324,3325 7011,3310 6699,3295 6387,3279 6075,3265 5763,3251 5451,3239 5139,3226 4827,3215 4515,3202 4203,3191 3890,3181 3578,3170 3266,3159 2954,3150 2642,3140 2330,3131 2018,3121 1706,3113 1394,3103 1082,3095"/>
+                <Baseline points="1082,3136 1394,3144 1706,3154 2018,3162 2330,3172 2642,3181 2954,3191 3266,3200 3578,3211 3890,3222 4203,3232 4515,3243 4827,3256 5139,3267 5451,3280 5763,3292 6075,3306 6387,3320 6699,3336 7011,3351 7324,3366"/>
+                <TextEquiv>
+                    <Unicode>diffinitionem et ordinationem –––––––––––––––––– velut rationi viri et honestati consonas ––––––––– facientes tenaciter et inviolabiliter observari si de hujusmodi excessibus per predictas moniales rebelles ut superius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="1094,3258 1402,3266 1710,3275 2019,3284 2327,3292 2636,3302 2944,3310 3252,3320 3561,3331 3869,3341 4178,3352 4486,3362 4794,3372 5103,3384 5411,3396 5720,3407 6028,3420 6336,3432 6645,3445 6953,3458 7262,3472 7262,3406 6953,3392 6645,3379 6336,3366 6028,3354 5720,3341 5411,3330 5103,3318 4794,3306 4486,3296 4178,3286 3869,3275 3561,3265 3252,3254 2944,3244 2636,3236 2327,3226 2019,3218 1710,3209 1402,3200 1094,3192"/>
+                <Baseline points="1094,3236 1402,3244 1710,3253 2019,3262 2327,3270 2636,3280 2944,3288 3252,3298 3561,3309 3869,3319 4178,3330 4486,3340 4794,3350 5103,3362 5411,3374 5720,3385 6028,3398 6336,3410 6645,3423 6953,3436 7262,3450"/>
+                <TextEquiv>
+                    <Unicode>narratur commissis simpliciter et de plano sine strepitu et figura judicii constiterit eas ex parte nostra moneatis, et efficaciter inducatis, ut infra certum terminum competentem per vos eis super hoc prefigendum ab hujusmodi rebellionibus, inobedientiis, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="1078,3356 1402,3363 1711,3371 2019,3380 2328,3390 2637,3399 2945,3408 3254,3418 3562,3428 3871,3438 4180,3448 4488,3458 4797,3468 5105,3479 5414,3489 5723,3500 6031,3512 6340,3524 6648,3536 6957,3549 7295,3562 7295,3495 6957,3482 6648,3469 6340,3457 6031,3445 5723,3433 5414,3422 5105,3412 4797,3401 4488,3391 4180,3381 3871,3371 3562,3361 3254,3351 2945,3341 2637,3332 2328,3323 2019,3313 1711,3304 1402,3296 1078,3289"/>
+                <Baseline points="1083,3331 1402,3341 1711,3349 2019,3358 2328,3368 2637,3377 2945,3386 3254,3396 3562,3406 3871,3416 4180,3426 4488,3436 4797,3446 5105,3457 5414,3467 5723,3478 6031,3490 6340,3502 6648,3514 6974,3529 7283,3542"/>
+                <TextEquiv>
+                    <Unicode>excessibus desistant penitus, et ad ecclesie redeant unitatem, ac infra eundem terminum, et ex tunc etiam dictis ordinationibus et diffinitionibus pareant cum effectu, humiliter, et pacifice juxta regulam et statuta dicti ordinis salubria, conversando nichilominus cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="1082,3454 1407,3462 1719,3470 2030,3478 2342,3486 2653,3496 2965,3504 3276,3514 3588,3524 3899,3534 4211,3544 4522,3555 4834,3566 5145,3576 5457,3587 5768,3599 6080,3610 6391,3621 6703,3634 7014,3644 7326,3656 7326,3589 7014,3577 6703,3567 6391,3554 6080,3543 5768,3532 5457,3520 5145,3509 4834,3499 4522,3488 4211,3477 3899,3467 3588,3457 3276,3447 2965,3437 2653,3429 2342,3419 2030,3411 1719,3403 1407,3395 1082,3387"/>
+                <Baseline points="1082,3437 1393,3445 1705,3453 2016,3461 2328,3469 2639,3479 2951,3487 3262,3497 3574,3507 3885,3517 4197,3527 4508,3538 4820,3549 5131,3559 5443,3570 5754,3582 6066,3593 6377,3604 6689,3617 7000,3627 7312,3639"/>
+                <TextEquiv>
+                    <Unicode>aliis et virtutum domino famulando, eisdem apertius predicentes quod si forsan quod absit in suis dampnandis rebellionibus et inobedientiis hujusmodi perduraverunt, et predictis monitionibus et inductionibus salubribus non obtemperaverint reverenter, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="1080,3550 1342,3557 1605,3564 1867,3571 2130,3578 2393,3585 2655,3592 2918,3600 3180,3607 3443,3616 3706,3624 3968,3632 4231,3641 4493,3650 4756,3659 5019,3668 5281,3678 5544,3687 5806,3696 6069,3706 7306,3746 7306,3679 6069,3639 5806,3629 5544,3620 5281,3611 5019,3601 4756,3592 4493,3583 4231,3574 3968,3565 3706,3557 3443,3549 3180,3540 2918,3533 2655,3525 2393,3518 2130,3511 1867,3504 1605,3497 1342,3490 1080,3483"/>
+                <Baseline points="1080,3528 1342,3535 1605,3542 1867,3549 2130,3556 2393,3563 2655,3570 2918,3578 3180,3585 3443,3594 3706,3602 3968,3610 4231,3619 4493,3628 4756,3637 5019,3646 5281,3656 5544,3665 5806,3674 6989,3721 7252,3731"/>
+                <TextEquiv>
+                    <Unicode>efficaciter, et humiliter ut tenentur, nos ad transferendum eas de loco illo ad alium, vel ad graviorem penam infligendam sicut earum excessus exegerit, et nobis expediens videbitur faciemus procedi quia vitari summopere convenit ne per earum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:29;}">
+                <Coords points="1100,3643 1410,3649 1720,3658 2030,3667 2340,3675 2650,3685 2960,3694 3270,3703 3580,3714 3890,3725 4201,3734 4511,3745 4821,3756 5131,3766 5441,3777 5751,3789 6061,3799 6371,3810 6681,3821 6991,3831 7302,3841 7302,3777 6991,3767 6681,3757 6371,3746 6061,3735 5751,3725 5441,3713 5131,3702 4821,3692 4511,3681 4201,3670 3890,3661 3580,3650 3270,3639 2960,3630 2650,3621 2340,3611 2030,3603 1720,3594 1410,3585 1100,3579"/>
+                <Baseline points="1100,3622 1410,3628 1720,3637 2030,3646 2340,3654 2650,3664 2960,3673 3270,3682 3580,3693 3890,3704 4201,3713 4511,3724 4821,3735 5131,3745 5441,3756 5751,3768 6061,3778 6371,3789 6681,3800 6991,3810 7302,3820"/>
+                <TextEquiv>
+                    <Unicode>excessus execrabiles inficiantur alie vel turbentur. De hiis autem que per vos et easdem moniales facta fuerint super hiis nos per instrumenta publica, que inde fieri volumus curetis quantocius efficere certiores. Et ne moniales prioratus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:30;}">
+                <Coords points="1084,3741 1394,3748 1705,3757 2016,3765 2327,3775 2638,3783 2949,3793 3260,3803 3571,3813 3882,3822 4193,3833 4503,3843 4814,3853 5125,3863 5436,3873 5747,3883 6058,3893 6369,3902 6680,3911 6991,3920 7330,3929 7330,3865 6991,3856 6680,3847 6369,3838 6058,3829 5747,3819 5436,3809 5125,3799 4814,3789 4503,3779 4193,3769 3882,3758 3571,3749 3260,3739 2949,3729 2638,3719 2327,3711 2016,3701 1705,3693 1394,3684 1084,3677"/>
+                <Baseline points="1084,3720 1394,3727 1705,3736 2016,3744 2327,3754 2638,3762 2949,3772 3260,3782 3571,3792 3882,3801 4193,3812 4503,3822 4814,3832 5125,3842 5436,3852 5747,3862 6058,3872 6369,3881 6680,3890 7002,3899 7313,3908"/>
+                <TextEquiv>
+                    <Unicode>predicti que tamen obedientes fuerint parrendo cum effectu ordinationibus et diffinitionibus supradictis ob necessariorum defectum materiam habeant conquerendi, vel etiam murmurandi, dilecto filio . . priori ejusdem monasterii districtius injungatis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:31;}">
+                <Coords points="1092,3834 1318,3842 1545,3851 1771,3858 1998,3866 2225,3874 2451,3882 2678,3890 2904,3898 3131,3906 3358,3913 3584,3920 3811,3928 4037,3935 4264,3942 4491,3950 4717,3957 4944,3964 5170,3972 5397,3978 7319,4026 7319,3959 5397,3911 5170,3905 4944,3897 4717,3890 4491,3883 4264,3875 4037,3868 3811,3861 3584,3853 3358,3846 3131,3839 2904,3831 2678,3823 2451,3815 2225,3807 1998,3799 1771,3791 1545,3784 1318,3775 1092,3767"/>
+                <Baseline points="1092,3812 1318,3820 1545,3829 1771,3836 1998,3844 2225,3852 2451,3860 2678,3868 2904,3876 3131,3884 3358,3891 3584,3898 3811,3906 4037,3913 4264,3920 4491,3928 4717,3935 4944,3942 5170,3950 7056,4000 7283,4008"/>
+                <TextEquiv>
+                    <Unicode>ut eis decenter et congrue necessaria sicut fieri debet et consuevit hactenus faciat ministrari, contradictores per censuram ecclesiasticam appelatione postposita compescendo. Datum Avinioni idus octobris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:32;}">
+                <Coords points="1057,3937 5272,4063 5300,4069 5329,4071 5357,4073 5385,4075 7314,4131 7314,4064 5385,4008 5357,4006 5329,4004 5300,4002 5272,3996 1057,3870"/>
+                <Baseline points="1073,3915 1101,3926 5300,4047 5329,4049 5357,4051 7236,4112 7265,4119"/>
+                <TextEquiv>
+                    <Unicode>pontificatus nostri anno secundo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:33;}">
+                <Coords points="1054,4824 1079,4822 1105,4822 1131,4822 1156,4822 1182,4821 1208,4820 1234,4820 1259,4820 1285,4820 1311,4819 1336,4818 1362,4818 1388,4816 1414,4816 1414,4749 1388,4749 1362,4751 1336,4751 1311,4752 1285,4753 1259,4753 1234,4753 1208,4753 1182,4754 1156,4755 1131,4755 1105,4755 1079,4755 1054,4757"/>
+                <Baseline points="1054,4802 1079,4800 1105,4800 1131,4800 1156,4800 1182,4799 1208,4798 1234,4798 1259,4798 1285,4798 1311,4797 1336,4796 1362,4796 1388,4794 1414,4794"/>
+                <TextEquiv>
+                    <Unicode>XXX M. Paschalis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Clemens episcopus servus servorum Dei, dilectis filiis Thiernensis et Sancti Rigaudi monasteriorum abbatibus ac priori de Amberta Claromontensis, Matisconensis et Lugdunensis diocesium salutem et apostolicam benedictionem. Et si sedes&#13;
+apostolica que veritatem et justitiam sequitur et in suis actibus confovet honestatem delinquentium quorumlibet excessibus provocetur illis, tamen non indigne irritatur vehementius, qui a personis religiosis per quas debet potuis honorari mandatorum observantia&#13;
+committuntur. Sane nuper insinuatione dilectorum filiorum . . abbatis et conventus monasterii Cluniacensis Matisconensis diocesis percepimus, quod cum olim in prioratu Martiniaci Cluniacensis ordinis Eduensis diocesis prefato monasterio immediate subjecto certi mo¬&#13;
+nachi et nonaginta novem moniales ejusdem ordinis ibidem incluse pariete inter ipsos monachos et moniales intermedio commorantes consuevissent horas canonicas simul alio tamen pariete medio psallere aliaque divina officia celebrare, dudum diffini¬&#13;
+tores capituli dicti Cluniacensis ordinis provide attendentes honestati et juris equitati minime convenire quod sic simul duo conventus monachorum et monacharum videlicet horas simul canerent supradictas, ad consulendum honestati super hoc, et vitandi&#13;
+periculosa scandala que inde formidari probaliter poterant proventura tandem matura deliberatione previa diffiniverunt prout ex potestate sibi a sede apostolica concessa super hiis poterant et etiam ordinarunt quod monachi tunc commorantes&#13;
+in eodem prioratu et qui morarentur imposterum nequaquam ex tunc simul cum prefatis monialibus horas predictas psallerent sed per se ipsos in una capella dicti prioratus per abbatem predicti monasterii ad hoc specialiter deputandi, et adeo&#13;
+a choro monialium predictarum remota quod propter vocum dissonantiam divinum nequiret officium perturbari, horas predictas diurnas pariter et nocturnas recitarent et psallerent cum devotione debita reverenter, prefateque moniales&#13;
+choro suo meditate ipsarum a dextra et alia medietate a sinistra parte ipsius chori persistentes tractim et devote canerent etiam horas hujusmodi per se ipsas. Quodque abbas predictus diffinitionem et ordinationem hujusmodi prout ex consimili&#13;
+potestate sedis ejusdem poterat per se, vel alium seu alios ad executionis effectum deduceret, et faceret per censuram ecclesiasticam inviolabiliter observari. Et licet abbas predictus ad executionem diffinitionis et ordinationis predictorum sicut&#13;
+tenebatur procedens eisdem monachis capellam in eadem prioratu ad psallendum horas canonicas et celebrandum diurnum officium juxta diffinitionem et ordinationem hujusmodi deputarit et sic aliquandiu extiterit observatum, tamen postimodum&#13;
+quinquaginta ex eisdem monialibus vel circa maligno instigante spiritu contra easdem diffinitionem et ordinationem temere, ac in suarum animarum periculum, et dicti ordinis scandalum veniendo eas observare penitus absque alia causa rationabi¬&#13;
+li, sed solum pro voluntatis libito recusarunt propter quod dilecti filii Aymo Salviniaci prioratus dicti ordinis Claromontensis diocesis, et Petrus Major dicti monasterii priores auctoritate dicti abbatis eis in hac parte commissa easdem&#13;
+moniales rebelles nominatim expressas canonice monuerunt ut infra certum competentem terminum et extunc imposterum diffinitionem et ordinationem hujusmodi observarent excommunicationis in eas si hoc facere renuerent canonice per eos&#13;
+nichilominus promulgata, et deinde quia predicte moniales nominatim expresse parere monitioni hujusmodi contumaciter recusarunt, nullam causam rationabilem super hoc allegantes, prelibati priores eas incurrisse sententiam ex¬&#13;
+communicationis hujusmodi declararunt. Subsequenter autem ut processus hujusmodi per prefatos priores ut prefertur habitus suum plenius sertiretur effectum supradicti abbas et conventus litteras apostolicas sub certa forma directas dilecto&#13;
+filio abbati monasterii Trenorchiensis Cabilonensis diocesis impetrarunt qui quidem abbas Trenorchiensis super contentis in eisdem litteris eorum forma servata procedens declaravit justitia exigente dictum processum fore justum dictasque&#13;
+moniales in predictis litteris nominatas eidem excommunicationis sententie subjecere ispasque mandavit et fecit excommunicatas in illis partibus publice nunciari, contra ipsas eandem sententiam prout earum exigebant contemptus et con¬&#13;
+tumacie nichilominus aggravando. Verum moniales ipse deducentes sententiam et aggravationes hujusmodi dampnabiliter in contemptum eas per duos annos et amplius sustinuerunt presumptione temeraria et dampnanda et adhuc&#13;
+viginti ex eis ceteris ad obedientiam saniori ductis consilio redeuntibus sustinent animis induratis et quod est dampnabilius a peccatorum suorum confessione ac sacramentorum ecclesiasticorum perceptione cessaverunt. Quinque annis continue&#13;
+jam elapsis vel circa et adhuc cessare non sive gravi suspitione dicuntur ac velut date in sensum reprobum accumulantes continue mala malis divina officia cum per obedientes moniales celebrantur ibidem ipsasque obedientes in&#13;
+faciendis peccatorum confessionibus et sacramentorum predictorum receptionibus impedire nephandis et temerariis ausibus moliuntur, alia execranda scandalosa et detestanda quamplurima sicut habet eadem insinuatio prodolor com¬&#13;
+mittendo. Nostre igitur provisionis remedio pro parte dictorum abbatis et conventus predicti monasterii Cluniacensis humiliter implorato, Nos attendentes, quod talia sic presumptuosa, perniciosa et dampnanda nec tolleranda sunt nec sine&#13;
+correctione debita, que aliis talia vel similia presumentibus in exemplum transeat relinquenda, discretioni vestre per apostolica scripta commitimus et mandamus quatinus vos vel duo aut unus vestrum per vos vel alium seu alios hujusmodi&#13;
+diffinitionem et ordinationem –––––––––––––––––– velut rationi viri et honestati consonas ––––––––– facientes tenaciter et inviolabiliter observari si de hujusmodi excessibus per predictas moniales rebelles ut superius&#13;
+narratur commissis simpliciter et de plano sine strepitu et figura judicii constiterit eas ex parte nostra moneatis, et efficaciter inducatis, ut infra certum terminum competentem per vos eis super hoc prefigendum ab hujusmodi rebellionibus, inobedientiis, et&#13;
+excessibus desistant penitus, et ad ecclesie redeant unitatem, ac infra eundem terminum, et ex tunc etiam dictis ordinationibus et diffinitionibus pareant cum effectu, humiliter, et pacifice juxta regulam et statuta dicti ordinis salubria, conversando nichilominus cum&#13;
+aliis et virtutum domino famulando, eisdem apertius predicentes quod si forsan quod absit in suis dampnandis rebellionibus et inobedientiis hujusmodi perduraverunt, et predictis monitionibus et inductionibus salubribus non obtemperaverint reverenter, &#13;
+efficaciter, et humiliter ut tenentur, nos ad transferendum eas de loco illo ad alium, vel ad graviorem penam infligendam sicut earum excessus exegerit, et nobis expediens videbitur faciemus procedi quia vitari summopere convenit ne per earum&#13;
+excessus execrabiles inficiantur alie vel turbentur. De hiis autem que per vos et easdem moniales facta fuerint super hiis nos per instrumenta publica, que inde fieri volumus curetis quantocius efficere certiores. Et ne moniales prioratus&#13;
+predicti que tamen obedientes fuerint parrendo cum effectu ordinationibus et diffinitionibus supradictis ob necessariorum defectum materiam habeant conquerendi, vel etiam murmurandi, dilecto filio . . priori ejusdem monasterii districtius injungatis&#13;
+ut eis decenter et congrue necessaria sicut fieri debet et consuevit hactenus faciat ministrari, contradictores per censuram ecclesiasticam appelatione postposita compescendo. Datum Avinioni idus octobris&#13;
+pontificatus nostri anno secundo.&#13;
+XXX M. Paschalis.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

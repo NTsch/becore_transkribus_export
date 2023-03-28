@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-09T14:59:11.523+01:00</Created>
+        <LastChange>2022-09-01T15:31:24.521+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="139.jpg" imageWidth="8568" imageHeight="6120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1662039084521" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1004,698 1004,4782 8038,4782 8038,698"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} comment {offset:31; length:9;}">
+                <Coords points="1004,1077 1353,1088 1702,1099 2052,1109 2401,1119 2751,1129 3100,1139 3449,1148 3799,1157 4148,1165 4498,1172 4847,1179 5196,1186 5546,1191 5895,1196 6245,1199 6594,1203 6943,1203 7293,1205 7642,1203 7992,1201 7992,1114 7642,1116 7293,1118 6943,1116 6594,1116 6245,1112 5895,1109 5546,1104 5196,1099 4847,1092 4498,1085 4148,1078 3799,1070 3449,1061 3100,1052 2751,1042 2401,1032 2052,1022 1702,1012 1353,1001 1004,990"/>
+                <Baseline points="1004,1048 1353,1059 1702,1070 2052,1080 2401,1090 2751,1100 3100,1110 3449,1119 3799,1128 4148,1136 4498,1143 4847,1150 5196,1157 5546,1162 5895,1167 6245,1170 6594,1174 6943,1174 7293,1176 7642,1174 7992,1172"/>
+                <TextEquiv>
+                    <Unicode>Nos, Jacobus Albi de Trinorchio[Tournus], domini regis Francorum clericus custos communis sigilli dicti domini regis in ballivia Matisconensi constituti, notum facimus universis presentes litteras inspecturis quod </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="1056,1217 1402,1225 1749,1235 2095,1243 2442,1252 2789,1261 3135,1268 3482,1277 3828,1283 4175,1291 4522,1297 4868,1303 5215,1307 5561,1313 5908,1317 6255,1319 6601,1321 6948,1323 7294,1323 7641,1323 7988,1321 7988,1234 7641,1236 7294,1236 6948,1236 6601,1234 6255,1232 5908,1230 5561,1226 5215,1220 4868,1216 4522,1210 4175,1204 3828,1196 3482,1190 3135,1181 2789,1174 2442,1165 2095,1156 1749,1148 1402,1138 1056,1130"/>
+                <Baseline points="1056,1188 1402,1196 1749,1206 2095,1214 2442,1223 2789,1232 3135,1239 3482,1248 3828,1254 4175,1262 4522,1268 4868,1274 5215,1278 5561,1284 5908,1288 6255,1290 6601,1292 6948,1294 7294,1294 7641,1294 7988,1292"/>
+                <TextEquiv>
+                    <Unicode>Guillelmus de Aula domicellus prepositus Cluniacensis et Perroneta ejus uxor, filia quondam domini Guichardi, quondam prepositi Cluniacensis, de mandato dicti Guillelmi mariti sui constituti, coram mandato nostro videlicet Laurencio de Busseriis clerico jurato nostro ad hoc a nobis specialiter deputato </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="1080,1349 1426,1357 1772,1365 2118,1373 2464,1381 2811,1389 3157,1397 3503,1405 3849,1411 4195,1419 4542,1425 4888,1431 5234,1435 5580,1440 5926,1443 6273,1447 6619,1447 6965,1449 7311,1447 7657,1447 8004,1443 8004,1356 7657,1360 7311,1360 6965,1362 6619,1360 6273,1360 5926,1356 5580,1353 5234,1348 4888,1344 4542,1338 4195,1332 3849,1324 3503,1318 3157,1310 2811,1302 2464,1294 2118,1286 1772,1278 1426,1270 1080,1262"/>
+                <Baseline points="1080,1320 1426,1328 1772,1336 2118,1344 2464,1352 2811,1360 3157,1368 3503,1376 3849,1382 4195,1390 4542,1396 4888,1402 5234,1406 5580,1411 5926,1414 6273,1418 6619,1418 6965,1420 7311,1418 7657,1418 8004,1414"/>
+                <TextEquiv>
+                    <Unicode>confitentur et publice recognoscunt, quilibet eorum conjugum in solidum, non vi, non dolo, non metu, nec ab aliquo ut asserunt circumventi, sed spontanea voluntate ut coram dicto jurato asserunt et ex certa scientia se tenere et tenere debere a reverendo patre in Christo domino .B. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} comment {offset:295; length:5;}">
+                <Coords points="1064,1491 1410,1499 1756,1507 2103,1515 2449,1523 2796,1531 3142,1539 3488,1545 3835,1553 4181,1558 4528,1563 4874,1569 5220,1573 5567,1577 5913,1579 6260,1581 6606,1583 6952,1583 7299,1583 7645,1581 7992,1579 7992,1492 7645,1494 7299,1496 6952,1496 6606,1496 6260,1494 5913,1492 5567,1490 5220,1486 4874,1482 4528,1476 4181,1471 3835,1466 3488,1458 3142,1452 2796,1444 2449,1436 2103,1428 1756,1420 1410,1412 1064,1404"/>
+                <Baseline points="1064,1462 1410,1470 1756,1478 2103,1486 2449,1494 2796,1502 3142,1510 3488,1516 3835,1524 4181,1529 4528,1534 4874,1540 5220,1544 5567,1548 5913,1550 6260,1552 6606,1554 6952,1554 7299,1554 7645,1552 7992,1550"/>
+                <TextEquiv>
+                    <Unicode>Dei gratia abbate Cluniacense et conventu ejusdem loci, et predecessorum ipsorum conjugum ab antiquo tenuisse ab abbatibus Cluniacensibus et conventu qui pro tempore fuerunt in ecclesia sancti Petri Cluniacensis in feodum legium res et jura que secuntur : videlicet preposituram Cluniacensem com[sic] omnibus juribus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="1076,1651 1422,1657 1769,1664 2115,1671 2462,1677 2809,1683 3155,1689 3502,1695 3848,1701 4195,1705 4542,1711 4888,1715 5235,1719 5581,1723 5928,1725 6275,1729 6621,1730 6968,1731 7314,1731 7661,1731 8008,1729 8008,1642 7661,1644 7314,1644 6968,1644 6621,1643 6275,1642 5928,1638 5581,1636 5235,1632 4888,1628 4542,1624 4195,1618 3848,1614 3502,1608 3155,1602 2809,1596 2462,1590 2115,1584 1769,1577 1422,1570 1076,1564"/>
+                <Baseline points="1076,1622 1422,1628 1769,1635 2115,1642 2462,1648 2809,1654 3155,1660 3502,1666 3848,1672 4195,1676 4542,1682 4888,1686 5235,1690 5581,1694 5928,1696 6275,1700 6621,1701 6968,1702 7314,1702 7661,1702 8008,1700"/>
+                <TextEquiv>
+                    <Unicode>appendiciis pertinentiis dicte prepositure universis. Item nemora dictorum conjugum de Condroys, de la Corbete, de la Ferte, et quamdam vineam suam sitam in territorio de Lorduno, et prata sua Deffundre et de la Ferte, et quicquid dicti conjuges et quilibet eorum in solidum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="1068,1787 1416,1797 1764,1805 2112,1813 2460,1821 2809,1829 3157,1835 3505,1842 3853,1847 4201,1853 4550,1857 4898,1863 5246,1867 5594,1871 5942,1875 6291,1877 6639,1881 6987,1883 7335,1887 7683,1889 8032,1891 8032,1804 7683,1802 7335,1800 6987,1796 6639,1794 6291,1790 5942,1788 5594,1784 5246,1780 4898,1776 4550,1770 4201,1766 3853,1760 3505,1755 3157,1748 2809,1742 2460,1734 2112,1726 1764,1718 1416,1710 1068,1700"/>
+                <Baseline points="1068,1758 1416,1768 1764,1776 2112,1784 2460,1792 2809,1800 3157,1806 3505,1813 3853,1818 4201,1824 4550,1828 4898,1834 5246,1838 5594,1842 5942,1846 6291,1848 6639,1852 6987,1854 7335,1858 7683,1860 8032,1862"/>
+                <TextEquiv>
+                    <Unicode>habent, tenent et possident, per se vel per alium seu alios seu alter pro ipsis et nomine ipsorum conjugum vel alterius eorumdem, infra metas et terminos sacrorum bannorum ecclesie Cluniacensis et specialiter crieriam Cluniacensem nec non ea omnia que ab eisdem conjugibus tenentur infra metas </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="1076,1939 1421,1945 1766,1950 2112,1957 2457,1963 2803,1968 3148,1974 3493,1979 3839,1985 4184,1991 4530,1995 4875,1999 5220,2003 5566,2007 5911,2011 6257,2013 6602,2015 6947,2017 7293,2017 7638,2019 7984,2017 7984,1930 7638,1932 7293,1930 6947,1930 6602,1928 6257,1926 5911,1924 5566,1920 5220,1916 4875,1912 4530,1908 4184,1904 3839,1898 3493,1892 3148,1887 2803,1881 2457,1876 2112,1870 1766,1863 1421,1858 1076,1852"/>
+                <Baseline points="1076,1910 1421,1916 1766,1921 2112,1928 2457,1934 2803,1939 3148,1945 3493,1950 3839,1956 4184,1962 4530,1966 4875,1970 5220,1974 5566,1978 5911,1982 6257,1984 6602,1986 6947,1988 7293,1988 7638,1990 7984,1988"/>
+                <TextEquiv>
+                    <Unicode>et terminos supradictos : videlicet tam im pratis, terris, costumis, vineis, censivis, pascuis, aquis, aquarum decursibus, nemoribus, garennis, graneriis, domibus, edificiis, quam aliis rebus et juribus quibuscumque et quocumque nomine censeantur. Confitentes etiam dicti conjuges </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="1080,2063 1425,2073 1771,2081 2116,2089 2462,2095 2808,2101 3153,2107 3499,2111 3844,2115 4190,2117 4536,2121 4881,2123 5227,2125 5572,2127 5918,2129 6264,2131 6609,2133 6955,2137 7300,2139 7646,2143 7992,2149 7992,2062 7646,2056 7300,2052 6955,2050 6609,2046 6264,2044 5918,2042 5572,2040 5227,2038 4881,2036 4536,2034 4190,2030 3844,2028 3499,2024 3153,2020 2808,2014 2462,2008 2116,2002 1771,1994 1425,1986 1080,1976"/>
+                <Baseline points="1080,2034 1425,2044 1771,2052 2116,2060 2462,2066 2808,2072 3153,2078 3499,2082 3844,2086 4190,2088 4536,2092 4881,2094 5227,2096 5572,2098 5918,2100 6264,2102 6609,2104 6955,2108 7300,2110 7646,2114 7992,2120"/>
+                <TextEquiv>
+                    <Unicode>predecessores suos prepositos Cluniacenses abbatibus Cluniacensibus qui pro tempore fuerunt de predictis omnibus homagium, prout de feodo legio fieri consuetum est, fecisse pacifice et quiete. Item confitentes dicti conjuges Guillelmus et Perroneta quilibet eorum in solidum coram dicto jurato se im predictis rebus feodalibus nullam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="1068,2211 1412,2224 1756,2234 2101,2243 2445,2249 2790,2255 3134,2259 3478,2263 3823,2265 4167,2267 4512,2267 4856,2269 5200,2269 5545,2269 5889,2271 6234,2271 6578,2273 6922,2273 7267,2277 7611,2279 7956,2283 7956,2196 7611,2192 7267,2190 6922,2186 6578,2186 6234,2184 5889,2184 5545,2182 5200,2182 4856,2182 4512,2180 4167,2180 3823,2178 3478,2176 3134,2172 2790,2168 2445,2162 2101,2156 1756,2147 1412,2137 1068,2124"/>
+                <Baseline points="1068,2182 1412,2195 1756,2205 2101,2214 2445,2220 2790,2226 3134,2230 3478,2234 3823,2236 4167,2238 4512,2238 4856,2240 5200,2240 5545,2240 5889,2242 6234,2242 6578,2244 6922,2244 7267,2248 7611,2250 7956,2254"/>
+                <TextEquiv>
+                    <Unicode>habere juriditionem, nec predecessores suos transactis temporibus habuisse ; quam quidem juriditionem, si habent seu si ipsi vel eorum predecessorum umquam habuerunt im predictis, totum id quod de juridictione dicti conjuges im predictis habere possunt in dictum dominum abbatem et ecclesiam predictam dicti conjuges </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="1068,2353 1415,2361 1762,2369 2110,2375 2457,2381 2805,2385 3152,2389 3499,2391 3847,2393 4194,2395 4542,2397 4889,2397 5236,2399 5584,2399 5931,2401 6279,2401 6626,2403 6973,2405 7321,2407 7668,2409 8016,2411 8016,2324 7668,2322 7321,2320 6973,2318 6626,2316 6279,2314 5931,2314 5584,2312 5236,2312 4889,2310 4542,2310 4194,2308 3847,2306 3499,2304 3152,2302 2805,2298 2457,2294 2110,2288 1762,2282 1415,2274 1068,2266"/>
+                <Baseline points="1068,2324 1415,2332 1762,2340 2110,2346 2457,2352 2805,2356 3152,2360 3499,2362 3847,2364 4194,2366 4542,2368 4889,2368 5236,2370 5584,2370 5931,2372 6279,2372 6626,2374 6973,2376 7321,2378 7668,2380 8016,2382"/>
+                <TextEquiv>
+                    <Unicode>transferunt totaliter et transportant et ipsam juridicionem asserunt dicti conjuges ad dictam ecclesiam totaliter pertinere ; excepta emenda illorum qui in nemoribus, pratis, terris, vineis dictorum conjugum dampnum dederunt, qui, si per servientem dictorum conjugum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="1068,2466 1413,2472 1759,2478 2104,2483 2450,2488 2796,2492 3141,2494 3487,2498 3832,2500 4178,2502 4524,2504 4869,2504 5215,2506 5560,2506 5906,2508 6252,2508 6597,2510 6943,2510 7288,2510 7634,2512 7980,2514 7980,2427 7634,2425 7288,2423 6943,2423 6597,2423 6252,2421 5906,2421 5560,2419 5215,2419 4869,2417 4524,2417 4178,2415 3832,2413 3487,2411 3141,2407 2796,2405 2450,2401 2104,2396 1759,2391 1413,2385 1068,2379"/>
+                <Baseline points="1080,2454 1425,2460 1771,2466 2116,2471 2462,2476 2808,2480 3153,2482 3499,2486 3844,2488 4190,2490 4536,2492 4881,2492 5227,2494 5572,2494 5918,2496 6264,2496 6609,2498 6955,2498 7300,2498 7646,2500 7992,2502"/>
+                <TextEquiv>
+                    <Unicode>ibidem deprehensi fuerint, ipsi conjuges et sui perpetuo ab inferentibus dampnum im predictis rebus suis feodalibus emendam levare possunt et debent : videlicet ab inferentibus dampnum in nemoribus suis usque ad septem solidos Cluniacenses et non ultra, ab inferentibus vero </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="1066,2621 1412,2625 1759,2629 2106,2633 2452,2635 2799,2637 3146,2639 3492,2641 3839,2641 4186,2643 4533,2644 4879,2645 5226,2645 5573,2645 5919,2647 6266,2647 6613,2647 6959,2649 7306,2649 7653,2651 8000,2653 8000,2572 7653,2570 7306,2568 6959,2568 6613,2566 6266,2566 5919,2566 5573,2564 5226,2564 4879,2564 4533,2563 4186,2562 3839,2560 3492,2560 3146,2558 2799,2556 2452,2554 2106,2552 1759,2548 1412,2544 1066,2540"/>
+                <Baseline points="1066,2594 1412,2598 1759,2602 2106,2606 2452,2608 2799,2610 3146,2612 3492,2614 3839,2614 4186,2616 4533,2617 4879,2618 5226,2618 5573,2618 5919,2620 6266,2620 6613,2620 6959,2622 7306,2622 7653,2624 8000,2626"/>
+                <TextEquiv>
+                    <Unicode>dampnum malus rebus feodalibus dictorum conjugum, ipsi conjuges juxta loci consuetudinem approbatam emendam levabunt seu levare possunt. Item dicti conjuges dicto domino abbati vel illis de camera tenentur servientem suum presentare ut ipsi conjuges coram dicto jurato asserunt, et idem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="1080,2747 1426,2751 1772,2753 2118,2755 2464,2757 2810,2759 3156,2761 3502,2761 3848,2763 4194,2763 4540,2763 4886,2763 5232,2765 5578,2765 5924,2763 6270,2763 6616,2763 6962,2763 7308,2763 7654,2763 8000,2763 8000,2682 7654,2682 7308,2682 6962,2682 6616,2682 6270,2682 5924,2682 5578,2684 5232,2684 4886,2682 4540,2682 4194,2682 3848,2682 3502,2680 3156,2680 2810,2678 2464,2676 2118,2674 1772,2672 1426,2670 1080,2666"/>
+                <Baseline points="1080,2720 1426,2724 1772,2726 2118,2728 2464,2730 2810,2732 3156,2734 3502,2734 3848,2736 4194,2736 4540,2736 4886,2736 5232,2738 5578,2738 5924,2736 6270,2736 6616,2736 6962,2736 7308,2736 7654,2736 8000,2736"/>
+                <TextEquiv>
+                    <Unicode>serviens dicti prepositi per dictum dominum abbatem seu per illos de camera ibidem deputetur, et idem serviens tenetur jurare in manu dicti domini abbatis seu illorum de camera quandocumque et quocienscumque ibidem a preposito positus fuerit, jura predictarum rerum feodalium et jura </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="1062,2876 1409,2880 1757,2884 2104,2886 2452,2888 2799,2888 3147,2890 3494,2890 3842,2888 4189,2888 4537,2886 4884,2886 5232,2884 5579,2882 5927,2880 6274,2878 6622,2878 6969,2876 7317,2876 7664,2876 8012,2876 8012,2792 7664,2792 7317,2792 6969,2792 6622,2794 6274,2794 5927,2796 5579,2798 5232,2800 4884,2802 4537,2802 4189,2804 3842,2804 3494,2806 3147,2806 2799,2804 2452,2804 2104,2802 1757,2800 1409,2796 1062,2792"/>
+                <Baseline points="1062,2848 1409,2852 1757,2856 2104,2858 2452,2860 2799,2860 3147,2862 3494,2862 3842,2860 4189,2860 4537,2858 4884,2858 5232,2856 5579,2854 5927,2852 6274,2850 6622,2850 6969,2848 7317,2848 7664,2848 8012,2848"/>
+                <TextEquiv>
+                    <Unicode>predicti domini abbatis et ecclesie predicte et jura dicti prepositi manu tenere ac fideliter custodire. Positionem vero dicti servientis dicti conjuges in feodum legum cum rebus superius nominatis a dicto domino abbate et ecclesia predicta coram dicto jurato nostro se tenere confiten¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="1070,3003 1415,3007 1761,3009 2107,3011 2453,3013 2799,3013 3144,3013 3490,3013 3836,3011 4182,3009 4528,3009 4873,3006 5219,3003 5565,3001 5911,2999 6257,2997 6602,2995 6948,2993 7294,2991 7640,2991 7986,2991 7986,2904 7640,2904 7294,2904 6948,2906 6602,2908 6257,2910 5911,2912 5565,2914 5219,2916 4873,2919 4528,2922 4182,2922 3836,2924 3490,2926 3144,2926 2799,2926 2453,2926 2107,2924 1761,2922 1415,2920 1070,2916"/>
+                <Baseline points="1070,2974 1415,2978 1761,2980 2107,2982 2453,2984 2799,2984 3144,2984 3490,2984 3836,2982 4182,2980 4528,2980 4873,2977 5219,2974 5565,2972 5911,2970 6257,2968 6602,2966 6948,2964 7294,2962 7640,2962 7986,2962"/>
+                <TextEquiv>
+                    <Unicode>tes. Si vero dampnificantes in rebus predictis a serviente seu servientibus ecclesie predicte deprehensi fuerint, tota emenda erit ecclesie supradicte. Si vero servientes dictorum conjugum communiter concurrant et in rebus predictis com servientibus ecclesie et dampnum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="1070,3145 1416,3147 1762,3147 2109,3145 2455,3145 2802,3143 3148,3142 3494,3141 3841,3139 4187,3137 4534,3133 4880,3131 5226,3129 5573,3126 5919,3123 6266,3121 6612,3119 6958,3115 7305,3113 7651,3111 7998,3109 7998,3022 7651,3024 7305,3026 6958,3028 6612,3032 6266,3034 5919,3036 5573,3039 5226,3042 4880,3044 4534,3046 4187,3050 3841,3052 3494,3054 3148,3055 2802,3056 2455,3058 2109,3058 1762,3060 1416,3060 1070,3058"/>
+                <Baseline points="1070,3116 1416,3118 1762,3118 2109,3116 2455,3116 2802,3114 3148,3113 3494,3112 3841,3110 4187,3108 4534,3104 4880,3102 5226,3100 5573,3097 5919,3094 6266,3092 6612,3090 6958,3086 7305,3084 7651,3082 7998,3080"/>
+                <TextEquiv>
+                    <Unicode>inferentem invenerint, emenda dicte ecclesie et dictis conjugibus vel suis communiter dividatur. Si autem super predictis questio vel causa seu aliquid dubii emergat seu in futurum emerserit, debet per dominum abbatem Cluniacensem vel illos de camera Cluniacense dicta questio or¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="1072,3279 1417,3279 1763,3279 2109,3279 2455,3277 2801,3275 3147,3273 3493,3271 3839,3267 4185,3263 4531,3259 4876,3257 5222,3253 5568,3249 5914,3247 6260,3243 6606,3241 6952,3239 7298,3237 7644,3237 7990,3237 7990,3150 7644,3150 7298,3150 6952,3152 6606,3154 6260,3156 5914,3160 5568,3162 5222,3166 4876,3170 4531,3172 4185,3176 3839,3180 3493,3184 3147,3186 2801,3188 2455,3190 2109,3192 1763,3192 1417,3192 1072,3192"/>
+                <Baseline points="1072,3250 1417,3250 1763,3250 2109,3250 2455,3248 2801,3246 3147,3244 3493,3242 3839,3238 4185,3234 4531,3230 4876,3228 5222,3224 5568,3220 5914,3218 6260,3214 6606,3212 6952,3210 7298,3208 7644,3208 7990,3208"/>
+                <TextEquiv>
+                    <Unicode>dine judiciario terminari. Prout hec omnia universa et singula prout dicta sunt superius et expressa, dicti conjuges Guillelmus et Perroneta coram dicto jurato nostro confitentur et asserunt esse vera. Permittentes dicti conjuges coram dicto jurato </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="1080,3438 1426,3436 1773,3433 2120,3430 2467,3426 2814,3422 3161,3418 3508,3414 3855,3410 4202,3405 4549,3400 4895,3396 5242,3392 5589,3388 5936,3384 6283,3380 6630,3378 6977,3374 7324,3372 7671,3372 8018,3370 8018,3285 7671,3287 7324,3287 6977,3289 6630,3293 6283,3295 5936,3299 5589,3303 5242,3307 4895,3311 4549,3315 4202,3320 3855,3325 3508,3329 3161,3333 2814,3337 2467,3341 2120,3345 1773,3348 1426,3351 1080,3353"/>
+                <Baseline points="1080,3410 1426,3408 1773,3405 2120,3402 2467,3398 2814,3394 3161,3390 3508,3386 3855,3382 4202,3377 4549,3372 4895,3368 5242,3364 5589,3360 5936,3356 6283,3352 6630,3350 6977,3346 7324,3344 7671,3344 8018,3342"/>
+                <TextEquiv>
+                    <Unicode>nostro pro se et suis quilibet eorum in solidum per juramenta sua super sancta Dei evangelia corporaliter prestita et sub obligatione bonorum suorum omnium mobilium et immobilium presentium et futurorum se contra premissa aut aliquid premissorum de cetero non venire nec alicui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="1072,3560 1419,3556 1766,3552 2113,3548 2461,3544 2808,3539 3155,3534 3503,3530 3850,3526 4197,3522 4545,3518 4892,3516 5239,3512 5586,3510 5934,3506 6281,3504 6628,3502 6976,3500 7323,3500 7670,3498 8018,3498 8018,3413 7670,3413 7323,3415 6976,3415 6628,3417 6281,3419 5934,3421 5586,3425 5239,3427 4892,3431 4545,3433 4197,3437 3850,3441 3503,3445 3155,3449 2808,3454 2461,3459 2113,3463 1766,3467 1419,3471 1072,3475"/>
+                <Baseline points="1072,3532 1419,3528 1766,3524 2113,3520 2461,3516 2808,3511 3155,3506 3503,3502 3850,3498 4197,3494 4545,3490 4892,3488 5239,3484 5586,3482 5934,3478 6281,3476 6628,3474 6976,3472 7323,3472 7670,3470 8018,3470"/>
+                <TextEquiv>
+                    <Unicode>contravenire, volenti consentire in judicio vel extra tacite vel apperte, ymo predicta omnia prout dicta sunt superius et expressa tenere, adimplere et firmiter observare, et dicto domino abbati et eius successoribus perpetuo de rebus feodalibus obedire, et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="1075,3691 1423,3687 1772,3681 2120,3677 2469,3671 2817,3667 3166,3661 3514,3657 3863,3652 4211,3647 4560,3643 4908,3639 5257,3635 5605,3631 5954,3627 6302,3625 6651,3621 6999,3619 7348,3617 7696,3615 8045,3613 8045,3528 7696,3530 7348,3532 6999,3534 6651,3536 6302,3540 5954,3542 5605,3546 5257,3550 4908,3554 4560,3558 4211,3562 3863,3567 3514,3572 3166,3576 2817,3582 2469,3586 2120,3592 1772,3596 1423,3602 1075,3606"/>
+                <Baseline points="1064,3666 1412,3662 1761,3656 2109,3652 2458,3646 2806,3642 3155,3636 3503,3632 3852,3627 4200,3622 4549,3618 4897,3614 5246,3610 5594,3606 5943,3602 6291,3600 6640,3596 6988,3594 7337,3592 7685,3590 8034,3588"/>
+                <TextEquiv>
+                    <Unicode>feodem seu homagium loco et tempore facere, et eisdem pro predictis servire prout de rebus feodalibus est servire usitatum. Volentes etiam dicti conjuges et coram dicto jurato concedentes quod, si ipsos vel alterum ipsorum vel suos in futurum contra premissa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="1080,3836 1426,3830 1773,3822 2120,3816 2466,3810 2813,3802 3160,3794 3506,3788 3853,3780 4200,3774 4547,3766 4893,3760 5240,3754 5587,3750 5933,3744 6280,3742 6627,3738 6973,3736 7320,3736 7667,3736 8014,3738 8014,3653 7667,3651 7320,3651 6973,3651 6627,3653 6280,3657 5933,3659 5587,3665 5240,3669 4893,3675 4547,3681 4200,3689 3853,3695 3506,3703 3160,3709 2813,3717 2466,3725 2120,3731 1773,3737 1426,3745 1080,3751"/>
+                <Baseline points="1080,3808 1426,3802 1773,3794 2120,3788 2466,3782 2813,3774 3160,3766 3506,3760 3853,3752 4200,3746 4547,3738 4893,3732 5240,3726 5587,3722 5933,3716 6280,3714 6627,3710 6973,3708 7320,3708 7667,3708 8014,3710"/>
+                <TextEquiv>
+                    <Unicode>devenire contingerit, quod fides et audientia in omni curia et coram quocumque judice totaliter denegetur. Renunciantes in hoc facto dicti conjuges coram dicto jurato nostro sub virtute prestiti juramenti pro se et suis doli, mali, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="1084,3973 1430,3966 1776,3959 2122,3953 2469,3946 2815,3939 3161,3931 3508,3925 3854,3917 4200,3911 4547,3904 4893,3898 5239,3891 5585,3887 5932,3882 6278,3878 6624,3875 6971,3873 7317,3871 7663,3871 8010,3871 8010,3784 7663,3784 7317,3784 6971,3786 6624,3788 6278,3791 5932,3795 5585,3800 5239,3804 4893,3811 4547,3817 4200,3824 3854,3830 3508,3838 3161,3844 2815,3852 2469,3859 2122,3866 1776,3872 1430,3879 1084,3886"/>
+                <Baseline points="1084,3944 1430,3937 1776,3930 2122,3924 2469,3917 2815,3910 3161,3902 3508,3896 3854,3888 4200,3882 4547,3875 4893,3869 5239,3862 5585,3858 5932,3853 6278,3849 6624,3846 6971,3844 7317,3842 7663,3842 8010,3842"/>
+                <TextEquiv>
+                    <Unicode>metus et in factum exceptionibus, deceptioni in aliquo rerum predictarum de feodo predicto non existencium conventionum predictarum, modo predicto non gestarum exceptionibus : epistole divi Adriani beneficio restitutionis in integrum constitutioni presente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="1080,4105 1426,4099 1773,4093 2120,4086 2467,4079 2814,4071 3160,4065 3507,4058 3854,4051 4201,4045 4548,4039 4894,4033 5241,4027 5588,4023 5935,4019 6282,4015 6628,4013 6975,4011 7322,4011 7669,4011 8016,4013 8016,3926 7669,3924 7322,3924 6975,3924 6628,3926 6282,3928 5935,3932 5588,3936 5241,3940 4894,3946 4548,3952 4201,3958 3854,3964 3507,3971 3160,3978 2814,3984 2467,3992 2120,3999 1773,4006 1426,4012 1080,4018"/>
+                <Baseline points="1080,4076 1426,4070 1773,4064 2120,4057 2467,4050 2814,4042 3160,4036 3507,4029 3854,4022 4201,4016 4548,4010 4894,4004 5241,3998 5588,3994 5935,3990 6282,3986 6628,3984 6975,3982 7322,3982 7669,3982 8016,3984"/>
+                <TextEquiv>
+                    <Unicode>utroque dotis et dotalitu, et ypothece privilegio legis julie de fundo dotali non alienando, juri dicenti mulieribus in jure vel in facto errantibus fore succurrendum, Senatus consulti et Velleyani subsidio conditioni sine causa vel ex injusta </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="1096,4255 1442,4249 1789,4242 2135,4233 2482,4226 2829,4217 3175,4208 3522,4199 3868,4191 4215,4183 4562,4175 4908,4169 5255,4162 5601,4157 5948,4153 6295,4149 6641,4147 6988,4147 7334,4149 7681,4153 8028,4159 8028,4072 7681,4066 7334,4062 6988,4060 6641,4060 6295,4062 5948,4066 5601,4070 5255,4075 4908,4082 4562,4088 4215,4096 3868,4104 3522,4112 3175,4121 2829,4130 2482,4139 2135,4146 1789,4155 1442,4162 1096,4168"/>
+                <Baseline points="1096,4226 1442,4220 1789,4213 2135,4204 2482,4197 2829,4188 3175,4179 3522,4170 3868,4162 4215,4154 4562,4146 4908,4140 5255,4133 5601,4128 5948,4124 6295,4120 6641,4118 6988,4118 7334,4120 7681,4124 8028,4130"/>
+                <TextEquiv>
+                    <Unicode>causa, omnique juri in favorem mulierum, introducto petitioni et oblationi libelli, copie presentium, omni appelationi remedio omnique privilegio impetrato vel impetrando concesso et concedendo et omnibus aliis exceptionibus, barris, et defensio¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:24;}">
+                <Coords points="1104,4393 1450,4384 1797,4377 2144,4367 2490,4361 2837,4353 3184,4345 3530,4337 3877,4331 4224,4323 4571,4317 4917,4311 5264,4305 5611,4301 5957,4295 6304,4291 6651,4289 6997,4285 7344,4283 7691,4281 8038,4281 8038,4194 7691,4194 7344,4196 6997,4198 6651,4202 6304,4204 5957,4208 5611,4214 5264,4218 4917,4224 4571,4230 4224,4236 3877,4244 3530,4250 3184,4258 2837,4266 2490,4274 2144,4280 1797,4290 1450,4297 1104,4306"/>
+                <Baseline points="1104,4364 1450,4355 1797,4348 2144,4338 2490,4332 2837,4324 3184,4316 3530,4308 3877,4302 4224,4294 4571,4288 4917,4282 5264,4276 5611,4272 5957,4266 6304,4262 6651,4260 6997,4256 7344,4254 7691,4252 8038,4252"/>
+                <TextEquiv>
+                    <Unicode>nibus, que ab aliquo sapiente possent ennumeri sive dici et que contra premissa possent obici, et omni auxilio et beneficio totius juris canonici, consuetudinari et civilis, per quod presens instrumentum in toto vel im parte possit impe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:25;}">
+                <Coords points="1096,4528 1442,4521 1788,4514 2134,4506 2481,4498 2827,4490 3173,4484 3520,4476 3866,4470 4212,4464 4559,4458 4905,4452 5251,4446 5597,4442 5944,4438 6290,4434 6636,4430 6983,4428 7329,4426 7675,4424 8022,4424 8022,4339 7675,4339 7329,4341 6983,4343 6636,4345 6290,4349 5944,4353 5597,4357 5251,4361 4905,4367 4559,4373 4212,4379 3866,4385 3520,4391 3173,4399 2827,4405 2481,4413 2134,4421 1788,4429 1442,4436 1096,4443"/>
+                <Baseline points="1096,4500 1442,4493 1788,4486 2134,4478 2481,4470 2827,4462 3173,4456 3520,4448 3866,4442 4212,4436 4559,4430 4905,4424 5251,4418 5597,4414 5944,4410 6290,4406 6636,4402 6983,4400 7329,4398 7675,4396 8022,4396"/>
+                <TextEquiv>
+                    <Unicode>diri vel etiam anulari, et maxime juri dicenti generali renunciationem non valere e juridictioni et postetasti domini regis et nostri se et sua bona omnia mobilia et immobilia presentia et futura dicti conjuges coram dicto jurato </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:26;}">
+                <Coords points="1101,4672 1480,4660 1825,4650 2170,4640 2514,4630 2859,4620 3204,4612 3548,4602 3893,4594 4238,4588 4583,4580 4927,4572 5272,4566 5617,4561 5961,4556 6306,4552 6651,4547 6995,4544 7340,4540 7685,4538 8030,4538 8030,4453 7685,4453 7340,4455 6995,4459 6651,4462 6306,4467 5961,4471 5617,4476 5272,4481 4927,4487 4583,4495 4238,4503 3893,4509 3548,4517 3204,4527 2859,4535 2514,4545 2170,4555 1825,4565 1480,4575 1101,4587"/>
+                <Baseline points="1110,4642 1454,4632 1825,4622 2170,4612 2514,4602 2859,4592 3204,4584 3548,4574 3893,4566 4238,4560 4583,4552 4927,4544 5272,4538 5617,4533 5961,4528 6306,4524 6651,4519 6995,4516 7340,4512 7685,4510 8030,4510"/>
+                <TextEquiv>
+                    <Unicode>nostro penitus supponendo quo ad tenendum et observendum tenorem omnium premissorum. In cujus rei testimonium ad preces dictorum Guillelmi et Perronete conjugum nobis per dictum nostrum oblatas cui super hiis et aliis fidem plenariam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:27;}">
+                <Coords points="1104,4781 1449,4771 1794,4761 2139,4751 2484,4743 2829,4733 3174,4725 3519,4717 3864,4709 4209,4702 4554,4695 4899,4688 5244,4683 5589,4677 5934,4672 6279,4669 6624,4665 6969,4663 7314,4661 7659,4659 8004,4659 8004,4578 7659,4578 7314,4580 6969,4582 6624,4584 6279,4588 5934,4591 5589,4596 5244,4602 4899,4607 4554,4614 4209,4621 3864,4628 3519,4636 3174,4644 2829,4652 2484,4662 2139,4670 1794,4680 1449,4690 1104,4700"/>
+                <Baseline points="1104,4754 1449,4744 1794,4734 2139,4724 2484,4716 2829,4706 3174,4698 3519,4690 3864,4682 4209,4675 4554,4668 4899,4661 5244,4656 5589,4650 5934,4645 6279,4642 6624,4638 6969,4636 7314,4634 7659,4632 8004,4632"/>
+                <TextEquiv>
+                    <Unicode>adhibemus con[sic] nobis constet de premissis per relationem dicti jurati notri sigillum commune predictum presentibus litteris duximus apponendum salvo jure dicti regis et alieno. Datum anno Domni .M°.ccc°. tercio, mense octobris. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:28;}">
+                <Coords points="5132,4782 5245,4778 5358,4775 5472,4772 5585,4770 5699,4768 5812,4766 5925,4764 6039,4764 6152,4762 6266,4762 6379,4762 6492,4762 6606,4762 6719,4762 6833,4763 6946,4764 7059,4765 7173,4766 7286,4768 7400,4770 7400,4740 7286,4738 7173,4736 7059,4735 6946,4734 6833,4733 6719,4732 6606,4732 6492,4732 6379,4732 6266,4732 6152,4732 6039,4734 5925,4734 5812,4736 5699,4738 5585,4740 5472,4742 5358,4745 5245,4748 5132,4752"/>
+                <Baseline points="5132,4772 5245,4768 5358,4765 5472,4762 5585,4760 5699,4758 5812,4756 5925,4754 6039,4754 6152,4752 6266,4752 6379,4752 6492,4752 6606,4752 6719,4752 6833,4753 6946,4754 7059,4755 7173,4756 7286,4758 7400,4760"/>
+                <TextEquiv>
+                    <Unicode>Expeditum est coram me Laurentio de Buseriis clerico sub hoc signo meo. L.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nos, Jacobus Albi de Trinorchio[Tournus], domini regis Francorum clericus custos communis sigilli dicti domini regis in ballivia Matisconensi constituti, notum facimus universis presentes litteras inspecturis quod &#13;
+Guillelmus de Aula domicellus prepositus Cluniacensis et Perroneta ejus uxor, filia quondam domini Guichardi, quondam prepositi Cluniacensis, de mandato dicti Guillelmi mariti sui constituti, coram mandato nostro videlicet Laurencio de Busseriis clerico jurato nostro ad hoc a nobis specialiter deputato &#13;
+confitentur et publice recognoscunt, quilibet eorum conjugum in solidum, non vi, non dolo, non metu, nec ab aliquo ut asserunt circumventi, sed spontanea voluntate ut coram dicto jurato asserunt et ex certa scientia se tenere et tenere debere a reverendo patre in Christo domino .B. &#13;
+Dei gratia abbate Cluniacense et conventu ejusdem loci, et predecessorum ipsorum conjugum ab antiquo tenuisse ab abbatibus Cluniacensibus et conventu qui pro tempore fuerunt in ecclesia sancti Petri Cluniacensis in feodum legium res et jura que secuntur : videlicet preposituram Cluniacensem com[sic] omnibus juribus &#13;
+appendiciis pertinentiis dicte prepositure universis. Item nemora dictorum conjugum de Condroys, de la Corbete, de la Ferte, et quamdam vineam suam sitam in territorio de Lorduno, et prata sua Deffundre et de la Ferte, et quicquid dicti conjuges et quilibet eorum in solidum &#13;
+habent, tenent et possident, per se vel per alium seu alios seu alter pro ipsis et nomine ipsorum conjugum vel alterius eorumdem, infra metas et terminos sacrorum bannorum ecclesie Cluniacensis et specialiter crieriam Cluniacensem nec non ea omnia que ab eisdem conjugibus tenentur infra metas &#13;
+et terminos supradictos : videlicet tam im pratis, terris, costumis, vineis, censivis, pascuis, aquis, aquarum decursibus, nemoribus, garennis, graneriis, domibus, edificiis, quam aliis rebus et juribus quibuscumque et quocumque nomine censeantur. Confitentes etiam dicti conjuges &#13;
+predecessores suos prepositos Cluniacenses abbatibus Cluniacensibus qui pro tempore fuerunt de predictis omnibus homagium, prout de feodo legio fieri consuetum est, fecisse pacifice et quiete. Item confitentes dicti conjuges Guillelmus et Perroneta quilibet eorum in solidum coram dicto jurato se im predictis rebus feodalibus nullam &#13;
+habere juriditionem, nec predecessores suos transactis temporibus habuisse ; quam quidem juriditionem, si habent seu si ipsi vel eorum predecessorum umquam habuerunt im predictis, totum id quod de juridictione dicti conjuges im predictis habere possunt in dictum dominum abbatem et ecclesiam predictam dicti conjuges &#13;
+transferunt totaliter et transportant et ipsam juridicionem asserunt dicti conjuges ad dictam ecclesiam totaliter pertinere ; excepta emenda illorum qui in nemoribus, pratis, terris, vineis dictorum conjugum dampnum dederunt, qui, si per servientem dictorum conjugum &#13;
+ibidem deprehensi fuerint, ipsi conjuges et sui perpetuo ab inferentibus dampnum im predictis rebus suis feodalibus emendam levare possunt et debent : videlicet ab inferentibus dampnum in nemoribus suis usque ad septem solidos Cluniacenses et non ultra, ab inferentibus vero &#13;
+dampnum malus rebus feodalibus dictorum conjugum, ipsi conjuges juxta loci consuetudinem approbatam emendam levabunt seu levare possunt. Item dicti conjuges dicto domino abbati vel illis de camera tenentur servientem suum presentare ut ipsi conjuges coram dicto jurato asserunt, et idem &#13;
+serviens dicti prepositi per dictum dominum abbatem seu per illos de camera ibidem deputetur, et idem serviens tenetur jurare in manu dicti domini abbatis seu illorum de camera quandocumque et quocienscumque ibidem a preposito positus fuerit, jura predictarum rerum feodalium et jura &#13;
+predicti domini abbatis et ecclesie predicte et jura dicti prepositi manu tenere ac fideliter custodire. Positionem vero dicti servientis dicti conjuges in feodum legum cum rebus superius nominatis a dicto domino abbate et ecclesia predicta coram dicto jurato nostro se tenere confiten¬&#13;
+tes. Si vero dampnificantes in rebus predictis a serviente seu servientibus ecclesie predicte deprehensi fuerint, tota emenda erit ecclesie supradicte. Si vero servientes dictorum conjugum communiter concurrant et in rebus predictis com servientibus ecclesie et dampnum &#13;
+inferentem invenerint, emenda dicte ecclesie et dictis conjugibus vel suis communiter dividatur. Si autem super predictis questio vel causa seu aliquid dubii emergat seu in futurum emerserit, debet per dominum abbatem Cluniacensem vel illos de camera Cluniacense dicta questio or¬&#13;
+dine judiciario terminari. Prout hec omnia universa et singula prout dicta sunt superius et expressa, dicti conjuges Guillelmus et Perroneta coram dicto jurato nostro confitentur et asserunt esse vera. Permittentes dicti conjuges coram dicto jurato &#13;
+nostro pro se et suis quilibet eorum in solidum per juramenta sua super sancta Dei evangelia corporaliter prestita et sub obligatione bonorum suorum omnium mobilium et immobilium presentium et futurorum se contra premissa aut aliquid premissorum de cetero non venire nec alicui &#13;
+contravenire, volenti consentire in judicio vel extra tacite vel apperte, ymo predicta omnia prout dicta sunt superius et expressa tenere, adimplere et firmiter observare, et dicto domino abbati et eius successoribus perpetuo de rebus feodalibus obedire, et &#13;
+feodem seu homagium loco et tempore facere, et eisdem pro predictis servire prout de rebus feodalibus est servire usitatum. Volentes etiam dicti conjuges et coram dicto jurato concedentes quod, si ipsos vel alterum ipsorum vel suos in futurum contra premissa &#13;
+devenire contingerit, quod fides et audientia in omni curia et coram quocumque judice totaliter denegetur. Renunciantes in hoc facto dicti conjuges coram dicto jurato nostro sub virtute prestiti juramenti pro se et suis doli, mali, &#13;
+metus et in factum exceptionibus, deceptioni in aliquo rerum predictarum de feodo predicto non existencium conventionum predictarum, modo predicto non gestarum exceptionibus : epistole divi Adriani beneficio restitutionis in integrum constitutioni presente&#13;
+utroque dotis et dotalitu, et ypothece privilegio legis julie de fundo dotali non alienando, juri dicenti mulieribus in jure vel in facto errantibus fore succurrendum, Senatus consulti et Velleyani subsidio conditioni sine causa vel ex injusta &#13;
+causa, omnique juri in favorem mulierum, introducto petitioni et oblationi libelli, copie presentium, omni appelationi remedio omnique privilegio impetrato vel impetrando concesso et concedendo et omnibus aliis exceptionibus, barris, et defensio¬&#13;
+nibus, que ab aliquo sapiente possent ennumeri sive dici et que contra premissa possent obici, et omni auxilio et beneficio totius juris canonici, consuetudinari et civilis, per quod presens instrumentum in toto vel im parte possit impe¬&#13;
+diri vel etiam anulari, et maxime juri dicenti generali renunciationem non valere e juridictioni et postetasti domini regis et nostri se et sua bona omnia mobilia et immobilia presentia et futura dicti conjuges coram dicto jurato &#13;
+nostro penitus supponendo quo ad tenendum et observendum tenorem omnium premissorum. In cujus rei testimonium ad preces dictorum Guillelmi et Perronete conjugum nobis per dictum nostrum oblatas cui super hiis et aliis fidem plenariam &#13;
+adhibemus con[sic] nobis constet de premissis per relationem dicti jurati notri sigillum commune predictum presentibus litteris duximus apponendum salvo jure dicti regis et alieno. Datum anno Domni .M°.ccc°. tercio, mense octobris. &#13;
+Expeditum est coram me Laurentio de Buseriis clerico sub hoc signo meo. L.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

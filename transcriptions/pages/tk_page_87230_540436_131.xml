@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-17T17:10:42.169+01:00</Created>
+        <LastChange>2023-02-08T12:25:34.834+01:00</LastChange>
+        <TranskribusMetadata docId="540436" pageId="22765818" pageNr="131"/>
+    </Metadata>
+    <Page imageFilename="130.jpg" imageWidth="6120" imageHeight="7960">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1675855534834" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+                <RegionRefIndexed index="1" regionRef="r3"/>
+                <RegionRefIndexed index="2" regionRef="r4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="668,335 668,7417 5480,7417 5480,335"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="724,553 959,533 1194,513 1429,494 1664,478 1899,461 2134,448 2369,437 2604,427 2839,419 3074,414 3309,411 3544,411 3779,413 4014,417 4249,424 4484,434 4719,447 4954,463 5189,482 5424,503 5424,427 5189,406 4954,387 4719,371 4484,358 4249,348 4014,341 3779,337 3544,335 3309,335 3074,338 2839,343 2604,351 2369,361 2134,372 1899,385 1664,402 1429,418 1194,437 959,457 724,477"/>
+                <Baseline points="724,528 959,508 1194,488 1429,469 1664,453 1899,436 2134,423 2369,412 2604,402 2839,394 3074,389 3309,386 3544,386 3779,388 4014,392 4249,399 4484,409 4719,422 4954,438 5189,457 5424,478"/>
+                <TextEquiv>
+                    <Unicode>Universis presentes litteras inspecturis, frater Bertrandus minister humilis ecclesie Cluniacensis et dicti loci conventus et frater Hugo prior prioratus de Borto Lemovicensis dyocesis et Bernardus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="688,631 924,615 1161,597 1397,580 1634,566 1871,552 2107,541 2344,530 2580,521 2817,513 3054,509 3290,505 3527,505 3763,507 4000,513 4237,521 4473,532 4710,546 4946,565 5183,585 5420,611 5420,547 5183,521 4946,501 4710,482 4473,468 4237,457 4000,449 3763,443 3527,441 3290,441 3054,445 2817,449 2580,457 2344,466 2107,477 1871,488 1634,502 1397,516 1161,533 924,551 688,567"/>
+                <Baseline points="688,610 924,594 1161,576 1397,559 1634,545 1871,531 2107,520 2344,509 2580,500 2817,492 3054,488 3290,484 3527,484 3763,486 4000,492 4237,500 4473,511 4710,525 4946,544 5183,564 5420,590"/>
+                <TextEquiv>
+                    <Unicode>dominus de Turre domicellus salutem. Noveritis quod cum, inter nos abbatem, conventum et priorem predictos nomine dicti prioratus ex parte una et nos dictum dominum de Turre ex altera, discordia, contentio </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="680,723 916,704 1152,685 1389,669 1625,655 1862,642 2098,631 2334,622 2571,614 2807,609 3044,605 3280,605 3516,605 3753,609 3989,615 4226,624 4462,635 4698,648 4935,665 5171,685 5408,707 5408,643 5171,621 4935,601 4698,584 4462,571 4226,560 3989,551 3753,545 3516,541 3280,541 3044,541 2807,545 2571,550 2334,558 2098,567 1862,578 1625,591 1389,605 1152,621 916,640 680,659"/>
+                <Baseline points="680,702 916,683 1152,664 1389,648 1625,634 1862,621 2098,610 2334,601 2571,593 2807,588 3044,584 3280,584 3516,584 3753,588 3989,594 4226,603 4462,614 4698,627 4935,644 5171,664 5408,686"/>
+                <TextEquiv>
+                    <Unicode>ac questio verteretur ac fuisset diucius agitata super eo, quod nos dominus de Turre prefatus dicebamus juridicionem omnimodam et justitiam altam et bassam prioratus predicti et omnium pertinentium ejusdem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="668,818 905,801 1143,786 1381,770 1619,758 1857,745 2094,736 2332,728 2570,721 2808,716 3046,712 3283,712 3521,712 3759,716 3997,722 4235,730 4472,741 4710,754 4948,771 5186,790 5424,812 5424,740 5186,718 4948,699 4710,682 4472,669 4235,658 3997,650 3759,644 3521,640 3283,640 3046,640 2808,644 2570,649 2332,656 2094,664 1857,673 1619,686 1381,698 1143,714 905,729 668,746"/>
+                <Baseline points="668,794 905,777 1143,762 1381,746 1619,734 1857,721 2094,712 2332,704 2570,697 2808,692 3046,688 3283,688 3521,688 3759,692 3997,698 4235,706 4472,717 4710,730 4948,747 5186,766 5424,788"/>
+                <TextEquiv>
+                    <Unicode>ad nos plene et insolidum pertinere et ad predecessores nostros pertinuisse ab antiquo nobis, abbate, conventu et priore predictis e contrario assentibus juridictionem et justiciam antedictas ad priorem dicti loci </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="684,911 923,896 1162,881 1401,868 1640,855 1879,844 2118,834 2357,827 2596,820 2835,815 3074,811 3313,811 3552,813 3791,816 4030,821 4269,830 4508,843 4747,855 4986,873 5225,891 5464,915 5464,845 5225,821 4986,803 4747,785 4508,773 4269,760 4030,751 3791,746 3552,743 3313,741 3074,741 2835,745 2596,750 2357,757 2118,764 1879,774 1640,785 1401,798 1162,811 923,826 684,841"/>
+                <Baseline points="684,888 923,873 1162,858 1401,845 1640,832 1879,821 2118,811 2357,804 2596,797 2835,792 3074,788 3313,788 3552,790 3791,793 4030,798 4269,807 4508,820 4747,832 4986,850 5225,868 5464,892"/>
+                <TextEquiv>
+                    <Unicode>ratione dicti prioratus plene et insolidum pertinere et pertinuisse ab antiquo ad quoscumque pro tempore dicti loci priores. Tandem inter nos partes predictas grata concordia et compositio amicabilis interve¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="686,1005 920,993 1155,981 1390,969 1625,957 1860,948 2094,937 2329,929 2564,922 2799,917 3034,913 3268,913 3503,913 3738,916 3973,921 4208,929 4442,941 4677,955 4912,973 5147,995 5382,1021 5382,951 5147,925 4912,903 4677,885 4442,871 4208,859 3973,851 3738,846 3503,843 3268,843 3034,843 2799,847 2564,852 2329,859 2094,867 1860,878 1625,887 1390,899 1155,911 920,923 686,935"/>
+                <Baseline points="686,982 920,970 1155,958 1390,946 1625,934 1860,925 2094,914 2329,906 2564,899 2799,894 3034,890 3268,890 3503,890 3738,893 3973,898 4208,906 4442,918 4677,932 4912,950 5147,972 5382,998"/>
+                <TextEquiv>
+                    <Unicode>nit super premissis hoc modo, quod videlicet dictus prior et quicumque im posterum successor eiusdem prior prioratus predicti habeat et exerceat in prioratu et villa de Borto et illis pertinentiis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="673,1095 910,1085 1147,1075 1385,1065 1622,1055 1860,1045 2097,1037 2334,1029 2572,1023 2809,1018 3047,1015 3284,1013 3521,1013 3759,1016 3996,1021 4234,1028 4471,1039 4708,1053 4946,1070 5183,1090 5421,1115 5421,1040 5183,1015 4946,995 4708,978 4471,964 4234,953 3996,946 3759,941 3521,938 3284,938 3047,940 2809,943 2572,948 2334,954 2097,962 1860,970 1622,980 1385,990 1147,1000 910,1010 673,1020"/>
+                <Baseline points="670,1078 907,1068 1144,1058 1382,1048 1619,1038 1857,1028 2094,1020 2331,1012 2569,1006 2806,1001 3044,998 3281,996 3518,996 3756,999 3993,1004 4231,1011 4468,1022 4705,1036 4943,1053 5180,1073 5418,1098"/>
+                <TextEquiv>
+                    <Unicode>ejusdem prioratus que inferius exprimuntur, et que site sunt infra fines et confinationes sequentes : videlicet a ponte sancti Thome prout itur recta via et protenditur ipsa via a dicto </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="684,1201 921,1192 1159,1184 1396,1175 1634,1166 1872,1157 2109,1149 2347,1141 2584,1135 2822,1129 3060,1125 3297,1123 3535,1123 3772,1125 4010,1129 4248,1136 4485,1146 4723,1159 4960,1175 5198,1196 5436,1221 5436,1145 5198,1120 4960,1099 4723,1083 4485,1070 4248,1060 4010,1053 3772,1049 3535,1047 3297,1047 3060,1049 2822,1053 2584,1059 2347,1065 2109,1073 1872,1081 1634,1090 1396,1099 1159,1108 921,1116 684,1125"/>
+                <Baseline points="684,1176 921,1167 1159,1159 1396,1150 1634,1141 1872,1132 2109,1124 2347,1116 2584,1110 2822,1104 3060,1100 3297,1098 3535,1098 3772,1100 4010,1104 4248,1111 4485,1121 4723,1134 4960,1150 5198,1171 5436,1196"/>
+                <TextEquiv>
+                    <Unicode>ponte retro villam Sancti Thome usque ad vadum de la Saula, et a dicto vado usque ad rivum qui dividit nemus de Peyrot et nemus prioratus de Borto, et a dicto nemore usque ad molendi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="708,1298 946,1292 1185,1285 1423,1276 1662,1268 1901,1260 2139,1252 2378,1243 2616,1236 2855,1230 3094,1226 3332,1223 3571,1222 3809,1224 4048,1227 4287,1234 4525,1243 4764,1256 5002,1272 5241,1292 5480,1316 5480,1243 5241,1219 5002,1199 4764,1183 4525,1170 4287,1161 4048,1154 3809,1151 3571,1149 3332,1150 3094,1153 2855,1157 2616,1163 2378,1170 2139,1179 1901,1187 1662,1195 1423,1203 1185,1212 946,1219 708,1225"/>
+                <Baseline points="708,1274 946,1268 1185,1261 1423,1252 1662,1244 1901,1236 2139,1228 2378,1219 2616,1212 2855,1206 3094,1202 3332,1199 3571,1198 3809,1200 4048,1203 4287,1210 4525,1219 4764,1232 5002,1248 5241,1268 5480,1292"/>
+                <TextEquiv>
+                    <Unicode>num de Lescluza, et a dicto molendino usque apud Gronghas et usque ad rivum de supra Grangheras et usque ad terras que dividunt terras de Grangiis et prioratus de Borto et terras </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="718,1402 955,1394 1192,1384 1429,1374 1666,1366 1904,1358 2141,1350 2378,1344 2615,1338 2852,1334 3090,1330 3327,1328 3564,1328 3801,1330 4038,1334 4276,1341 4513,1350 4750,1362 4987,1376 5224,1395 5462,1416 5462,1343 5224,1322 4987,1303 4750,1289 4513,1277 4276,1268 4038,1261 3801,1257 3564,1255 3327,1255 3090,1257 2852,1261 2615,1265 2378,1271 2141,1277 1904,1285 1666,1293 1429,1301 1192,1311 955,1321 718,1329"/>
+                <Baseline points="718,1378 955,1370 1192,1360 1429,1350 1666,1342 1904,1334 2141,1326 2378,1320 2615,1314 2852,1310 3090,1306 3327,1304 3564,1304 3801,1306 4038,1310 4276,1317 4513,1326 4750,1338 4987,1352 5224,1371 5462,1392"/>
+                <TextEquiv>
+                    <Unicode>que sunt de feudo domini de Valle, inclusis infra dictas metas villis sancti Thome, del Bochet, de Vernhanerya et de Grangiis, item et prout protenditur in Lemovicense dyocese a villa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="722,1503 957,1495 1192,1487 1428,1477 1663,1469 1899,1461 2134,1453 2369,1447 2605,1441 2840,1437 3076,1433 3311,1431 3546,1431 3782,1434 4017,1439 4253,1446 4488,1456 4723,1469 4959,1484 5194,1506 5430,1529 5430,1459 5194,1436 4959,1414 4723,1399 4488,1386 4253,1376 4017,1369 3782,1364 3546,1361 3311,1361 3076,1363 2840,1367 2605,1371 2369,1377 2134,1383 1899,1391 1663,1399 1428,1407 1192,1417 957,1425 722,1433"/>
+                <Baseline points="722,1480 957,1472 1192,1464 1428,1454 1663,1446 1899,1438 2134,1430 2369,1424 2605,1418 2840,1414 3076,1410 3311,1408 3546,1408 3782,1411 4017,1416 4253,1423 4488,1433 4723,1446 4959,1461 5194,1483 5430,1506"/>
+                <TextEquiv>
+                    <Unicode>de Ribayros usque ad metas que dividunt terras prioratus de Borto et terras militum Podii de Borto, usque ad metas nemoris de Borto siti in dicta dyocese Lemovicense a parte occidentale, inclusis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="722,1607 956,1595 1191,1582 1425,1572 1660,1563 1895,1555 2129,1549 2364,1543 2598,1539 2833,1537 3068,1535 3302,1537 3537,1539 3771,1543 4006,1549 4241,1558 4475,1567 4710,1580 4944,1593 5179,1610 5414,1629 5414,1559 5179,1540 4944,1523 4710,1510 4475,1497 4241,1488 4006,1479 3771,1473 3537,1469 3302,1467 3068,1465 2833,1467 2598,1469 2364,1473 2129,1479 1895,1485 1660,1493 1425,1502 1191,1512 956,1525 722,1537"/>
+                <Baseline points="722,1584 956,1572 1191,1559 1425,1549 1660,1540 1895,1532 2129,1526 2364,1520 2598,1516 2833,1514 3068,1512 3302,1514 3537,1516 3771,1520 4006,1526 4241,1535 4475,1544 4710,1557 4944,1570 5179,1587 5414,1606"/>
+                <TextEquiv>
+                    <Unicode>infra dictas metas villis de Raibayrolside, Chosmellis, habeat in qua et exerceat per se vel per alium vel alios perpetuo juridictionem omnimodam et justitiam altam et bassam et merum et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="714,1707 949,1697 1184,1685 1419,1676 1654,1668 1890,1661 2125,1655 2360,1651 2595,1649 2830,1647 3066,1647 3301,1647 3536,1651 3771,1655 4006,1661 4242,1669 4477,1678 4712,1689 4947,1702 5182,1717 5418,1733 5418,1663 5182,1647 4947,1632 4712,1619 4477,1608 4242,1599 4006,1591 3771,1585 3536,1581 3301,1577 3066,1577 2830,1577 2595,1579 2360,1581 2125,1585 1890,1591 1654,1598 1419,1606 1184,1615 949,1627 714,1637"/>
+                <Baseline points="714,1684 949,1674 1184,1662 1419,1653 1654,1645 1890,1638 2125,1632 2360,1628 2595,1626 2830,1624 3066,1624 3301,1624 3536,1628 3771,1632 4006,1638 4242,1646 4477,1655 4712,1666 4947,1679 5182,1694 5418,1710"/>
+                <TextEquiv>
+                    <Unicode>mixtum imperium et eisdem utatur plene et libere in terra et rebus pertinentibus ad prioratum predictum salvis que inferius exprimuntur, videlicet quod in predictis prioratu et villa de Bor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="722,1805 957,1793 1192,1782 1427,1773 1662,1765 1898,1759 2133,1753 2368,1749 2603,1746 2838,1745 3074,1745 3309,1747 3544,1751 3779,1755 4014,1761 4250,1769 4485,1779 4720,1789 4955,1803 5190,1817 5426,1835 5426,1765 5190,1747 4955,1733 4720,1719 4485,1709 4250,1699 4014,1691 3779,1685 3544,1681 3309,1677 3074,1675 2838,1675 2603,1676 2368,1679 2133,1683 1898,1689 1662,1695 1427,1703 1192,1712 957,1723 722,1735"/>
+                <Baseline points="722,1782 957,1770 1192,1759 1427,1750 1662,1742 1898,1736 2133,1730 2368,1726 2603,1723 2838,1722 3074,1722 3309,1724 3544,1728 3779,1732 4014,1738 4250,1746 4485,1756 4720,1766 4955,1780 5190,1794 5426,1812"/>
+                <TextEquiv>
+                    <Unicode>to et aliis villis, mansis, caputmansis, terris, possessionibus superius nominatis et aliis quibuscumque fundis existent ibi infra confinationes predictas abbas Cluniacensis et dominus de Turre communiter perpetuo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="732,1895 965,1880 1198,1869 1431,1858 1664,1851 1897,1843 2130,1837 2363,1833 2596,1831 2829,1831 3062,1831 3295,1833 3528,1837 3761,1841 3994,1848 4227,1855 4460,1865 4693,1875 4926,1888 5159,1900 5392,1915 5392,1855 5159,1840 4926,1828 4693,1815 4460,1805 4227,1795 3994,1788 3761,1781 3528,1777 3295,1773 3062,1771 2824,1771 2591,1771 2363,1773 2130,1777 1897,1783 1664,1791 1431,1798 1198,1809 965,1820 732,1835"/>
+                <Baseline points="730,1884 963,1869 1196,1858 1429,1847 1662,1840 1895,1832 2128,1826 2361,1822 2594,1820 2827,1820 3060,1820 3293,1822 3526,1826 3759,1830 3992,1837 4225,1844 4458,1854 4691,1864 4924,1877 5157,1889 5390,1904"/>
+                <TextEquiv>
+                    <Unicode>habeant appellationem et ressortum et ad ipsos et eorum successores appelletur quandocumque a curia temporali dicti prioris appellari vel ressortiri continget a quocumque et in casu quoque a falso judicio </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="730,1988 963,1972 1197,1960 1430,1949 1664,1942 1898,1936 2131,1932 2365,1930 2598,1928 2832,1930 3066,1932 3299,1936 3533,1942 3766,1948 4000,1956 4234,1964 4467,1974 4701,1984 4934,1995 5168,2007 5402,2018 5402,1958 5168,1947 4934,1935 4701,1924 4467,1914 4234,1904 4000,1896 3766,1888 3533,1882 3299,1876 3066,1872 2832,1870 2598,1868 2365,1870 2131,1872 1898,1876 1664,1882 1430,1889 1197,1900 963,1912 730,1928"/>
+                <Baseline points="728,1970 961,1954 1191,1953 1424,1942 1662,1924 1896,1918 2129,1914 2363,1912 2596,1910 2830,1912 3064,1914 3297,1918 3531,1924 3764,1930 3998,1938 4232,1946 4465,1956 4699,1966 4932,1977 5166,1989 5400,2000"/>
+                <TextEquiv>
+                    <Unicode>vel juris deffectum tantum. Item quod exequtio illorum qui fuerint condempnati per curiam dicti prioratus ad mortem vel menbri mutilationem fiat per dominum de Turre vel eius gentes perpetuo extra </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="722,2097 955,2084 1189,2071 1422,2061 1656,2053 1890,2047 2123,2043 2357,2041 2590,2039 2824,2041 3058,2043 3291,2045 3525,2051 3758,2057 3992,2064 4226,2071 4459,2081 4693,2090 4926,2101 5160,2111 5394,2123 5394,2054 5160,2042 4926,2032 4693,2021 4459,2012 4226,2002 3992,1995 3758,1988 3525,1982 3291,1976 3058,1974 2824,1972 2590,1970 2357,1972 2123,1974 1890,1978 1656,1984 1422,1992 1189,2002 955,2015 722,2028"/>
+                <Baseline points="722,2074 955,2061 1189,2048 1422,2038 1656,2030 1890,2024 2123,2020 2357,2018 2590,2016 2824,2018 3058,2020 3291,2022 3525,2028 3758,2034 3992,2041 4226,2048 4459,2058 4693,2067 4926,2078 5160,2088 5394,2100"/>
+                <TextEquiv>
+                    <Unicode>confinationes predictas et extra terram prioratus predicti, ita videlicet quod gentes dicti prioratus et die quo fuerit condempnatio aliquis per curiam dicti prioratus ad mortem vel ad menbri mutilationem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;} unclear {offset:50; length:8;}">
+                <Coords points="730,2191 962,2177 1195,2166 1428,2155 1661,2148 1894,2143 2127,2139 2360,2137 2593,2137 2826,2139 3059,2143 3291,2147 3524,2151 3757,2159 3990,2166 4223,2175 4456,2184 4689,2193 4922,2204 5155,2215 5388,2225 5388,2156 5155,2146 4922,2135 4689,2124 4456,2115 4223,2106 3990,2097 3757,2090 3524,2082 3291,2078 3059,2074 2826,2070 2593,2068 2360,2068 2127,2070 1894,2074 1661,2079 1428,2086 1195,2097 962,2108 730,2122"/>
+                <Baseline points="730,2168 962,2154 1195,2143 1428,2132 1658,2123 1902,2123 2138,2121 2360,2114 2593,2114 2826,2116 3059,2120 3291,2124 3524,2128 3757,2136 3990,2143 4223,2152 4456,2161 4689,2170 4922,2181 5155,2192 5388,2202"/>
+                <TextEquiv>
+                    <Unicode>vel in crastinum dicte diei significent bavilo de Turreria si fuerit presens in castro de Turreria, si autem absens fuerit cellarario vel servienti Turrerie(?), vel in absentia utrorumque persone alii </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="730,2297 962,2282 1195,2269 1436,2261 1669,2253 1894,2245 2127,2241 2360,2239 2593,2239 2826,2241 3059,2245 3291,2249 3524,2254 3757,2261 3990,2269 4223,2277 4456,2287 4689,2296 4922,2305 5155,2314 5388,2325 5388,2256 5155,2245 4922,2236 4689,2227 4456,2218 4223,2208 3990,2200 3757,2192 3524,2185 3291,2180 3059,2176 2826,2172 2593,2170 2360,2170 2127,2172 1894,2176 1661,2181 1428,2189 1195,2200 962,2213 730,2228"/>
+                <Baseline points="730,2274 962,2259 1195,2246 1428,2235 1661,2227 1894,2222 2127,2218 2360,2216 2593,2216 2826,2218 3059,2222 3291,2226 3524,2231 3757,2238 3990,2246 4223,2254 4456,2264 4689,2273 4922,2282 5155,2291 5388,2302"/>
+                <TextEquiv>
+                    <Unicode>existenti infra castrum predictum, pro sequienti tercia die significationis predicte inter primam et terciam dicte diei tercie veniant vel mittant gentes suas pro recipiendo condempnato predicto </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="726,2389 960,2375 1194,2363 1428,2353 1662,2347 1896,2341 2130,2337 2364,2335 2598,2335 2832,2337 3066,2341 3300,2345 3534,2350 3768,2357 4002,2365 4236,2373 4470,2382 4704,2392 4938,2402 5172,2413 5406,2425 5406,2356 5172,2344 4938,2333 4704,2323 4470,2313 4236,2304 4002,2296 3768,2288 3534,2281 3300,2276 3066,2272 2832,2268 2598,2266 2364,2266 2130,2268 1896,2272 1662,2278 1428,2284 1194,2294 960,2306 726,2320"/>
+                <Baseline points="726,2366 960,2352 1194,2340 1428,2330 1662,2324 1896,2318 2130,2314 2364,2312 2598,2312 2832,2314 3066,2318 3300,2322 3534,2327 3768,2334 4002,2342 4236,2350 4470,2359 4704,2369 4938,2379 5172,2390 5406,2402"/>
+                <TextEquiv>
+                    <Unicode>tradendo eidem bavilo vel servienti aut cellarario Turrerie vel alii persone habenti certum mandatum ad hoc a dicto bavilo vel serviente vel cellarario predictis, tradendo, inquam, per gentes </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="734,2503 965,2487 1196,2475 1427,2465 1659,2457 1890,2452 2121,2447 2353,2445 2584,2445 2815,2447 3047,2449 3278,2453 3509,2457 3740,2463 3972,2470 4203,2478 4434,2486 4666,2494 4897,2503 5128,2512 5360,2521 5360,2445 5128,2436 4897,2427 4666,2418 4434,2410 4203,2402 3972,2394 3740,2387 3509,2381 3278,2377 3047,2373 2815,2371 2584,2369 2353,2369 2121,2371 1890,2376 1659,2381 1427,2389 1196,2399 965,2411 734,2427"/>
+                <Baseline points="734,2478 965,2462 1196,2450 1427,2440 1659,2432 1890,2427 2121,2422 2353,2420 2584,2420 2815,2422 3047,2424 3278,2428 3509,2432 3740,2438 3972,2445 4203,2453 4434,2461 4666,2469 4897,2478 5128,2487 5360,2496"/>
+                <TextEquiv>
+                    <Unicode>dicti prioratus in itinere quo iter de Borto apud Turreriam in loco sito inter rivum de Grangiis et molendinum dicte ville de Grangiis, quod est inter dictum iter et aquam Dordonie, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="746,2592 978,2580 1211,2570 1444,2562 1677,2556 1910,2550 2143,2548 2376,2546 2609,2546 2842,2546 3075,2548 3307,2552 3540,2557 3773,2563 4006,2569 4239,2576 4472,2585 4705,2594 4938,2603 5171,2612 5404,2622 5404,2550 5171,2540 4938,2531 4705,2522 4472,2513 4239,2504 4006,2497 3773,2491 3540,2485 3307,2480 3075,2476 2842,2474 2609,2474 2376,2474 2143,2476 1910,2478 1677,2484 1444,2490 1211,2498 978,2508 746,2520"/>
+                <Baseline points="746,2568 978,2556 1211,2546 1444,2538 1677,2532 1910,2526 2143,2524 2376,2522 2609,2522 2842,2522 3075,2524 3307,2528 3540,2533 3773,2539 4006,2545 4239,2552 4472,2561 4705,2570 4938,2579 5171,2588 5404,2598"/>
+                <TextEquiv>
+                    <Unicode>qui locus ex pacto expresso et convento in compositione predicta nominatus est et dictus perpetuo ad tradendum condempnatos predictos. Et si contingat bavilum Turrerie(?) vel alios seu unum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="736,2695 967,2681 1198,2671 1429,2663 1661,2657 1892,2653 2123,2649 2355,2649 2586,2649 2817,2651 3049,2653 3280,2657 3511,2663 3742,2668 3974,2675 4205,2682 4436,2689 4668,2698 4899,2706 5130,2714 5362,2723 5362,2651 5130,2642 4899,2634 4668,2626 4436,2617 4205,2610 3974,2603 3742,2596 3511,2591 3280,2585 3049,2581 2817,2579 2586,2577 2355,2577 2123,2577 1892,2581 1661,2585 1429,2591 1198,2599 967,2609 736,2623"/>
+                <Baseline points="732,2671 985,2654 1216,2644 1447,2636 1679,2630 1910,2626 2141,2622 2373,2622 2604,2622 2835,2624 3067,2626 3298,2630 3529,2636 3760,2641 3992,2648 4223,2655 4454,2662 4686,2671 4917,2679 5148,2687 5380,2696"/>
+                <TextEquiv>
+                    <Unicode>eis, ut predictum est, non venire dicta die tercia ab hora prime usque ad terciam quod hore spatium expectare tenentur gentes prioris predicti eosdem in loco predicto pro facienda tra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="743,2789 972,2779 1201,2771 1431,2765 1660,2759 1890,2755 2119,2753 2348,2752 2578,2753 2807,2753 3037,2756 3266,2759 3495,2763 3725,2769 3954,2775 4184,2782 4413,2791 4642,2798 4872,2807 5101,2817 5331,2827 5331,2752 5101,2742 4872,2732 4642,2723 4413,2716 4184,2707 3954,2700 3725,2694 3495,2688 3266,2684 3037,2681 2807,2678 2578,2678 2348,2677 2119,2678 1890,2680 1660,2684 1431,2690 1201,2696 972,2704 743,2714"/>
+                <Baseline points="742,2768 1003,2752 1232,2744 1462,2738 1691,2732 1921,2728 2150,2726 2379,2725 2609,2726 2838,2726 3068,2729 3297,2732 3526,2736 3756,2742 3985,2748 4215,2755 4444,2764 4673,2771 4903,2780 5132,2790 5362,2800"/>
+                <TextEquiv>
+                    <Unicode>dictione predicta, et tunc dicta hora elapsa gentes dicti prioratus poterunt condempnatum illum reducere ad carcerem dicti prioratus. Et eadem die debebunt iterato significare apud Turreriam(?) dicto </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="743,2872 973,2860 1203,2851 1433,2844 1663,2838 1893,2834 2123,2830 2353,2830 2583,2830 2813,2832 3044,2834 3274,2838 3504,2842 3734,2848 3964,2853 4194,2860 4424,2868 4654,2874 4884,2882 5114,2890 5345,2898 5345,2825 5114,2817 4884,2809 4654,2801 4424,2795 4194,2787 3964,2780 3734,2775 3504,2769 3274,2765 3044,2761 2813,2759 2583,2757 2353,2757 2123,2757 1893,2761 1663,2765 1433,2771 1203,2778 973,2787 743,2799"/>
+                <Baseline points="742,2872 972,2860 1202,2851 1432,2844 1662,2838 1892,2834 2122,2830 2352,2830 2582,2830 2812,2832 3043,2834 3273,2838 3503,2842 3733,2848 3963,2853 4193,2860 4423,2868 4653,2874 4883,2882 5113,2890 5344,2898"/>
+                <TextEquiv>
+                    <Unicode>bavilo, vel si absens fuerit, servienti vel cellarario dicti loci vel in eorum absentia alii persone existenti infra castrum predictum, quod in crastinum illius diei ab hora meridiana </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="714,2987 945,2977 1176,2967 1407,2959 1638,2954 1869,2949 2100,2947 2331,2947 2562,2947 2793,2947 3025,2951 3256,2955 3487,2959 3718,2965 3949,2971 4180,2979 4411,2987 4642,2995 4873,3004 5104,3013 5336,3023 5336,2954 5104,2944 4873,2935 4642,2926 4411,2918 4180,2910 3949,2902 3718,2896 3487,2890 3256,2886 3025,2882 2793,2878 2562,2878 2331,2878 2100,2878 1869,2880 1638,2885 1407,2890 1176,2898 945,2908 714,2918"/>
+                <Baseline points="714,2964 945,2954 1176,2944 1407,2936 1638,2931 1869,2926 2100,2924 2331,2924 2562,2924 2793,2924 3025,2928 3256,2932 3487,2936 3718,2942 3949,2948 4180,2956 4411,2964 4642,2972 4873,2981 5104,2990 5336,3000"/>
+                <TextEquiv>
+                    <Unicode>usque ad nonam quod hore spacium gentes dicti prioratus ad hoc in dicto loco expectare tenentur, veniant vel mittant pro recipiendo condempnato predicto. Et si tunc bavilus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="748,3085 977,3074 1206,3064 1435,3057 1664,3051 1893,3045 2122,3043 2351,3041 2580,3041 2809,3041 3038,3043 3267,3045 3496,3049 3725,3055 3954,3060 4183,3067 4412,3074 4641,3081 4870,3091 5099,3099 5328,3109 5328,3040 5099,3030 4870,3022 4641,3012 4412,3005 4183,2998 3954,2991 3725,2986 3496,2980 3267,2976 3038,2974 2809,2972 2580,2972 2351,2972 2122,2974 1893,2976 1664,2982 1435,2988 1206,2995 977,3005 748,3016"/>
+                <Baseline points="746,3068 975,3057 1204,3047 1433,3040 1662,3034 1891,3028 2120,3026 2349,3024 2578,3024 2807,3024 3036,3026 3265,3028 3494,3032 3723,3038 3952,3043 4181,3050 4410,3057 4639,3064 4868,3074 5097,3082 5326,3092"/>
+                <TextEquiv>
+                    <Unicode>Turrerie vel persone ad hoc superius designate vel earum aliqua non venerit ex tunc dictis significationibus re vera prehabitis et dictis horis elapsis, gentes dicti prioratus facere </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="748,3190 978,3182 1208,3174 1438,3168 1669,3162 1899,3158 2129,3154 2360,3152 2590,3150 2820,3150 3051,3152 3281,3152 3511,3156 3741,3160 3972,3164 4202,3170 4432,3177 4663,3185 4893,3194 5123,3204 5354,3216 5354,3144 5123,3132 4893,3122 4663,3113 4432,3105 4202,3098 3972,3092 3741,3088 3511,3084 3281,3080 3051,3080 2820,3078 2590,3078 2360,3080 2129,3082 1899,3086 1669,3090 1438,3096 1208,3102 978,3110 748,3118"/>
+                <Baseline points="748,3166 978,3158 1208,3150 1438,3144 1669,3138 1899,3134 2129,3130 2360,3128 2590,3126 2820,3126 3051,3128 3281,3128 3511,3132 3741,3136 3972,3140 4202,3146 4432,3153 4663,3161 4893,3170 5123,3180 5354,3192"/>
+                <TextEquiv>
+                    <Unicode>poterunt exequtionem condempnati predicti infra metas predictas, ita quod si dicta exequtio exigat creationem furcarum, possint gentes prioratus ad hoc furcas exigere infra me¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="764,3291 995,3284 1227,3278 1459,3273 1690,3269 1922,3266 2154,3263 2385,3261 2617,3261 2849,3261 3081,3261 3312,3263 3544,3267 3776,3270 4007,3275 4239,3281 4471,3288 4702,3296 4934,3305 5166,3315 5398,3327 5398,3251 5166,3239 4934,3229 4702,3220 4471,3212 4239,3205 4007,3199 3776,3194 3544,3191 3312,3187 3081,3185 2849,3185 2617,3185 2385,3185 2154,3187 1922,3190 1690,3193 1459,3197 1227,3202 995,3208 764,3215"/>
+                <Baseline points="764,3266 995,3259 1227,3253 1459,3248 1690,3244 1922,3241 2154,3238 2385,3236 2617,3236 2849,3236 3081,3236 3312,3238 3544,3242 3776,3245 4007,3250 4239,3256 4471,3263 4702,3271 4934,3280 5166,3290 5398,3302"/>
+                <TextEquiv>
+                    <Unicode>tas predictas et in eis facere exqutionem predictam. Que furche suspenso existente in eis terminis(?) et non ultra poterunt esse at remanere erecte. Ex tunc gentes prioratus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="764,3401 994,3394 1224,3387 1454,3381 1685,3377 1915,3373 2145,3369 2376,3367 2606,3365 2836,3365 3067,3365 3297,3367 3527,3369 3757,3373 3988,3377 4218,3382 4448,3389 4679,3395 4909,3405 5139,3413 5370,3423 5370,3348 5139,3338 4909,3330 4679,3320 4448,3314 4218,3307 3988,3302 3757,3298 3527,3294 3297,3292 3067,3290 2836,3290 2606,3290 2376,3292 2145,3294 1915,3298 1685,3302 1454,3306 1224,3312 994,3319 764,3326"/>
+                <Baseline points="764,3376 994,3369 1224,3362 1454,3356 1685,3352 1915,3348 2145,3344 2376,3342 2606,3340 2836,3340 3067,3340 3297,3342 3527,3344 3757,3348 3988,3352 4218,3357 4448,3364 4679,3370 4909,3380 5139,3388 5370,3398"/>
+                <TextEquiv>
+                    <Unicode>eas frangere et diruere tenebuntur et occasione seu pretextu illius creationis furcarum quam in dicto casu tamen et non in alio nisi eodem casu iterum contingente poterunt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="770,3505 996,3496 1223,3489 1449,3483 1676,3477 1903,3473 2129,3471 2356,3469 2582,3467 2809,3467 3036,3469 3262,3471 3489,3473 3715,3477 3942,3481 4169,3487 4395,3493 4622,3499 4848,3507 5075,3515 5302,3525 5302,3450 5075,3440 4848,3432 4622,3424 4395,3418 4169,3412 3942,3406 3715,3402 3489,3398 3262,3396 3036,3394 2809,3392 2582,3392 2356,3394 2129,3396 1903,3398 1676,3402 1449,3408 1223,3414 996,3421 770,3430"/>
+                <Baseline points="770,3480 996,3471 1223,3464 1449,3458 1676,3452 1903,3448 2129,3446 2356,3444 2582,3442 2809,3442 3036,3444 3262,3446 3489,3448 3715,3452 3942,3456 4169,3462 4395,3468 4622,3474 4848,3482 5075,3490 5302,3500"/>
+                <TextEquiv>
+                    <Unicode>nec debebunt facere gentes dicti prioratus non sit nec fiat in posterum prejudicium aliquod domno de Turre quod idem prior aliter vel ad casum alium quam predictum est habere possit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:31;}">
+                <Coords points="780,3606 1009,3600 1239,3594 1468,3590 1698,3586 1928,3583 2157,3580 2387,3578 2616,3578 2846,3578 3076,3578 3305,3580 3535,3582 3764,3586 3994,3590 4224,3594 4453,3600 4683,3606 4912,3614 5142,3622 5372,3630 5372,3558 5142,3550 4912,3542 4683,3534 4453,3528 4224,3522 3994,3518 3764,3514 3535,3510 3305,3508 3076,3506 2846,3506 2616,3506 2387,3506 2157,3508 1928,3511 1698,3514 1468,3518 1239,3522 1009,3528 780,3534"/>
+                <Baseline points="780,3582 1009,3576 1239,3570 1468,3566 1698,3562 1928,3559 2157,3556 2387,3554 2616,3554 2846,3554 3076,3554 3305,3556 3535,3558 3764,3562 3994,3566 4224,3570 4453,3576 4683,3582 4912,3590 5142,3598 5372,3606"/>
+                <TextEquiv>
+                    <Unicode>vel ei liceat furcas erectas infra confinaciones predictas nec dominus de Turre vel ejus gentes mutare poterunt penam impositam condempnato pro curia prioratus, nisi in casu </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:32;}">
+                <Coords points="792,3712 1020,3703 1248,3694 1476,3688 1704,3684 1932,3680 2160,3678 2388,3676 2616,3676 2844,3678 3073,3680 3301,3682 3529,3686 3757,3690 3985,3694 4213,3699 4441,3704 4669,3710 4897,3716 5125,3722 5354,3728 5354,3656 5125,3650 4897,3644 4669,3638 4441,3632 4213,3627 3985,3622 3757,3618 3529,3614 3301,3610 3073,3608 2844,3606 2616,3604 2388,3604 2160,3606 1932,3608 1704,3612 1476,3616 1248,3622 1020,3631 792,3640"/>
+                <Baseline points="792,3688 1020,3679 1248,3670 1476,3664 1704,3660 1932,3656 2160,3654 2388,3652 2616,3652 2844,3654 3073,3656 3301,3658 3529,3662 3757,3666 3985,3670 4213,3675 4441,3680 4669,3686 4897,3692 5125,3698 5354,3704"/>
+                <TextEquiv>
+                    <Unicode>ressorti cuius ressorti cognitio communis erit abbatis et domni predictorum. Item, si domnus de Turre proprietatem aliquam habeat, vel quique alius qui eam teneat ab eodem in dictis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:33;} structure {type:paragraph;}">
+                <Coords points="784,3808 1013,3802 1243,3798 1473,3794 1703,3790 1933,3788 2162,3787 2392,3786 2622,3786 2852,3788 3082,3790 3311,3792 3541,3796 3771,3798 4001,3804 4231,3808 4460,3814 4690,3820 4920,3826 5150,3834 5380,3840 5380,3768 5150,3762 4920,3754 4690,3748 4460,3742 4231,3736 4001,3732 3771,3726 3541,3724 3311,3720 3082,3718 2852,3716 2622,3714 2392,3714 2162,3715 1933,3716 1703,3718 1473,3722 1243,3726 1013,3730 784,3736"/>
+                <Baseline points="784,3784 1013,3778 1243,3774 1473,3770 1703,3766 1933,3764 2162,3763 2392,3762 2622,3762 2852,3764 3082,3766 3311,3768 3541,3772 3771,3774 4001,3780 4231,3784 4460,3790 4690,3796 4920,3802 5150,3810 5380,3816"/>
+                <TextEquiv>
+                    <Unicode>locis infra vel extra confinaciones predictas, nichil jure domni juridictionis exercitii vel explecti habebit dictus prior ibidem. Item, quod in villa de Meneto, d'Arbaro, de Co¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:34;}">
+                <Coords points="796,3921 1024,3915 1252,3909 1480,3905 1708,3903 1936,3899 2164,3899 2392,3897 2620,3897 2848,3899 3077,3901 3305,3903 3533,3905 3761,3908 3989,3911 4217,3916 4445,3921 4673,3925 4901,3931 5129,3937 5358,3943 5358,3873 5129,3867 4901,3861 4673,3855 4445,3851 4217,3846 3989,3841 3761,3838 3533,3835 3305,3833 3077,3831 2848,3829 2620,3827 2392,3827 2164,3829 1936,3829 1708,3833 1480,3835 1252,3839 1024,3845 796,3851"/>
+                <Baseline points="796,3898 1024,3892 1252,3886 1480,3882 1708,3880 1936,3876 2164,3876 2392,3874 2620,3874 2848,3876 3077,3878 3305,3880 3533,3882 3761,3885 3989,3888 4217,3893 4445,3898 4673,3902 4901,3908 5129,3914 5358,3920"/>
+                <TextEquiv>
+                    <Unicode>etas, de Campis, de Perol, de Sernols, das Ghanghas, de Maranghas, de Chassanhas, de Sacrozoada, et eorum pertinentium et aliis villis, mansis, caputmansis, bordariis, affariis et tenementis, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:35;}">
+                <Coords points="776,4025 1005,4019 1235,4015 1464,4011 1694,4007 1923,4005 2153,4005 2382,4004 2612,4005 2841,4005 3071,4007 3300,4009 3530,4013 3759,4015 3989,4019 4218,4021 4448,4025 4677,4029 4907,4033 5136,4035 5366,4039 5366,3970 5136,3966 4907,3964 4677,3960 4448,3956 4218,3952 3989,3950 3759,3946 3530,3944 3300,3940 3071,3938 2841,3936 2612,3936 2382,3935 2153,3936 1923,3936 1694,3938 1464,3942 1235,3946 1005,3950 776,3956"/>
+                <Baseline points="776,4002 1005,3996 1235,3992 1464,3988 1694,3984 1923,3982 2153,3982 2382,3981 2612,3982 2841,3982 3071,3984 3300,3986 3530,3990 3759,3992 3989,3996 4218,3998 4448,4002 4677,4006 4907,4010 5136,4012 5366,4016"/>
+                <TextEquiv>
+                    <Unicode>et aliis possessionibus ad prioratum predictum pertinentibus quibuscumque et quecumque et ubicumque sint, et quocumque nomine dici possint et in omnibus pertinentibus premissorum et cuilibet eorumdem et in omnibus et singulis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:36;}">
+                <Coords points="782,4119 1011,4115 1240,4113 1469,4111 1698,4111 1927,4109 2156,4109 2385,4109 2614,4111 2843,4111 3073,4113 3302,4113 3531,4115 3760,4119 3989,4121 4218,4124 4447,4127 4676,4131 4905,4135 5134,4140 5364,4145 5364,4076 5134,4071 4905,4066 4676,4062 4447,4058 4218,4055 3989,4052 3760,4050 3531,4046 3302,4044 3073,4044 2843,4042 2614,4042 2385,4040 2156,4040 1927,4040 1698,4042 1469,4042 1240,4044 1011,4046 782,4050"/>
+                <Baseline points="782,4096 1011,4092 1240,4090 1469,4088 1698,4088 1927,4086 2156,4086 2385,4086 2614,4088 2843,4088 3073,4090 3302,4090 3531,4092 3760,4096 3989,4098 4218,4101 4447,4104 4676,4108 4905,4112 5134,4117 5364,4122"/>
+                <TextEquiv>
+                    <Unicode>habitatoribus premissorum, dictus prior et eius successores perpetuo utantur omnimoda juridictione temporali exceptis casibus qui sequntur, videlicet in casibus qui requirunt mortem suppli¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:37;}">
+                <Coords points="790,4220 1016,4220 1243,4220 1470,4220 1696,4220 1923,4220 2150,4220 2376,4220 2603,4220 2830,4222 3057,4222 3283,4222 3510,4224 3737,4226 3963,4228 4190,4230 4417,4233 4643,4236 4870,4240 5097,4244 5324,4250 5324,4177 5097,4171 4870,4167 4643,4163 4417,4160 4190,4157 3963,4155 3737,4153 3510,4151 3283,4149 3057,4149 2830,4149 2603,4147 2376,4147 2150,4147 1923,4147 1696,4147 1470,4147 1243,4147 1016,4147 790,4147"/>
+                <Baseline points="790,4196 1016,4196 1243,4196 1470,4196 1696,4196 1923,4196 2150,4196 2376,4196 2603,4196 2830,4198 3057,4198 3283,4198 3510,4200 3737,4202 3963,4204 4190,4206 4417,4209 4643,4212 4870,4216 5097,4220 5324,4226"/>
+                <TextEquiv>
+                    <Unicode>cium vel mutilationem menbrorum vel perpetuum exilium vel relegationem quorum casuum et eorum, cujulibet cognitio in dictis locis et eorum quolibet contingentium quandocumque fiet perpetuo per </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:38;}">
+                <Coords points="762,4316 990,4318 1219,4320 1447,4322 1676,4324 1904,4324 2133,4326 2361,4326 2590,4328 2818,4328 3047,4328 3275,4330 3504,4332 3732,4332 3961,4336 4189,4338 4418,4340 4646,4344 4875,4349 5103,4354 5332,4360 5332,4288 5103,4282 4875,4277 4646,4272 4418,4268 4189,4266 3961,4264 3732,4260 3504,4260 3275,4258 3047,4256 2818,4256 2590,4256 2361,4254 2133,4254 1904,4252 1676,4252 1447,4250 1219,4248 990,4246 762,4244"/>
+                <Baseline points="762,4292 990,4294 1219,4296 1447,4298 1676,4300 1904,4300 2133,4302 2361,4302 2590,4304 2818,4304 3047,4304 3275,4306 3504,4308 3732,4308 3961,4312 4189,4314 4418,4316 4646,4320 4875,4325 5103,4330 5332,4336"/>
+                <TextEquiv>
+                    <Unicode>domnum de Turre vel bavilum suum in loco ubi maleficium fuerit perpetratum et exequtio quorumque condempnatorum per curiam dicti domni de Turre in quoque casuum predictorum fiet per gentes </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:39;}">
+                <Coords points="800,4428 1027,4428 1254,4428 1481,4428 1708,4430 1935,4432 2162,4432 2389,4434 2616,4436 2843,4438 3070,4440 3297,4442 3524,4444 3751,4448 3978,4450 4205,4452 4432,4453 4659,4455 4886,4456 5113,4458 5340,4458 5340,4386 5113,4386 4886,4384 4659,4383 4432,4381 4205,4380 3978,4378 3751,4376 3524,4372 3297,4370 3070,4368 2843,4366 2616,4364 2389,4362 2162,4360 1935,4360 1708,4358 1481,4356 1254,4356 1027,4356 800,4356"/>
+                <Baseline points="800,4404 1027,4404 1254,4404 1481,4404 1708,4406 1935,4408 2162,4408 2389,4410 2616,4412 2843,4414 3070,4416 3297,4418 3524,4420 3751,4424 3978,4426 4205,4428 4432,4429 4659,4431 4886,4432 5113,4434 5340,4434"/>
+                <TextEquiv>
+                    <Unicode>ipsius domini extra terram prioratus predicti vel illorum qui eam a dicto priore tenebunt. Item quod tercia pars bonorum mobilium quarumcumque personarum habitantium quandocumque pro tempore in locis predictis vel eorum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:40;}">
+                <Coords points="804,4526 1030,4526 1256,4528 1482,4528 1708,4530 1934,4532 2160,4534 2386,4536 2612,4538 2838,4540 3064,4542 3290,4544 3516,4546 3742,4548 3968,4550 4194,4552 4420,4554 4646,4556 4872,4558 5098,4560 5324,4560 5324,4488 5098,4488 4872,4486 4646,4484 4420,4482 4194,4480 3968,4478 3742,4476 3516,4474 3290,4472 3064,4470 2838,4468 2612,4466 2386,4464 2160,4462 1934,4460 1708,4458 1482,4456 1256,4456 1030,4454 804,4454"/>
+                <Baseline points="804,4502 1030,4502 1256,4504 1482,4504 1708,4506 1934,4508 2160,4510 2386,4512 2612,4514 2838,4516 3064,4518 3290,4520 3516,4522 3742,4524 3968,4526 4194,4528 4420,4530 4646,4532 4872,4534 5098,4536 5324,4536"/>
+                <TextEquiv>
+                    <Unicode>aliquo condempnatarum in casibus in quibus debent bona committi vel cadere in commissum sit domini de Turre et due partes prioratus et inmobilia sint prioratui, mobilia vero quorumque extraneorum seu fo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:41;}">
+                <Coords points="822,4623 1048,4625 1274,4629 1500,4632 1726,4635 1952,4638 2178,4641 2404,4643 2630,4647 2856,4649 3082,4653 3308,4655 3534,4657 3760,4659 3986,4661 4212,4663 4438,4665 4664,4667 4890,4669 5116,4669 5342,4671 5342,4595 5116,4593 4890,4593 4664,4591 4438,4589 4212,4587 3986,4585 3760,4583 3534,4581 3308,4579 3082,4577 2856,4573 2630,4571 2404,4567 2178,4565 1952,4562 1726,4559 1500,4556 1274,4553 1048,4549 822,4547"/>
+                <Baseline points="822,4598 1048,4600 1274,4604 1500,4607 1726,4610 1952,4613 2178,4616 2404,4618 2630,4622 2856,4624 3082,4628 3308,4630 3534,4632 3760,4634 3986,4636 4212,4638 4438,4640 4664,4642 4890,4644 5116,4644 5342,4646"/>
+                <TextEquiv>
+                    <Unicode>rinsecorum dividantur communiter inter dictos dominum et priorem, ita quod prior habeat medietatem eorum et domnus de Turre aliam medietatem. Item, quod in dictis locis et eorum quolibet appellatio et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:42;}">
+                <Coords points="736,4731 966,4737 1197,4741 1428,4745 1658,4749 1889,4753 2120,4755 2350,4759 2581,4761 2812,4763 3043,4765 3273,4767 3504,4769 3735,4769 3965,4771 4196,4772 4427,4773 4657,4775 4888,4775 5119,4777 5350,4777 5350,4701 5119,4701 4888,4699 4657,4699 4427,4697 4196,4696 3965,4695 3735,4693 3504,4693 3273,4691 3043,4689 2812,4687 2581,4685 2350,4683 2120,4679 1889,4677 1658,4673 1428,4669 1197,4665 966,4661 736,4655"/>
+                <Baseline points="736,4706 966,4712 1197,4716 1428,4720 1658,4724 1889,4728 2120,4730 2350,4734 2581,4736 2812,4738 3043,4740 3273,4742 3504,4744 3735,4744 3965,4746 4196,4747 4427,4748 4657,4750 4888,4750 5119,4752 5350,4752"/>
+                <TextEquiv>
+                    <Unicode>ressortum quandocumque a curia dicti prioratus in quoque casu appellare vel ressortiri contingat a falso judicio vel juris deffectum pertineat communiter ad abbatem et domnum de Turre predictos et in eis communiter </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l44" custom="readingOrder {index:43;}">
+                <Coords points="796,4833 1025,4842 1255,4849 1484,4856 1714,4861 1944,4865 2173,4869 2403,4871 2632,4873 2862,4875 3092,4877 3321,4877 3551,4877 3780,4877 4010,4879 4240,4879 4469,4879 4699,4881 4928,4881 5158,4883 5388,4885 5388,4809 5158,4807 4928,4805 4699,4805 4469,4803 4240,4803 4010,4803 3780,4801 3551,4801 3321,4801 3092,4801 2862,4799 2632,4797 2403,4795 2173,4793 1944,4789 1714,4785 1484,4780 1255,4773 1025,4766 796,4757"/>
+                <Baseline points="796,4808 1025,4817 1255,4824 1484,4831 1714,4836 1944,4840 2173,4844 2403,4846 2632,4848 2862,4850 3092,4852 3321,4852 3551,4852 3780,4852 4010,4854 4240,4854 4469,4854 4699,4856 4928,4856 5158,4858 5388,4860"/>
+                <TextEquiv>
+                    <Unicode>appelletur ad eos, et quod de appellationibus quibusque ad eosdem abbatem et domnum de Turre a curia dicti prioratus emissis certa persona per dictum abbatem et alia certa per dictum domnum de Turre degentes et habitantes </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l45" custom="readingOrder {index:44;}">
+                <Coords points="782,4931 1011,4939 1240,4949 1469,4955 1699,4961 1928,4967 2157,4971 2387,4975 2616,4977 2845,4979 3075,4981 3304,4981 3533,4983 3762,4983 3992,4983 4221,4983 4450,4981 4680,4981 4909,4981 5138,4981 5368,4981 5368,4905 5138,4905 4909,4905 4680,4905 4450,4905 4221,4907 3992,4907 3762,4907 3533,4907 3304,4905 3075,4905 2845,4903 2616,4901 2387,4899 2157,4895 1928,4891 1699,4885 1469,4879 1240,4873 1011,4863 782,4855"/>
+                <Baseline points="782,4906 1011,4914 1240,4924 1469,4930 1699,4936 1928,4942 2157,4946 2387,4950 2616,4952 2845,4954 3075,4956 3304,4956 3533,4958 3762,4958 3992,4958 4221,4958 4450,4956 4680,4956 4909,4956 5138,4956 5368,4956"/>
+                <TextEquiv>
+                    <Unicode>infra duas leucas proxime dicto prioratui de Borto constituantur habitantes ab ipsis abbate et domno videlicet persona constituta a constituente eandem postestatem cognoscendi de appellationibus predictis et criandi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l46" custom="readingOrder {index:45;}">
+                <Coords points="790,5037 1020,5046 1250,5053 1480,5059 1710,5065 1941,5069 2171,5073 2401,5075 2631,5079 2861,5081 3092,5081 3322,5083 3552,5083 3782,5083 4012,5083 4243,5083 4473,5083 4703,5083 4933,5083 5163,5083 5394,5085 5394,5010 5163,5008 4933,5008 4703,5008 4473,5008 4243,5008 4012,5008 3782,5008 3552,5008 3322,5008 3092,5006 2861,5006 2631,5004 2401,5000 2171,4998 1941,4994 1710,4990 1480,4984 1250,4978 1020,4971 790,4962"/>
+                <Baseline points="790,5012 1020,5021 1250,5028 1480,5034 1710,5040 1941,5044 2171,5048 2401,5050 2631,5054 2861,5056 3092,5056 3322,5058 3552,5058 3782,5058 4012,5058 4243,5058 4473,5058 4703,5058 4933,5058 5163,5058 5394,5060"/>
+                <TextEquiv>
+                    <Unicode>causas appellationum predictarum et dandi seu constituendi judicem alium communem pro ipsis abbate et domino de Turre super cognitione ac decisione appellationum predictarum, si et quando super dando dicto judice poterint convenire, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l47" custom="readingOrder {index:46;}">
+                <Coords points="792,5139 1020,5149 1248,5157 1476,5165 1704,5172 1933,5177 2161,5183 2389,5187 2617,5191 2845,5193 3074,5195 3302,5196 3530,5197 3758,5197 3986,5197 4215,5197 4443,5195 4671,5195 4899,5193 5127,5193 5356,5191 5356,5116 5127,5118 4899,5118 4671,5120 4443,5120 4215,5122 3986,5122 3758,5122 3530,5122 3302,5121 3074,5120 2845,5118 2617,5116 2389,5112 2161,5108 1933,5102 1704,5097 1476,5090 1248,5082 1020,5074 792,5064"/>
+                <Baseline points="792,5114 1020,5124 1248,5132 1476,5140 1704,5147 1933,5152 2161,5158 2389,5162 2617,5166 2845,5168 3074,5170 3302,5171 3530,5172 3758,5172 3986,5172 4215,5172 4443,5170 4671,5170 4899,5168 5127,5168 5356,5166"/>
+                <TextEquiv>
+                    <Unicode>qui judex datus ab eis eo ipso quod ipsum dederint habeat ab ipsis abbate et domno de Turre potestatem plenariam ad premissa ad que ab ispis concordatum fuerit constitutus et eo casu quo, ut predictum est, concorditer inde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l48" custom="readingOrder {index:47;}">
+                <Coords points="754,5241 1065,5254 1288,5263 1511,5272 1734,5279 1958,5287 2181,5293 2404,5299 2627,5302 2850,5305 3074,5309 3297,5311 3520,5313 3743,5313 3966,5313 4190,5313 4413,5311 4636,5309 4859,5307 5082,5305 5306,5301 5306,5225 5082,5229 4859,5231 4636,5233 4413,5235 4190,5237 3966,5237 3743,5237 3520,5237 3297,5235 3074,5233 2850,5229 2627,5226 2404,5223 2181,5217 1958,5211 1734,5203 1511,5196 1288,5187 1065,5178 754,5165"/>
+                <Baseline points="780,5222 1003,5231 1288,5238 1511,5247 1734,5254 1958,5262 2181,5268 2404,5274 2627,5277 2850,5280 3074,5284 3297,5286 3520,5288 3743,5288 3966,5288 4190,5288 4413,5286 4636,5284 4859,5282 5082,5280 5306,5276"/>
+                <TextEquiv>
+                    <Unicode>dictum dederint aut constituerint potestas eorum quo ad cognitionem et decisionem in quibus ipsum dederint per dacionem ipsam expiret. Que persone a prefatis abbatem et domno de Turre constitute ut judex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l49" custom="readingOrder {index:48;}">
+                <Coords points="776,5333 1006,5348 1236,5360 1466,5372 1696,5381 1926,5391 2156,5399 2386,5406 2616,5411 2846,5415 3076,5419 3306,5421 3536,5423 3766,5423 3996,5423 4226,5423 4456,5421 4686,5417 4916,5413 5146,5409 5376,5403 5376,5327 5146,5333 4916,5337 4686,5341 4456,5345 4226,5347 3996,5347 3766,5347 3536,5347 3306,5345 3076,5343 2846,5339 2616,5335 2386,5330 2156,5323 1926,5315 1696,5305 1466,5296 1236,5284 1006,5272 776,5257"/>
+                <Baseline points="776,5308 1006,5323 1236,5335 1466,5347 1696,5356 1926,5366 2156,5374 2386,5381 2616,5386 2846,5390 3076,5394 3306,5396 3536,5398 3766,5398 3996,5398 4226,5398 4456,5396 4686,5392 4916,5388 5146,5384 5376,5378"/>
+                <TextEquiv>
+                    <Unicode>communis si datus fuerit ut predictum est infra .viii. dies post requisitionem appelantur cuiuslibet ut ejus nuncii assignent diem certam et competentem post ipsos octo dies et locum infra confinationes predictas ad cognoscendum de appellatione </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l50" custom="readingOrder {index:49;}">
+                <Coords points="768,5437 997,5451 1226,5465 1456,5477 1685,5489 1915,5499 2144,5508 2373,5516 2603,5523 2832,5527 3062,5533 3291,5535 3520,5537 3750,5537 3979,5537 4209,5535 4438,5531 4667,5526 4897,5519 5126,5511 5356,5503 5356,5427 5126,5435 4897,5443 4667,5450 4438,5455 4209,5459 3979,5461 3750,5461 3520,5461 3291,5459 3062,5457 2832,5451 2603,5447 2373,5440 2144,5432 1915,5423 1685,5413 1456,5401 1226,5389 997,5375 768,5361"/>
+                <Baseline points="768,5412 997,5426 1226,5440 1456,5452 1685,5464 1915,5474 2144,5483 2373,5491 2603,5498 2832,5502 3062,5508 3291,5510 3520,5512 3750,5512 3979,5512 4209,5510 4438,5506 4667,5501 4897,5494 5126,5486 5356,5478"/>
+                <TextEquiv>
+                    <Unicode>predicta. Item, quod dictus dominus de Turre et quicumque successor eiusdem teneant a dicto abbate et successoris suis in feudum in augmentum alterius feudi quod tenent ab ipsa premissa omnia que ratione presente compositionis hunc </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l51" custom="readingOrder {index:50;}">
+                <Coords points="760,5553 991,5563 1222,5573 1453,5583 1684,5594 1915,5603 2146,5612 2377,5621 2608,5627 2839,5634 3070,5639 3301,5643 3532,5645 3763,5647 3994,5645 4225,5643 4456,5637 4687,5629 4918,5619 5149,5607 5380,5593 5380,5517 5149,5531 4918,5543 4687,5553 4456,5561 4225,5567 3994,5569 3763,5571 3532,5569 3301,5567 3070,5563 2839,5558 2608,5551 2377,5545 2146,5536 1915,5527 1684,5518 1453,5507 1222,5497 991,5487 760,5477"/>
+                <Baseline points="760,5528 991,5538 1222,5548 1453,5558 1684,5569 1915,5578 2146,5587 2377,5596 2608,5602 2839,5609 3070,5614 3301,5618 3532,5620 3763,5622 3994,5620 4225,5618 4456,5612 4687,5604 4918,5594 5149,5582 5380,5568"/>
+                <TextEquiv>
+                    <Unicode>et habitari sunt, prout continetur in ipsa compositione in prioratu et pertinentibus prioratus predicti de Borto et villis mansis, terris et locis, quibusque pertinentibus ad prioratum predictum. Quam compositionem amica¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l52" custom="readingOrder {index:51;}">
+                <Coords points="780,5661 1009,5673 1238,5685 1467,5697 1696,5707 1926,5717 2155,5725 2384,5733 2613,5739 2842,5745 3072,5749 3301,5751 3530,5753 3759,5753 3988,5751 4218,5749 4447,5744 4676,5737 4905,5729 5134,5717 5364,5705 5364,5629 5134,5641 4905,5653 4676,5661 4447,5668 4218,5673 3988,5675 3759,5677 3530,5677 3301,5675 3072,5673 2842,5669 2613,5663 2384,5657 2155,5649 1926,5641 1696,5631 1467,5621 1238,5609 1009,5597 780,5585"/>
+                <Baseline points="780,5636 1009,5648 1238,5660 1467,5672 1696,5682 1926,5692 2155,5700 2384,5708 2613,5714 2842,5720 3072,5724 3301,5726 3530,5728 3759,5728 3988,5726 4218,5724 4447,5719 4676,5712 4905,5704 5134,5692 5364,5680"/>
+                <TextEquiv>
+                    <Unicode>bilem nos abbas conventus et prior prefati evidenter cognoscentes nobis et dicto prioratu existere fructuosam ac ex ea nostram et monasterii nostri et prioratus predicti inchorem et locupletiorem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l53" custom="readingOrder {index:52;}">
+                <Coords points="792,5773 1018,5783 1245,5795 1472,5805 1699,5815 1926,5824 2152,5833 2379,5840 2606,5846 2833,5853 3060,5857 3286,5859 3513,5861 3740,5861 3967,5859 4194,5855 4420,5851 4647,5842 4774,5835 5001,5823 5328,5807 5328,5737 5101,5751 4874,5763 4647,5772 4420,5781 4194,5785 3967,5789 3740,5791 3513,5791 3286,5789 3060,5787 2833,5783 2606,5776 2379,5770 2152,5763 1926,5754 1699,5745 1472,5735 1245,5725 1018,5713 792,5703"/>
+                <Baseline points="792,5750 1018,5760 1245,5772 1472,5782 1699,5792 1926,5801 2152,5810 2379,5817 2606,5823 2833,5830 3060,5834 3286,5836 3513,5838 3740,5838 3967,5836 4194,5832 4420,5828 4647,5819 4874,5810 5101,5798 5328,5784"/>
+                <TextEquiv>
+                    <Unicode>effectam certificati plene de jure ipsius domni de Turre et predecessorum suorum antiquo prehabita inquisitione super hec diligenti et in capitulo nostro inter nos super hiis habito communi et concordi et tractatu laudamus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l54" custom="readingOrder {index:53;}">
+                <Coords points="784,5876 1011,5892 1238,5906 1466,5918 1693,5932 1921,5943 2148,5952 2375,5962 2603,5970 2830,5976 3058,5980 3285,5984 3512,5984 3740,5984 3967,5982 4195,5976 4422,5970 4649,5961 4877,5950 5104,5936 5332,5920 5332,5851 5104,5867 4877,5881 4649,5892 4422,5901 4195,5907 3967,5913 3740,5915 3512,5915 3285,5915 3058,5911 2830,5907 2603,5901 2375,5893 2148,5883 1921,5874 1693,5863 1466,5849 1238,5837 1011,5823 784,5807"/>
+                <Baseline points="800,5846 1027,5862 1254,5876 1482,5888 1709,5902 1937,5913 2164,5922 2391,5932 2619,5940 2846,5946 3074,5950 3301,5954 3528,5954 3756,5954 3983,5952 4211,5946 4438,5940 4665,5931 4893,5920 5120,5906 5348,5890"/>
+                <TextEquiv>
+                    <Unicode>et approbamus eandem et omnia premissa expresse. Nosque prefatus Bernardus dominus de Turre compositionem ipsam et premissa omnia laudamus, ratificamus et approbamus certiorati prius de jure dicti prioratus et delibera¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l55" custom="readingOrder {index:54;}">
+                <Coords points="800,5963 1026,5982 1253,5999 1480,6014 1707,6027 1934,6040 2160,6050 2387,6059 2614,6065 2841,6071 3068,6075 3294,6077 3521,6079 3748,6077 3975,6075 4202,6071 4428,6065 4655,6057 4882,6049 5109,6037 5336,6025 5336,5956 5109,5968 4882,5980 4655,5988 4428,5996 4202,6002 3975,6006 3748,6008 3521,6010 3294,6008 3068,6006 2841,6002 2614,5996 2387,5990 2160,5981 1934,5971 1707,5958 1480,5945 1253,5930 1026,5913 800,5894"/>
+                <Baseline points="800,5940 1026,5959 1253,5976 1480,5991 1707,6004 1934,6017 2160,6027 2387,6036 2614,6042 2841,6048 3068,6052 3294,6054 3521,6056 3748,6054 3975,6052 4202,6048 4428,6042 4655,6034 4882,6026 5109,6014 5336,6002"/>
+                <TextEquiv>
+                    <Unicode>to super hiis consilio cum amicis notris. Et renunciantes nos dicte partes et nostrum quelibet in hoc facto actioni et exceptioni doli et in factum et indebiti et sine causa restitutionis in integrum et videlicet officio </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l56" custom="readingOrder {index:55;}">
+                <Coords points="776,6070 1003,6086 1231,6101 1458,6115 1686,6128 1914,6138 2141,6148 2369,6156 2596,6164 2824,6170 3052,6174 3279,6177 3507,6178 3734,6178 3962,6176 4190,6172 4417,6167 4645,6160 4872,6152 5100,6141 5328,6128 5328,6056 5100,6069 4872,6080 4645,6088 4417,6095 4190,6100 3962,6104 3734,6106 3507,6106 3279,6105 3052,6102 2824,6098 2596,6092 2369,6084 2141,6076 1914,6066 1686,6056 1458,6043 1231,6029 1003,6014 776,5998"/>
+                <Baseline points="776,6046 1003,6062 1231,6077 1458,6091 1686,6104 1914,6114 2141,6124 2369,6132 2596,6140 2824,6146 3052,6150 3279,6153 3507,6154 3734,6154 3962,6152 4190,6148 4417,6143 4645,6136 4872,6128 5100,6117 5328,6104"/>
+                <TextEquiv>
+                    <Unicode>et omni consuetudine et usagio et omni jure canonico et civili nobis competenti seu competituro et juri dicenti quod juri quod nundum competit renunciare non potest. Nosque abbas conventus et prior </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l57" custom="readingOrder {index:56;}">
+                <Coords points="780,6190 1006,6196 1233,6206 1459,6215 1686,6226 1913,6235 2139,6244 2366,6254 2592,6262 2819,6272 3046,6277 3272,6282 3499,6286 3725,6288 3952,6288 4179,6284 4405,6278 4632,6270 4858,6258 5085,6242 5312,6224 5312,6152 5085,6170 4858,6186 4632,6198 4405,6206 4179,6212 3952,6216 3725,6216 3499,6214 3272,6210 3046,6205 2819,6200 2592,6190 2366,6182 2139,6172 1913,6163 1686,6154 1459,6143 1233,6134 1006,6124 780,6118"/>
+                <Baseline points="780,6166 1012,6197 1239,6207 1459,6191 1686,6202 1913,6211 2139,6220 2366,6230 2592,6238 2819,6248 3046,6253 3272,6258 3499,6262 3725,6264 3952,6264 4179,6260 4405,6254 4632,6246 4858,6234 5085,6218 5312,6200"/>
+                <TextEquiv>
+                    <Unicode>prefati cuicumque juri alienationem rei ecclesiastice prohibenti et nos dictus dominus de Turre beneficio minoris etatis et nostrum quilibet juri dicenti generalem renunciationem non valere nisi super </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l58" custom="readingOrder {index:57;}">
+                <Coords points="800,6285 1027,6297 1254,6311 1482,6322 1709,6333 1937,6345 2164,6356 2391,6364 2619,6373 2846,6381 3074,6386 3301,6391 3528,6393 3756,6393 3983,6391 4211,6388 4438,6381 4665,6373 4893,6362 5120,6347 5348,6329 5348,6254 5120,6272 4893,6287 4665,6298 4438,6306 4211,6313 3983,6316 3756,6318 3528,6318 3301,6316 3074,6311 2846,6306 2619,6298 2391,6289 2164,6281 1937,6270 1709,6258 1482,6247 1254,6236 1027,6222 800,6210"/>
+                <Baseline points="800,6260 1027,6272 1254,6286 1482,6297 1709,6308 1937,6320 2164,6331 2391,6339 2619,6348 2846,6356 3074,6361 3301,6366 3528,6368 3756,6368 3983,6366 4211,6363 4438,6356 4665,6348 4893,6337 5120,6322 5348,6304"/>
+                <TextEquiv>
+                    <Unicode>expressis, volentes omnis et singulas renunciationes pro expressim specificatione haberi. Promittimus nos dicti abbas et conventus bona fide, nosque dictus prior ad hoc hoc[sic] ab eisdem abbate et conventu </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l59" custom="readingOrder {index:58;}">
+                <Coords points="792,6384 1019,6399 1246,6413 1473,6427 1700,6439 1927,6452 2154,6462 2381,6472 2608,6479 2835,6486 3062,6490 3289,6492 3516,6494 3743,6494 3970,6490 4197,6485 4424,6478 4651,6468 4878,6456 5105,6441 5332,6422 5332,6350 5105,6369 4878,6384 4651,6396 4424,6406 4197,6413 3970,6418 3743,6422 3516,6422 3289,6420 3062,6418 2835,6414 2608,6407 2381,6400 2154,6390 1927,6380 1700,6367 1473,6355 1246,6341 1019,6327 792,6312"/>
+                <Baseline points="792,6360 1019,6375 1246,6389 1473,6403 1700,6415 1927,6428 2154,6438 2381,6448 2608,6455 2835,6462 3062,6466 3289,6468 3516,6470 3743,6470 3970,6466 4197,6461 4424,6454 4651,6444 4878,6432 5105,6417 5332,6398"/>
+                <TextEquiv>
+                    <Unicode>specialiter funditus constitutus pro nobis et in animas eorumdem abbatis et conventus et nostram et nos dictus dominus de Turre juramus super sancta Domini ewangelia manu tacta attendere et servare permissa et quolibet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l60" custom="readingOrder {index:59;} sic {offset:102; length:8;} comment {offset:111; length:14;}">
+                <Coords points="812,6489 1036,6503 1260,6515 1485,6526 1709,6538 1934,6549 2158,6559 2382,6567 2607,6575 2831,6581 3056,6587 3280,6591 3504,6593 3729,6593 3953,6591 4178,6587 4402,6581 4626,6570 4851,6559 5075,6545 5300,6527 5300,6463 5075,6481 4851,6495 4626,6506 4402,6517 4178,6523 3953,6527 3729,6529 3504,6529 3280,6527 3056,6523 2831,6517 2607,6511 2382,6503 2158,6495 1934,6485 1709,6474 1485,6462 1260,6451 1036,6439 812,6425"/>
+                <Baseline points="812,6468 1036,6482 1260,6494 1485,6505 1709,6517 1934,6528 2158,6538 2382,6546 2607,6554 2831,6560 3056,6566 3280,6570 3504,6572 3729,6572 3953,6570 4178,6566 4402,6560 4626,6549 4851,6538 5075,6524 5300,6506"/>
+                <TextEquiv>
+                    <Unicode>eorumdem et qua premissorum aliquo per nos vel per alium non venire nec fecisse aliquod nec facturos, quominus [pro quatenus] premissa obtineant robur plenum. Nosque contra hec vel horum aliquod non usuri aliquo privilegio, gratia, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l61" custom="readingOrder {index:60;}">
+                <Coords points="780,6595 1006,6605 1232,6613 1459,6623 1685,6634 1912,6645 2138,6656 2364,6667 2591,6676 2817,6685 3044,6691 3270,6697 3496,6699 3723,6701 3949,6699 4176,6693 4402,6687 4628,6674 4855,6659 5081,6638 5308,6615 5308,6551 5081,6574 4855,6595 4628,6610 4402,6623 4176,6629 3949,6635 3723,6637 3496,6635 3270,6633 3044,6627 2817,6621 2591,6612 2364,6603 2138,6592 1912,6581 1685,6570 1459,6559 1232,6549 1006,6541 780,6531"/>
+                <Baseline points="780,6574 1006,6584 1232,6592 1459,6602 1685,6613 1912,6624 2138,6635 2364,6646 2591,6655 2817,6664 3044,6670 3270,6676 3496,6678 3723,6680 3949,6678 4176,6672 4402,6666 4628,6653 4855,6638 5081,6617 5308,6594"/>
+                <TextEquiv>
+                    <Unicode>indulgencia rescripto seu statuto a quoque principe vel persona alia, facto seu faciendo, indulto seu indulgendo, cuiusque forme, tenore seu virtute existat sub forma ea que </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l62" custom="readingOrder {index:61;}">
+                <Coords points="804,6697 1030,6710 1256,6723 1483,6735 1709,6747 1936,6759 2162,6771 2388,6782 2615,6791 2841,6800 3068,6806 3294,6811 3520,6813 3747,6813 3973,6812 4200,6807 4426,6799 4652,6789 4879,6775 5105,6757 5332,6735 5332,6659 5105,6681 4879,6699 4652,6713 4426,6723 4200,6731 3973,6736 3747,6737 3520,6737 3294,6735 3068,6730 2841,6724 2615,6715 2388,6706 2162,6695 1936,6683 1709,6671 1483,6659 1256,6647 1030,6634 804,6621"/>
+                <Baseline points="804,6672 1030,6685 1256,6698 1483,6710 1709,6722 1936,6734 2162,6746 2388,6757 2615,6766 2841,6775 3068,6781 3294,6786 3520,6788 3747,6788 3973,6787 4200,6782 4426,6774 4652,6764 4879,6750 5105,6732 5332,6710"/>
+                <TextEquiv>
+                    <Unicode>de bonis in maiori vel minori forma vel alia quaque. In quorum testimonium nos abbas conventus prior et dominus de Turre predicti sigillis nostris presentes litteras roboramus una cum sigil¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l63" custom="readingOrder {index:62;}">
+                <Coords points="796,6798 1018,6808 1241,6820 1464,6832 1687,6845 1910,6858 2132,6870 2355,6881 2578,6893 2801,6903 3024,6912 3246,6918 3469,6924 3692,6926 3915,6926 4138,6924 4360,6918 4583,6908 4806,6896 5029,6880 5252,6858 5252,6785 5029,6807 4806,6823 4583,6835 4360,6845 4138,6851 3915,6853 3692,6853 3469,6851 3246,6845 3024,6839 2801,6830 2578,6820 2355,6808 2132,6797 1910,6785 1687,6772 1464,6759 1241,6747 1018,6735 796,6725"/>
+                <Baseline points="796,6774 1018,6784 1241,6796 1464,6808 1687,6821 1910,6834 2132,6846 2355,6857 2578,6869 2801,6879 3024,6888 3246,6894 3469,6900 3692,6902 3915,6902 4138,6900 4360,6894 4583,6884 4806,6872 5029,6856 5252,6834"/>
+                <TextEquiv>
+                    <Unicode>lo nobis domine de Turre. Nos quoque Beatrix de Olerguio domina de Turre premissis omnibus et singulis consencientes expresse sigillum nostrum presentibus litteris duximus apponendum. Datum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l64" custom="readingOrder {index:63;}">
+                <Coords points="808,6911 918,6915 1029,6917 1140,6921 1251,6925 1362,6930 1473,6935 1584,6941 1695,6946 1806,6954 1917,6962 2027,6969 2138,6977 2249,6987 2360,6994 2471,7006 2582,7016 2693,7027 2804,7039 2915,7050 3026,7063 3026,6987 2915,6974 2804,6963 2693,6951 2582,6940 2471,6930 2360,6918 2249,6911 2138,6901 2027,6893 1917,6886 1806,6878 1695,6870 1584,6865 1473,6859 1362,6854 1251,6849 1140,6845 1029,6841 918,6839 808,6835"/>
+                <Baseline points="808,6886 918,6890 1029,6892 1140,6896 1251,6900 1362,6905 1473,6910 1584,6916 1695,6921 1806,6929 1917,6937 2027,6944 2138,6952 2249,6962 2360,6969 2471,6981 2582,6991 2693,7002 2804,7014 2915,7025 3026,7038"/>
+                <TextEquiv>
+                    <Unicode>die veneris ante festum beate Marie Magdalene, anno Domini millesimo tricentesimo secundo. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Universis presentes litteras inspecturis, frater Bertrandus minister humilis ecclesie Cluniacensis et dicti loci conventus et frater Hugo prior prioratus de Borto Lemovicensis dyocesis et Bernardus &#13;
+dominus de Turre domicellus salutem. Noveritis quod cum, inter nos abbatem, conventum et priorem predictos nomine dicti prioratus ex parte una et nos dictum dominum de Turre ex altera, discordia, contentio &#13;
+ac questio verteretur ac fuisset diucius agitata super eo, quod nos dominus de Turre prefatus dicebamus juridicionem omnimodam et justitiam altam et bassam prioratus predicti et omnium pertinentium ejusdem &#13;
+ad nos plene et insolidum pertinere et ad predecessores nostros pertinuisse ab antiquo nobis, abbate, conventu et priore predictis e contrario assentibus juridictionem et justiciam antedictas ad priorem dicti loci &#13;
+ratione dicti prioratus plene et insolidum pertinere et pertinuisse ab antiquo ad quoscumque pro tempore dicti loci priores. Tandem inter nos partes predictas grata concordia et compositio amicabilis interve¬&#13;
+nit super premissis hoc modo, quod videlicet dictus prior et quicumque im posterum successor eiusdem prior prioratus predicti habeat et exerceat in prioratu et villa de Borto et illis pertinentiis &#13;
+ejusdem prioratus que inferius exprimuntur, et que site sunt infra fines et confinationes sequentes : videlicet a ponte sancti Thome prout itur recta via et protenditur ipsa via a dicto &#13;
+ponte retro villam Sancti Thome usque ad vadum de la Saula, et a dicto vado usque ad rivum qui dividit nemus de Peyrot et nemus prioratus de Borto, et a dicto nemore usque ad molendi¬&#13;
+num de Lescluza, et a dicto molendino usque apud Gronghas et usque ad rivum de supra Grangheras et usque ad terras que dividunt terras de Grangiis et prioratus de Borto et terras &#13;
+que sunt de feudo domini de Valle, inclusis infra dictas metas villis sancti Thome, del Bochet, de Vernhanerya et de Grangiis, item et prout protenditur in Lemovicense dyocese a villa &#13;
+de Ribayros usque ad metas que dividunt terras prioratus de Borto et terras militum Podii de Borto, usque ad metas nemoris de Borto siti in dicta dyocese Lemovicense a parte occidentale, inclusis &#13;
+infra dictas metas villis de Raibayrolside, Chosmellis, habeat in qua et exerceat per se vel per alium vel alios perpetuo juridictionem omnimodam et justitiam altam et bassam et merum et &#13;
+mixtum imperium et eisdem utatur plene et libere in terra et rebus pertinentibus ad prioratum predictum salvis que inferius exprimuntur, videlicet quod in predictis prioratu et villa de Bor¬&#13;
+to et aliis villis, mansis, caputmansis, terris, possessionibus superius nominatis et aliis quibuscumque fundis existent ibi infra confinationes predictas abbas Cluniacensis et dominus de Turre communiter perpetuo &#13;
+habeant appellationem et ressortum et ad ipsos et eorum successores appelletur quandocumque a curia temporali dicti prioris appellari vel ressortiri continget a quocumque et in casu quoque a falso judicio &#13;
+vel juris deffectum tantum. Item quod exequtio illorum qui fuerint condempnati per curiam dicti prioratus ad mortem vel menbri mutilationem fiat per dominum de Turre vel eius gentes perpetuo extra &#13;
+confinationes predictas et extra terram prioratus predicti, ita videlicet quod gentes dicti prioratus et die quo fuerit condempnatio aliquis per curiam dicti prioratus ad mortem vel ad menbri mutilationem &#13;
+vel in crastinum dicte diei significent bavilo de Turreria si fuerit presens in castro de Turreria, si autem absens fuerit cellarario vel servienti Turrerie(?), vel in absentia utrorumque persone alii &#13;
+existenti infra castrum predictum, pro sequienti tercia die significationis predicte inter primam et terciam dicte diei tercie veniant vel mittant gentes suas pro recipiendo condempnato predicto &#13;
+tradendo eidem bavilo vel servienti aut cellarario Turrerie vel alii persone habenti certum mandatum ad hoc a dicto bavilo vel serviente vel cellarario predictis, tradendo, inquam, per gentes &#13;
+dicti prioratus in itinere quo iter de Borto apud Turreriam in loco sito inter rivum de Grangiis et molendinum dicte ville de Grangiis, quod est inter dictum iter et aquam Dordonie, &#13;
+qui locus ex pacto expresso et convento in compositione predicta nominatus est et dictus perpetuo ad tradendum condempnatos predictos. Et si contingat bavilum Turrerie(?) vel alios seu unum &#13;
+eis, ut predictum est, non venire dicta die tercia ab hora prime usque ad terciam quod hore spatium expectare tenentur gentes prioris predicti eosdem in loco predicto pro facienda tra¬&#13;
+dictione predicta, et tunc dicta hora elapsa gentes dicti prioratus poterunt condempnatum illum reducere ad carcerem dicti prioratus. Et eadem die debebunt iterato significare apud Turreriam(?) dicto &#13;
+bavilo, vel si absens fuerit, servienti vel cellarario dicti loci vel in eorum absentia alii persone existenti infra castrum predictum, quod in crastinum illius diei ab hora meridiana &#13;
+usque ad nonam quod hore spacium gentes dicti prioratus ad hoc in dicto loco expectare tenentur, veniant vel mittant pro recipiendo condempnato predicto. Et si tunc bavilus &#13;
+Turrerie vel persone ad hoc superius designate vel earum aliqua non venerit ex tunc dictis significationibus re vera prehabitis et dictis horis elapsis, gentes dicti prioratus facere &#13;
+poterunt exequtionem condempnati predicti infra metas predictas, ita quod si dicta exequtio exigat creationem furcarum, possint gentes prioratus ad hoc furcas exigere infra me¬&#13;
+tas predictas et in eis facere exqutionem predictam. Que furche suspenso existente in eis terminis(?) et non ultra poterunt esse at remanere erecte. Ex tunc gentes prioratus &#13;
+eas frangere et diruere tenebuntur et occasione seu pretextu illius creationis furcarum quam in dicto casu tamen et non in alio nisi eodem casu iterum contingente poterunt &#13;
+nec debebunt facere gentes dicti prioratus non sit nec fiat in posterum prejudicium aliquod domno de Turre quod idem prior aliter vel ad casum alium quam predictum est habere possit &#13;
+vel ei liceat furcas erectas infra confinaciones predictas nec dominus de Turre vel ejus gentes mutare poterunt penam impositam condempnato pro curia prioratus, nisi in casu &#13;
+ressorti cuius ressorti cognitio communis erit abbatis et domni predictorum. Item, si domnus de Turre proprietatem aliquam habeat, vel quique alius qui eam teneat ab eodem in dictis &#13;
+locis infra vel extra confinaciones predictas, nichil jure domni juridictionis exercitii vel explecti habebit dictus prior ibidem. Item, quod in villa de Meneto, d'Arbaro, de Co¬&#13;
+etas, de Campis, de Perol, de Sernols, das Ghanghas, de Maranghas, de Chassanhas, de Sacrozoada, et eorum pertinentium et aliis villis, mansis, caputmansis, bordariis, affariis et tenementis, &#13;
+et aliis possessionibus ad prioratum predictum pertinentibus quibuscumque et quecumque et ubicumque sint, et quocumque nomine dici possint et in omnibus pertinentibus premissorum et cuilibet eorumdem et in omnibus et singulis &#13;
+habitatoribus premissorum, dictus prior et eius successores perpetuo utantur omnimoda juridictione temporali exceptis casibus qui sequntur, videlicet in casibus qui requirunt mortem suppli¬&#13;
+cium vel mutilationem menbrorum vel perpetuum exilium vel relegationem quorum casuum et eorum, cujulibet cognitio in dictis locis et eorum quolibet contingentium quandocumque fiet perpetuo per &#13;
+domnum de Turre vel bavilum suum in loco ubi maleficium fuerit perpetratum et exequtio quorumque condempnatorum per curiam dicti domni de Turre in quoque casuum predictorum fiet per gentes &#13;
+ipsius domini extra terram prioratus predicti vel illorum qui eam a dicto priore tenebunt. Item quod tercia pars bonorum mobilium quarumcumque personarum habitantium quandocumque pro tempore in locis predictis vel eorum &#13;
+aliquo condempnatarum in casibus in quibus debent bona committi vel cadere in commissum sit domini de Turre et due partes prioratus et inmobilia sint prioratui, mobilia vero quorumque extraneorum seu fo¬&#13;
+rinsecorum dividantur communiter inter dictos dominum et priorem, ita quod prior habeat medietatem eorum et domnus de Turre aliam medietatem. Item, quod in dictis locis et eorum quolibet appellatio et &#13;
+ressortum quandocumque a curia dicti prioratus in quoque casu appellare vel ressortiri contingat a falso judicio vel juris deffectum pertineat communiter ad abbatem et domnum de Turre predictos et in eis communiter &#13;
+appelletur ad eos, et quod de appellationibus quibusque ad eosdem abbatem et domnum de Turre a curia dicti prioratus emissis certa persona per dictum abbatem et alia certa per dictum domnum de Turre degentes et habitantes &#13;
+infra duas leucas proxime dicto prioratui de Borto constituantur habitantes ab ipsis abbate et domno videlicet persona constituta a constituente eandem postestatem cognoscendi de appellationibus predictis et criandi &#13;
+causas appellationum predictarum et dandi seu constituendi judicem alium communem pro ipsis abbate et domino de Turre super cognitione ac decisione appellationum predictarum, si et quando super dando dicto judice poterint convenire, &#13;
+qui judex datus ab eis eo ipso quod ipsum dederint habeat ab ipsis abbate et domno de Turre potestatem plenariam ad premissa ad que ab ispis concordatum fuerit constitutus et eo casu quo, ut predictum est, concorditer inde&#13;
+dictum dederint aut constituerint potestas eorum quo ad cognitionem et decisionem in quibus ipsum dederint per dacionem ipsam expiret. Que persone a prefatis abbatem et domno de Turre constitute ut judex&#13;
+communis si datus fuerit ut predictum est infra .viii. dies post requisitionem appelantur cuiuslibet ut ejus nuncii assignent diem certam et competentem post ipsos octo dies et locum infra confinationes predictas ad cognoscendum de appellatione &#13;
+predicta. Item, quod dictus dominus de Turre et quicumque successor eiusdem teneant a dicto abbate et successoris suis in feudum in augmentum alterius feudi quod tenent ab ipsa premissa omnia que ratione presente compositionis hunc &#13;
+et habitari sunt, prout continetur in ipsa compositione in prioratu et pertinentibus prioratus predicti de Borto et villis mansis, terris et locis, quibusque pertinentibus ad prioratum predictum. Quam compositionem amica¬&#13;
+bilem nos abbas conventus et prior prefati evidenter cognoscentes nobis et dicto prioratu existere fructuosam ac ex ea nostram et monasterii nostri et prioratus predicti inchorem et locupletiorem &#13;
+effectam certificati plene de jure ipsius domni de Turre et predecessorum suorum antiquo prehabita inquisitione super hec diligenti et in capitulo nostro inter nos super hiis habito communi et concordi et tractatu laudamus&#13;
+et approbamus eandem et omnia premissa expresse. Nosque prefatus Bernardus dominus de Turre compositionem ipsam et premissa omnia laudamus, ratificamus et approbamus certiorati prius de jure dicti prioratus et delibera¬&#13;
+to super hiis consilio cum amicis notris. Et renunciantes nos dicte partes et nostrum quelibet in hoc facto actioni et exceptioni doli et in factum et indebiti et sine causa restitutionis in integrum et videlicet officio &#13;
+et omni consuetudine et usagio et omni jure canonico et civili nobis competenti seu competituro et juri dicenti quod juri quod nundum competit renunciare non potest. Nosque abbas conventus et prior &#13;
+prefati cuicumque juri alienationem rei ecclesiastice prohibenti et nos dictus dominus de Turre beneficio minoris etatis et nostrum quilibet juri dicenti generalem renunciationem non valere nisi super &#13;
+expressis, volentes omnis et singulas renunciationes pro expressim specificatione haberi. Promittimus nos dicti abbas et conventus bona fide, nosque dictus prior ad hoc hoc[sic] ab eisdem abbate et conventu &#13;
+specialiter funditus constitutus pro nobis et in animas eorumdem abbatis et conventus et nostram et nos dictus dominus de Turre juramus super sancta Domini ewangelia manu tacta attendere et servare permissa et quolibet&#13;
+eorumdem et qua premissorum aliquo per nos vel per alium non venire nec fecisse aliquod nec facturos, quominus [pro quatenus] premissa obtineant robur plenum. Nosque contra hec vel horum aliquod non usuri aliquo privilegio, gratia, &#13;
+indulgencia rescripto seu statuto a quoque principe vel persona alia, facto seu faciendo, indulto seu indulgendo, cuiusque forme, tenore seu virtute existat sub forma ea que &#13;
+de bonis in maiori vel minori forma vel alia quaque. In quorum testimonium nos abbas conventus prior et dominus de Turre predicti sigillis nostris presentes litteras roboramus una cum sigil¬&#13;
+lo nobis domine de Turre. Nos quoque Beatrix de Olerguio domina de Turre premissis omnibus et singulis consencientes expresse sigillum nostrum presentibus litteris duximus apponendum. Datum &#13;
+die veneris ante festum beate Marie Magdalene, anno Domini millesimo tricentesimo secundo. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:1;}">
+            <Coords points="5370,6224 5370,6382 5454,6382 5454,6224"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:2;}">
+            <Coords points="5594,6358 5594,6512 5642,6512 5642,6358"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-17T17:10:40.055+01:00</Created>
+        <LastChange>2023-02-08T12:20:33.314+01:00</LastChange>
+        <TranskribusMetadata docId="540436" pageId="22765814" pageNr="127"/>
+    </Metadata>
+    <Page imageFilename="126.jpg" imageWidth="6120" imageHeight="7800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1675855233314" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1286,2736 1286,4792 5057,4787 5057,2731"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1346,2808 1527,2817 1709,2826 1890,2833 2072,2841 2254,2849 2435,2856 2617,2863 2798,2870 2980,2876 3162,2883 3343,2890 3525,2898 3706,2904 3888,2911 4070,2920 4251,2927 4433,2935 4614,2946 4796,2955 4978,2964 4978,2892 4796,2883 4614,2874 4433,2863 4251,2855 4070,2848 3888,2839 3706,2832 3525,2826 3343,2818 3162,2811 2980,2804 2798,2798 2617,2791 2435,2784 2254,2777 2072,2769 1890,2761 1709,2754 1527,2745 1346,2736"/>
+                <Baseline points="1346,2784 1527,2793 1709,2802 1890,2809 2072,2817 2254,2825 2435,2832 2617,2839 2798,2846 2980,2852 3162,2859 3343,2866 3525,2874 3706,2880 3888,2887 4070,2896 4251,2903 4433,2911 4614,2922 4796,2931 4978,2940"/>
+                <TextEquiv>
+                    <Unicode>Universis presentes litteras inspecturis, nos frater Symon humilis prior Sancti Rachonis Eduensis, notum facimus quod, cum Girardus des Ambreres </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1318,2901 1500,2907 1682,2915 1864,2921 2046,2929 2229,2935 2411,2942 2593,2948 2775,2956 2957,2963 3140,2969 3322,2977 3504,2983 3686,2991 3868,2999 4051,3006 4233,3014 4415,3023 4597,3031 4779,3040 4962,3049 4962,2985 4779,2976 4597,2967 4415,2959 4233,2950 4051,2942 3868,2935 3686,2927 3504,2919 3322,2913 3140,2905 2957,2899 2775,2892 2593,2884 2411,2878 2229,2871 2046,2865 1864,2857 1682,2851 1500,2843 1318,2837"/>
+                <Baseline points="1318,2880 1500,2886 1682,2894 1864,2900 2046,2908 2229,2914 2411,2921 2593,2927 2775,2935 2957,2942 3140,2948 3322,2956 3504,2962 3686,2970 3868,2978 4051,2985 4233,2993 4415,3002 4597,3010 4779,3019 4962,3028"/>
+                <TextEquiv>
+                    <Unicode>diceret et proponeret contra virum religiosum fratrem Guillelmum, priorem de Magobrio, quod idem prior impediebat et perturbabat gaudem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1334,2995 1514,3001 1695,3007 1875,3013 2056,3020 2237,3027 2417,3033 2598,3040 2778,3046 2959,3052 3140,3059 3320,3065 3501,3073 3681,3080 3862,3087 4043,3095 4223,3102 4404,3110 4584,3117 4765,3126 4946,3135 4946,3071 4765,3062 4584,3053 4404,3046 4223,3038 4043,3031 3862,3023 3681,3016 3501,3009 3320,3001 3140,2995 2959,2988 2778,2982 2598,2976 2417,2969 2237,2963 2056,2956 1875,2949 1695,2943 1514,2937 1334,2931"/>
+                <Baseline points="1334,2974 1514,2980 1695,2986 1875,2992 2056,2999 2237,3006 2417,3012 2598,3019 2778,3025 2959,3031 3140,3038 3320,3044 3501,3052 3681,3059 3862,3066 4043,3074 4223,3081 4404,3089 4584,3096 4765,3105 4946,3114"/>
+                <TextEquiv>
+                    <Unicode>pacifice ipsum Girardinum de jure quod habebat in furno de Magobrio, tandem ex potestate nobis data a reverendo in Christo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1334,3090 1515,3097 1696,3104 1877,3110 2058,3118 2239,3124 2420,3130 2601,3136 2782,3143 2963,3149 3144,3154 3325,3162 3506,3168 3687,3174 3868,3181 4049,3188 4230,3194 4411,3202 4592,3210 4773,3218 4978,3222 4978,3155 4773,3151 4592,3143 4411,3135 4230,3127 4049,3121 3868,3114 3687,3107 3506,3101 3325,3095 3144,3087 2963,3082 2782,3076 2601,3069 2420,3063 2239,3057 2058,3051 1877,3043 1696,3037 1515,3030 1334,3023"/>
+                <Baseline points="1334,3068 1515,3075 1696,3082 1877,3088 2058,3096 2239,3102 2420,3108 2601,3114 2782,3121 2963,3127 3144,3132 3325,3140 3506,3146 3687,3152 3868,3159 4049,3166 4230,3172 4411,3180 4592,3188 4789,3196 4970,3204"/>
+                <TextEquiv>
+                    <Unicode>patre B., miseratione divina Cluigniacensi abbate, apud Magobrium die jovis ante festum beati Barnabe apostoli anno Domini millesimo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1322,3180 1504,3191 1686,3200 1868,3208 2050,3215 2232,3222 2414,3228 2596,3235 2778,3242 2960,3247 3142,3254 3324,3260 3506,3266 3688,3272 3870,3278 4052,3285 4234,3293 4416,3301 4598,3308 4780,3317 4962,3326 4962,3259 4780,3250 4598,3241 4416,3234 4234,3226 4052,3218 3870,3211 3688,3205 3506,3199 3324,3193 3142,3187 2960,3180 2778,3175 2596,3168 2414,3161 2232,3155 2050,3148 1868,3141 1686,3133 1504,3124 1322,3113"/>
+                <Baseline points="1322,3158 1504,3169 1686,3178 1868,3186 2050,3193 2232,3200 2414,3206 2596,3213 2778,3220 2960,3225 3142,3232 3324,3238 3506,3244 3688,3250 3870,3256 4052,3263 4234,3271 4416,3279 4598,3286 4780,3295 4962,3304"/>
+                <TextEquiv>
+                    <Unicode>tricentesimo primo, personaliter accedentes ipsa die partibus predictis coram nobis existantibus, et pluribus rationibus ab ipsis partibus coram </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1318,3285 1500,3291 1682,3297 1864,3303 2046,3309 2229,3315 2411,3321 2593,3329 2775,3335 2957,3343 3140,3349 3322,3356 3504,3364 3686,3371 3868,3379 4051,3386 4233,3394 4415,3402 4597,3411 4779,3419 4962,3429 4962,3360 4779,3350 4597,3342 4415,3333 4233,3325 4051,3317 3868,3310 3686,3302 3504,3295 3322,3287 3140,3280 2957,3274 2775,3266 2593,3260 2411,3252 2229,3246 2046,3240 1864,3234 1682,3228 1500,3222 1318,3216"/>
+                <Baseline points="1318,3262 1500,3268 1682,3274 1864,3280 2046,3286 2229,3292 2411,3298 2593,3306 2775,3312 2957,3320 3140,3326 3322,3333 3504,3341 3686,3348 3868,3356 4051,3363 4233,3371 4415,3379 4597,3388 4779,3396 4962,3406"/>
+                <TextEquiv>
+                    <Unicode>nobis propositis, pro bono pacis ipsas partes de ipsarum partium assensu concordavimus et declaravimus jus, quod habere debet </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1303,3380 1509,3385 1692,3392 1875,3398 2058,3403 2241,3411 2424,3417 2607,3423 2790,3428 2973,3435 3156,3441 3339,3447 3522,3454 3705,3461 3888,3469 4071,3476 4254,3485 4437,3494 4620,3503 4803,3513 4986,3523 4986,3454 4803,3444 4620,3434 4437,3425 4254,3416 4071,3407 3888,3400 3705,3392 3522,3385 3339,3378 3156,3372 2973,3366 2790,3359 2607,3354 2424,3348 2241,3342 2058,3334 1875,3329 1692,3323 1509,3316 1303,3311"/>
+                <Baseline points="1315,3358 1498,3364 1692,3369 1875,3375 2058,3380 2241,3388 2424,3394 2607,3400 2790,3405 2973,3412 3156,3418 3339,3424 3522,3431 3705,3438 3888,3446 4071,3453 4254,3462 4437,3471 4620,3480 4803,3490 4986,3500"/>
+                <TextEquiv>
+                    <Unicode>imperpetuum dictus Girardinus in furno supradicto, videlicet quod dictus Girardinus vel sui deserviet in dicto fur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1326,3472 1509,3478 1692,3485 1876,3492 2059,3499 2243,3504 2426,3512 2609,3518 2793,3524 2976,3530 3160,3538 3343,3545 3526,3552 3710,3559 3893,3566 4077,3575 4260,3584 4443,3592 4627,3602 4810,3612 4994,3622 4994,3556 4810,3546 4627,3536 4443,3526 4260,3518 4077,3509 3893,3500 3710,3493 3526,3486 3343,3479 3160,3472 2976,3464 2793,3458 2609,3452 2426,3446 2243,3438 2059,3433 1876,3426 1692,3419 1509,3412 1326,3406"/>
+                <Baseline points="1326,3450 1509,3456 1692,3463 1876,3470 2059,3477 2243,3482 2426,3490 2609,3496 2793,3502 2976,3508 3160,3516 3343,3523 3526,3530 3710,3537 3893,3544 4077,3553 4260,3562 4443,3570 4627,3580 4810,3590 4994,3600"/>
+                <TextEquiv>
+                    <Unicode>no imperpetuum, ut furnerius suis propriis sumptibus et expensis et pro pena sua habebit qualibet die cum nocte sequenti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1326,3570 1509,3578 1693,3585 1876,3593 2060,3599 2243,3605 2427,3612 2610,3618 2794,3624 2977,3630 3161,3636 3344,3642 3528,3648 3711,3654 3895,3661 4078,3669 4262,3676 4445,3685 4629,3694 4812,3703 5031,3711 5031,3645 4812,3637 4629,3628 4445,3619 4262,3610 4078,3603 3895,3595 3711,3588 3528,3582 3344,3576 3161,3570 2977,3564 2794,3558 2610,3552 2427,3546 2243,3539 2060,3533 1876,3527 1693,3519 1509,3512 1326,3504"/>
+                <Baseline points="1326,3548 1509,3556 1693,3563 1876,3571 2060,3577 2243,3583 2427,3590 2610,3596 2794,3602 2977,3608 3161,3614 3344,3620 3528,3626 3711,3632 3895,3639 4078,3647 4262,3654 4445,3663 4629,3672 4824,3687 5008,3696"/>
+                <TextEquiv>
+                    <Unicode>computata. Idem Girardinus, quando plures furnee panis erunt cocte in dicto furno, terciam partem furnagii unius furnee </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1278,3672 1500,3678 1682,3684 1865,3690 2047,3696 2230,3703 2412,3709 2594,3716 2777,3724 2959,3730 3142,3738 3324,3744 3506,3752 3689,3758 3871,3765 4054,3772 4236,3778 4418,3784 4601,3789 4783,3795 4966,3800 4966,3733 4783,3728 4601,3722 4418,3717 4236,3711 4054,3705 3871,3698 3689,3691 3506,3685 3324,3677 3142,3671 2959,3663 2777,3657 2594,3649 2412,3642 2230,3636 2047,3629 1865,3623 1682,3617 1500,3611 1278,3605"/>
+                <Baseline points="1305,3651 1487,3657 1682,3662 1865,3668 2047,3674 2230,3681 2412,3687 2594,3694 2777,3702 2959,3708 3142,3716 3324,3722 3506,3730 3689,3736 3871,3743 4054,3750 4236,3756 4418,3762 4601,3767 4783,3773 4966,3778"/>
+                <TextEquiv>
+                    <Unicode>panis et de sola furnea panis cocta in dicto furno qualibet die cum nocte sequenti nichil habebit. Et totum furnagium excepta </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1273,3770 1512,3774 1692,3779 1873,3784 2053,3790 2234,3796 2414,3802 2594,3808 2775,3814 2955,3822 3136,3828 3316,3836 3496,3843 3677,3849 3857,3856 4038,3862 4218,3868 4398,3874 4579,3880 4759,3886 4940,3892 4940,3825 4759,3819 4579,3813 4398,3807 4218,3801 4038,3795 3857,3789 3677,3782 3496,3776 3316,3769 3136,3761 2955,3755 2775,3747 2594,3741 2414,3735 2234,3729 2053,3723 1873,3717 1692,3712 1512,3707 1273,3703"/>
+                <Baseline points="1300,3754 1480,3758 1692,3757 1873,3762 2053,3768 2234,3774 2414,3780 2594,3786 2775,3792 2955,3800 3136,3806 3316,3814 3496,3821 3677,3827 3857,3834 4038,3840 4218,3846 4398,3852 4579,3858 4759,3864 4940,3870"/>
+                <TextEquiv>
+                    <Unicode>illa tertia parte unius furnee panis dicto priori et successoribus suis prioribus de Magobrio remanebit. De pane vero </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="1344,3863 1614,3867 1793,3873 1972,3879 2151,3885 2330,3892 2508,3898 2687,3905 2866,3912 3045,3919 3224,3926 3402,3932 3581,3939 3760,3947 3939,3953 4118,3960 4296,3965 4475,3971 4654,3977 4833,3982 5012,3987 5012,3915 4833,3910 4654,3905 4475,3899 4296,3893 4118,3888 3939,3881 3760,3875 3581,3867 3402,3860 3224,3854 3045,3847 2866,3840 2687,3833 2508,3826 2330,3820 2151,3813 1972,3807 1793,3801 1614,3795 1344,3791"/>
+                <Baseline points="1288,3842 1466,3846 1733,3852 1912,3858 2091,3864 2270,3871 2448,3877 2627,3884 2806,3891 2985,3898 3164,3905 3342,3911 3521,3918 3700,3926 3879,3932 4058,3939 4236,3944 4415,3950 4594,3956 4787,3962 4966,3967"/>
+                <TextEquiv>
+                    <Unicode>dicti prioris et successorum suorum priorum de Magobrio cocto in dicto furno, nichil capiet idem Girardinus. Et est sciendum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1330,3964 1511,3970 1692,3976 1874,3982 2055,3988 2237,3995 2418,4000 2599,4008 2781,4015 2962,4022 3144,4029 3325,4034 3506,4043 3688,4048 3869,4056 4051,4063 4232,4070 4413,4076 4595,4083 4776,4089 4979,4093 4979,4021 4776,4017 4595,4011 4413,4004 4232,3998 4051,3991 3869,3984 3688,3976 3506,3971 3325,3962 3144,3957 2962,3950 2781,3943 2599,3936 2418,3928 2237,3923 2055,3916 1874,3910 1692,3904 1511,3898 1330,3892"/>
+                <Baseline points="1330,3940 1511,3946 1692,3952 1874,3958 2055,3964 2237,3971 2418,3976 2599,3984 2781,3991 2962,3998 3144,4005 3325,4010 3506,4019 3688,4024 3869,4032 4051,4039 4232,4046 4413,4052 4595,4059 4785,4066 4967,4073"/>
+                <TextEquiv>
+                    <Unicode>quod si idem Girardinus coqueret panem aliquem cum pane dicti prioris et successorum suorum, de illo pane cocto cum furnea dicti prioris </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="1336,4061 1515,4069 1694,4076 1874,4083 2053,4089 2233,4096 2412,4103 2591,4109 2771,4115 2950,4121 3130,4127 3309,4133 3488,4139 3668,4145 3847,4151 4027,4155 4206,4162 4385,4167 4565,4173 4744,4179 4924,4183 4924,4114 4744,4110 4565,4104 4385,4098 4206,4093 4027,4086 3847,4082 3668,4076 3488,4070 3309,4064 3130,4058 2950,4052 2771,4046 2591,4040 2412,4034 2233,4027 2053,4020 1874,4014 1694,4007 1515,4000 1336,3992"/>
+                <Baseline points="1336,4038 1515,4046 1694,4053 1874,4060 2053,4066 2233,4073 2412,4080 2591,4086 2771,4092 2950,4098 3130,4104 3309,4110 3488,4116 3668,4122 3847,4128 4027,4132 4206,4139 4385,4144 4565,4150 4744,4156 4924,4160"/>
+                <TextEquiv>
+                    <Unicode>nichil debet capere Girardinus antedictus. Quam declarationem partes predicte voluerunt consenserunt ratam et gratam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="1332,4161 1512,4167 1692,4172 1872,4179 2052,4185 2232,4191 2412,4197 2592,4203 2772,4209 2952,4215 3132,4221 3312,4227 3492,4235 3672,4241 3852,4247 4032,4253 4212,4259 4392,4265 4572,4270 4752,4276 4932,4281 4932,4212 4752,4207 4572,4201 4392,4196 4212,4190 4032,4184 3852,4178 3672,4172 3492,4166 3312,4158 3132,4152 2952,4146 2772,4140 2592,4134 2412,4128 2232,4122 2052,4116 1872,4110 1692,4103 1512,4098 1332,4092"/>
+                <Baseline points="1332,4138 1512,4144 1692,4149 1872,4156 2052,4162 2232,4168 2412,4174 2592,4180 2772,4186 2952,4192 3132,4198 3312,4204 3492,4212 3672,4218 3852,4224 4032,4230 4212,4236 4392,4242 4572,4247 4752,4253 4932,4258"/>
+                <TextEquiv>
+                    <Unicode>habuerunt. In cujus rei testimonium litteris presentibus sigillum nostrum una cum sigillo dicti prioris de Magobrio </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;} sic {offset:13; length:9;}">
+                <Coords points="1318,4251 1499,4259 1680,4268 1861,4274 2043,4281 2224,4289 2405,4295 2587,4302 2768,4307 2949,4314 3131,4320 3312,4325 3493,4331 3674,4337 3856,4343 4037,4349 4218,4355 4400,4360 4581,4365 4762,4372 4944,4377 4944,4308 4762,4303 4581,4296 4400,4291 4218,4286 4037,4280 3856,4274 3674,4268 3493,4262 3312,4256 3131,4251 2949,4245 2768,4238 2587,4233 2405,4226 2224,4220 2043,4212 1861,4205 1680,4199 1499,4190 1318,4182"/>
+                <Baseline points="1318,4228 1499,4236 1680,4245 1861,4251 2043,4258 2224,4266 2405,4272 2587,4279 2768,4284 2949,4291 3131,4297 3312,4302 3493,4308 3674,4314 3856,4320 4037,4326 4218,4332 4400,4337 4581,4342 4762,4349 4944,4354"/>
+                <TextEquiv>
+                    <Unicode>apponimus et rogovimus ipsum priorem de Magobrio ut sigillum suum una cum sigillo nostro litteris presentibus apponat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="1310,4356 1490,4364 1671,4370 1852,4378 2033,4384 2214,4391 2395,4397 2576,4404 2757,4408 2938,4414 3119,4420 3299,4426 3480,4432 3661,4438 3842,4444 4023,4450 4204,4456 4385,4462 4566,4468 4747,4474 4928,4482 4928,4410 4747,4402 4566,4396 4385,4390 4204,4384 4023,4378 3842,4372 3661,4366 3480,4360 3299,4354 3119,4348 2938,4342 2757,4336 2576,4332 2395,4325 2214,4319 2033,4312 1852,4306 1671,4298 1490,4292 1310,4284"/>
+                <Baseline points="1310,4332 1490,4340 1671,4346 1852,4354 2033,4360 2214,4367 2395,4373 2576,4380 2757,4384 2938,4390 3119,4396 3299,4402 3480,4408 3661,4414 3842,4420 4023,4426 4204,4432 4385,4438 4566,4444 4747,4450 4928,4458"/>
+                <TextEquiv>
+                    <Unicode>in testimonium premissorum. Et nos prior predictus de Magobrio in cujus presentia omnia acta sunt litteris presentibus una cum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="1298,4456 1480,4464 1662,4471 1845,4478 2027,4485 2210,4492 2392,4498 2574,4504 2757,4510 2939,4516 3122,4523 3304,4528 3486,4535 3669,4540 3851,4547 4034,4553 4216,4558 4398,4565 4581,4572 4763,4578 4946,4584 4946,4512 4763,4506 4581,4500 4398,4493 4216,4486 4034,4481 3851,4475 3669,4468 3486,4463 3304,4456 3122,4451 2939,4444 2757,4438 2574,4432 2392,4426 2210,4420 2027,4413 1845,4406 1662,4399 1480,4392 1298,4384"/>
+                <Baseline points="1298,4432 1480,4440 1662,4447 1845,4454 2027,4461 2210,4468 2392,4474 2574,4480 2757,4486 2939,4492 3122,4499 3304,4504 3486,4511 3669,4516 3851,4523 4034,4529 4216,4534 4398,4541 4581,4548 4763,4554 4946,4560"/>
+                <TextEquiv>
+                    <Unicode>sigillo dicti prioris de Sancto Rachone sigillum nostrum apponimus in testimonium omnium premissorum. Et debet idem Girardinus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="1268,4558 1513,4566 1694,4573 1876,4581 2057,4588 2239,4595 2420,4602 2601,4608 2783,4614 2964,4620 3146,4627 3327,4632 3508,4638 3690,4644 3871,4650 4053,4656 4234,4662 4415,4668 4597,4674 4778,4680 4960,4688 4960,4616 4778,4608 4597,4602 4415,4596 4234,4590 4053,4584 3871,4578 3690,4572 3508,4566 3327,4560 3146,4555 2964,4548 2783,4542 2601,4536 2420,4530 2239,4523 2057,4516 1876,4509 1694,4501 1513,4494 1268,4486"/>
+                <Baseline points="1277,4539 1458,4547 1694,4549 1876,4557 2057,4564 2239,4571 2420,4578 2601,4584 2783,4590 2964,4596 3146,4603 3327,4608 3508,4614 3690,4620 3871,4626 4053,4632 4234,4638 4415,4644 4597,4650 4778,4656 4960,4664"/>
+                <TextEquiv>
+                    <Unicode>et sui anno quomodolibet imperpetuum dicto priori de Magobrio et successoribus suis prioribus de Magobrio in vigilia nativitatis Domini unum panem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="1286,4656 1414,4662 1543,4667 1672,4672 1801,4676 1930,4682 2059,4687 2188,4692 2317,4697 2446,4702 2575,4707 2703,4712 2832,4716 2961,4721 3090,4726 3219,4731 3348,4734 3477,4740 3606,4744 3735,4748 3864,4750 3864,4678 3735,4676 3606,4672 3477,4668 3348,4662 3219,4659 3090,4654 2961,4649 2832,4644 2703,4640 2575,4635 2446,4630 2317,4625 2188,4620 2059,4615 1930,4610 1801,4604 1672,4600 1543,4595 1414,4590 1286,4584"/>
+                <Baseline points="1286,4632 1414,4638 1543,4643 1672,4648 1801,4652 1930,4658 2059,4663 2188,4668 2317,4673 2446,4678 2575,4683 2703,4688 2832,4692 2961,4697 3090,4702 3219,4707 3348,4710 3477,4716 3606,4720 3735,4724 3864,4726"/>
+                <TextEquiv>
+                    <Unicode>in valore octo denarium Turonensium seu monete currentis. Datum anno et die supradictis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Universis presentes litteras inspecturis, nos frater Symon humilis prior Sancti Rachonis Eduensis, notum facimus quod, cum Girardus des Ambreres &#13;
+diceret et proponeret contra virum religiosum fratrem Guillelmum, priorem de Magobrio, quod idem prior impediebat et perturbabat gaudem &#13;
+pacifice ipsum Girardinum de jure quod habebat in furno de Magobrio, tandem ex potestate nobis data a reverendo in Christo &#13;
+patre B., miseratione divina Cluigniacensi abbate, apud Magobrium die jovis ante festum beati Barnabe apostoli anno Domini millesimo &#13;
+tricentesimo primo, personaliter accedentes ipsa die partibus predictis coram nobis existantibus, et pluribus rationibus ab ipsis partibus coram &#13;
+nobis propositis, pro bono pacis ipsas partes de ipsarum partium assensu concordavimus et declaravimus jus, quod habere debet &#13;
+imperpetuum dictus Girardinus in furno supradicto, videlicet quod dictus Girardinus vel sui deserviet in dicto fur¬&#13;
+no imperpetuum, ut furnerius suis propriis sumptibus et expensis et pro pena sua habebit qualibet die cum nocte sequenti &#13;
+computata. Idem Girardinus, quando plures furnee panis erunt cocte in dicto furno, terciam partem furnagii unius furnee &#13;
+panis et de sola furnea panis cocta in dicto furno qualibet die cum nocte sequenti nichil habebit. Et totum furnagium excepta &#13;
+illa tertia parte unius furnee panis dicto priori et successoribus suis prioribus de Magobrio remanebit. De pane vero &#13;
+dicti prioris et successorum suorum priorum de Magobrio cocto in dicto furno, nichil capiet idem Girardinus. Et est sciendum &#13;
+quod si idem Girardinus coqueret panem aliquem cum pane dicti prioris et successorum suorum, de illo pane cocto cum furnea dicti prioris &#13;
+nichil debet capere Girardinus antedictus. Quam declarationem partes predicte voluerunt consenserunt ratam et gratam&#13;
+habuerunt. In cujus rei testimonium litteris presentibus sigillum nostrum una cum sigillo dicti prioris de Magobrio &#13;
+apponimus et rogovimus ipsum priorem de Magobrio ut sigillum suum una cum sigillo nostro litteris presentibus apponat &#13;
+in testimonium premissorum. Et nos prior predictus de Magobrio in cujus presentia omnia acta sunt litteris presentibus una cum &#13;
+sigillo dicti prioris de Sancto Rachone sigillum nostrum apponimus in testimonium omnium premissorum. Et debet idem Girardinus &#13;
+et sui anno quomodolibet imperpetuum dicto priori de Magobrio et successoribus suis prioribus de Magobrio in vigilia nativitatis Domini unum panem&#13;
+in valore octo denarium Turonensium seu monete currentis. Datum anno et die supradictis.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -126,7 +126,7 @@ def get_transcription_doc(collection_id: int, document_id: int):
     with open(f'transcriptions/mets/mets_{collection_id}_{document_id}.xml', 'w') as f:
         f.write(mets_xml)
     
-    # Transform PAGE to TEI via Saxon
+    # Transform PAGE to TEI and the CEI via Saxon
     subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:page2tei/page2tei-0.xsl', f'-s:transcriptions/mets/mets_{collection_id}_{document_id}.xml', f'-o:transcriptions/tei/tk_tei_{collection_id}_{document_id}.xml'])
     subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:tk_tei2cei/tk_tei2cei.xsl', f'-s:transcriptions/tei/tk_tei_{collection_id}_{document_id}.xml', f'-o:transcriptions/cei/tk_cei_{collection_id}_{document_id}.xml'])
 
