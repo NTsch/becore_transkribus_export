@@ -6,6 +6,11 @@ import argparse
 from helper import extract_key_value
 import xml.etree.ElementTree as ET
 
+'''
+script for extracting transcription data from Transkribus via its API
+choice of getting the full .json data of everything available to a given user, the XML of a page, of a document, or of a collection
+'''
+
 # Log in to Transkribus and get a session ID
 login_url = 'https://transkribus.eu/TrpServer/rest/auth/login'
 login_data = {'user': 'niklas.tscherne@uni-graz.at', 'pw': '35kv7q9u2GBnZ3F'}
@@ -20,6 +25,8 @@ if not os.path.exists('documents'):
     os.mkdir('documents')
 
 def get_everything():
+    # get the .json data for everything available to this user
+
     # Get a list of collections
     collections_url = 'https://transkribus.eu/TrpServer/rest/collections/list'
     response = requests.get(collections_url, headers=headers)
@@ -67,6 +74,7 @@ def get_everything():
     print('All documents saved')
 
 def get_xml(collection_id: int, document_id: int, page_no: int):
+    # get the transcription of the given page from the given document from the given collection
 
     # Get the desired document as a JSON file
     doc_url = f'https://transkribus.eu/TrpServer/rest/collections/{collection_id}/{document_id}/fulldoc'
@@ -109,6 +117,7 @@ def get_xml(collection_id: int, document_id: int, page_no: int):
         print(f"File tk_page_{collection_id}_{document_id}_{page_no}.xml saved successfully.")
 
 def get_transcription_doc(collection_id: int, document_id: int):
+    # get a document and convert it to TEI and CEI
     
     # Download the METS file for the desired document
     doc_url = f'https://transkribus.eu/TrpServer/rest/collections/{collection_id}/{document_id}/mets'
@@ -126,13 +135,14 @@ def get_transcription_doc(collection_id: int, document_id: int):
     with open(f'transcriptions/mets/mets_{collection_id}_{document_id}.xml', 'w') as f:
         f.write(mets_xml)
     
-    # Transform PAGE to TEI and the CEI via Saxon
+    # Transform PAGE first to TEI and then CEI via Saxon
     subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:page2tei/page2tei-0.xsl', f'-s:transcriptions/mets/mets_{collection_id}_{document_id}.xml', f'-o:transcriptions/tei/tk_tei_{collection_id}_{document_id}.xml'])
     subprocess.call(['java', '-jar', 'SaxonHE11-5J/saxon-he-11.5.jar', '-xsl:tk_tei2cei/tk_tei2cei.xsl', f'-s:transcriptions/tei/tk_tei_{collection_id}_{document_id}.xml', f'-o:transcriptions/cei/tk_cei_{collection_id}_{document_id}.xml'])
 
 def get_all_transcriptions(collection_id: int):
+    # use get_transcription_doc to get all transcriptions from all documents in the collection, as TEI and CEI
 
-    file_path = 'documents/NACR - German charters/NACR - German charters_collection.json'
+    file_path = 'documents/' + input("Enter the file path for the collection JSON, e.g. 'NACR - German charters/NACR - German charters_collection.json': ")
     key = 'docId'
     values = extract_key_value(file_path, key)
     
