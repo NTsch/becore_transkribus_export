@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0114_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0114_H_I</cei:title><cei:idno type="Transkribus">199641</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Johannes, dei gracia <cei:placeName>Wisschegradensis</cei:placeName> ecclesie prepositus, regni <cei:placeName>Boemie</cei:placeName> cancellarius</cei:persName>, <cei:persName>Dyrzlaus decanus</cei:persName>, <cei:persName>Nicolaus custos</cei:persName>, <cei:persName>Thobyas scolasticus, totumque capitulum</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>ecclesie <cei:placeName>Wisschegradensis</cei:placeName></cei:persName> predicte ad Romanam ecclesiam nullo medio pertinentis fatemur et recognoscimus per presentes, quod volentes conditionem ipsius ecclesie nostre
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>facere meliorem bona prepositure eiusdem in <cei:placeName>Wolframicz</cei:placeName>, in <cei:placeName>Moravia</cei:placeName> sita, cum villis, videlicet <cei:placeName>Lissnicz</cei:placeName>, <cei:placeName>Selchwicz</cei:placeName> et <cei:placeName>Pochticz</cei:placeName>, ac universis eorum pertinenciis, que tantum
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>a nostra distabant ecclesia, quod eorum utilitatem non totam percipere poteramus, matura et diligenti deliberatione prehabita de serenissimi domini nostri domini
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName>Johannis, <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> regis, comitis <cei:placeName>Lucemburgensis</cei:placeName></cei:persName>, qui eiusdem ecclesie nostre patronus exstitit, consilio, connivencia et consensu expedire et ipsi ecclesie nostre
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>proficere minime dubitantes, nobili viro domino <cei:persName>Henrico de <cei:placeName>Lipa</cei:placeName>, summo regni <cei:placeName>Boemie</cei:placeName> marschalco</cei:persName>, rite et rationabiliter vendidimus pro duobus millibus marcarum grossorum
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>pragensium, sexaginta quatuor grossos pro marca qualibet computando, taliter, quod omne jus, quod nobis, prepositure et ecclesie nostre predictis in ipsis bonis
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:placeName>Wolframicz</cei:placeName> competit aut competere poterat, ecclesiam et jus patronatus ibidem specialiter, loco cuius ipse dominus noster rex nobis preposito predicto et successoribus nostris prepositis
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>ecclesie <cei:placeName>Wisschegradensis</cei:placeName> predicte ad instantiam ipsius domini <cei:persName>Henrici</cei:persName>, etiam ut ex ipsa vendicione nos et ecclesia nostra in nullo defraudari videremur, collacionem
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>prepositure <cei:placeName>Bolezlaviensis</cei:placeName> dedit et donavit imperpetuum omni jure, sicut ipsam ecclesiam in <cei:placeName>Wolframicz</cei:placeName> habuimus, conferre transtulimus in eundem, quod ipse
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>dominus <cei:persName>Henricus</cei:persName> et sui heredes bona ipsa et villas predictas cum omnibus juribus, utilitatibus, libertatibus et pertinentiis suis universis, in quibuscunque rebus consistant,
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>cum omni dominio, jure et jurisditione, sicut ad ipsam preposituram et ecclesiam nostram pertinebant, jure hereditario et imperpetuum habeant et possideant eorumque
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>utantur et de eis, tamquam de re propria disponant et faciant hoc, quod eorum placuerit voluntati, recognoscentes predictam pecuniam per ipsum dominum <cei:persName>Henricum</cei:persName> nobis
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>et ecclesie nostre plene et integraliter solutam et in prepositure et ecclesie nostre predictarum utilitatem, quia vero ipsa bona et villas in <cei:placeName>Syrin</cei:placeName>, <cei:placeName>Lechow</cei:placeName>, <cei:placeName>Sobiechleb</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>et <cei:placeName>Luboschowicz</cei:placeName> loco predictorum bonorum in <cei:placeName>Wolframicz</cei:placeName> emimus et comparavimus, esse conversam sic, quod de ipsa pecunia duorum milium marcarum eundem
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>dominum <cei:persName>Henricum</cei:persName>, heredes et successores suos presentibus quittavimus et liberos esse dicimus et solutos renunciantes etiam sponte et expresse in integrum be¬
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>neficio restitutionis exceptioni non numerate pecunie vel non solute nobis vel in utilitatem prepositure et ecclesie nostre non converse supradicte
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>pecunie et omni alii juris auxilio tam canonici, quam civilis consuetudinis vel statuti seu alterius cuiuslibet, quo iuvari possemus, ad
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>requirendum nostro vel prepositure sive ecclesie nostre predictarum nomine ab ipso domino <cei:persName>Henrico</cei:persName>, heredibus aut successoribus suis eandem pecuniam aut
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>ipsa bona in <cei:placeName>Wolframicz</cei:placeName> in parte aliqua vel in toto, sed eam venditionem per nos, ut premissum est, communiter et de omnium nostrorum consilio et
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>voluntate prefato domino <cei:persName>Henrico</cei:persName> et suis heredibus factam, ratam habere promittimus atque firmam eciam promittentes contra ipsam de jure vel de
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>facto vel alio quovismodo non venire. In cuius rei testimonium presentes litteras fieri ac nostrorum prepositi, decani, custodis et scolastici predictorum
+                    <cei:lb facs="#facs_1_r1l24" n="N023"/>necnon totius ecclesie nostre capituli sigillorum munimine fecimus roborari. Actum et datum <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">VII idus septembris anno Domini mi</cei:date>¬
+                    <cei:lb facs="#facs_1_r1l25" n="N024"/><cei:date value="99999999">llesimo trecentesimo vicesimo quinto</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

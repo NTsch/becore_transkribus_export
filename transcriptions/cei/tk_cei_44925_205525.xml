@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0151_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0151_H_I</cei:title><cei:idno type="Transkribus">205525</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l2" n="N001"/>Ego <cei:persName>Friczco de <cei:placeName>Egerberch</cei:placeName></cei:persName><cei:placeName/> ad universorum tenore presencium cupio noticiam prevenire, quod affectans
+                    <cei:lb facs="#facs_1_r2l3" n="N002"/>et intendens, sperans in hoc condicionem status mei meliorari, me domino meo, domino <cei:persName>Iohanni, <cei:placeName>Boemie</cei:placeName> </cei:persName>
+                    <cei:lb facs="#facs_1_r2l4" n="N003"/><cei:persName>et <cei:placeName>Polonie</cei:placeName> regi ac <cei:placeName>Lucemburgensi</cei:placeName> comiti</cei:persName>, plus solito astringere et ligare, bona et villas
+                    <cei:lb facs="#facs_1_r2l5" n="N004"/>meas subscriptas, videlicet <cei:placeName>Fumfehunden</cei:placeName>, <cei:placeName>Nechranicz</cei:placeName>, <cei:placeName>Prziesan</cei:placeName> et <cei:placeName>Wyeckleticz</cei:placeName> cum earum pertinen¬
+                    <cei:lb facs="#facs_1_r2l7" n="N005"/>ciis ab ipso et suis heredibus in feodum et iure feodi pro me et meis heredibus recipio et assumo,
+                    <cei:lb facs="#facs_1_r2l8" n="N006"/>ita quod ipsis de eisdem bonis debita servicia semper tenear exhibere. Harum, quas sigillo meo una
+                    <cei:lb facs="#facs_1_r2l9" n="N007"/>cum sigillis nobilium virorum, amicorum meorum, <cei:persName>Ulrici videlicet</cei:persName> et <cei:persName>Sbinconis, fratrum de <cei:placeName>Waldek</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r2l10" n="N008"/><cei:persName>Leporum</cei:persName>, sigillari procuravi, testimonio literarum. Et nos <cei:persName>Ulricus</cei:persName> et <cei:persName>Sbinco</cei:persName>, fratres predicti, ad rogatum
+                    <cei:lb facs="#facs_1_r2l11" n="N009"/>prefati <cei:persName>Friczconis de <cei:placeName>Egerberch</cei:placeName></cei:persName><cei:placeName/>, ammiculi nostri, sigilla nostra presentibus duximus apponenda. Datum
+                    <cei:lb facs="#facs_1_r2l12" n="N010"/><cei:placeName>Parisius</cei:placeName> <cei:date value="99999999">in vigilia Nativitatis Christi, anno Domini Mo CCCmo XXXIIo</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

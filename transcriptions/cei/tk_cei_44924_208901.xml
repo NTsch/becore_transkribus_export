@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_420_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_420_H_I</cei:title><cei:idno type="Transkribus">208901</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>My <cei:persName>Chwal z <cei:placeName>Styrzyna</cei:placeName></cei:persName><cei:placeName/> a <cei:persName>Mykess rzeczeny Sslechta, myesstenyn <cei:placeName>Noweho Myesta prazskeho</cei:placeName></cei:persName>, ubrmanowe ot knyezye <cei:persName>Pawla, opata</cei:persName>, <cei:persName>Petra rzeczeneho Smolka</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/><cei:persName>przyewora</cei:persName>, a ote wsseho conventa klasstera Slowanskeho w <cei:placeName>Nowem Myestye prazskem</cei:placeName> s gedne strany, a ot syrotkow <cei:persName>Mathieyowych z <cei:placeName>Dubrawyczie</cei:placeName></cei:persName>, nyekdy
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>czlowyeka urocznyeho klasstera swrchupsaneho a ot geho zeny, nyekdy <cei:persName>Mathiegie</cei:persName> drzyewerzeczeneho s druhe strany, o ty o wssieczky przye, kterez su byly mezy
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>nymy, o kterezkoly wyeczy az do dnessnyeho dnye wzyety a mocznye gednostaynye woleny, wyznawame tyemto lystem wssiem nynyeyssym y buduczym, ktoz
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>gey czysty neb cztucz slyssyety budu, ze sme my ubrmanowe swrchupsany s dobrym rozmyslem z nauczenye obu stranu a s radu mudrych lydy plnu moczy
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>ubrmansku nam ot obu stran danu a poyczenu wypowyedyely sme mezy nymy takto, aby ty syrotczy <cei:persName>Mathieyowy</cei:persName>, any gich maty, any gich porucznyczy,
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>any gich przyetele, any gich buduczy wyecz nykdy z nyczehoz a zy zadnych wyeczy po dnessny den nenapomynaly opatha a conventa swrchupsanych,
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>any gich buduczych wyecznye, neb gym w nyczemz wynny negsu podle nasseho uptanye. Pakly by to uczynyly, ze by gich z czeho kdy napomanuly, kte¬
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>rakz koly, aby gym totyz opatu a conventu swrchupsanym desyet kop grossow prazskeho razu strzyebrnych wyny a pokuty propadly, za kteruz
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>wynu a pokutu <cei:persName>Mikess rzeczeny Lolek z <cei:placeName>Nechanych</cei:placeName></cei:persName>, a <cei:persName>Jan rzeczeny Chwal z <cei:placeName>Otycz</cei:placeName></cei:persName>, przyetele a porucznyczy tyech syrotkow a gich materze a zanye
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>za srdzenye nasseho wyrczenye su sye rukoymye postawyly a zato gsu slybyly dobrowolnye. A nato nasse wyrczenye peczety nas ubrmanow swrchupsanich
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>s nassym dobrym rozmyslem a na swyedomye tomu pana <cei:persName>Gymrama z <cei:placeName>Rzyczan</cei:placeName></cei:persName> przywyesseny gsu k tomuto lystu, a ten dan w <cei:placeName>Nowem myestye prazskem</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/><cei:date value="99999999">leta ot narozenye Bozyeho tyssycze trzysteho dewatdessateho patheho den swate Marzye Magdaleny</cei:date>, a tyto gsu swyedczy nassye wypowyedy swrchupsane
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/><cei:persName>Gyrzyczek</cei:persName>, <cei:persName>Jan Krasa</cei:persName>, <cei:persName>Cinicz</cei:persName>, <cei:persName>Herdolf, myesstene <cei:placeName>Noweho Myesta prazskeho</cei:placeName></cei:persName>, a gynych mnoho dobrych lydy 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

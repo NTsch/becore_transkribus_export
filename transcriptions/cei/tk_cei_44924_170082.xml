@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_226_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_226_H_I</cei:title><cei:idno type="Transkribus">170082</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Sigmund, z Bozie milosti rzimsky cziesarz, wzdi rozmnozitel rziesse a uhersky czesky et cetera kral</cei:persName> wyzna¬
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>wame  tiemto listem obecznie przedewssemi, ktoz gey uzrzie nebo cztucze slysseti budu, ze przisel przed nassi welebnost 
+                    <cei:lb facs="#facs_1_r1l5" n="N003"/>pocztiwy kniez <cei:persName>Mikulass, fararz z <cei:placeName>Wolynie</cei:placeName></cei:persName> a s nim richtarz y susiedee tehoz miesteczka, nabozny a wiernii
+                    <cei:lb facs="#facs_1_r1l7" n="N004"/>nassi milii, pokornie a pilnie zadagicze toho na nas, aby mohli przi swich sprawedlnostech, prawiech y rzadiech sta¬
+                    <cei:lb facs="#facs_1_r1l9" n="N005"/>rodawnich byti zuostaweni zadnym, aczbichom ge kdi komu dali nebo zapsali mymo to <cei:supplied>(...)</cei:supplied>ssczeni negsucze, protoz
+                    <cei:lb facs="#facs_1_r1l11" n="N006"/>my gich prosbam a zadostem, iakzto sprawedliwym a slussnym, hodnie swoliwsse s dobrym rozmyslem a radu nassii,
+                    <cei:lb facs="#facs_1_r1l13" n="N007"/>ge tocziss ffararze swrchupsaneho y lidi miesteczka gizgmenowaneho przigich prawech, rzadiech y obyczegich 
+                    <cei:lb facs="#facs_1_r1l15" n="N008"/>starodawnych zuostawilisme a tiemto listem zuostawugem z milosti nassie zwlasstnie, tak tomu chtiecze, y wssem
+                    <cei:lb facs="#facs_1_r1l16" n="N009"/>urzednikom nassim, kterziz nad nimi nynie gsu, neb potom budu, przikazugicze, aby zadny mymo toto nasse gim swolenie
+                    <cei:lb facs="#facs_1_r1l17" n="N010"/>swietskich ani duchownich prwepraweneho miesteczka przes gich prawa, rzady y obyczege starodawnie zadnim
+                    <cei:lb facs="#facs_1_r1l18" n="N011"/>obyczegem nikoli neutiskal. Dan v <cei:placeName>Praze</cei:placeName> <cei:date value="99999999">leta od narozenie sina Bozieho tisiczieho cztyrzsteho trzidczateho </cei:date>
+                    <cei:lb facs="#facs_1_r1l19" n="N012"/><cei:date value="99999999">a ssiesteho w strzedu po swatem Bartholomiegi, let kralowstwi nassich uherskeho et cetera w padesatem,</cei:date>
+                    <cei:lb facs="#facs_1_r1l21" n="N013"/><cei:date value="99999999">rzimskeho w ssestimerdczietmem, czeskeho w sedminadcztem a cziesarzstwie we cztwrtem letye</cei:date>.
+                    <cei:lb facs="#facs_1_r1l22" n="N014"/>Ad mandatum domini imperatoris 
+                    <cei:lb facs="#facs_1_r1l23" n="N015"/><cei:persName>Arnesto de <cei:placeName>Wlassim</cei:placeName></cei:persName> referens. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

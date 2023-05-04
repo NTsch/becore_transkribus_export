@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0100_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0100_H_I</cei:title><cei:idno type="Transkribus">189876</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_region_1564507796921_2868">
+              
+              
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l1" n="N001"/>Nos <cei:persName>Johannes, Dei gratia <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> rex ac <cei:placeName>Lucemburgensis</cei:placeName> comes</cei:persName>, ad universorum tam presentis etatis hominum, quam future notitiam volumus
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l2" n="N002"/>pervenire, quod nos cum fidelibus et consiliariis regni nostri habentes de ipsius regni nostri utilitatibus cum matura deliberacione tractatum utile nimis et fructuo¬
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l3" n="N003"/>sum nobis et ipsi regno nostro cognovimus, ut bona in <cei:placeName>Tachow</cei:placeName> fidelis nostri dilecti <cei:persName>Henrici de <cei:placeName>Lipa</cei:placeName>, summi marschalli regni nostri <cei:placeName>Boemie</cei:placeName></cei:persName><cei:placeName/>, cum iuribus et perti¬
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l4" n="N004"/>nentiis suis nobis et regni nostri proprietati et dominio iungeremus, habitis ergo inter nos et ipsum <cei:persName>Henricum de <cei:placeName>Lipa</cei:placeName></cei:persName> diversis super eorundem bonorum cessione nobis
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l5" n="N005"/>facienda tractatibus. Ad hoc cum ipso <cei:persName>Heinrico</cei:persName> devenimus, quod ex vero et voluntario tam ex nostra, quam ex ipsius <cei:persName>Heinrici</cei:persName> parte permutacionis con¬
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l6" n="N006"/>tractu, nos ipsi <cei:persName>Heinrico</cei:persName> et heredibus suis pro bonis suis predictis in <cei:placeName>Tachow</cei:placeName> castrum nostrum <cei:placeName>Vren</cei:placeName> in <cei:placeName>Moravia</cei:placeName> situm, cum oppido <cei:placeName>Vren</cei:placeName> et villis <cei:placeName>Schephow</cei:placeName>,
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l7" n="N007"/><cei:placeName>Petryn</cei:placeName> et iterum <cei:placeName>Petryn</cei:placeName>, <cei:placeName>Jeswicz</cei:placeName>, <cei:placeName>Lenczow</cei:placeName>, <cei:placeName>Pomocz</cei:placeName>, <cei:placeName>Vreschow</cei:placeName>, <cei:placeName>Cysow</cei:placeName>, <cei:placeName>Breczowicz</cei:placeName>, <cei:placeName>Czehen</cei:placeName>, <cei:placeName>Otozlawicz</cei:placeName>, <cei:placeName>Uneschow</cei:placeName> et <cei:placeName>Crymow</cei:placeName> ac allodio <cei:placeName>Appholdern</cei:placeName> cum
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l9" n="N008"/>agris, pratis, silvis, nemoribus, venacionibus, aquis et aquarum decursibus, piscacionibus, molendinis, allodiis, dominio, vasallis et specialiter iure patro¬
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l11" n="N009"/>natus ecclesiarum ibidem intercluso ac generaliter cum omnibus iuribus et suis pertinenciis universis, nec non oppidum nostrum <cei:placeName>Jewizkam</cei:placeName> cum <cei:placeName>villis Chornicz</cei:placeName>, <cei:placeName>Uro¬</cei:placeName>
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l13" n="N010"/><cei:placeName>lichs</cei:placeName>, <cei:placeName>Alberndorf</cei:placeName>, <cei:placeName>Arnoltsdorf</cei:placeName>, <cei:placeName>Ernstendorf</cei:placeName> et <cei:placeName>Hartungsdorf</cei:placeName> cum dominio, iure, iurisdicione, hominibus, vasallis, pratis, pascuis, piscacionibus, molendinis,
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l15" n="N011"/>allodiis, montibus, planis, agris cultis et incultis, rubetis, silvis, nemoribus, aquis et aquarum decursibus et specialiter iure patronatus ecclesiarum
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l17" n="N012"/>ibidem intercluso et generaliter cum omnibus aliis, cum quibus dive memorie predecessores nostri, quondam <cei:placeName>Reges Boemie</cei:placeName>, predictum <cei:placeName>castrum Vren</cei:placeName> atque
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l18" n="N013"/>ipsum <cei:placeName>oppidum Jewizkam</cei:placeName> cum universis eorum pertinenciis predictis tenuerunt et nos tenuimus usque modo, iure hereditario et imperpetuum contu¬
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l20" n="N014"/>limus, sibique liberaliter cessimus, de eisdem renunciantes pro nobis, heredibus et successoribus nostris, regibus <cei:placeName>Boemie</cei:placeName>, omni iuri, accioni, dominio et proprie¬
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l22" n="N015"/>tati, quibus premissa per nos, heredes et successores nostros predictos impugnari vel revocari possent imposterum quoquomodo. Huius autem permuta¬
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l25" n="N016"/>cionis sunt testes, de quorum consilio per nos ipsa permutatio est facta, venerabilis <cei:persName>Conradus, <cei:placeName>Olomucensis</cei:placeName> episcopus</cei:persName>, illustris <cei:persName>Nycolaus, dux <cei:placeName>Oppavie</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l27" n="N017"/>principes nostri dilecti necnon fideles nostri<cei:persName> Albertus de <cei:placeName>Fridlant</cei:placeName>, summus regni nostri <cei:placeName>Boemie</cei:placeName> camerarius</cei:persName>, <cei:persName>Ulricus de <cei:placeName>Riczano</cei:placeName>, iudex terre</cei:persName>, <cei:persName>Heymannus</cei:persName>
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l31" n="N018"/><cei:persName>dictus Berca de <cei:placeName>Duba</cei:placeName>, purchravius <cei:placeName>Pragensis</cei:placeName></cei:persName>, <cei:persName>Petrus de <cei:placeName>Rosenberch</cei:placeName></cei:persName>, <cei:persName>Wilhelmus de <cei:placeName>Landstein</cei:placeName></cei:persName>, <cei:persName>Wocko de <cei:placeName>Crawar</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Thymo de <cei:placeName>Coldicz</cei:placeName>,</cei:persName> <cei:persName>Bernhardus de</cei:persName>
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l34" n="N019"/><cei:persName><cei:placeName>Cynnenburch</cei:placeName></cei:persName>, <cei:persName>Johannes de <cei:placeName>Mezirschicz</cei:placeName>, cammerarius <cei:placeName>Brunnensis</cei:placeName> et <cei:placeName>Znoymensis</cei:placeName></cei:persName>, <cei:persName>Dywischius de <cei:placeName>Sternberch</cei:placeName></cei:persName>, <cei:persName>Wzneta de <cei:placeName>Lomnicz</cei:placeName></cei:persName>, <cei:persName>Potho de <cei:placeName>Wildenberch</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l36" n="N020"/>et <cei:persName>Ulricus dictus Pfluk, magister curie nostre</cei:persName>. In cuius rei testimonium et ipsius <cei:persName>Heinrici</cei:persName>, heredum ac succesorum suorum cautelam perpetuam
+                    <cei:lb facs="#facs_1_region_1564507796921_2868l38" n="N021"/>presentes litteras exinde fieri et sigillo nostro maiori iussimus communiri. Datum <cei:placeName>Prage</cei:placeName>, <cei:date value="99999999">IIII kalendas octobris anno Domini millessimo CCCmo vigesimo</cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

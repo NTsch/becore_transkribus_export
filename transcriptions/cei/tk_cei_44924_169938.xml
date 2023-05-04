@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1439_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>ACK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1439_H_I</cei:title><cei:idno type="Transkribus">169938</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Herarth z <cei:placeName>Cunynamyesta</cei:placeName>, naywyssy komornyk <cei:placeName>brnensky</cei:placeName></cei:persName>, <cei:persName>Wylem z <cei:placeName>Pernstayna</cei:placeName></cei:persName>, <cei:persName>Jan z <cei:placeName>Lomnycze</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>Albrecht z <cei:placeName>Czimburga</cei:placeName>, odgynad z <cei:placeName>Towaczowa</cei:placeName></cei:persName>, wyznawame tyemto lystem, ze sme wypowyedyely a moczy
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>tohoto lystu wypowydamy, yakozto moczny ubrmanowe mezy urozenym <cei:persName>Hanussem z <cei:placeName>Lyppey</cei:placeName>, odgynud z <cei:placeName>Tepl¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName><cei:placeName>stayna</cei:placeName></cei:persName>, a mezy urozenym <cei:persName>Janem rzeczenym Ptaczek z <cei:placeName>Pyrknstayna</cei:placeName>, odgynud z <cei:placeName>Polney</cei:placeName></cei:persName>. Takto neyprwe
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>ze gma <cei:persName>Hanuss</cei:persName> drzewe rzeczeny hradu <cei:placeName>Rathay</cei:placeName> y myesta y toho wsseho zbozye, czoz k tomu hradu a myestu
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>przysslussye, se wssyem tyem zbozyem, tak yakoz drzewepsaneho Ptaczka otecz drzal od dnessnyho dne we czty¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>rzech nedyelech postupyty a moczna gey uczynyty, aneb kohozby on poslal myesto sebe take gma sobye pan
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName>Hanuss</cei:persName> s z tyech dworu swych, gesto k <cei:placeName>Rathayom</cei:placeName> przysslussy, radbych pobraty a wssyczku sspyzy y brany, kteraz gest
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>na hradye <cei:placeName>Rathagich</cei:placeName>, tu gma pan <cei:persName>Hanuss</cei:persName> pobraty kromye tyech pussek, gesto su byly panye Ptaczkowa otcze.
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>Paklyby sye s nyem pan <cei:persName>Ptaczek</cei:persName> mohl smluwyty, gma gemu radyegy przyety, nez gynemu. Take gma gemu pan
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/><cei:persName>Ptaczek</cei:persName> wozuow trzydczety beze lsty, kterychz muoz myety, daty, aby gey odsczehowaly. Take pan <cei:persName>Ptaczek</cei:persName> yakoz
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>pan <cei:persName>Hanuss</cei:persName> ma nyektera gyna zbozye, gesto gssu pana Ptaczkowa otcze nebyla. W tyech gemu panu <cei:persName>Hanussowy</cei:persName>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>negma przekazety. Take czozby urokuow pan <cei:persName>Hanuss</cei:persName> na rathayskem zbozye do dnessnyho dnye wybral, ne¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>boly geho urzednyty, ty magy panu <cei:persName>Hanussowy</cei:persName> ostaczy a czozby po dnessny den na tom zbozye rathayskem pan
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:persName>Hanuss </cei:persName>nebo geho urzednyczy wyecze pobraly, to ma panu <cei:persName>Ptaczkowy</cei:persName> wraczeno byty. Take <cei:persName>Jan, rzeczeny</cei:persName>
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:persName>Ptaczek</cei:persName>, za sskody a za naklady, gessto pan <cei:persName>Hanuss</cei:persName> branye, panye <cei:persName>Ptaczkowa</cei:persName> zbozye wzal, ma gemu za to pan
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:persName>Ptaczek</cei:persName> wess swu<cei:placeName> Senohrady</cei:placeName> daty s tyem se wssyem, czoz k tey wssy przysslussy. Stupyczy moczna uczynyty,
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>we dsky wlozyty, zprawu lystem uczynyty podle obyczege a prawa <cei:placeName>zemye morawskey</cei:placeName> a to wlozeny na
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>prwem panskem semmu nebo posledny na druhem, kdyz dssky zemske v <cei:placeName>Brnye</cei:placeName> otewrzyny budu,
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>ma uczynyty a nasstupowany hradu <cei:placeName>Rathay</cei:placeName> ma pan <cei:persName>Ptaczek</cei:persName> panu <cei:persName>Hanussowy</cei:persName> padessat hrzywen hotowich
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>daty. A pan <cei:persName>Hanusss</cei:persName>, gestly ze ge ktere lydy zastawyl w rukogemstwye, na rathayskem zbozye ma ge wywa¬
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>dyty a ten plath, yakoz na <cei:placeName>Senohradech</cei:placeName>, gessto gey mnyssy nebo knyezy zapsan, magy totyzto osm
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>kop plathu a panye <cei:persName>Ptaczku</cei:persName> lyst ty mnyssy nebo knyezy na to gmagy tak wypowydame, aby pan
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/><cei:persName>Hanuss </cei:persName>ten gysty lyst do welykynoczy, yakoz nyny przygyczy ma panu <cei:persName>Ptaczkowy</cei:persName> wywadyl bez geho skody
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>a gym tyem gystym knyezyem swu gystoty ugystyl, aby gym ten plath przedsye ssyel. A take czoz gest
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>bylo nechuty, budto pohony nebly gyne, kterez kolwyek nechutnosty, mezy pany <cei:persName>Hanussem</cei:persName>, hynczy
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/><cei:persName>Czenkem Motaczkem</cei:persName>, ty wsczkny magy mynuty a nykdy nezpomynany byty, neb gest pan <cei:persName>Hanuss</cei:persName> swe
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>bratrzye zastaupyl. Take czozby pan <cei:persName>Hanuss</cei:persName> tu na sbozye sprawedlywich dluhu gmyel, ty ma wybraty.
+                    <cei:lb facs="#facs_1_r1l31" n="N029"/>A czoz gest lessuow smyczyl do syhoz czassu, ten dluh take ma wybraty dan w <cei:placeName>Brnyen</cei:placeName> ten <cei:date value="99999999">pondely</cei:date>
+                    <cei:lb facs="#facs_1_r1l32" n="N030"/><cei:date value="99999999">przed Hromnyczemy leta od narozeny Buozyho czyssicz cztyrysta dwanasteho. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

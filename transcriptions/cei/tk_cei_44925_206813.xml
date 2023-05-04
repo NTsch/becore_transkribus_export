@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0135_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0135_H_I</cei:title><cei:idno type="Transkribus">206813</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Wenzezlaus, Dei gratia dux <cei:placeName>Mazoviensis</cei:placeName> et dominus <cei:placeName>Ploczensis</cei:placeName></cei:persName>, notum fore volumus universis, quibus presentes
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>exhibite fuerint, quod quia nos ob specialis amoris affectum, quem erga magnifici principis, domini <cei:persName>Johannis</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName><cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> regis ac comitis <cei:placeName>Lucemburgensis</cei:placeName></cei:persName>, domini et affinis nostri karissimi, gerimus celsitudinem
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>et statum nostrum inantea pacificum, princeps suus ac regnorum suorum <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> fore decrevimus,
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>terram nostram <cei:placeName>Mazoviensem</cei:placeName> et dominium <cei:placeName>Ploczense</cei:placeName> cum castris nostris <cei:placeName>Ploczk</cei:placeName>, <cei:placeName>Wyssegrado</cei:placeName> et <cei:placeName>Gostynin</cei:placeName>, civi¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>tatibus quoque oppidis, villis et prediis locatis per nos aut locandis, nobilibus, baronibus, militibus,
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>vasallis et hominibus ad ipsas aut ipsa spectantibus, cum pertinentiis suis ac aliis bonis nostris universis,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>quas et que nunc possidemus vel in posterum quocumque possidebimus tytulo, nostro, heredum et successorum
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>nostrorum, ducum <cei:placeName>Mazoviensium</cei:placeName> et dominorum <cei:placeName>Ploczensium</cei:placeName>, nomine in regis ipsius sponte et libere manibus resignan¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>tes, ab ipso in feudum recepimus et facto sibi per nos debite fidelitatis homagio, prestito per nos
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>prius corporali nichilominus juramento, ipsi regi, heredibus et successoribus suis tamquam veris dominis nostris, velut
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>princeps et fidelis suus et regnorum suorum <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> prefatorum, promisimus parere et intendere ac servire
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>fideliter pro viribus de eisdem et contra quemlibet principem et hominem efficaciter adiuvare. Harum, quas sigillo
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>nostro maiori communiri fecimus, testimonio litterarum. Datum in <cei:placeName>Ploczk</cei:placeName> <cei:date value="99999999">anno Domini millesimo trecentesimo</cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:date value="99999999">vicesimo nono quarta feria post dominicam oculi mei semper</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_Plasy_702_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>AZK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_Plasy_702_H_I</cei:title><cei:idno type="Transkribus">146407</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ya <cei:persName>Girzink z <cei:placeName>Cziewicz</cei:placeName>, sedienim w <cei:placeName>Krassowiczich</cei:placeName></cei:persName> a ya <cei:persName>Jan</cei:persName>, syn geho, y nassy buduczii, wyznawame tiemto
+                    <cei:lb facs="#facs_1_r1l5" n="N002"/>listem obecznye wssiem, ktoz gey czisti budu neb cztucze uslissie, ze dwie wsy, gedna <cei:placeName>Brzezye</cei:placeName> podle <cei:placeName>Czrmneho</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l7" n="N003"/>a druha <cei:placeName>Mrtnik</cei:placeName> se wssemi plati, se wssemi uzzitky y s panstwim, tak uplnye, iako sme ot knieze opata a ot
+                    <cei:lb facs="#facs_1_r1l9" n="N004"/>wsseho konwenta klasstera <cei:placeName>plaskeho</cei:placeName> kupili przigeli a drzzeli, nicz tu sobe poostawugicz, moczi tohoto listu
+                    <cei:lb facs="#facs_1_r1l11" n="N005"/>gym sstupiti a wratiti slibugem, bezelsti, kdyz mu peczzet a mie zrukogemstwie, kdez koliwiek za nye
+                    <cei:lb facs="#facs_1_r1l12" n="N006"/>stogym, bez me sskody wywadie, take ya neb syn moy y buduczi nassy wsseczky uroky, bernye, sudnee,
+                    <cei:lb facs="#facs_1_r1l13" n="N007"/>wynny, y wsselike poplatky, male y wielike, czoz gest w tiech dwu wsy swrchupsanich, slibugem wibieraty
+                    <cei:lb facs="#facs_1_r1l14" n="N008"/>a knyezi opatu a geho konwentu do klasstera do <cei:placeName>Plas</cei:placeName> gym otczzisty wsseczky a dati a ony mu peczzet, kdez
+                    <cei:lb facs="#facs_1_r1l15" n="N009"/>koliwiek w rukogemstwy za nye stogym, czoz na moy diel slussye, magy tiemy penyezy wywaditi, bez me
+                    <cei:lb facs="#facs_1_r1l16" n="N010"/>sskody. Take ya, <cei:persName>Girzink</cei:persName>, neb moy syn nesmienililibichom nassie wsy koryt za tu wies, za <cei:placeName>Brzezye</cei:placeName>, a
+                    <cei:lb facs="#facs_1_r1l17" n="N011"/>kniez opat y konwent swrchupsany tu wies <cei:placeName>Brzezye</cei:placeName> chtieli komu prodati, mame gym k tomu przi¬
+                    <cei:lb facs="#facs_1_r1l18" n="N012"/>voliti a toho trhu slibugem gym nebraniti, ani na tom przekazeti a dale umluwilisme, kdyzby se kniezy
+                    <cei:lb facs="#facs_1_r1l19" n="N013"/>opatu a konwentu kupecz nahodil na tu wies, na <cei:placeName>Mrtnik</cei:placeName>, bud to kupeno na wiecznost neb dozziwota,
+                    <cei:lb facs="#facs_1_r1l20" n="N014"/>slibugem gym na tom trhu take neprzekazzeti a kdyz prodadie, tehdy tiemy penyezy, kterez wezmu
+                    <cei:lb facs="#facs_1_r1l21" n="N015"/>za ty dwie wsy swrchupsane, magy mu peczet a mie zrukogemstwie, kdez koliwiek zanye stogym, wywa¬
+                    <cei:lb facs="#facs_1_r1l22" n="N016"/>diti, bez mych sskod, a kdyz gym naprzedpsanich dwu wsy stupyme, tehdy gich list, kteriz mame ot
+                    <cei:lb facs="#facs_1_r1l23" n="N017"/>knieze opata a ot konwenta pod gich peczetmi na wiecznost na ty dwie wsy, mame a slibugem gym
+                    <cei:lb facs="#facs_1_r1l25" n="N018"/>wratiti a w gich rucze dati, pod dobru a czistu wieru y pode cztii, a tu wssichnu umluwu swrchupsanu
+                    <cei:lb facs="#facs_1_r1l26" n="N019"/>slibugem gym sdrzzeti a splnyty, bezewssye otpornosty. Ku potwrzeny toho wsseho, czoz w tomto listu
+                    <cei:lb facs="#facs_1_r1l30" n="N020"/>psano gest y na swiedomie, ya, <cei:persName>Girzink</cei:persName> naprzedgmenowany, swu wlastnii peczet prziwiessil sem
+                    <cei:lb facs="#facs_1_r1l31" n="N021"/>k tomuto listu a prosil sem slowutnich panossy <cei:persName>Jana z <cei:placeName>Rabsteyna</cei:placeName> sedienym w <cei:placeName>Loze</cei:placeName></cei:persName> a <cei:persName>Jana Ssil¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l35" n="N022"/><cei:persName>hana</cei:persName>, bratra meho, ze su k me prosbe swe peczety wlastnye take k tomuto listu prziwiessili na swie¬
+                    <cei:lb facs="#facs_1_r1l37" n="N023"/>domye, a my oba <cei:persName>Jany</cei:persName> swrchu gmenowanii, zname se k nassim pieczetem, ktere sme k <cei:persName>Gyrzinkowie</cei:persName> pro¬
+                    <cei:lb facs="#facs_1_r1l39" n="N024"/>sbe nassym wiedomim y dobru nassy woli prziwiessili k tomuto listu na swiedomie, genz gest <cei:date value="99999999">dan leta</cei:date>
+                    <cei:lb facs="#facs_1_r1l41" n="N025"/><cei:date value="99999999">ot narozenye syna Bozzyeho tissicz cztyrzista we dwudczatem letie, w sobotu po hodu Bozzieho wstupenie</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

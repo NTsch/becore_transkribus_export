@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1690_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1690_H_I</cei:title><cei:idno type="Transkribus">211757</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/><cei:persName>Georgius, Dei gracia rex <cei:placeName>Bohemie</cei:placeName>, marchio <cei:placeName>Moravie</cei:placeName>, <cei:placeName>Lucemburgensis</cei:placeName> et <cei:placeName>Slesie</cei:placeName> dux ac <cei:placeName>Lusacie</cei:placeName> marchio</cei:persName>, notum facimus tenore 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>presentium universis, quod nos nobilibus <cei:persName>Johanni de <cei:placeName>Waldenstein</cei:placeName></cei:persName> et <cei:persName>Czenkoni Kuna de <cei:placeName>Cunstat</cei:placeName></cei:persName>, fidelibus nostris dilectis, insolidum aut illi, 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>qui presens fuerit, ita quod absentis conditio presenti minime noceat a serenissimo principe domino <cei:persName>Mathia, rege <cei:placeName>Hungarie</cei:placeName>, <cei:placeName>Dalmacie</cei:placeName>, </cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName><cei:placeName>Croacie</cei:placeName></cei:persName> et cetera, filio et fratre nostro carissimo, aut consiliariis suis seu aliis ad hoc specialiter deputatis et missis summam novem millium 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>aureorum hungaricalium, quos idem dominus rex nobis in opido <cei:placeName>Trenczin</cei:placeName> in festo sancti Johannis Babptiste proximo venturo dare et 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>deponere debet ab eodem recipiendi, tollendi et levandi vice et nomine nostri et postquam dictam summam novem millium florenorum 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>in auro acceperint, litteras super triginta millibus aureorum hungaricalium nostro nomine reddendi et restituendi dicto domino regi aut 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>suis consiliariis vel aliis ab eodem rege ad hoc specialiter missis et deputatis auctoritate presentium damus et conferimus plenam et omnimo¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>dam potestatem. Presentium sub nostri regalis sigilli appensione testimonio litterarum. Datum <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">die decimaseptima junii anno </cei:date>
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/><cei:date value="99999999">Domini millesimoquandtingentesimosexagesimosecundo, regni nostri anno quinto.</cei:date>
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573576973509_712">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573576976990_715" n="N001"/>Ad mandatum
+                    <cei:lb facs="#facs_1_line_1573576979169_720" n="N002"/>domini regis.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_183_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_183_H_I</cei:title><cei:idno type="Transkribus">169987</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l1" n="N001"/>My <cei:persName>Nicolass opat</cei:persName>, <cei:persName>Conradus przewor</cei:persName>, <cei:persName>Conradus podprzeworzie</cei:persName>, <cei:persName>Matheus klycznik</cei:persName> a wess <cei:placeName>Snya¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r2l2" n="N002"/><cei:placeName>tek</cei:placeName> klasstera <cei:placeName>ossieczkeho</cei:placeName>, wyznawame tyemto nassym zewnym listem tyem wssem, ktoz gey opatrzye
+                    <cei:lb facs="#facs_1_r2l3" n="N003"/>neb cztucze uslissie, ze opatrny nass czlowiek <cei:persName>Wachek, rzeczeny Wachur z <cei:placeName>Kolozruk</cei:placeName></cei:persName>, kupeczky kupil sobie
+                    <cei:lb facs="#facs_1_r2l4" n="N004"/>a sswim buduczym u <cei:persName>Petra Dywisse</cei:persName> w <cei:placeName>Kolozruczich</cei:placeName> chalupp a myessczisscze  apolulenye tomu gistemu
+                    <cei:lb facs="#facs_1_r2l5" n="N005"/><cei:persName>Petrowi</cei:persName> giesty to zbozy <cei:persName>Wachur</cei:persName> hotowimy penyezy zaplatyl, a u nas take to swrchupsane zbozye
+                    <cei:lb facs="#facs_1_r2l6" n="N006"/>kupil, zaplatil a ot nas przygial wprawi purgrecht, tak ze ten dwor gma zehnaty k swemu dworu s nassym
+                    <cei:lb facs="#facs_1_r2l7" n="N007"/>y z sussiedskym powolenym bez umenssenye wssech rzadow nassich y tudyz sussyedskych, take
+                    <cei:lb facs="#facs_1_r2l8" n="N008"/>giesty prodal <cei:persName>Wachur</cei:persName> <cei:persName>Marzykowy</cei:persName> take nassemu czlowieku sstwrt te diedyny. Ste diedyny gma nam
+                    <cei:lb facs="#facs_1_r2l9" n="N009"/>platyty urok nawssake leto ten swrchupsany <cei:persName>Marzyk</cei:persName>, y tudiez <cei:persName>Wachur</cei:persName> na swateho Gyrzie <cei:persName>Marzyk</cei:persName> 
+                    <cei:lb facs="#facs_1_r2l10" n="N010"/>gma dawaty dewiet grossow, <cei:persName>Wachur</cei:persName> tolikez a wagecz puolkopi, <cei:persName>Wachur</cei:persName> tolikez. A na sswateho
+                    <cei:lb facs="#facs_1_r2l11" n="N011"/>Hawla gma dawaty <cei:persName>Marzyk</cei:persName> osmnadczte grossow a puolstwrta halerze, <cei:persName>Wachur</cei:persName> osmnadczte
+                    <cei:lb facs="#facs_1_r2l12" n="N012"/>grossow a polstwrta halerze, a zemske bernye kdiz gdu powssie zemy, tehadaz gma dawaty
+                    <cei:lb facs="#facs_1_r2l13" n="N013"/><cei:persName>Marzyk</cei:persName> dewiet grossow aWachur tolikez. Teto rzeczy na swedecztwie a potwrzeny gsme my
+                    <cei:lb facs="#facs_1_r2l14" n="N014"/>swrchupsany opat a wess <cei:placeName>Snyatek</cei:placeName> klastera <cei:placeName>ossieczkeho</cei:placeName> nasse peczety przywiesili na tento
+                    <cei:lb facs="#facs_1_r2l15" n="N015"/>list, kteryz gesty dan <cei:date value="99999999">leta od narozenye syna Bozieho M CCCC XIX</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

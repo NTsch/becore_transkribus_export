@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2382_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2382_I</cei:title><cei:idno type="Transkribus">199171</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Zbyniek Hrziwnacz z <cei:placeName>Heralticz</cei:placeName>, sedienym na <cei:placeName>Stytinie</cei:placeName></cei:persName>, wiznawam tymto listem obecznie przede wsemy,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>ktoz tento moy list uzrzie aneb cztucze slisseti budu, ze tak, yakoz gsem bil zassel wznamenite sskody
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>chtie z rozkazanie welebneho knieze <cei:persName>Waczlawa, tehdy opata <cei:placeName>hradysstzkeho</cei:placeName></cei:persName>, meho stricze mileho, y geho 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>bratrzy, przibity na classter a gemu y gieho bratrzim wiernie pomoczen a raden bity proty gich
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>neprziatelom, ze gsem sie s welebnym kniezem <cei:persName>Waczlawem</cei:persName>, drzewerzeczenym stricem mym milim,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>tak smluwil, ze mi geho milost slibil me sskodi zaplatyty y plnyty z toho zbozie oldrzissowskeho y 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>gineho zbozie, czoz gemu zapsano gest a w drzeny ma mieti do geho zywota. Protoz ya, swrchupsany 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName>Zbiniek Hrzywnacz</cei:persName>, z swim dobrim rozmislem propussczugi a moczi tohoto listu quittugi a prazdna 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>czynym z tiech sskod welebneho knieze <cei:persName>Miksse, nynye opata, voleneho przewora y wessken convent</cei:persName>
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/><cei:persName><cei:placeName>hradyssczkii</cei:placeName></cei:persName> podle swrchupsanych umluw a gich wicze nyzadnu wieczi o ti sskody nechczi any myem
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>keru wieczi napomynaty. A k tomu na swiedomie a na lepssie potwrzenye swu wlastny peczet swu
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>dobru woli a swiedomym k tomuto listu gsem przywiessil a prziprosil sem welebneho knieze <cei:persName>Wacz¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/><cei:persName>lawa</cei:persName>, stricze meho swrchupsaneho, urozeneho rytierze pana <cei:persName>Miculasse</cei:persName>, wlaienynskeho hautmana 
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>knyezetstwie opawskeho, urozeneho pana <cei:persName>Czenka z <cei:placeName>Tworkowa</cei:placeName></cei:persName> a urozeneho pana <cei:persName>Jana Schauttara</cei:persName>
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/><cei:persName>z <cei:placeName>Bohuslawicz</cei:placeName>, komornyka desk <cei:placeName>zemie Opawskey</cei:placeName></cei:persName>, z gsu take k me prozbie a podle mne na swiedomie 
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>swe peczety k tomuto listu przywiesili. Genz giest dan w <cei:placeName>Oppawie</cei:placeName> <cei:date value="99999999">leta ot narozenie syna Bozieho </cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/><cei:date value="99999999">tissiczeho cztrsteho trzidseteho sedmeho ten pondieli po swatem Gylgii.  </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

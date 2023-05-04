@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1553_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>ACK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1553_H_I</cei:title><cei:idno type="Transkribus">169971</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Hanuss z <cei:placeName>Kolowrat</cei:placeName></cei:persName><cei:placeName/> a <cei:persName>Gindrzich, synowecz geho</cei:persName> odtudzz, wyznawame tiemto listem obecznie przede wssemi, kteryzz 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>gey uzrzie a neb cztucz slysseti budu, zze iakozz nayiasniegssie kniezze a pan pan <cei:persName>Sigmund rzymsky czyesarz</cei:persName>, wzzdy roz¬
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>mnozzytel rysse a uhersky, czesky et cetera kral, pan nass naymilostiwieyssii, swierzyl gest a postupil nam w zastawie 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>hraduow swych <cei:placeName>Tocznika</cei:placeName> a <cei:placeName>Zzebraku</cei:placeName> w gistych penieziich, totissto we cztyrzech tisyczech zlatych rynskych a w 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>ostatku dluhu drzewnieho. Aczby to, czozz nam na berni skazano gest nepostihlo, gessto bychom rzadnie pocztem a swie¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>domim pokazali pod ty umluwy, iakozz list geho milosti nam na swiedomie te zastawy wydany dale swiedczii. Tak 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>dobrowolnie a swobodnu wolii nassii dobru wieru slibugem, kdyzzkoli nam ot geho milosti nebo ot buducziich kraluow 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>czeskych budu ti peniezy dluhu nasseho wedle zapisu geho milostii nam na to wydaneho, o niemzz swrchu zmienka, 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>gest dani a zaplaczeni hned hraduow swechupsanych zzadnych sskod na to, ani nakladuow wysse nepoczytagicz 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>w gich mocz postupiti a zasie wratiti bez wsselikeho otporu y bez zmatku. Na zdrzzenie toho peczeti nasse wla-
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>stnie dalisme y kazali prziwiesyti listu tomuto dobrowolnie, genz gest dan v <cei:placeName>Praze</cei:placeName> l<cei:date value="99999999">eta od narozenie syna </cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N012"/>B<cei:date value="99999999">ozzyeho tisyczyehocztyrzstehotrzidczatehosedmeho w sobotu den powyssenie swateho krzizze</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

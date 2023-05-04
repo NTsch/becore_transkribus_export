@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0072_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0072_H_I</cei:title><cei:idno type="Transkribus">187507</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Noverint universi presentes litteras inspecturi, quod nos <cei:persName>Fridericus</cei:persName>, <cei:persName>Herman</cei:persName>us et <cei:persName>Fridericus, fratres de </cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/><cei:placeName>S<cei:persName>onburch</cei:persName></cei:placeName>, bona et spontanea voluntate nostra omnibus iuribus et actionibus, que nobis in officio
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/> <cei:placeName>Suppe Cadanensis </cei:placeName>et pertinenciis eius ex quacumque causa competunt ad presens vel possent competere
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>in futurum et litteris seu privilegiis quibuscumque super hiis a Romanorum vel Boemie regibus 
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>aut aliis quibuslibet personis sub quacumque forma vel concepcione verborum traditis seu concessis,
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>renuntiamus expresse et de huiusmodi iuribus et actionibus serenissimo domino nostro, domino <cei:persName>Johanni, <cei:placeName>Boemie</cei:placeName></cei:persName><cei:placeName/>
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/><cei:persName>et <cei:placeName>Polonie</cei:placeName> regi</cei:persName>, libere cedimus ac idem officium cum suis pertinenciis universis benivole
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>resignamus volentes omnino, ut littere et privilegia huiusmodi sint cassa, irrita et viribus
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>vacua et nullum de cetero tam in iudicio quam extra robur obtineant firmitatis, exceptis litteris 
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>dicti domini nostri regis <cei:placeName>Boemie</cei:placeName>, quas de novo super bonis ad dictam Suppam pertinentibus sub simili 
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>data harum litterarum recepimus ab eodem. In cuius rei testimonium sigillum mei <cei:persName>Friderici senioris</cei:persName>
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>pro me et fratribus meis supranominatis, qui propria non habent sigilla, presentibus est appensum. Datum <cei:placeName>Prage</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/><cei:date value="99999999">XVII Kalendas octobris, anno Domini millesimo trecentesimo duodecimo. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

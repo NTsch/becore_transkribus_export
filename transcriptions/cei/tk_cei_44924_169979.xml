@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_172_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_172_H_I</cei:title><cei:idno type="Transkribus">169979</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Henrych z <cei:placeName>Elstrberka</cei:placeName>, odgynud z <cei:placeName>Plane</cei:placeName>, sedyenym na <cei:placeName>Costomlatech</cei:placeName></cei:persName>, vyznawam tyemto listem przyed kazzdym, ktozz
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>tento lyst czysty neb cztucz slyssyety budu nynyeyssy y buduczy, zze tak yakozz urozzena pany nebozzka, pany
+                    <cei:lb facs="#facs_1_r1l6" n="N003"/><cei:persName>Zoffka z <cei:placeName>Dobrussky</cei:placeName></cei:persName>, sestra ma a nebozzczye panye <cei:persName>Petrowa manzzelka z <cei:placeName>Costy</cei:placeName></cei:persName>, dala y prodala a costomlatskem
+                    <cei:lb facs="#facs_1_r1l8" n="N004"/>sbozzy ku obczy cztnym muzzom <cei:placeName>wssy z tratowskey</cei:placeName> ty luky nebo pastwyny, yakozz slowu <cei:placeName>Chrzyenyny</cei:placeName>, y ten
+                    <cei:lb facs="#facs_1_r1l10" n="N005"/>stawek, yakozz dyely<cei:placeName> lansku obecz</cei:placeName>, y stu wrbynu, kteraz gest na tom stawku, y ten staw, yakozz slowe <cei:placeName>Hma¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l11" n="N006"/><cei:placeName>kow</cei:placeName> a gesto lezzy podle te obczye, y stu se wssy wrbynu, kterazz gest na tom stawu azz do rybnyka <cei:placeName>Wazzka</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l12" n="N007"/>a w tyech mezech, yakozz gest nebozzka pany gym prodala, gym prodala a gym ukazzano gest gegym kaza¬
+                    <cei:lb facs="#facs_1_r1l14" n="N008"/>nym a take gest przymyenyeno, kdyzzby <cei:placeName>rybnyk Wazzek</cei:placeName> spussczzen bil nebo pust byl, tehdy magy toho  
+                    <cei:lb facs="#facs_1_r1l15" n="N009"/>pozzywaty rybnyka pastwu nebo lukamy aneb kterak sye gym lyby k gych pozzytku bez potoku ryb lowenye
+                    <cei:lb facs="#facs_1_r1l16" n="N010"/>y s tyemy drahamy, yakozz lezzye podle toho rybnyka azz do te mezzye, yakozz gym gest prodano neb yakozz ta
+                    <cei:lb facs="#facs_1_r1l19" n="N011"/>proday zalezzy. A to gym y gych buduczym prodala gest vyeczznye pod purkrecht za dwadczyew kopp grossyew
+                    <cei:lb facs="#facs_1_r1l23" n="N012"/>strzyebrnych dobrych prazzskeho razu a pod urok dwu koppu plata koppu na swateho Gyrzye a koppu
+                    <cei:lb facs="#facs_1_r1l26" n="N013"/>na swateho a to rozdyelnye bezze wssyech robot y gynych wssyech poplatkow prodala gest gym y gych
+                    <cei:lb facs="#facs_1_r1l29" n="N014"/>buduczym vyecznye bez przyekazzy. A protoz ja <cei:persName>Henrych z <cei:placeName>Elstrberka</cei:placeName></cei:persName> swrchu psany to danye y prodanye ne¬
+                    <cei:lb facs="#facs_1_r1l30" n="N015"/>bozzky panye swrchu psane, sestry me, to dale dawam y prodawam y potwrzugy wyeczznye ku pur¬
+                    <cei:lb facs="#facs_1_r1l31" n="N016"/>krechtu tey wssy swrchu psaney z <cei:placeName>Tratowu</cei:placeName> puod urok swrchu psany rozdyelnye tak, yakozz swrchu
+                    <cei:lb facs="#facs_1_r1l33" n="N017"/>psano gest, koppu na swateho Gyrzye a kopu na swateho Hawla gym y gych buduczym tey wssy z<cei:placeName>t¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l35" n="N018"/><cei:placeName>ratowskey</cei:placeName> a to gym vyeczznye slybugy sdrzzyety y gych buduczym swu dobru wyeru, any gym na tom
+                    <cei:lb facs="#facs_1_r1l37" n="N019"/>przyekazzyety ya, any kto ode mnie. Ya, mogy buduczy, y toho sbozzye swrchu psaneho drzzytele vyeczznye gym
+                    <cei:lb facs="#facs_1_r1l39" n="N020"/>natom nemagy przyekazzyety, ktozz po mnye budu na tom na costomlatskem sbozzy, nebo ktozz by tu
+                    <cei:lb facs="#facs_1_r1l41" n="N021"/>vess drzzyely w buduczych czzasech, wieczznye gym y gych buduczym nemagy przyekazzyety na tom
+                    <cei:lb facs="#facs_1_r1l43" n="N022"/>kupeny swrchu psanem. A toho na swyedomye a pro lepssy gystotu swu gsem peczzet wlastny swu voly
+                    <cei:lb facs="#facs_1_r1l46" n="N023"/>dobru a s dobrym vyedomym k tomuto lystu przywyesyl a mu prosbu slowutnye muzzowe pan <cei:persName>Cztybor</cei:persName>
+                    <cei:lb facs="#facs_1_r1l48" n="N024"/><cei:persName>z <cei:placeName>Lybussye</cei:placeName>, sedyenym <cei:placeName>Wynarzczych</cei:placeName></cei:persName>, <cei:persName>Jan z <cei:placeName>Copydlna</cei:placeName>, sedyenym w <cei:placeName>Luczzeny</cei:placeName></cei:persName>, <cei:persName>Zawyssye z <cei:placeName>Syemczzycz</cei:placeName>, sedy¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l50" n="N025"/><cei:persName>enym w <cei:placeName>Costomlatech</cei:placeName></cei:persName>, <cei:persName>Mykess, rychtarz z <cei:placeName>Lysse</cei:placeName></cei:persName>, swe su wlastnye peczzety swu dobru woly a swym dobrym
+                    <cei:lb facs="#facs_1_r1l52" n="N026"/>vyedomym na swyedomye przywysyly gsu k tomuto lystu, genzz gest dan a psan <cei:date value="99999999">leta od narozzeye Buo¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l54" n="N027"/><cei:date value="99999999">zzyeho tyssyczyeho cztyrzsteho cztrnasteho hradye na <cei:placeName>Cukomlatech</cei:placeName> den swateho Ondrzyegye aposstola. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2167_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2167_H_I</cei:title><cei:idno type="Transkribus">191064</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Jan ze <cei:placeName>Zdiara</cei:placeName></cei:persName><cei:placeName/> a <cei:persName>Oldrzich z <cei:placeName>Luzan</cei:placeName></cei:persName>, bratrze, a <cei:persName>Olbram</cei:persName> a <cei:persName>Gindrzich, bratrze z <cei:placeName>Kamenicze</cei:placeName></cei:persName>, wiznawa¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>me tiemto listem a obecznie wssem, kdoz gey uzrze nebo cztucz uslisse, ze iakoz su cztihodni kniez
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>Petr z Buoze milosty probost <cei:placeName>chotiessowski</cei:placeName></cei:persName> y wessken conventh clastera <cei:placeName>chotiessowskeho</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>wiplatili list ot urozeneho <cei:persName>Zdenka z <cei:placeName>Drsstki</cei:placeName></cei:persName>, purkrabie na <cei:placeName>Tynie Horssowskem</cei:placeName>, na pieth seth 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>kop grossow, kterizto list gmiel swrchupsany <cei:persName>Zdeniek z <cei:placeName>Drsstki</cei:placeName></cei:persName> za sluzbu od kralowi milosty
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>na <cei:placeName>Stankowy</cei:placeName> na <cei:placeName>Huczow</cei:placeName> a na <cei:placeName>Tuskow</cei:placeName> a ten list swrchupsani kniez <cei:persName>Petr probost <cei:placeName>cho¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:persName><cei:placeName>tiessowski</cei:placeName></cei:persName> y wessken conventh clastera <cei:placeName>chotiessowskeho</cei:placeName> gmagi w swe moczi a gestli
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>zebi  nam toho listu potrzebie bilo kuokazani anas proto czo potkalo anebo ty, kterizby 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>listy nasse gmiely s nassi dobru wuoly na swrchupsaneho knieze <cei:persName>Petra probosta, a na</cei:persName>
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/><cei:persName>wessken conventh clastera <cei:placeName>chotiessowskeho</cei:placeName></cei:persName> neb mu <cei:persName>Jan ze <cei:placeName>Zdiara</cei:placeName></cei:persName> a <cei:persName>Oldrzich z <cei:placeName>Luzan</cei:placeName></cei:persName> bratrze 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>gmame nanye list na cztirzista kop grossow na <cei:placeName>Sstankowy</cei:placeName> a my <cei:persName>Olbram</cei:persName> a <cei:persName>Gindrzich, bratrzie </cei:persName>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:persName>z <cei:placeName>Kamenicze</cei:placeName></cei:persName> na <cei:placeName>Huczowi</cei:placeName>, list na sto kop grossow a na cztirzidczetii kop grossow. A kdiz ten list o¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>kazem k swe sprawedlnostii, tehdi my swrchupsani y ti, kterizbi ty listi nasse gmieli s nassi
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>dobru wuoly a ten list nam kuokazani a kuobranie widan bil, gmame a slibugeme giz psanim
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>kniezi <cei:persName>Petrowi probostu y conventhu clastera <cei:placeName>chotiessowskeho</cei:placeName></cei:persName><cei:placeName/> ten list zasie w gich mocz 
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>zasie poloziti bez gich skodi a to slibugeme cztnie wiernie a krzestianski zdrzeti a zachowati be¬
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>zewsse zle lsty. Toho na potwrzenie a pro lepssi gistotu swe gsme wlastnie peczeti prziwiessily
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>k tomuto listu swu dobru wuoly y s plniim prziznanniim a pro dalssie swiedomie prosilisme 
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>urozenich panossi <cei:persName>Zdenka z <cei:placeName>Drsstki</cei:placeName></cei:persName>, ten czass purkrabie na <cei:placeName>Tynie Horssowskem</cei:placeName>, <cei:persName>Cztibora </cei:persName>
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/><cei:persName>z <cei:placeName>Wolsstyna</cei:placeName>, sedienim w <cei:placeName>Hostuny</cei:placeName></cei:persName>, <cei:persName>Bohusse z <cei:placeName>Tasuowicz</cei:placeName></cei:persName>, abi swe peczeti podle nas na swie¬
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>domie prziwiessili bez swe skodi. Genz gest dan a psan <cei:date value="99999999">letha po narozenie syna Boziho ti¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/><cei:date value="99999999">ssiczeho Cztirzisteho a trzidczateho druheho tu sobothu den Swateho Krzize nalezeni et cetera</cei:date>.        
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

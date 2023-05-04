@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1470_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>ACK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1470_H_I</cei:title><cei:idno type="Transkribus">169946</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Oldrzich, rzeczeny Sochor z <cei:placeName>Waldeka</cei:placeName></cei:persName>, wyznawam tiemto listem wssiem, ktoz gey uzrzie neb cztucz slyssyety
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>budu, jakoz gssem bil pronagal richtarzstwie w <cei:placeName>Brozanech</cei:placeName> naydostoynyeyssiemu knyezy a panu, panu
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>Conradowy, arczibiskupu prazsskemu</cei:persName>, prziedczassy, kdyz gest bil probosstem melniczkym a potom Bozym
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>zgednanym gssa arczibiskupem welebny knyez <cei:persName>Constantyn, bratr geho nynyeyssy, probosst <cei:placeName>melniczky</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>ten nagem toho brozanskeho richtarzstwie podstupil, jakoz gssem toho gmyel geho dobry list pod wissutu
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>peczety, kteryz gssem ztratyl a geho ssie pro nycz nemohu doptaty. Protoz gestly ze bich ya, dyediczowe mogy
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>anebo buduczy kdy ssie doptaly toho listu, anebo ktozby koliwiek gyny gey gmyel, tehda ten list wiecznye
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>wiecze negma gmyety y zadne moczy, anyz probosstowy nynyeyssiemu y buduczym, kterym obicziegem na
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>sskodu biti, kteryz list ya, <cei:persName>Oldrzich Sochor</cei:persName> swrchupsany, umorzugy moczy tohoto listu. A tiech wssiech wieczy,
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>czoz ten list swiedczyl anebo swiedssy take ya, <cei:persName>Oldrzich Sochor</cei:persName>, sam od sebe diediczow swich a buduczich swrchu
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>gmenowaneho knyezie <cei:persName>Constantyna, probossta melniczkeho</cei:persName>, y wssiechny geho buduczie moczy tohoto listu
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>wssiech wieczy na tom ztraczenem listu popsanich quittugy a prazdny propusscziem. A toho na potwrzenye
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>swu gssem wlastny peczet przywiessil k tomuto listu a wedle mne k me prosbie urozeny pany, pan <cei:persName>Wilem</cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:persName>Zagiecz z <cei:placeName>Hazmburka</cei:placeName></cei:persName> a pan <cei:persName>Jarosslaw Plichta s <cei:placeName>Zyrotyna</cei:placeName></cei:persName> na swiedomye take swe peczety przywiessyli
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>k tomuto listu, genz gest dan w <cei:placeName>Prazie</cei:placeName> <cei:date value="99999999">leta od narozenye syna Bozieho tissiczieho cztyrz steho osmnazteho</cei:date>
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:date value="99999999">w sobotu po swatich gedenadczte tissicz dyewicz Bozich</cei:date>.
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>Erb <cei:persName>Plychtuw z <cei:placeName>Žerotina</cei:placeName></cei:persName><cei:placeName/>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

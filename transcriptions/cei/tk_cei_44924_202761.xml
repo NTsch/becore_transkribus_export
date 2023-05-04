@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RM_2330_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RM_2330_H_I</cei:title><cei:idno type="Transkribus">202761</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Zygmund, z Bozzye milosti rzymsky czyesarz, wzzdy rozmnozzytel rzysse a uhersky, czesky et cetera kral</cei:persName>, wyzna¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>wame tiemto listem przede wssemi, kterzizz gey uzrzie a neb cztucz slysseti budu, zze iakozz sme opatrnemu <cei:persName>Waczla¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>wowi, rzeczenemu Czwok, miesstieninu <cei:placeName>Noweho miesta Prazskeho</cei:placeName></cei:persName>, wiernemu nassemu milemu, zuostali dluzzni
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>za potrzeby nam a dworu nassemu wydane dwiestie kop grossuow prazskych strziebrnych a dobrych, tak chtie¬
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>cze gemu za to dosti uczyniti s dobrym rozmyslem a radu nassii gemu a geho diediczom y buduczym zastawi¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>lisme a zastawugem, zapsalisme y tiemto listem zapisugem wes rzeczenu <cei:placeName>Brzezzyniewes</cei:placeName> krzyzzownikuow
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>matky Bozzye s <cei:placeName>Male strany</cei:placeName> s uroky, platy, pozzytky a rychtarzstwim, y se wssym, czozz k tomu przislussye, w tiech 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>dwustu kopach grossuow dobrych, tehozz iakozz swrchusie pisse razu, a to tak, aby prwegmenowany <cei:persName>Waczlaw</cei:persName>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/><cei:persName>Czwok</cei:persName> y geho diediczowee a buduczii tu wes y s przislussenstwim gegim drzzal a drzzali y pozzywali bez nassye y
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>nassych buduczych neb urzednikuow wsselike otpory a przekazzky, tak dluho a dotud, donizzby nami neboli nassymi
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>buduczymi krali czeskymi a neb tiemi, gymzzby ta wyplata sprawedliwie przislussala, gemu neb geho diediczom 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>tiech dwiestie kop grossuow dano nebylo a zaplaczeno doczela y uplnie, to przidawagicze, aby lidii te wsy mi¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>mo sprawedliwe gich poplatky neobtiezzowali ku pohorsseni toho sbozzye obyczegem zzadnym. A ktozz tento list mie¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>ti bude s czastopsaneho <cei:persName>Czwoka</cei:persName> dobru wolii a swobodnu, ten ma wsseczko prawo mieti k tomuto zapisu, iakozzto on
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>sam. A toho na potwrzenie nass czyesarzsky magestat kazalisme prziwiesyti k tomuto listu, genzz gest dan v
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:placeName>Praze</cei:placeName> <cei:date value="99999999">w Strziedu przed swatym Ondrzegem, leta od narozenie syna Bozzyeho tisyczyehocztyrzsteho trzidczateho</cei:date>
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:date value="99999999">ssesteho, let kralowstwii nassych uherskeho et cetera w padesatem, rzymskeho w sedmezyczyetmem, czeskeho w sedminad</cei:date>¬
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

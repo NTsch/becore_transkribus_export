@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_216_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_216_H_I</cei:title><cei:idno type="Transkribus">170075</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Oldrzich z <cei:placeName>Rosenberka</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Brus s <cei:placeName>Zahradky</cei:placeName>, w tu chwily haitman na <cei:placeName>Trzebony</cei:placeName></cei:persName>, a <cei:persName>Beness z <cei:placeName>Chotienicz</cei:placeName></cei:persName> wyzna¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>wame tiemto listem wssem, ktoz gey czisty nebo cztucze slyssety budu, ze slowutni <cei:persName>Jan, rzeczeni Kbelecz z <cei:placeName>Luznicze</cei:placeName></cei:persName><cei:placeName/>,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>przed nas przissel a dobrowolnye wiznal, ze w <cei:placeName>Luzniczi</cei:placeName>, czoz ma na dworziech na lidech s tiem se wssim, czoz
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>k tomu przislussie, a tak nikoz sam drzial mocznye, gest wzdal a wzdawa bratru swemu naboznemu a
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>pocztywemu kniezi <cei:persName>Janowy, opathowi w tu chwily classtera trzebonskeho</cei:persName>, tak aby za <cei:persName>Kbelczowa</cei:persName> ziwota
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>geho zdraweho a neb y po geho smrty s tiem se wssim mohl iakozto s swim wlastnym uczinity, czoz
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>by sie gemu zdalo, kterezto wznanye a wzdanye przed namy proto sie stalo, neb gest wtu chwily
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>pro burzi a pro nepokoy w zemy ke dczkam zemskim przistup nemohl byty, nez kdiz by dczky otewrzie¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>ny byli a k nym przistup mohl byty, ze gest <cei:persName>Jan Kbelecz</cei:persName> nahorzepsani slibil knyezi opathowi bratru
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>swemu to wzdanye swrchupsane dczkamy ugistity a utwrdity podle rzadu a biehu zemie teto, pakliby
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>geho Buoh neuchowal, tehdi aby toto wyznanye a wydanye tak moczno bilo, iakoz by sie dczkamy
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>stalo a przed urzedniky. Tomu na swiedomie swe gsme peczety s nassim dobrim wiedomim przi¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>wiessili k tomuto listu, genz gest dan w <cei:placeName>Trzebony</cei:placeName> <cei:date value="99999999">leta od narozenye sina Bozieho tisiczieho</cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:date value="99999999">cztrsteho trzidczateho trzetieho, ten cztwrtek po swietye Martye.</cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

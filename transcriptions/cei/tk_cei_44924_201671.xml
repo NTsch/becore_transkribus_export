@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2145_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2145_H_I</cei:title><cei:idno type="Transkribus">201671</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Buryan</cei:persName> a <cei:persName>Yan, bratrzi z <cei:placeName>Gutsstaina</cei:placeName></cei:persName>, wiznawame tiemto listem obecznie przed kazdim ziwym czlowiekem, tak 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>iakoz gsu nam urozeny pany pan <cei:persName>Bohuslaw</cei:persName> a pan <cei:persName>Crussina, bratrzi cz <cei:placeName>Swamberga</cei:placeName></cei:persName>, daly w nassi mocz,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>w nassem dluze geden kralowi milosti s geho magestatem, a druhy knyezze probosstow a conwenta cla¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>sstera chotiessawsskeho, kterzizto listowe nasesst seth kop grossow we trzech letech, pocznucze
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>ot swateho Martina giz mynuleho, iakoz se psalo tissicziho cztirzsteho a sedmnadtczteho leta wipl¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>nycy, tu knyez <cei:persName>Hinek probosst a conwent geho classtera chotiessowskeho</cei:persName>, druheho leta poczewsse
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>nam platity, daly a wiplnily gsu, nam peniezy hotowymi dwie stie kop grossow naty roky, iakoz gsu
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>nam rozdielnye wadle hlawnich listow swiedcznicz myely plnity, toczizto na swateho Martina, iakez
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>se y psalo tisicziho cztirzsteho a ossmnadctzteho leta, na Hromnice a na swateho Girzi, potom przistzy, iakoz
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>se giz pisse tissicziho cztirzsteho a dewatinadtczteho leta. Protoz my <cei:persName>Buryan</cei:persName> a <cei:persName>Jan</cei:persName>, bratrzi swrchupsany,
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>ot sebe y ot ginich wssech, aczby ty listowe dale weczy mocz ot nas wessly o tiech dwu stu kop grossow
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>nam uplnye awczele splnyenich, knieze <cei:persName>Hinka probossta a conwent geho classtera <cei:placeName>chotiess¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:persName><cei:placeName>owskeho</cei:placeName></cei:persName> quittugem a moczi listu tohoto prazny propustzugem aprosty czinyme. Toho na lepssy
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>gistotu peczeti sme nasse wlastnye s nassy dobru woly a wiedomym k tomuto listu prziwiessily,
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>a prosilisme urozenych panossi <cei:persName>Habartha z <cei:placeName>Podmokl</cei:placeName></cei:persName>, <cei:persName>Sezemi z <cei:placeName>Kaczowa</cei:placeName>, sedienym w <cei:placeName>Uliczich</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>a<cei:persName>Puothy z <cei:placeName>Guttstaina</cei:placeName>, sedienym w <cei:placeName>Trpiestech</cei:placeName></cei:persName>, zes gsu peczeti swe na swiedomye wedle nassich
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>k tomuto listu prziwiesily, genz gest <cei:date value="99999999">dan po Bozim narozenye cztucze leta tissictugi cztirzsteho</cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/><cei:date value="99999999">a dewadttynadtczteho, na swateho Marca ewangelisty</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

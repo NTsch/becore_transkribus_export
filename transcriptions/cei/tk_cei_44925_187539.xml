@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0088_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0088_H_I</cei:title><cei:idno type="Transkribus">187539</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Nos <cei:persName>Johannes, Dei gratia <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> Rex ac <cei:placeName>Lucemburgensis</cei:placeName> comes</cei:persName>, ad universorum tam presentis etatis hominum quam future no¬
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>ticiam volumus pervenire, quod nos de maturo et communi principum, baronum ac prelatorum et nobilium regni nostri <cei:placeName>Boemie</cei:placeName> consilio necnon delibera¬
+                    <cei:lb facs="#facs_1_r1l5" n="N003"/>cione provida et sollempni tractatu prehabitis, utilitatem et commodum nostrum et heredum nostrorum ac precipue ipsius Regni nostri propter quedam futura, que no¬
+                    <cei:lb facs="#facs_1_r1l6" n="N004"/>bis in ipso regno nostro potuissent et poterant suboriri, dispendia evidencius cognoscentes cupientesque condicionem ipsius regni nostri facere meliorem, opi¬
+                    <cei:lb facs="#facs_1_r1l7" n="N005"/>dum nostrum <cei:placeName>Hostradicz</cei:placeName> et villam <cei:placeName>Mispitz</cei:placeName> cum dominio, iure, iurisdicione, hominibus, pratis, pascuis, piscationibus, molendinis, montibus pla¬
+                    <cei:lb facs="#facs_1_r1l8" n="N006"/>nis, agris cultis et incultis, rubetis, silvis, aquis aquarumve decursibus et generaliter cum omnibus illis, cum quibus dive memorie predecessores
+                    <cei:lb facs="#facs_1_r1l9" n="N007"/>nostri, reges <cei:placeName>Boemie</cei:placeName> illustres, oppidum et villam predictam tenuerunt et nos tenuimus usque modo, additis etiam aliis Bonis nostris, super quibus simi¬
+                    <cei:lb facs="#facs_1_r1l10" n="N008"/>liter nostras dedimus litteras speciales, cum fideli nostro <cei:persName>Henrico de <cei:placeName>Lypa</cei:placeName></cei:persName> pro civitate et <cei:placeName>districtu Sytaviensi</cei:placeName>, castris <cei:placeName>Ronow</cei:placeName> <cei:placeName>Oywins</cei:placeName> et <cei:placeName>Schonbuch</cei:placeName>, vil¬
+                    <cei:lb facs="#facs_1_r1l11" n="N009"/>lis, iuribus, domino, pheudalibus, hominibus et eorum pertinenciis universis et generaliter cum omnibus eis, cum quibus ipse huiusmodi usque nunc
+                    <cei:lb facs="#facs_1_r1l12" n="N010"/>tenuit et possedit, ex certa nostra scientia, nostro, heredum ac successorum nostrorum nomine commutavimus et permutamus et commutando in concambium
+                    <cei:lb facs="#facs_1_r1l16" n="N011"/>damus et dedimus, tradidimus et tradimus per ipsum <cei:persName>Henricum</cei:persName> et heredes ac successores suos possidendum iure hereditario perpetuo et tenendum, trans¬
+                    <cei:lb facs="#facs_1_r1l19" n="N012"/>ferentes in ipsum Henricum, heredes ac successores suos omne dominium, omnem proprietatem et omnia iura, que nobis, heredibus ac successoribus
+                    <cei:lb facs="#facs_1_r1l23" n="N013"/>nostris in oppido et villa predictis et suis pertinentiis universis competunt aut possent competere aliqualiter in futurum taliter, quod ipse <cei:persName>Henricus</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l24" n="N014"/>heredes et successores sui oppidum et villam predicta vendere, alienare in totum vel in parte et de ipsis, tamquam de re sua propria, possint
+                    <cei:lb facs="#facs_1_r1l25" n="N015"/>disponere pro sue libito voluntatis, renunciantes expresse et ex certa nostra sciencia nostro ac heredum et successorum nostrorum nomine in integrum resti¬
+                    <cei:lb facs="#facs_1_r1l26" n="N016"/>tucioni, de dolo et in factum actioni, decepcioni ultra dimidium iusti pretii et omni alio iuris auxilio, quo iuvari possemus, ad nontenen¬
+                    <cei:lb facs="#facs_1_r1l27" n="N017"/>dum vel non observandum omnia supradicta vel aliquod ex eisdem. In cuius rei testimonium presentes litteras fieri et sigillis maiestatis 
+                    <cei:lb facs="#facs_1_r1l30" n="N018"/>nostre iussimus communiri. Datum <cei:placeName>Prage</cei:placeName> per manus venerabilis <cei:persName>Johannis <cei:placeName>Wissegradensis</cei:placeName> prepositi, regni<cei:placeName> Boemie</cei:placeName> cancellarii</cei:persName>, principis
+                    <cei:lb facs="#facs_1_r1l32" n="N019"/>nostri dilecti, <cei:date value="99999999">III nonas septembris anno Domini millesimo trecentesimo decimonono, regnorum vero nostrorum anno nono. </cei:date>  
+            </cei:pTenor></cei:tenor><cei:tenor><cei:pb facs="#facs_2" n="2" id="img_0002"/><cei:pTenor facs="#facs_2_r1">
+              
+              
+                    <cei:lb facs="#facs_2_r1l1" n="N001"/>
+                    <cei:lb facs="#facs_2_r1l2" n="N002"/>
+                    <cei:lb facs="#facs_2_r1l3" n="N003"/>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

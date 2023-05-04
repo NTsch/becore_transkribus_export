@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0175_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0175_H_I</cei:title><cei:idno type="Transkribus">212828</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Albertus</cei:persName> et <cei:persName>Otto, Dei gracia duces <cei:placeName>Austrie</cei:placeName>, <cei:placeName>Styrie</cei:placeName> et <cei:placeName>Karinthie</cei:placeName></cei:persName>, tenore presentium profitemur, 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>quod quia inter unionem et amicabilem compositionem inter magnificum principem, dominum <cei:persName>Johannem, <cei:placeName>Bohemie</cei:placeName> regem</cei:persName>, affinem 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>nostrum karissimum, ex una et nos pro parte altera his diebus proxime preteritis factam eidem domino regi duximus 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>firmiter promittendum, quod sibi et heredibus suis castrum <cei:placeName>Luntenburch</cei:placeName> a nobilis viro <cei:persName>Alberto de <cei:placeName>Rauchen¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName><cei:placeName>stayn</cei:placeName></cei:persName>, fideli nostro, infra hinc et beati Martini festum proxime affuturum disbrigare tenebimur et in ipsius domini 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>regis ac suorum heredum cum suis pertinentiis liberam tradere potestatem, quod si non fecerimus, extunc ipse dominus 
+                    <cei:lb facs="#facs_1_r1l9" n="N007"/>rex et sui heredes ad maiorem cautelam exnunc prout extunc civitatem et castrum <cei:placeName>Velsperch</cei:placeName>, que nunc tenet, 
+                    <cei:lb facs="#facs_1_r1l11" n="N008"/>tenere debebit inantea et etiam possidere et nihilominus prefatus <cei:persName>Albertus de <cei:placeName>Rauchenstayn</cei:placeName></cei:persName> a promisso captivi¬
+                    <cei:lb facs="#facs_1_r1l12" n="N009"/>tatis sue vinculo absolvi non debebit, quousque prefatum castrum in <cei:placeName>Luntenburch</cei:placeName> in predicti domini regis et heredum 
+                    <cei:lb facs="#facs_1_r1l13" n="N010"/>suorum potestatem deducantur, quo castro <cei:placeName>Luntenburch</cei:placeName> absbrigato et in prefati regis vel heredum suorum potestatem 
+                    <cei:lb facs="#facs_1_r1l15" n="N011"/>tradito, civitas cum castro <cei:placeName>Velsperch</cei:placeName> predicta ad manus dicti <cei:persName>Alberti de <cei:placeName>Rauchenstayn</cei:placeName></cei:persName> et suorum heredum 
+                    <cei:lb facs="#facs_1_r1l17" n="N012"/>redire debent penitus absoluta et nichilominus ipse dictus <cei:persName>Albertus de <cei:placeName>Rauchenstayn</cei:placeName></cei:persName> a promisso captivitatis liber debet 
+                    <cei:lb facs="#facs_1_r1l18" n="N013"/>esse penitus et solutus. In quorum omnium testimonium atque robur premissis valiturum presentes conscribi
+                    <cei:lb facs="#facs_1_r1l19" n="N014"/>ac sigillorum nostrorum munimine iussimus communiri. Actum et datum in <cei:placeName>Ensa</cei:placeName> <cei:date value="99999999">in die beati Dyonisii </cei:date>
+                    <cei:lb facs="#facs_1_r1l22" n="N015"/><cei:date value="99999999">anno Domini millesimo trecentesimo tricesimo sexto</cei:date>.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

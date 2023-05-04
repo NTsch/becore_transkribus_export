@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_Plasy_690_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>AZK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_Plasy_690_H_I</cei:title><cei:idno type="Transkribus">146391</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Na wiedomie davami wsem niniesym y budauczim, zet sye gest umluva
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>stala mezi <cei:persName>Jechau mlinarzem</cei:persName> synem <cei:persName>Welkowim z <cei:placeName>Austye</cei:placeName></cei:persName>, a mezy knyezem opatem
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>a konventem klastera <cei:placeName>plaskeho</cei:placeName>, o mlyn pod <cei:placeName>Kaczerowem</cei:placeName>, gemuz gmeno gest <cei:placeName>Ustye</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>tak, zet gest byl ubrman <cei:persName>Jan z <cei:placeName>Cicwicz</cei:placeName>, sedyenim w <cei:placeName>Olesniczi</cei:placeName></cei:persName>, bratr <cei:persName>Gyrzinkvow</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName>z <cei:placeName>Czicwicz</cei:placeName>, sedienim ve <cei:placeName>Lhotie</cei:placeName></cei:persName>, y kazal dati tomu mlinarzi drziewe rzeczenemu trzy
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>coppy grossuow a desset grossuow za ten gystey mlyn. A tak sye zapissuge drziewe
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>rzeczeny <cei:persName>Jecha mlinarz</cei:persName> swau dobrau wolli a ubrmanskim nalezenim knyezy opatu
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>a wsemu conwentu, aby anni on sam, anni geho bratr, anni geho dyety, anni
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>kteri geho przietel prziekazel tomu mlinu prwe menowanemu, anni geho buda¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>wczi. Te wieczi na swiedomie peczeti nasse prziwiessenni sau prosbau knyeze opa¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>towau a konventuskau a prosbau <cei:persName>Jechi mlinarze</cei:persName> drziewe psaneho. Ja <cei:persName>Jan z <cei:placeName>Cziewicz</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:persName>sedyenim w <cei:placeName>Olesnci</cei:placeName></cei:persName>, <cei:persName>Girzink z <cei:placeName>Cziewicz</cei:placeName>, sedienim we <cei:placeName>Lhotye</cei:placeName></cei:persName>, <cei:persName>Hynek z <cei:placeName>Wratneyho</cei:placeName>, sedyenim</cei:persName>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:persName>w <cei:placeName>Cziewiczich</cei:placeName></cei:persName> a prwe menowany <cei:persName>Jecha mlinarz</cei:persName> byl gest w czlowiecztwi<cei:persName> Hynkowie</cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:persName>z <cei:placeName>Wranieho</cei:placeName></cei:persName>. L<cei:date value="99999999">etha narozenye Bozieho potissicz letech apocztirzechstech letech leta syesteho</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

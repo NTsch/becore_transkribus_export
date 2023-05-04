@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_1555_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_1555_H_I</cei:title><cei:idno type="Transkribus">192256</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja knyez <cei:persName>Jan, fararz <cei:placeName>Welessynsky</cei:placeName></cei:persName><cei:placeName/>, tyemto lystem wyznawam wssem, ktoz gey budu
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>czysty nebo cztucz uslyssye, ze s powolenym urozenych panow mych panye <cei:persName>Gyndrzy¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>chowym z <cei:placeName>Rozmberka</cei:placeName></cei:persName> a panye <cei:persName>Petrowym</cei:persName>, syna geho odtudz, y gych buduczych,
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>postupylsem kostelnyeho czlowyeka sweho <cei:persName>Jana rzeczeneho Kral z <cei:placeName>Branyssowicz</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>na nyemzsem myel polkopy platu urocznyeho za <cei:persName>Blazka z <cei:placeName>Marqvartycz</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>w temz platu bohoboynym a naboznym pannam klasstera <cei:placeName>Crumlowskeho</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>zakona swate Clary, a to sem uczynyl pro buduczy pokoy swoy y kazdeho sweho
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>buduczyeho fararze <cei:placeName>Welessynskeho</cei:placeName>, chtye wssech roznycz prazden byty prospolek,
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>kteryz sem myel s przedepsanymy pannamy na <cei:persName>Blazkowy z <cei:placeName>Marqvartycz</cei:placeName></cei:persName>, panny
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>puolkopy a ya ostatek. A tyem wssem wyeczem na pewnost y na potwrzenye
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>peczet wlastnye ma s dobru woly mu gest przywyessena k tomuto lystu. A pro
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>lepssye swydomye toho wsseho swrchu psany urozeny pany magy pan
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:persName>Gindrzich</cei:persName> a pan <cei:persName>Petr, syn geho z <cei:placeName>Rozmberka</cei:placeName></cei:persName>, peczety swe wlastnye take
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>gsu przywyesyly k tomuto lystu, genz gest dan na <cei:placeName>Crumlowye</cei:placeName> <cei:date value="99999999">leta narozenye</cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:date value="99999999">Bozyeho w tu nedyely przed swatym Hawlem tysyeczyeho cztyrzsteho pateho</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_Plasy_697_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>AZK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_Plasy_697_H_I</cei:title><cei:idno type="Transkribus">146394</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My kniez <cei:persName>Gotfrid opat y wiessken konwent klasstera <cei:placeName>plaskeho</cei:placeName></cei:persName><cei:placeName/> wiznawame tiemto listem wssiem obecznye, ktoz gey czisty neb slisseti budu, ze na¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>sse richtarzstwie w nassie wsy w <cei:placeName>Trzemosnyczi</cei:placeName>, kterezto misto <cei:persName>Jan Trzemosnicz</cei:persName> a dobre pamiety <cei:persName>Jan Praczek</cei:persName> a pany <cei:persName>Elsska</cei:persName>, geho manzelka y gich dieti
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>mieli a drzzeli su, a k tomu cztyrzi lany pole diedyny a chrastynu, kteraz lezzi pod <cei:placeName>Trzemosniczy</cei:placeName> pod richtarzowym zahumnym a pole, gessto slowie
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:placeName>Ribnik</cei:placeName> y s luhem y stu <cei:sic corr="">y stu</cei:sic> chrasty, kteraz gest pod tiem polem po tu czestu, kteraz wede a kazze k <cei:placeName>Trzebokowu</cei:placeName> a <cei:placeName>Chrastniku</cei:placeName> pod <cei:placeName>Hromnyczy</cei:placeName> wedle <cei:placeName>Pracz¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:placeName>kowskeho pole</cei:placeName> po tu yamu, a take diel potoka ot <cei:placeName>Zichliczke luky</cei:placeName> az do <cei:placeName>Czeczinske luky</cei:placeName>, w nyemz ryby k swe wuoli swobodnye ma lowiti, prodalisme
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>k wiecznosty slowutnemu <cei:persName>Oldrzichowi Richtarzi, niekdy synu Smylowu z <cei:placeName>Trzemosnicze</cei:placeName></cei:persName>, za hotowe penyeze, kterezto sme od nyeho wzeli a naklass¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>terske potrzebnee a uzitecznee obratili a nalozili, a to richtarzstwie y to sbozie gmenowane ma <cei:persName>Oldrzich</cei:persName> drzewerzeczeny, y geho dieti nebo namiest¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>czy buduczy, drzzeti a mieti y geho pozziwati wiecznye s tiem prawem, i akozto su drzzeli mieli a pozziwali geho przedczi, namiestczi. A te diedyny me¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>nowane ma mieti trzi lany swobodne bezewssech poplatkuow, ale scztwrteho lanu ma nam a klassteru nassemu <cei:placeName>plaskemu</cei:placeName> tiemto sluzity, y
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>geho buduczi namiestczi w <cei:placeName>Trzemosniczi</cei:placeName>, w <cei:placeName>Zichliczich</cei:placeName> a we dwu mlynu, gessto k <cei:placeName>Trzemosniczi</cei:placeName> slussegy, ma uroky a wsseczky poplatky na urczene, usta¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>wene a obyczeyne roky a czassi wibierati, nam do klasstera zgednati, prynesty a bez obmiesskanye dati. We trzech wsech swrchupsanich a we dwu
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>mlynu ma urzad richtarzsky westy a posobiti iako sprawedlywy sudcze, podle obyczege gynych nassich richtarzuow na nassem opatstwy, tak zze
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>s nassim probosstem anebo s gynym, kohozbichom od nas s nassy plnu moczy posslali, ma na sudie sedieti a s nym suditi, nycz bez nyeho, ma take
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>probosstowi, a ktoz s nym na sud przigedu ztrawu, a konyom obrok dati, a swym nakladem zgednati, a tuto pomocz susedee k ztrawie magy rich¬
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>tarzi dati z <cei:placeName>Hronmycze</cei:placeName>, tree kur a k tomu zwlasstie dwe urocznich owsa, s kazdeho lanu po wierteli, a po dwu wayczii, z <cei:placeName>Zichlicz</cei:placeName> cztwero kur przi u¬
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>rocze swatohawelskem, z <cei:placeName>Trzemosnicze</cei:placeName> s lanu po wierteli owsa a po kurzeti, neb tak otstaradawna, dwakrat do roka, przi sudu a przi posudku, poma¬
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>hagy a ten tyden po sudu a druhy po posudku bude moczi piwo ssenkowati richtarz, nycz gynak. Ma take <cei:placeName>Czeczinsku luku</cei:placeName> opatrowati snaznie,
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>aby se na nye sskoda ot lidy a ot dobytka nedala, dalliby kto wynnu richtarzi z czehozkoli, ma se przed kniezem opatem, ale ne przi sudu, zprawity
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>kazdemu, a kdyby bylo toho trzeba, s kniezem opatem ma giety k geho libosty, ne z prawa, a to uczinie, muoze sluziti, kdez se gemu zdaa za podobnee
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>kazdemu dobremu. Aczozkoli wyn obecznich konsseli odsuzenich na hospodu by przipadlo, na hospodu dwa penyeze slussegy a richtarz ma trzeti mieti,
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>krome wyn uhlawnich, iakozto nasilee, wrazda, kradez a zzharzstwie, nebo ty sme k nassemu zachowali panstwy. Ktoz odprodaa swoy statek, ma da¬
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>ti gross richtarzowi a ktoz kupy druhii, ostatek na hospodu slussye. Take kdyzby chtiel prodati swe richtarzstwie, ma naas prwe pobiediti a pro¬
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>czenyty naam, a nechtiellibichom my kupiti, tehdy mozze gynemu prodati, gesstoby se naam hodil, y nassim lidem, a tu sediel bydlem. A prziho¬
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>diloby se, zeby klasster otprodal swrchupsane wsy, neb niekteru z nych, neb mlyny, nebo czozkoliwiek natom gistem richtarzstwy, nebo pronayal,
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>neb zastawil, tehdy richtarz swrchupsany nema nyzadnemu gynemu w sluzbu swrchupsanu zawazan byti, any geho namiestczi, nez klassteru nasse¬
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>mu, a tiem snaznyege gemu sluziti a na smrtedlne posteli nebo y zdraw sa on, y geho namiestczy buduczy, kazdy, mozze to richtarzstwie y wssechno
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/>swe zbozie, czoz ho buoh nadielii, wzdati neb otkazati dietem, nebo swe materzy, nebo milemu przieteli, komuz se gemu hody. Tomu wssemu, czoz w
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>tomto listu psano gest ku potwrzeny y na swiedomie my knyez opat, y wiessken konwent, nasse wlastnye peczzeti s nassy dobru woly przi¬
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/>wiessilisme k tomuto listu a prosilisme urozenich <cei:persName>Hrdonye z <cei:placeName>Dubnian</cei:placeName></cei:persName> a <cei:persName>Raczka rzeczeneho Swanberk, tehdy purkraby na <cei:placeName>Krassowe</cei:placeName></cei:persName><cei:placeName/>,
+                    <cei:lb facs="#facs_1_r1l30" n="N030"/>ze su k nassie a k <cei:persName>Oldrzichowie</cei:persName> prosbe swe wlastnye peczeti, swu dobru woli teto umluwy swrchupsane na swiedomie, prziwiessili k tomuto
+                    <cei:lb facs="#facs_1_r1l31" n="N031"/>listu. Psan a daan <cei:date value="99999999">leta otnarozenye syna Bozieho potissiczi a po cztyrzestech trzynadczteho, tu nedieli prwny po wssech swatych</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1352_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>ACK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1352_H_I</cei:title><cei:idno type="Transkribus">169928</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Procopp, z bozie milosty markrabie morawsky</cei:persName>, wyznawame tiemto listem obecznye przede wssemy, ze
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>za wiernu sluzbu urozeneho pana <cei:persName>Hawla z <cei:placeName>Zwiereticz</cei:placeName></cei:persName>, gesto nam gy uczinil y giesscze ucziniti gma y
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>mozie, gemu, panu <cei:persName>Hawlowi</cei:persName>, nassim dobrim rozmislem zapissugiem hrad nasch <cei:placeName>Bezdiezy</cei:placeName> y s beznu, czoz
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>k tomu przislussie, w tissiczy koppach grossuow praskich penyez na taku myeru, aby nam ten hrad <cei:placeName>Bezdiezy</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>otewrzien bil k nassim ke wssim potrzebam tolikrath, kolykracz nam toho potrzebie bude. A ma take nassie
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>otewrziena twrz bity. Take z toho hradu nema y zadnych walek westy bez nassie wuole, ale gma radiegi
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>zt oho hradu Bezdyezy nam pomahaty proty nassim neprzatelom, czoz mozie naylepssiho. A toho hradu
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:placeName>Bezdyezy</cei:placeName> gemu, panu <cei:persName>Hawlowi</cei:persName>, negmame wziety, any geho z toho urzadu ssadity, lecz bichom gemu za tissicz
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>kopp grossuow oddaly neb zaplatili. A kdyz gemu ten tissicz kopp grossuow oddame neb zaplatyme, tehdy
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>ten nasch hrad <cei:placeName>Bezdyezy</cei:placeName> y ten urzad prost a prazden. A toho gma nam ihned bez rzeczy sstupiti y bez messkanye
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>take kazdy purkrabie ode pana <cei:persName>Hawla</cei:persName> drzewerzeczeneho, kteryz bude, ma nam ted slibity, yako nawrchu
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>psano. A nawieczy gistest y swiedomie swu sme peczet przywiessili k tomuto listu, genz giest dan
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>a psan na <cei:placeName>Bezdyezy</cei:placeName> <cei:date value="99999999">letha odBoziho narozenye tissicz cztirista druheho leta, ten uteri po swatem Erasimu. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

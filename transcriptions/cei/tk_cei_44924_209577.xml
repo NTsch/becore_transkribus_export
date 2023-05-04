@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1582_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1582_H_I</cei:title><cei:idno type="Transkribus">209577</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Urozeny milostiwy pane, sluzbu swu se wssy slussnu potcziwosty wzkazugem twei milosty a iakoz twa milost k nam pana 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>Typranta Reybnicze</cei:persName> s credencii a listem wierziczym poslala et cetera, ktereyzt od twe milosty na nas snesl at bichme 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>gse drziely k <cei:placeName>Czeskey korunie</cei:placeName> a ku <cei:persName>kraly Ladislawowy</cei:persName> diediczy a panu wassemu y nassemu na kteruz gsme zprawa spadly et cetera
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>a k nam nyzadneho nepusstielii a zwlasstie missenskeho, skrzie kterez by pohorssenye mohlo korunie przigitii et cetera.
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>Twa milost racz wiedietii, ziet gsme to poselstwie od twe milostii s pokoraw przigalii, dawagicz wiedyeti, ziet my tomu 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>ginak neuczynime, leczbichme prawem neb moczy od koruni od tysstienii bilii, iakz toho Buoh nedaii a iakozt gsme 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>gyz dluhu chwilii bez pomesskaniie od knieze haynowskeho skrze geho mocz a pomoczniky mordem, paleniim a 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:add>mezi nami</cei:add>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>lupeniim, oblezienii od toho cziasu, iakozt twa milost prawe krziestianske prziemirzie przikazala az do swatheho 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>Hawla drzietii a on protii twemu przikazanii nas od koruni a krale czeskeho odtiskuge a ny giesstie den od 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>dne prziestatii myenii, protozt racz twa milost wiedietii, poniiawazt giesstie malo pomoczi mame, aczbichme 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>missenskeho neb nyektereho gineho nam na pomocz k nam propustilii. Tot bude <cei:hi rend="">bez</cei:hi> bez sskodii <cei:placeName>koruni Czieske</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>a krale nasseho, a ziet to tak opatrzitii mienime, ziet to giinak nebude nez k potwrzenii prawa <cei:placeName>koruni Czieske</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>at bichme moczii od koruni odtisstienii nebilii, prosimet twu milost stalolibii to oblezienie protii nam dale a gse 
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>prodlilo, by nas twa milost bez pomoczii raczila nenechatii, pro dobre koruni a krale czieskeho, nebt mi toho 
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>twey milosti welicze dowierzime, iakozt to panu a zprawci <cei:placeName>kralowstwie Czieskeho</cei:placeName>, prosiecz odpowiedii od twe milosty 
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>s tyemto poslem. Dan w <cei:placeName>Lehniczi</cei:placeName> <cei:date value="99999999">w patek pzried swatym Sixtem anno Domini millesimo quinquagesimosecundo</cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>Purgmistr a conssele
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>miesta <cei:placeName>Lehnicze</cei:placeName>.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RBB-203_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RBB-203_I</cei:title><cei:idno type="Transkribus">221056</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Ffinder, myesczenyn z <cei:placeName>Czaslavie</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Ondrzey z <cei:placeName>Budczicz</cei:placeName></cei:persName> wyznawamy tiemto listem wsiem obecznye,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>ktoz gey uzrzie neb cztucz uslissie, ze smy kupili dwa lany role <cei:placeName>Wlacziczich</cei:placeName> vssenczlika na sbozi a na
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>diediczstwy clastera <cei:placeName>Wilemowskeho</cei:placeName> ku prawemu purkrechtu, yakoz gest od toho clastera wisazen, a to my
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>slibugeim swu dobru wieru beze wsie omluwi naprzied kniezie opata, kteriz nynye gest, neb potom
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>bude, y conventa geho we wsem sprawedlywem, czoz styech dwu lanu slussie poslussny biti, yako gych
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>purktechtniczi poplatki gich, wssieczki uroky, bernye, pomoczi y gyna prawa plnyty y platiti, slibugem
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>swymy czassi a na ti roki, yako te wsy susied horny a do leyny, podle przikazanie knieze opata a con¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>venta clastera swrchupsaneho. A take wsieczka prawa obiczieyna y od umrty, yakoz ten claster od
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>dawnich czasow a od praweho panstwye gma, slibugem trpieti i sdrzieti, zadnych pomoczi sobie neberucz,
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>od moczne ruky, od hospodi, any od miesta <cei:placeName>Czaslavie</cei:placeName> swrchupsaneho. A nadto aczbi ktery zapiss kterich ko¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>lywiek listow proti tomu purkrechtu bil, neb gemu ke sskodie, to my slybuguiem tiemto listem, ze sobie toho
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>ku pomoczi brati nechczem, a tiech sie wsiech zapisow, kteriz bi proti tomu purkrechtu bili odrziekany, a my
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>gich chcem k swei pomoczi gmyeti. Paklibichom toho neuczinili, ze bichom tiech wsiech wieczi swrchu¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>psanich nesdrzali, gehoz Buoh nedei, tehdy abi ta dwa lany sprawedlywie na kniezie opata a na convent
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>spadla, a my k tomu wiecz zadneho prawa nemyeli, any nassi buduczi. A pro lepsie potwrzenye y wieczsi
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>gistot my <cei:persName>Ondrzey, richtarz z <cei:placeName>Czaslavie</cei:placeName></cei:persName> a <cei:persName>Mikssik Tuczny, richtarz z <cei:placeName>Wlaczicz</cei:placeName></cei:persName>, slibugiem wssichny
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>nassi dobru a czistu wieru beze wsie zle lsti gednu ruku nerozdielnu a pospolny, ze ti wsieczki wieczi y ty
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>umluwi od gmenowanich <cei:persName>Ffindera</cei:persName> a <cei:persName>Ondrziegie</cei:persName>, yod gich buduczich, budu wplnye sdrzany a konecznye
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>beze wsie rzuczi protywne plnyeny knyezi opatowi y conventu clastera drziewe rzeczeneho. Pakli bi
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>sie to nestalo, gehoz Buoh uchoway, tehdy ta dwa lany swrchupsana y ten purktecht na kniezie opa¬
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>ta y na geho convent magy sprawedliwie spadnuti. A ony k tomu any gich buduczi wyecz zadneho
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>prawa gmyeti nebudu. A na to swiedomye tento list smy psati kazali a peczeti swe s nassym gistym wye¬
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>domym s dobru woli prziwiesilismy k tomuto listu, genz gest dan w clasterzie <cei:placeName>Wilemowie</cei:placeName>, <cei:date value="99999999">leta od na¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l25" n="N024"/><cei:date value="99999999">rozenye Bozieho tissiczie cztrzseth pateho, w sobotu na swateho Valentyna.</cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

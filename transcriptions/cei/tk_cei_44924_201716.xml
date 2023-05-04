@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2147_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2147_H_I</cei:title><cei:idno type="Transkribus">201716</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Hinek, Bozim smilowanym probosst</cei:persName>, <cei:persName>Zbranye przewora</cei:persName>, <cei:persName>Gitka subprzewora</cei:persName>, <cei:persName>Katherina klicznicze</cei:persName>, <cei:persName>Anna circatrix</cei:persName>, <cei:persName>Marga¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>retha cantrix y wessken conwent classtera <cei:placeName>chotiessowskeh</cei:placeName></cei:persName><cei:placeName>o</cei:placeName>, wiznawame tiemto listem obecznie przedewssemi, ktoz gey uzrzie
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>nebo cztucze slisseti budu, ze sme stupily, y moczi listu tohoto stupugem, nassiee wsy <cei:placeName>Sslowicz</cei:placeName> y s lidmy te wsy y s uroky y s gynymi
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>puozitky, y se wssim panstwim, iakoz sme samy drzieli, kromye kralowi bernye, slowutny panossem <cei:persName>Sudowi</cei:persName> a<cei:persName>Lwikowy</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName>bratrzi z Rzenecz</cei:persName>, na tom dluhu, iakoz sme gym dluzny, na gednom listu bez dwu kopu puoldruheho sta kop grossow a na druhem
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>listu bez gedne trzidczieti kop grossow a k tomu patnadtczet kop bez dwunadtrzi grossow urokow zadrzanich, potiech peniezich giz
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>menowanich, genz sme gym zadrzali do swateho Girzi nynye mynuleho. A slibugem gym na tom neprzekazeti nyzadnu wieczi,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>dokudbichom gim tiech peniez nesplnili moczi any prawem, a czos by zdwihly a wzaly budto urokow nebo ginich puozitkow na tom
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>zbozie, to nam ma suya na tiech hlawnich listech toho dluhu y na uroczich po tiech peniezich a kwitancie dobre na to dati, ze sme gym
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>daly a plnili, paklybichom gym czo przekazeli, nebo przekazeti kazali na tom zbozie, gehoz, pane Bozze toho ostrzas, a gessttie gym
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>swrchupsanich peniez nesplnywsse, tehdi kterezby sskodi pro nasse przekazzenye wzaly, ty magy nasse byti, ale ne gich awssak
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>takowe sskodi, gessto by ge dobrym swiedomy, nebo geden z nych prawem bez zmatku okazati mohly. A to wsse czoz gest swr¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>chupsano, slibugeme gym nassi dobru wieru yczty cztnye drzieti bezewsseho przerussenye. Toho na lepssi gistotu peczeti nasse con¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>wentczske s nassi dobru woly y weidomym k tomuto listu gsu prziwiesseny, a prosilisme urozenich panossi <cei:persName>Hinka Chrzinyowa</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:persName>Hanusse Pehma z <cei:placeName>Pernoltze</cei:placeName></cei:persName> a <cei:persName>Mikulawsska ze <cei:placeName>Chotiessowicz</cei:placeName></cei:persName>, ze gsu swe peczeti na swiedomye k tomuto listu prziwiessili, genz gesto
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:date value="99999999">dan po Bozim narozenye cztucze leta tissicziho cztirzsteho a dwadczateho, v wigilii swateho Bartholomige apposstola bozzieho</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

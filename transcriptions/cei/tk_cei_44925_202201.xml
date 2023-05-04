@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0137_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0137_H_I</cei:title><cei:idno type="Transkribus">202201</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>In nomine Domini amen. Nos <cei:persName>Henricus, Dei gratia dux <cei:placeName>Slezie</cei:placeName>, dominus de <cei:placeName>Furstenberge</cei:placeName> et in <cei:placeName>Jawor</cei:placeName></cei:persName>, omnibus inperpetuum tam presentibus quam futuris volumus fore notum, quod nos deliberacione matura et consilio
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>diligenti nobiscum amicis quoque ac fidelibus nostris prehabitis, eorum favore et consensu expressis accedentibus, civitatem nostram et terram <cei:placeName>Gorlitz</cei:placeName>, quam ab imperatoribus aut romanorum regibus nos et predecessores nostri
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>recipere consuevimus, cum omnibus suis juribus et pertinentiis, quocumque vocentur nomine aut in quibuscumque consistant, exceptis <cei:placeName>Lubano</cei:placeName> civitate et territorio eiusdem civitatis, <cei:placeName>Lesna</cei:placeName> opido forensi, <cei:placeName>Czaychow</cei:placeName> et
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:placeName>Sweta</cei:placeName> castris cum suis appendiis, nominatim exceptis etiam <cei:placeName>Sarowe</cei:placeName> civitate, <cei:placeName>Trybul</cei:placeName> et <cei:placeName>Prybuz</cei:placeName> castris et opidis, cum omnibus suis juribus, dominiis et pertinentiis omnibusque feudis et feodalibus, que in terra <cei:placeName>Lu¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:placeName>sacie</cei:placeName> habere dinoscimur, expressis et non expressis, principi magnifico, domino <cei:persName>Johanni <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> regi ac <cei:placeName>Lucemburgensi</cei:placeName> comiti</cei:persName>, sororio nostro karissimo, vendidimus et in alia bona vite nostre duntaxat possidenda tempori¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>bus, nobisque de medio sublatis, relictis per nos heredibus vel non, expensis et ratione quibuslibet remotis ad regnum <cei:placeName>Boemie</cei:placeName> libere reversura, etiam si castrum aliquod in bonis eisdem nostris instauraverimus laboribus ac expensis,
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:placeName>Trautenow</cei:placeName> videlicet et <cei:placeName>Curiam</cei:placeName>, cum suis appendiis, bonis, fidelibus et hominibus, salvis omnibus eorum, quibus ad nos pervenerunt, juribus intantum etiam, quod nec collectam nec steuram generalem, que berna vulganter dicitur,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>de eisdem, nisi per regem ipsum aut suos officiales imposita fuerit regno <cei:placeName>Boemie</cei:placeName>, et tunc taxacione illa, que colligitur in <cei:placeName>Boemia</cei:placeName>, recipere debeamus, secum commutavimus, ipsas sibi, heredibus ac successoribus suis, <cei:placeName>Boemie</cei:placeName> regibus,
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>jure hereditario, presentibus testibus subnotatis, nostro, heredum ac successorum nostrorum nomine, sponte et libere resignantes, habendas, regendas, utifruendas per ipsum, heredes et successores suos prefatos, ac etiam possidendas, renuntiantes in his perpe¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>tuo nostro, heredum ac successorum nostrorum nomine predictorum, exceptioni, doli mali, in factum actioni, beneficio restitutionis in integrum, omni juris auxilio tam canonici quam civilis, literis quoque a papa, imperatoribus aut Romanorum regibus
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>impetratis vel etiam impetrandis ac aliter quovis amminiculo, quod vel per successionem hereditariam aut infeudatationem imperialem vel alium quemcumque modum nobis, heredibus vel successoribus nostris antedictis competeret
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>vel competere fortasse posset, per quod nobis suffragium ferri, regi vero, heredibus aut succesoribus suis sepedictis dispendium vel impedimentum posset aliquod generari, promittentes omnia et singula suprascripta firmiter observare
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>et contra ea vel eorum alterum in toto vel parte, nullo unquam tempore sive casu, dolo, fraude vel ingenio aliquo, de jure vel defacto, per nos ipsos, alium vel alios facere aut venire. In quorum omnium testimonium et cautelam presentes fieri
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>fecimus literras sigilli nostri munimine roboratas. Testes sunt venerabilis pater dominus <cei:persName>Witko, episcopus <cei:placeName>Misnensis</cei:placeName></cei:persName><cei:placeName/>, illustres principes et domini, <cei:persName>Rudolfus scilicet <cei:placeName>Saxonie</cei:placeName></cei:persName>, <cei:persName>Henricus <cei:placeName>Wratislaviensis</cei:placeName></cei:persName>, <cei:persName>Bolezlaus <cei:placeName>Legnicensis</cei:placeName></cei:persName>, <cei:persName>Polko <cei:placeName>Valkmbergensis</cei:placeName></cei:persName>, <cei:persName>Polko <cei:placeName>Opo¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:persName><cei:placeName>liensis</cei:placeName></cei:persName>, <cei:persName>Henricus</cei:persName> et <cei:persName>Conradus fratres, <cei:placeName>Glogovienses</cei:placeName> duces</cei:persName>, per nos rogati sigilla sua presentibus appendere in testimonium premissorum. Et nos <cei:persName>Witko, Dei gratia <cei:placeName>Misnensis</cei:placeName> episcopus</cei:persName>, <cei:persName>Rudolfus <cei:placeName>Saxonie</cei:placeName></cei:persName>, <cei:persName>Henricus <cei:placeName>Wratislaviensis</cei:placeName></cei:persName>, <cei:persName> Bolezlaus <cei:placeName>Legnicensis</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:persName>Polko <cei:placeName>Valkmbergensis</cei:placeName></cei:persName>, <cei:persName>Polko <cei:placeName>Opoliensis</cei:placeName></cei:persName>, <cei:persName>Henricus</cei:persName> et <cei:persName>Conradus fratres, <cei:placeName>Glogowienses</cei:placeName> duces</cei:persName> et testes suprascripti venditioni, emptioni et commutationi predictis presentialiter affuimus et sigilla nostra rogati et iussi per prin¬
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>cipem illustrem, dominem <cei:persName>Henricum</cei:persName> supradictum, sororium et consanguineum nostrum karissimum, duximus in testimonium et robur firmius appendenda. Datum et actum <cei:placeName>Wratislavie</cei:placeName> <cei:date value="99999999">in die Inventionis sancte crucis anno</cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/><cei:date value="99999999">Domini millesimo trecentesimo vicesimo nono</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

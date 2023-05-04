@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1613_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1613_I</cei:title><cei:idno type="Transkribus">215947</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Wanyek Zagieczek z <cei:placeName>Miroslawie</cei:placeName></cei:persName><cei:placeName/> y s swymi erby wyznawam tiemto listem zgewnie przedewssemi, ktoz gey uzrzie nebo cztucze slisseti budu, ze s dobrim rozmyslem a swu dobru wuoli a s
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>swich przatel radu w ta doba, kdyz gsem to dobrze ucziniti mohl, prodal sem a moczi listu tohoto prodawam swuoy wlastni dwuor w przedmiesti przed <cei:placeName>Eywancziczi</cei:placeName> s tiem se wssim przislussenstwim
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>a panstwim, tak iakoz gsem to sam drzal a pozywal od staradawna, czoz ktomu przislussie s platem na miestie se dwanaczty hrzywnamy a se cztyrzmy kopami bez ssesty grossow, gessto ryba¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>rzy od rzeky dawagy, a s robotamy s patnadczti pluhy do roka robotugicz cztyrzkrat y s wozenym, yakoz ma kazdy z nych zaden dwakrat przywesti obyle, ty kterziz my robotugi s roly
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>oranu y neoranu y s tiem se wsssim polozenym a panstwim, czoz od staradawna k tomu dworu przislussie a czoz gsem sam toho pozywal, tu sobie any swym erbom any swym buduczym
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>nycz nezachowawage, any czo pozuostawuge zadneho prawa, any ktereho zwlastenstwie w temz prawie, yakoz to swrchupsane zbozie w swych mezech a hranycziech zalezy.
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>To gsem prodal ku prawemu manstwy a moczi listu tohoto prodawam pod naywyssim knyezetem a panem <cei:persName>kralem Ladyslawem uherskym a czeskym a wewodu rakuskym</cei:persName>
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName>a markraby morawskym</cei:persName>, a to, yakoz prawo a obyczey gest markrabyno manstwie w <cei:placeName>zemy morawske</cei:placeName> za ssest seth zlatich bez dwadczeti zlatich uherskich czrwenich na 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>zlatie dobrich a wahy sprawedlywe razu Cremniczkeho selwy slowutnemu panossy <cei:persName>Janowy ze <cei:placeName>Zdyslawicz</cei:placeName>, ty czasy purkraby na <cei:placeName>Crumlowie</cei:placeName></cei:persName><cei:placeName/> a geho erbom, a kruczenie
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>gich rucze slowutnemu panossy <cei:persName>Mikulassowy z <cei:placeName>Oynicz</cei:placeName> a z <cei:placeName>Milonycz</cei:placeName></cei:persName>, kterez my gest dal a zaplatil hotowymy zlatymy uplnie a doczela, a protoz toho swrchupsaneho zbozye 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>ja swrchupsany <cei:persName>Waniek Zagieczek z <cei:placeName>Miroslawie</cei:placeName></cei:persName> y sswymy erby czynym geho moczna uplnie tyemto listem a my <cei:persName>Jan Kusy z <cei:placeName>Olexowicz</cei:placeName></cei:persName>, <cei:persName>Waczek z <cei:placeName>Bezdiekova</cei:placeName></cei:persName>, <cei:persName>Hanuss z <cei:placeName>Bohu¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:persName><cei:placeName>tycz</cei:placeName></cei:persName>, <cei:persName>Mikulass z <cei:placeName>Lohkowan</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Ondrzey z <cei:placeName>Rosieczky</cei:placeName></cei:persName>, <cei:persName>Gyrzik z <cei:placeName>Miroslawie</cei:placeName></cei:persName>, rukoymie avvspoluslibcze s swrchupsanym <cei:persName>Wankem Zagieczkem z <cei:placeName>Miroslawie</cei:placeName> </cei:persName>yvzavgeho erby, svnymi a
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>zanye slibugem wssichni spolu ruku spolecznu a nerozdielnu nassy dobru czistu a krzestyansku wieru swrchupsanemu <cei:persName>Janowy ze <cei:placeName>Zdislawicz</cei:placeName></cei:persName> y geho erbom y gich wiernym
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>rukam swrchupsanym to zbozie a dwuor sgeho se wssym przislussenstwim, tak yakoz se swrchupisse zprawiti a oswoboditi a wzdati y oczistiti od danye tohoto listu tak, iakoz
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>markrabyno manstwie za prawo ma przedkazdym narczenym, a ktozby to zbozie kolywiek prawem manskym narzekl, bud krzestyane nebo zyde, przedswietskymy y duchowny¬
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>my lidmi a zwlasstye przed wyennymy zastawami, taky yakoz markrabyno manstwie, prawo a obyczey gest w <cei:placeName>zemi Morawske</cei:placeName> zprawowati, a gestli zebichom toho zbozie s geho
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>przislussenstwim nezprawili a neoczistili a newzdali tak, iakoz swrchupsano stogi na wssem nebo na diele kupitelom nassym swrchupsanym, tehda mame a slibugem ucziniti tak, iakoz
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>obyczey gest a prawo na markrabynye manstwi w <cei:placeName>zemy Morawske</cei:placeName>, paklibichom toho neuczilnili, czoz swrchupsano stogi, gehoz pane Boze neday, tehda yhned znas rukoymy
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>swrchupsanich dwa, kteraz budem napomenuta od nassich swrchupsanych wierzitelow poslem, nebo listem yhned, geden na druheho neukazuge any se geden druhym wymluwage,
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>mame a slibugem wlezenie wgeti awleczi, kazdy swym zywotem s gedniem pacholkem a se dwiema konyoma, aneboli miesto sebe poslati a wloziti kazdy z nas panossy rzadu rytierzskeho,
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>tez s gedniem pacholkem a se dwiema konyoma, w prawe a wobyczeyne lezenie do miesta do <cei:placeName>Brna</cei:placeName>, w duom cztneho hospodarze tu, kdez nam od nassich swrchupsanich wierzitelow bude ukaza¬
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>no. A gestli zeby se nama prwnyma dwiema lezakoma w tom lezeni udalo cztrnadczte dny lezeti, porzad cztucz od prwnieho dne napomenutie, a my swrchupsaneho zbozie, gesstie neoswo¬
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>bodili a neoczistili a newzdali, yakoz swrchupsano stogi, tehda yhned druha dwa znas rukoymi, kteraz budem napomenuta odwierzitelow nassich swrchupsanich, mame a
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>slibugem w lezenie wgeti a wleczi neboli miesto sebe poslat a wloziti w tez lezenie, do tehoz miesta, ktemuz hospodarzi tyem wssym obyczegem a prawem yako prwnie dwa lezaky. A
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>tak mame a slibugem ucziniti az doposlednich dwu rukoymi, z kterehozto lezenie nas wssech ssest rukoymi stolikez pacholky a se dwanadczti konmy mame a slibugem nyzadnym oby¬
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>czegem, any kterym prawem, newygiezdieti any wychoditi any kterak kolywiek wynyknuti, nez prawe a obyczeyne lezenie tu westiaplniti, yakoz obyczey gest a prawo w <cei:placeName>zemy mo¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/><cei:placeName>rawske</cei:placeName>, a to dotad dokawadz nedokoname a neuczynyme toho wsseho, czoz swrchupsano stogi a przesto, lezme my neb nelezme, dawame plnu mocz a prawo tohoto lista moczi wierzitelom
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>nassym swrchupsanym, tiech ssest seth zlatych bez dwadczeti zlatich swrchugmenowanich wzieti a dobyti, mezi krzestyany neb mezi zidy podlichwamy, na nassy wssech spolecznu
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/>sskodu a nerozdielnu. A gestli zebichom skrze to nezprawenie aneboli skrze to newzdanie aneboli skrze to neplnienie tak, iakoz swrchupsano stogi, ktere sskody wzali, gesstoby ge
+                    <cei:lb facs="#facs_1_r1l30" n="N030"/>dobrim swiedomym bez przisah a bez wierowanie pokazati mohli, ty wssichni sskody slibugem gym zaplatiti uplnie a doczela peniezi hotowymi a dobrymi pod lezenim swrchu¬
+                    <cei:lb facs="#facs_1_r1l31" n="N031"/>psanym. A gestli ze by z nas rukoymi ktereho pan Buoh smrti neuchowal, tak zeby umrzel prwe, nezliby wieczi swrchupsane dokonany byli, gehoz pan Buoh racz zachowati, tehda
+                    <cei:lb facs="#facs_1_r1l32" n="N032"/>my zywi uostali rukoymie mame a slibugem gyneho zyweho rukoymi miesto toho umrleho tak dostaleho a tak mowiteho k sobie przistawiti ponapomenuti vmiesieczi. A ktoz
+                    <cei:lb facs="#facs_1_r1l33" n="N033"/>by tento list gmiel s wierzitelow nassich swrchupsanich dobru wuoli, ten ma a bude gmieti tez plne prawo a tuz mocz k tomu ke wssemu, czoz w tomto listu swrchupsano stogi, yako
+                    <cei:lb facs="#facs_1_r1l34" n="N034"/>ony samy wierzitelee nassy swrchupsanii. Toho pro lepssy gistotu y na potwrzenie ya gistecz y my rukoymie swrchugmenowanii swe gsme peczeti wlastnie s nassim gistym wie¬
+                    <cei:lb facs="#facs_1_r1l35" n="N035"/>domym dobrowolnie prziwiesili k tomuto listu, genz gest dan w <cei:placeName>Crumlowie</cei:placeName> <cei:date value="99999999">leta po narozeni syna Bozieho tisiczieho cztyrzisteho a padesateho sedmeho leta, ten patek</cei:date>
+                    <cei:lb facs="#facs_1_r1l36" n="N036"/><cei:date value="99999999">przed swatym Stanyslawem</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

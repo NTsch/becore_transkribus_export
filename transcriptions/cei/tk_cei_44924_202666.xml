@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RM_2465_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RM_2465_H_I</cei:title><cei:idno type="Transkribus">202666</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Pertolt s <cei:placeName>Frymburka</cei:placeName></cei:persName><cei:placeName/> wyznawam tyemto listem obecznye prziedewssemy, ktoz gey czisty aneb
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>slissety budu, ze sem smluwen s urozenym panem <cei:persName>Gindrzichem z <cei:placeName>Hradcze</cei:placeName>, mistrem krzi</cei:persName>¬
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>zownikow swathomarskich</cei:persName> et cetera, o tten plat na mlynu pod <cei:placeName>Strassiczi</cei:placeName>, y wzal sem zato pe¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>nyeze hotowe, y nemam tu giz prawa nyzadneho, any mogy buduczi. A ssmluwylly se
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>nass atto <cei:persName>Sulek Zalezl</cei:persName> a <cei:persName>Zigmund z <cei:placeName>Frymburka</cei:placeName>, sedyenym w <cei:placeName>Kaniczich</cei:placeName></cei:persName>, <cei:persName>Arlam</cei:persName> a <cei:persName>Dassek</cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:persName>z <cei:placeName>Strakonicz</cei:placeName></cei:persName>. A tomu na swiedomye swou sem peczet  k tomuto listu prziwyessyl, a pross¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>yl sem <cei:persName>Zigmunda z <cei:placeName>Frymburka</cei:placeName></cei:persName><cei:placeName/> a <cei:persName>Hinka z <cei:placeName>Kalenicz</cei:placeName></cei:persName>, ze su swe peczety na sswiedomye  
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>podle mne prziwiessylly. Dan w <cei:placeName>Strakoniczich</cei:placeName> <cei:date value="99999999">leta od Bozieho narozenye pocztrnadczty</cei:date>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/><cei:date value="99999999">stech letech, leta trzynadczteho, tu sobotu po narozeny matky Bozie</cei:date>.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1580_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1580_H_I</cei:title><cei:idno type="Transkribus">209530</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Ja <cei:persName>Mikess rzeczeny Tuczny z <cei:placeName>Mysskowicz</cei:placeName></cei:persName><cei:placeName/> wyznawam tiemto listem przedewssemi, ktoz gey uzrzie nebo cztucze slysseti budu, jakoz mam 
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>dwa listy prwni, genz mne od slowutneho panosse <cei:persName>Thomas Aldera</cei:persName> trhem a prodagem za piet a za cztyrzidczet kop grossuow na lan 
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>diediny, kteraz lezii na <cei:placeName>Bogissti</cei:placeName> pod wrchem na <cei:placeName>Wlczich Horach</cei:placeName>, diediczky swiedczii druhy list, kteryz mi od <cei:persName>Mikulasse z <cei:placeName>Horzan</cei:placeName></cei:persName> na puol 
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>lanu swiedczi, przitem lanu swrchupsanem, kterehozto puol lanu przedepsany <cei:persName>Mikulass</cei:persName> mnie za gedenmezcietma kop grossuow pro¬
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>dal a prodawa, yakoz to tiiz listowe ssucze a swietlegie swiedczie a dokazugii, ze ta dwa listy y ta wsseczka prawa a zawazky w 
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>tychz listech mnie zapsana a zawazana aneb zappsane a zawazane opatrny muz <cei:persName>Prokop Erczkaferz od <cei:placeName>Hory</cei:placeName></cei:persName> ma s mu plnu 
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>swobodnu a dobrowolnu dobru wuoli ode mie gemu dane ke gmienii, drzieni, poziwani, ku prodani, dani, zastaweni, k smienienii a 
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>s nimi yako s swymi wlastnimi a diedicznymi uczinieni a zgednani, y yakzby se gemu naylepe a nayuziteczniegie zdalo zposo¬
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>benii a zrziezenii, mocznemu bez me y mych buduczych wssie a wsselikterake prziekazky y odpornosti a nemage peczeti 
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>swe, prosylsem urozenych panuow pana <cei:persName>Jana z <cei:placeName>Cunstatu</cei:placeName></cei:persName>, pana <cei:persName>Jana z <cei:placeName>Russinowa</cei:placeName>, haytmana <cei:placeName>crage Czaslawskeho</cei:placeName></cei:persName> 
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>a slowutneho panosse pana <cei:persName>Hynka z <cei:placeName>Sobiessina</cei:placeName></cei:persName>, aby swe peczeti na swiedomie meho danie swrchupsaneho przi¬
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>wiesyli k tomuto listu. A my giz psanii swiedkowe wieczy swrchupsanych wyznawame, ze gsucze prosseni osobnie 
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>od nadepsaneho <cei:persName>Miksse Tuczneho</cei:persName> k geho zadosti prosebne peczeti nasse przirozene s gistym nassim wiedomim 
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>y wuoli nassi na swiedomie toho, czoz se swrchupisse, prziwiesyti dalisme k temuz listu, genz psan <cei:date value="99999999">leta po </cei:date>
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/><cei:date value="99999999">narozeni syna Bozieho tisicz cztyrzista padesateho w sobotu przed swatym Mikulassem</cei:date>.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

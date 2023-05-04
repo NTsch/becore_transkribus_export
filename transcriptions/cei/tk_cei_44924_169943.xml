@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1457_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>ACK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1457_H_I</cei:title><cei:idno type="Transkribus">169943</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Bohuslaw z <cei:placeName>Sswamberka</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Hinek, rzeczeny Crussina z <cei:placeName>Sswamberka</cei:placeName></cei:persName> a <cei:persName>Jan z <cei:placeName>Sswamberka</cei:placeName></cei:persName>, wlastny bratrzie, wyznawame zyewnye
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>tiemto listem wssiem, ktoz giey urzie nebo czisty uslissie, ze gsme my mocznye y se wssiemy nassymy o wssiechny wyeczy y nechuty nycz po ssobye
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>neostawugicze a zwlastnye o hlawu stricze nassieho, nyekdy pana <cei:persName>Jana z <cei:placeName>Sswamberka</cei:placeName>, </cei:persName>y o wssiechny listi, kterez mame od nayjassnyeyssieho
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>knyezete y pana, pana <cei:persName>Waczlawa, rzymskeho y czesskeho krale</cei:persName>, pana nassieho mylostyweho, y o wssiechny przie, kterez k geho mylosty nebo k geho
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>mame y ze wssiemy nassiemy y take o wssyechny przie, kterez geho mylost se wssiemy swymy k nam y k nassym gma przissly y przichazugem moczy
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>tohoto listu na geho przissieznu radu, totyz dostoyneho knyeze <cei:persName>Conrada, arczibiskupa prazskeho</cei:persName>, urozene pany <cei:persName>Czenka z <cei:placeName>Wartemberka</cei:placeName>, burggraby</cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:persName>prazskeho</cei:persName>, <cei:persName>Herartha z <cei:placeName>Cunynamyesta</cei:placeName>, hawpmana <cei:placeName>markrabstwie morawsskeho</cei:placeName></cei:persName>, <cei:persName>Hinka Berky z <cei:placeName>Hohensteina</cei:placeName></cei:persName>, <cei:persName>Hinka Berky z <cei:placeName>Lyppe</cei:placeName>, rzeczeneho</cei:persName>
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName>Hlawacz</cei:persName>, <cei:persName>Oldrzicha Zagiecze z <cei:placeName>Hazemburka</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Albrechta Coldycze z <cei:placeName>Byelyny</cei:placeName></cei:persName> a <cei:persName>Petra z <cei:placeName>Swoyssina</cei:placeName>, munczmistra</cei:persName> na horach podeczty y podwyeru,
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>porzadem y prawem panskym y ryttierzskym pod tu przi y pod straczenym wssieho nassieho zbozie dyedyczneho, kterez mame nebo myety budem
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>kromye hradu <cei:placeName>Krassikowa</cei:placeName>. Czozkoliwiek swrchupsana kralova rada mezy namy wyrzkne a wypowie, ze to wssie slibugem dobru nassy wieru
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>beze wssie zle lsty spolecznu ruku nerozdielnu zdrzety y dokonaty pod zakladem straczeny swrchupsanym. Paklibichom toho neuczinily a gich wy¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>powied nezdrzely a skutecznye nedokonaly, genz toho pan Buoh neday. A to seznaly dostoyny knyez <cei:persName>Conrad, arczibiskup prazsky</cei:persName>, a pan <cei:persName>Czenyek</cei:persName>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:persName>z <cei:placeName>Wartemberka</cei:placeName>, purkrabye prasky</cei:persName> swrchupsany. Tehdy sie zname, ze gsme zaklad swrchupsany stratily, totyz czest, wyeru y swoy panssky
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>ryttierzsky rzad proty kralewy mylosty y kazdemu ziwemu czlowieku a proty geho mylosty wssiechno nassie zbozie dyedyczne, kterez mame
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>nebo myety budem kromye hradu <cei:placeName>Krassikowa</cei:placeName>. A w to sie geho mylost uwazaty moze prawem nebo swu moczy beze wssye prziekazy a proty
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>tomu nemame sobye hledaty zadne pomoczy any slowem, any skutkem, any kteru gynu pomoczy sobie pomahaty kterakbikoliwiek ta mohla
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>wymyslena biti. Any nam kto gma toho pomoczen byty, any pomahaty proty tomuto nassiemu zapissu prawem any moczy pod zakladem
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>swrchupsanym. Paklyby kterzy nassiech sluzebnykow nebo sluzebnyk nechtiely na swrchupsane kralewye radye dosty gmyety, toho y tiech
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>my slibugem prazdny bity a gich nefurdrowaty, any proty kralewye mylosty chowaty, nez proty nym biti a na nye kralewie mylosty pomahaty
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>beze lsty. K tomu na swiedomye y k nassie welike prossbye urozeny panowe <cei:persName>Herath z <cei:placeName>Cunynamyesta</cei:placeName></cei:persName>, <cei:persName>Hynek Berka z <cei:placeName>Hohensteynu</cei:placeName>, Hynek</cei:persName>
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/><cei:persName>Hlawacz z <cei:placeName>Lippe</cei:placeName></cei:persName>, <cei:persName>Oldrzich Zagiecz z <cei:placeName>Hazemburka</cei:placeName></cei:persName>, <cei:persName>Albrecht Coldycz z <cei:placeName>Byelyny</cei:placeName></cei:persName>, <cei:persName>Peter z <cei:placeName>Swoyssyna</cei:placeName>, munczmistr</cei:persName> na horach, <cei:persName>Wylem z <cei:placeName>Wartem¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/><cei:persName><cei:placeName>berka </cei:placeName>a z <cei:placeName>Wyrzieticz</cei:placeName></cei:persName>, <cei:persName>Jan z <cei:placeName>Razemberka</cei:placeName></cei:persName>, <cei:persName>Herbort Colowrat</cei:persName>, <cei:persName>Wylem z <cei:placeName>Ryzemberka</cei:placeName></cei:persName>, <cei:persName>Waczlaw z <cei:placeName>Wartemberka</cei:placeName> y z <cei:placeName>Wyrzeticz</cei:placeName></cei:persName><cei:placeName/> a <cei:persName>Gyndrzich z</cei:persName>
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/><cei:persName><cei:placeName>Elsterberka</cei:placeName></cei:persName> gsu swe peczety k tomuto listu prziwiessily, genz gest dan v <cei:placeName>Praze</cei:placeName> <cei:date value="99999999">leta od narozenye Bozieho tissicz cztirzista a cztrnadz. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

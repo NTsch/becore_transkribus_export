@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK 0497_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK 0497_H_I</cei:title><cei:idno type="Transkribus">202195</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Notum sit tam presentibus quam futuris Christi fidelibus, quia <cei:persName>Sdizlav hereditatem <cei:placeName>Bdenewiz</cei:placeName></cei:persName>, quam habuit secundum here¬
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>ditarium ius, <cei:placeName>Cladrubensi</cei:placeName> cenobio legitimo iure vendidit ac honestis viris intermanentibus perpetualiter stabi¬
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>livit. Ceterum gesta sunt hec <cei:persName>abbate Bertoldo</cei:persName> presidente prefato iam cenobio, quique testimonium dant huic
+                    <cei:lb facs="#facs_1_r1l6" n="N004"/>facto, sunt hi confratres de conventu: <cei:persName>Bolezlaus</cei:persName>, <cei:persName>Lambertus</cei:persName>, <cei:persName>Wickerus</cei:persName>, <cei:persName>Fridericus</cei:persName>, <cei:persName>Bogus</cei:persName>, <cei:persName>Cun¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l8" n="N005"/><cei:persName>radus</cei:persName>, <cei:persName>Heinricus</cei:persName>. Nobilium virorum dantium testimonium nomina sunt hec: <cei:persName>Stibor de <cei:placeName>Swessingen</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l9" n="N006"/><cei:persName>Ratibor de <cei:placeName>Sceskowiz</cei:placeName></cei:persName>, <cei:persName>Johannes de <cei:placeName>Zvlezlavo</cei:placeName></cei:persName>, <cei:persName>Roznata</cei:persName>, <cei:persName>Bribizlav</cei:persName>, <cei:persName>Preda</cei:persName>, <cei:persName>Perkos</cei:persName>, <cei:persName>Crazen</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l10" n="N007"/><cei:persName>Predbor</cei:persName>, <cei:persName>Bel</cei:persName>, <cei:persName>Benic</cei:persName>, <cei:persName>Vit</cei:persName>, <cei:persName>Predwoy</cei:persName>, <cei:persName>Wlaztis</cei:persName>, <cei:persName>Vbizlav</cei:persName>. Sub horum aliorumque proborum virorum testimo¬
+                    <cei:lb facs="#facs_1_r1l13" n="N008"/>nio ego <cei:persName>Wadizlaus, Dei gracia Boemorum dux</cei:persName>, ad perpetuale stabilimentum super hoc facto corrobo¬
+                    <cei:lb facs="#facs_1_r1l14" n="N009"/>rationem sigilli mei contradidi.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

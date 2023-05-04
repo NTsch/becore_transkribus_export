@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_Plasy_701_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>AZK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_Plasy_701_H_I</cei:title><cei:idno type="Transkribus">146406</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Ducz z <cei:placeName>Warzin</cei:placeName>, purkrabe na <cei:placeName>Necztinach</cei:placeName></cei:persName>, <cei:persName>Ondrzeyg z <cei:placeName>Slatiny</cei:placeName>, sedienim we <cei:placeName>Zwyckowczi</cei:placeName></cei:persName>, a ya <cei:persName>Hrdon</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>z <cei:placeName>Dubnian</cei:placeName>, sedienim w <cei:placeName>Kaznieiowie</cei:placeName></cei:persName>, wyznawame tiemto listem wssiem obecznie, ktoz gey czisti neb slissety
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>budu, ze slibugem dobru a czistu nassy wieru bezewssie lsty kniezi opatowi y wssemu geho konwentu klass¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>tera <cei:placeName>plaskeho</cei:placeName> tiech dewiet wsy <cei:placeName>Zziehel</cei:placeName>, <cei:placeName>Pohwyzdy</cei:placeName>, <cei:placeName>Otlezli</cei:placeName>, <cei:placeName>Mladieticze</cei:placeName>, <cei:placeName>Krasstiowicze</cei:placeName>, <cei:placeName>Strazisstie</cei:placeName>, <cei:placeName>Czrnychat</cei:placeName>, <cei:placeName>Po¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:placeName>tworowo</cei:placeName>, <cei:placeName>Hluboka</cei:placeName> y take <cei:placeName>rybnik Ozrzensky</cei:placeName>, y s dworem tudiez s stupiti, tak iakoz sme my od nich przigieli, bezew¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>ssye odpory, kdyz nam nasse peczety otwadie, kdez koliwiek stogyme w rokoge<cei:supplied>m</cei:supplied>stwy za knieze opata a za
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>geho konwent swrchupsaneho klasstera, a to aby bylo bez nassich sskod, kterezbychom wzali pro gich newywa¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>zenye, paklibichom toho neuczinily, tehdybychom to proti swe wierze y proti swe czti uczinily, take kdyzbychom
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>my gym sstupili tiech dewiet wsy y s <cei:placeName>ribnikem Ozrzenskym</cei:placeName> y s dworem, tudiez tehdy take mame a slibugem
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>gym, swrchu gmenowanemu kniezy opatowi a geho konwentu klasstera <cei:placeName>plaskeho</cei:placeName>, list, kteryz mame na 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>wiecznost na ty wsy naprzedpsane zase gym nawratiti a dati. Tohoto nasseho slybu na swiedomie a na
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>potwrzenye nasse wlastnye peczeti nassim wiedomym y dobru nassy wolii prziwiessilisme k tomuto
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>listu, genzz gest <cei:date value="99999999">psan a dan leta ot narozenye syna Bozzieho tyssyczieho cztyrzisteho we dwudczatem</cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:date value="99999999">letie, we cztwrtek, den swateho Zikmunda</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RM_2467_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RM_2467_H_I</cei:title><cei:idno type="Transkribus">202664</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Jacub, przyewor</cei:persName>, knyez <cei:persName>Mykess, kazatel</cei:persName>, knyez <cei:persName>Matyey Pytansky y wessken conwent</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/><cei:persName>domu <cei:placeName>strakonyczkeho</cei:placeName></cei:persName>, wyznawame tyemto lystem, ktoz gey czysty neb cztuct slyssety budu,
+                    <cei:lb facs="#facs_1_r1l5" n="N003"/>ze mame wydawaty odpytanczye puolkopy platu rozdyelnye, na swateho Gyrzye pat¬
+                    <cei:lb facs="#facs_1_r1l7" n="N004"/>nadczt grossow a na swateho Hawla tolykez <cei:persName>Przybyslawowy</cei:persName> a <cei:persName>Byetye</cei:persName>, geho zenye,
+                    <cei:lb facs="#facs_1_r1l9" n="N005"/>z <cei:placeName>Strakonycz</cei:placeName>, kteryz plat kupyly su v <cei:placeName>Bachaczye</cei:placeName>, a to do gych obu zywotu, a po gych smrty
+                    <cei:lb facs="#facs_1_r1l11" n="N006"/>ten plat ma pytansky wydawaty przyeworowy, kteryz bude na kostel. A ma sluzba 
+                    <cei:lb facs="#facs_1_r1l12" n="N007"/>byty za gych dussye, y za gych przyeyssye, gednu wrok mssye zadussnye koralska, a to
+                    <cei:lb facs="#facs_1_r1l14" n="N008"/>wyecznye. A toho na swyedomye a na potwrzenye peczet swu ya knyez <cei:persName>Jacub, przye¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l16" n="N009"/><cei:persName>wor</cei:persName>, sem przywyesyl <cei:date value="99999999">leta tyssyczyeho cztyrsteho sedmnasteho</cei:date>.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

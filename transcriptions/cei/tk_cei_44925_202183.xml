@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0122_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0122_H_I</cei:title><cei:idno type="Transkribus">202183</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Heinricus senior de <cei:placeName>Plawen</cei:placeName></cei:persName><cei:placeName/> et ipsius filius <cei:persName>Heinricus</cei:persName> senior recognoscimus et fatemur
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>tenore presentium universis, nos esse vasallos magnifici domini nostri, domini <cei:persName>Johannis <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> regis</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>illustris ac comitis <cei:placeName>Lucemburgensis</cei:placeName></cei:persName> et ab eo principale dominium nostrum <cei:placeName>Plawen</cei:placeName> cum suis mu¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>nitionibus et bonis, videlicet castro <cei:placeName>Luebawe</cei:placeName>, munitionem <cei:placeName>Johansgrune</cei:placeName>, castrum <cei:placeName>Schoeneneneck</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>munitionem <cei:placeName>Plonswitz</cei:placeName>, munitionem <cei:placeName>Lapidem</cei:placeName>, munitionem dictam <cei:placeName>Tirbil</cei:placeName> et <cei:placeName>Gatendorf</cei:placeName>, cum etiam
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>villis, hominibus et vassallis, militibus ad ipsas et ipsa spectantibus ac aliis suis pertinentiis universis, in
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>quibuscumque consistant, quas et que nunc habemus et in posterum sumus ad idem nostrum dominium
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>quocumque tytulo habituri, nostro, heredum ac successorum nostrorum nomine recepisse in feudum et ab
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>ipso tenere ac possidere iure et tytulo feudali volentes, quod heredes ac successores nostri, domini in
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/><cei:placeName>Plawe</cei:placeName> prelibati, quandocumque sepedictum dominium vacare contigerit, ipsum ab eodem domino nostro rege
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>aut a suis heredibus vel successoribus, regibus <cei:placeName>Boemie</cei:placeName>, in feodo recipere semper deinceps de¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>beant et tenere et facto sibi per eos servande perpetue fidelitatis homagio, sicut et nos nunc spon¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>tanea et libera voluntate fecimus ei vel eis tamquam eius vel eorum vasallus vel vassalli
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>sincera fide cum predictis bonis omnibus intendere debeant et parere. Huius rei testes sunt
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>nostri vassalli infrascripti, pertinentes ad nostrum dominium prelibatum, videlicet strenui milites <cei:persName>Tosso</cei:persName>
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:persName>de <cei:placeName>Schoeneneck</cei:placeName></cei:persName> et suus filius <cei:persName>Cunradus</cei:persName>, <cei:persName>Ditricus de <cei:placeName>Tossenveld</cei:placeName></cei:persName>, <cei:persName>Cunradus dictus</cei:persName>
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:persName>Sak</cei:persName> et <cei:persName>Nycolaus</cei:persName> frater suus militaris, <cei:persName>Heinricus de <cei:placeName>Machwitz</cei:placeName></cei:persName>, <cei:persName>Eberhardus de <cei:placeName>Widersperch</cei:placeName></cei:persName>, <cei:persName>Cun¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/><cei:persName>radus de <cei:placeName>Milin</cei:placeName></cei:persName> et <cei:persName>Heinczlinus dictus Roeder</cei:persName> militaris et quamplures alii fidedigni. In cuius
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>rei testimonium presentes litteras fieri et sigillo nostro unico, quo tantum utimur, fecimus roborari. Datum <cei:placeName>Prage</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/><cei:date value="99999999">anno Domini millesimo trecentesimo vicesimo septimo III idus martii</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573491248067_112">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573491253434_115" n="N001"/>Ponatur ad homagium
+                    <cei:lb facs="#facs_1_line_1573491256301_120" n="N002"/>extraneorum.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

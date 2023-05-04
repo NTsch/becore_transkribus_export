@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2171_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2171_H_I</cei:title><cei:idno type="Transkribus">199622</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l1" n="N001"/>My kniez <cei:persName>Petr, z Bozie milosti probosst</cei:persName>, <cei:persName>Anna, prziewora</cei:persName>, <cei:persName>Anna, subprziewora</cei:persName>, <cei:persName>Margaretha, cantrix, y wessken konwent klasstera <cei:placeName>chotiessowskeho</cei:placeName></cei:persName><cei:placeName/> a zakona
+                    <cei:lb facs="#facs_1_r2l2" n="N002"/>premostratenskeho, wyznawame tiemto listem obecznie wssem, ktoz gey uzrze aneb cztucz slisseti budu, ze gsme dluzni praweho a gisteho dluhu trzidczeti
+                    <cei:lb facs="#facs_1_r2l3" n="N003"/>kop grossow peniez dobrich strziebrnich razu stareho prazskeho slowutnim panossem <cei:persName>Benessowi Robotkowi z <cei:placeName>Uhrecz</cei:placeName></cei:persName><cei:placeName/> a <cei:persName>Janowy, synu geho</cei:persName>, y tomu kazdemu,
+                    <cei:lb facs="#facs_1_r2l4" n="N004"/>ktozbi tento list gmiel s gich dobru wolii, kterezto penieze gizpsane gmame dati a slibugem splniti nassim wierziczim nadepsanim, wssiczkni nassi dobru
+                    <cei:lb facs="#facs_1_r2l5" n="N005"/>krziestiansku wieru, ruku spoleczni a owssiem nerozdielni, bezewssie zle lsti y odporii y bezewsieho dalssieho prodlenie, a to rozdielnie gmame platiti dwie
+                    <cei:lb facs="#facs_1_r2l6" n="N006"/>nedieli po swatem Gyrzi, poddani listu tohoto nayprw przisstieho piet kop grossow, a potom ihned dwie nedielii po swatem Hawle druhich piet kop grossow,
+                    <cei:lb facs="#facs_1_r2l7" n="N007"/>a tak na kazdi rok gmame platity a plnity po pieti kopach grossow, az do splnienie peniez swrchupsanich, paklibichom toho neuczinili a peniez swrchupsanich nassim wie¬
+                    <cei:lb facs="#facs_1_r2l8" n="N008"/>rziczim nati czassi nedali a nesplnili, tehdi ihned wierziczim nassim nadepsanim dawame gim plnu mocz y plne prawo a moczi listu tohoto dalissme, aby nassie 
+                    <cei:lb facs="#facs_1_r2l9" n="N009"/>urocznie, kterez mi gmame wzdrzeni nebo myeti budem stawowati, gie po miestech kralowich y panskich w <cei:placeName>Czeske zemi</cei:placeName>, a to v <cei:placeName>Plzenskem kragi</cei:placeName>, a to tak dluho
+                    <cei:lb facs="#facs_1_r2l10" n="N010"/>magi stawowati, doniewadzbichom nassim wierziczim nahorzepsanim swrchupsanich peniez nedali a nesplnili y se wssiemi sskodami, kterezbi sskodi proto neplnenie
+                    <cei:lb facs="#facs_1_r2l11" n="N011"/>wzeli, budto upominagicz, gezdiecz, trawiecz possli, ssielicz anebo kterak koliweik sskodi berucz, ty wssieczki sskodi magi nassie bity, alle nicz nassich wierziczich 
+                    <cei:lb facs="#facs_1_r2l12" n="N012"/>swrchupsanich takowe wssak sskodi magi bity, gesstobi gie geden z nassich wierziczich okazal dobrim swiedomim nebo prawem bez zmatku. Take przymluwaliliby
+                    <cei:lb facs="#facs_1_r2l13" n="N013"/>nam nassi wierziczi nebo lali pro nassie neplnienie, negmame gym odmluwati nez wssudi znati, ze su ony prawi a my proti nym krziwi, paklibichom czo proti 
+                    <cei:lb facs="#facs_1_r2l14" n="N014"/>tomu uczinili, tobichom uczinily proti swe czti a wierzie, a take czozbi koliwiek nassi wierziczi swrchupsani przi kazdem swatem Gyrzi a przi kazdem swatem 
+                    <cei:lb facs="#facs_1_r2l15" n="N015"/>Hawle peniez zdwihli u tiech trzidczeti kop grossow nahorzepsanich. Naty penieze magi nam dati gistu kwitanczi na papieru napsanu se trzmi peczetmi przitisstie¬
+                    <cei:lb facs="#facs_1_r2l16" n="N016"/>nymi, wydati <cei:persName>Benessowu Robotkowu z <cei:placeName>Uhrzecz</cei:placeName></cei:persName> gednu a <cei:persName>Janowu</cei:persName>, sinna geho, druhu, a trzieti urozeneho panossi na swiedomie. Akdyz koliwiek wierziczi nassi
+                    <cei:lb facs="#facs_1_r2l17" n="N017"/>penieze swe uplne a wczele wyberu, tehdi tento list dale y zadne moczi wiecze negma ku upominani tyech peniez swrchupsanich, ani gmieti bude, nez gmanam 
+                    <cei:lb facs="#facs_1_r2l18" n="N018"/>zassie wraczen bity w nassi mocz beze wssie odporii y beze wssieho dalssieho prodlenie. A ktozbi tento list gmiel s nassich wierzitelow dobru woly, ten gma
+                    <cei:lb facs="#facs_1_r2l19" n="N019"/>tuz mocz y tez prawo k tomuto ke wssiemu czoz w tomto listu psanostogi, yakozto wierzitele nassi swrchupsani. A toho wssieho, czoz nahorzepsanostogi 
+                    <cei:lb facs="#facs_1_r2l20" n="N020"/>na swiedomie a na pewne a gistee potwrzenie mi, gystczi nahorzepsani peczeti nassie wlastnie probosstku y konwentsku a s nassi dobru woly, wiedomim y
+                    <cei:lb facs="#facs_1_r2l21" n="N021"/>s plnim prziznanim k tomuto listu gsme prziwiessili. A pro dalssie swiedomie prosilissme urozenich panossi <cei:persName>Gyndrzicha z <cei:placeName>Sedlcze</cei:placeName>, rzeczeneho Swaygda</cei:persName>,
+                    <cei:lb facs="#facs_1_r2l22" n="N022"/><cei:persName>Wylema z <cei:placeName>Netunicz</cei:placeName></cei:persName>, ze su peczeti wlastnie wedle nassich na swiedomie k tomuto listu prziwiessili bez gich bezewssie sskody. Genz gesst dan a psan <cei:date value="99999999">lleta</cei:date>
+                    <cei:lb facs="#facs_1_r2l23" n="N023"/><cei:date value="99999999">po narozeni sina Bozieho poczitagicz tyssiczeho cztirzissteho trzidczateho trzietieho ten uterii po swatem Vitu muczedniku Boziem</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RM_2331_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RM_2331_H_I</cei:title><cei:idno type="Transkribus">202801</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ia <cei:persName>Waczlaw Misska s <cei:placeName>Hradku</cei:placeName></cei:persName><cei:placeName/> wiznawam tiemto listem obecznie wssem, ktoz gey czisti aneb cztucz slisseti budu, tak
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>iakoz mam w zapisie <cei:placeName>Zdetyn</cei:placeName> a <cei:placeName>Niemczicze</cei:placeName> a czoz k tomu prislussie, classteru matky Bozie s <cei:placeName>Male Strany</cei:placeName> od nayjasniey¬
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>ssieho kniezete a pana pana <cei:persName>Sigmunda rzimskeho cziessarze a krale uherskeho czeskeho dalmaczskeho charwaczkeho</cei:persName> et cetera,
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>pana meho milostiweho, ze sem ty wsy se wssemi przislussenstwimi urozenemu <cei:persName>Ianowi z <cei:placeName>Cunwaldu</cei:placeName>, podkomorziemu</cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/><cei:persName><cei:placeName>Kralowstwie czeskeho</cei:placeName></cei:persName> s mym plnym gistym wiedomym a dobru woly przikazanim geho welebnosti postupil, neb geho
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>milost to dale drzewepsanemu Janowi dal a zapsal, iakoz ssirze magestat geho milosti okazuge a swiedczy, kterezto we¬
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>snycze ja, drziewepsany <cei:persName>Waczlaw Misska</cei:persName>, tiemto listem z toho zapisu, kteryz mam od cziessarzowi milosti, propusstiem,
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>quittugi y owssem prazdnu czinym, sam przed sebu wiecznie y przed swymi diediczy a buduczymi slibugie, sam skrze sie ani
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>skrze diedicze a buduczie swe na wesnycze swrchupsane y gich przislussnosty nesahati prawem a obyczegem y zadnym 
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>wiecznie. A toho na potwrzenie peczet ma wlastnie s mym gistym wiedomym dobrowolnye gest k tomuto listu priwiessena.
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>A pro lepssy gistotu peczeti urozenich pana <cei:persName>Menharta z <cei:placeName>Hradcze</cei:placeName>, naywissieho purkrabi <cei:placeName>Hradu prazskeho</cei:placeName></cei:persName>, pana <cei:persName>Hanusse z <cei:placeName>Col¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/><cei:persName><cei:placeName>lowrat</cei:placeName></cei:persName> a pana <cei:persName>Hynka Sskody z <cei:placeName>Waldeka</cei:placeName></cei:persName> k prosbie me na swiedomie k tomuto listu gsu prziwiesseny. Dan <cei:date value="99999999">w utery po</cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/><cei:date value="99999999">swatem Hawle leta od narozenie syna Bozieho tisiczieho cztirzsteho trzidczateho sedmeho</cei:date>.    
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0092_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0092_H_I</cei:title><cei:idno type="Transkribus">189392</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Johannes, Dei gratia <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie </cei:placeName>rex, <cei:placeName>Lucemburgensis</cei:placeName> comes, Marchieque <cei:placeName>Budissinensis</cei:placeName> dominus</cei:persName>, ad universorum noticiam tenore presencium
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>volumus pervenire, quod bona nostra infrascripta, videlicet oppidum et municionem <cei:placeName>Towaczhow</cei:placeName> cum villis<cei:placeName> Miriwans</cei:placeName>, <cei:placeName>Oplaczan</cei:placeName>, <cei:placeName>Wy</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:placeName>clech</cei:placeName>, <cei:placeName>Herboritz</cei:placeName>, <cei:placeName>Crelicz villa forensi</cei:placeName> et <cei:placeName>Pywin</cei:placeName> ac universis pertinenciis suis, fideli nostro dilecto, <cei:persName>Henrico Juniori de <cei:placeName>Lypa</cei:placeName></cei:persName>, in
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>tribus milibus marcarum grossorum denariorum Pragensium pagamenti Moravici, videlicet sexaginta quatuor grossos conputando pro marca
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>qualibet, que sibi pro dote nobilis domine <cei:persName>Agnetis de <cei:placeName>Blankenheim</cei:placeName></cei:persName>, consanguinee nostre, quam ei tradidimus in uxorem, dare
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>promissimus nomine eiusdem uxoris sue ac ipsi domine titulo pignoris obligamus tenenda et habenda per eum et dictam
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>dominam ac heredes ipsorum tamdiu, quousque eis prenotata pecunia per nos vel heredes aut successores nostros plenarie
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>persolvatur. Quod si <cei:persName>predictum Henricum</cei:persName> prefate uxori sue continget premori, tunc domina ipsa tam omnia et singula supra¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>dicta bona per nos pro dote sua in dictis tribus milibus marcarum sibi obligata in eisdem tribus milibus marcarum, quam uni¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>versa bona, videlicet <cei:placeName>castrum Strilk</cei:placeName> et <cei:placeName>villam Coriczan</cei:placeName> ac <cei:placeName>oppidum Hostradicz</cei:placeName> et <cei:placeName>villam Myspicz</cei:placeName> cum universis suis
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>pertinenciis per socerum suum, fidelem nostrum dilectum <cei:persName>Henricum de <cei:placeName>Lypa</cei:placeName></cei:persName>, sibi etiam in tribus milibus marcarum pro suo dotalicio
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>assignata, in quocumque statu manserit et sive cum dicto marito suo heredes habuerit vel non, tenebit et habebit in sex
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>milibus marcarum ac ea sive in vita sive in morte sua, si ab ipsa exoluta non fuerint, pro ipsis sex milibus marcarum
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>obligare et donare poterit, cuicumque voluerit, pro sue libito voluntatis et si eciam continget dictam dominam prefato marito suo
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>premori, habendo vel non habendo cum ipso marito suo pueros sive heredes, tunc dictus <cei:persName>Henricus maritus suus</cei:persName> vel, eo non
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>existente, heredes sui vel, si heredes non essent, tunc fratres sui similiter tam dicta bona per nos sibi in tribus milibus
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>marcarum pro dote et nomine dotis dicte uxoris sue obligata in eisdem tribus milibus marcarum, quam bona omnia antedicta
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>sibi per dictum patrem suum in tribus etiam milibus marcarum pro dotalicio ipsius domine uxoris sue assignata in ipsis tribus 
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>milibus marcarum tenebunt et habebunt ac eadem, si ab ipsis exoluta non fuerint, pro ipsis sex milibus marcarum aut
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>partim vel divisim ipsa bona per nos obligata pro ipsis tribus milibus marcarum, cuicumque voluerint, obligare poterint 
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>vel donare. In cuius rei testimonium presentes litteras fieri et sigillis maiestatis nostre iussimus communiri. Datum
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/><cei:placeName>Prage</cei:placeName> <cei:date value="99999999">IIII Nonas Junii anno Domini millesimo CCC vicesimoprimo, regnorum vero nostrorum anno undecimo</cei:date>. 
+                    <cei:lb facs="#facs_1_r1l24" n="N023"/>List wienny, w kteremz zawazano
+                    <cei:lb facs="#facs_1_r1l25" n="N024"/>bylo od pana <cei:persName>Gindrzicha z <cei:placeName>Lypeh</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l26" n="N025"/>pani <cei:persName>Anezcze z <cei:placeName>Blankenhaym</cei:placeName></cei:persName><cei:placeName/> 
+                    <cei:lb facs="#facs_1_r1l27" n="N026"/>List na <cei:placeName>Towaczow</cei:placeName> a na to zbozi
+                    <cei:lb facs="#facs_1_r1l28" n="N027"/><cei:placeName>Hostradicze</cei:placeName> a <cei:placeName>Misspicze</cei:placeName>. 
+                    <cei:lb facs="#facs_1_r1l29" n="N028"/>akerak zato <cei:placeName>Hostieradicze</cei:placeName> a <cei:placeName>Misspicze</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l30" n="N029"/>przissli.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

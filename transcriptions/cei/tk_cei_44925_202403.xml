@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0123_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0123_H_I</cei:title><cei:idno type="Transkribus">202403</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Nos <cei:persName>Heinricus, advocatus de <cei:placeName>Plawe</cei:placeName> senior</cei:persName>, et <cei:persName>Heinricus</cei:persName>, ipsius filius senior, recognoscimus tenore presentium et fatemur, quod licet olim progenito¬
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>res nostri bone memorie a quondam viris spectabilibus, comitibus de <cei:placeName>Eberstein</cei:placeName> terre <cei:placeName>Saxonie</cei:placeName>, retroactis temporibus dominium eorum in <cei:placeName>Plawe</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l5" n="N003"/>quod nunc tenemus et ad nos est successione legitima devolutum, in feodo recepisse ac etiam possedisse noscantur, tamen
+                    <cei:lb facs="#facs_1_r1l6" n="N004"/>quia dudum eorundem comitum generatio, ita quod superstes nullus remansit, penitus est extincta, multorum sapientum, quos super
+                    <cei:lb facs="#facs_1_r1l7" n="N005"/>eo requisivimus, sumus certa et sana informatione edocti, quod ipsum nostrum dominium cum omnibus suis juribus et pertinentiis in
+                    <cei:lb facs="#facs_1_r1l9" n="N006"/>feodo a quocumque dominorum nobis placuerit, nunc recipere ac tenere licite valeamus, nos ob specialis amoris affectum, quem
+                    <cei:lb facs="#facs_1_r1l13" n="N007"/>ad magnifici principis domini nostri, domini <cei:persName>Johannis, <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> regis illustris ac comitis <cei:placeName>Lucemburgensis</cei:placeName></cei:persName><cei:placeName/>, celsitudinem
+                    <cei:lb facs="#facs_1_r1l15" n="N008"/>gerimus, ipsius nos recognoscentes esse feodatarios et vasallos, prelibatum nostrum dominium in <cei:placeName>Plawe</cei:placeName> cum suis munitionibus
+                    <cei:lb facs="#facs_1_r1l19" n="N009"/>et bonis, videlicet castro <cei:placeName>Lubow</cei:placeName>, munitione <cei:placeName>Johansgruen</cei:placeName>, castro <cei:placeName>Schonnek</cei:placeName>, munitione <cei:placeName>Plonswicz</cei:placeName>, munitione <cei:placeName>Lapide</cei:placeName> dicta,
+                    <cei:lb facs="#facs_1_r1l23" n="N010"/>munitione dicta <cei:placeName>Tirbil</cei:placeName> et <cei:placeName>Gatndorf</cei:placeName>, cum etiam villis, hominibus, vasallis et militibus ad ipsas et ipsa spectantibus
+                    <cei:lb facs="#facs_1_r1l27" n="N011"/>ac aliis suis pertinentiis universis, in quibuscumque consistant, quas et que nunc habemus et imposterum sumus ad idem nostrum
+                    <cei:lb facs="#facs_1_r1l34" n="N012"/>dominium quocumque titulo habituri, nostro, heredum ac successorum nostrorum, dominorum in <cei:placeName>Plawe</cei:placeName>, nomine recepisse in feodo et ab
+                    <cei:lb facs="#facs_1_r1l38" n="N013"/>ipso tenere ac possidere iure et tytulo feodali volentes, quod ipsi heredes ac successores nostri, quandocumque sepedictum dominium
+                    <cei:lb facs="#facs_1_r1l41" n="N014"/>per mortem alicuius eorum vacare contigerit, ipsum ab eodem domino nostro rege aut a suis heredibus vel successoribus, regibus
+                    <cei:lb facs="#facs_1_r1l42" n="N015"/><cei:placeName>Boemie</cei:placeName>, in feodo recipere semper deinceps debeant et tenere et prefato sibi per eos debito servande fidelitatis et homa¬
+                    <cei:lb facs="#facs_1_r1l43" n="N016"/>gii sacramento, sicut et nos ipsum sibi nunc spontanea et libera voluntate prestitimus, ei vel eis tamquam eorum vasalli
+                    <cei:lb facs="#facs_1_r1l46" n="N017"/>cum predictis bonis omnibus sincera fide semper intendere debeant et parere. Et nos <cei:persName>Tosso de <cei:placeName>Schoeneck</cei:placeName></cei:persName>, <cei:persName>Arnoldus de</cei:persName>
+                    <cei:lb facs="#facs_1_r1l47" n="N018"/><cei:persName><cei:placeName>Valchenstein</cei:placeName></cei:persName>, <cei:persName>Goczo de <cei:placeName>Merika</cei:placeName></cei:persName>, <cei:persName>Heinricus de <cei:placeName>Machwitz</cei:placeName></cei:persName>, <cei:persName>Conradus de <cei:placeName>Sak</cei:placeName></cei:persName>, <cei:persName>Eberhardus de <cei:placeName>Tirbl</cei:placeName></cei:persName> et <cei:persName>Conradus de <cei:placeName>Milin</cei:placeName></cei:persName><cei:placeName/> milites,
+                    <cei:lb facs="#facs_1_r1l48" n="N019"/>necnon <cei:persName>Nicolaus dictus Sak</cei:persName>, <cei:persName>Nicolaus de <cei:placeName>Dobenek</cei:placeName></cei:persName> et <cei:persName>Heinricus dictus Roeder</cei:persName> militares seu armigeri predictorum dominorum nostrorum de
+                    <cei:lb facs="#facs_1_r1l49" n="N020"/><cei:placeName>Plawe</cei:placeName>, quorum sumus homines et vasalli, precibus inclinati, protestamur premissa omnia, prout superius continentur, per eosdem
+                    <cei:lb facs="#facs_1_r1l51" n="N021"/>dominos nostros nobis presentibus et consentientibus, de certa nostra scientia essa facta. In quorum omnium predictorum robur et testimonium
+                    <cei:lb facs="#facs_1_r1l53" n="N022"/>presenes littere facte sunt, sigillorum nostrorum, que ipsis appendi fecimus, munimine roborate. Datum <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">anno Domini</cei:date>
+                    <cei:lb facs="#facs_1_r1l55" n="N023"/><cei:date value="99999999">millesimo trecentesimo vicesimo septimo XVIII kalendas aprilis</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573491406742_148">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573491413290_151" n="N001"/>Ponatur ad homagia
+                    <cei:lb facs="#facs_1_line_1573491415526_156" n="N002"/>extraneorum.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

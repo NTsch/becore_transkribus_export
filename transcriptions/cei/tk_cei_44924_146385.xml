@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_Anna_1134_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>AZK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_Anna_1134_H_I</cei:title><cei:idno type="Transkribus">146385</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Gyndrzych, rychtarz</cei:persName>, <cei:persName>Petr, rzeczeny Stoda, purgmistr</cei:persName>, <cei:persName>Yanek hrazssky</cei:persName>, <cei:persName>Marzyk, rzeczeny Czrwenka</cei:persName>, <cei:persName>Jacub, rzeczeny Lassal</cei:persName>, <cei:persName>Bartos<cei:supplied>sek</cei:supplied></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>Thomassek</cei:persName>, <cei:persName>Petr kozarnyssky</cei:persName>, <cei:persName>Welyk, rzeczeny Swyetlyk</cei:persName>, <cei:persName>Wytak</cei:persName>, <cei:persName>Jan</cei:persName>, <cei:persName>Gyena</cei:persName>, <cei:persName>Vaczlaw Polewka</cei:persName>, <cei:persName>Slon</cei:persName>, konczele myessta <cei:placeName>melnyczkeho</cei:placeName>, vyznawamy
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>tyemto lystem obecznye wssyem, ktoz gye uzrzye neb sslyssety budu, ze przyssed przyed nass <cei:persName>Kubyn, mlynarz</cei:persName>, w zahageny sud przied cztyrzy la¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>wyczie y seznal gest ssye, ze mlyn swobodny se cztrzmy koly welykomy, kterzyz lezy pod nassym myestem <cei:placeName>Myelnykem</cei:placeName> na potocze  rzeczenem
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:placeName>Psowka</cei:placeName>, s dworem  a s pyety czwrtmy dyedyny y s tyem se wsym, czoz k tomu dworu a mlynu przyslussye od stara dawna, nagyel gest od
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>cztnych a naboznych panen, od panny <cei:persName>Agnezky z <cei:placeName>Stemberka</cei:placeName>, przyeworzyssye</cei:persName>, <cei:persName>Katherzyny, podprzyeworzyssye</cei:persName>, <cei:persName>Elssky Boczkowny, zakrysstany</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:persName>Agnezky Gentesowe</cei:persName>, <cei:persName>Dorothy Stachowe</cei:persName> y gnych sestr y wssyeho conventa clastera swateho Wawrzynczye, gynak swate Anny na <cei:placeName>Starem</cei:placeName><cei:placeName/>
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:placeName>myestye prazskem</cei:placeName>, pod zprawu zakona bratrzy kazatelow swateho Domynika pod z posobeni a wymluwaniy wez podpsanymy. Nayprwe
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>ze on, <cei:placeName>Kubyn</cei:placeName>, ma a dluzen gest pannam y gych clasteru a conventu drzyewe rzeczeneho mlyna dwye stye strychow zyta a osm strychow
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>psenycze zrna czysteho dobre a sprawedliwe myery platyty a wydawaty poczna od Buozyeho narozenye, gyesto nynye mynulo a do <cei:supplied>dru</cei:supplied>¬
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>heho narozenye Buozyeho yhned potom przystyeho toto leto a tak potom na kazde leto bez wsyeho zmeskanye do zywota sweho. Take tyz
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/><cei:persName>Kubyn</cei:persName> sest weprzow pannam y gich clasteru ma chowaty a krmyty swu strawu a swym nacladem, poczna od suchych dny, gyesto przied swa¬
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>tym Waczlawem bywagy az do masopusta na kazde leto. A take tyz <cei:persName>Kubyn</cei:persName> kola, zlaby, pody, strzechy, dom a mlynycze y gyne wseczky wyeczy, gye¬
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>sto k tomu mlynu slussely a potrzebne byly, ma swym nakladem dyelaty a oprawowaty, lecz by dom a mlynycze y gyne stawenye pro hny¬
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>losth a starost sesslo, gyesto by nykdye oppraweno nemohlo byty. A to by dobrymy lydmy ohledano bylo, panny a gych claster magy <cei:persName>Kubyno¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/><cei:persName>wy</cei:persName> ustaweny swoy naclad daty, nez take <cei:persName>Kubyn</cei:persName> sam swym zywotem to stawenye ma dyelaty aneb sebe myesto gyneho tak do¬
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>breho dyelnyka na to dyelo moczy bude postawyty. A panny gemu na pomocz toho dyela magy swe dyelnyky daty a take acz by nyek¬
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/>terym nezczestym a nedbanym Kubynowym, anebo geho czeledy, mlyn, anebo ktere stawenye spaleno bylo, gyehozto Buozye neday, teda
+                    <cei:lb facs="#facs_1_r1l20" n="N019"/><cei:persName>Kubyn</cei:persName> polowyczy swymy a polowyczy panneskymy ma naclady dyelaty tyem bychem, yakz gest naprzied psano. Pakly by od susedow
+                    <cei:lb facs="#facs_1_r1l21" n="N020"/>neb obecznu w zemy walku bylo spaleno a to bylo podobnym swyedomym wkazano, tehdy to, czoz by spaleno, bylo panny a convent swy¬
+                    <cei:lb facs="#facs_1_r1l22" n="N021"/>my naclady magy dyelaty, nez <cei:persName>Kubyn</cei:persName> swym zywotem ma dyelaty neb dyelnyka tak dobreho postawyty, yakz ssye swrchu pyssye.
+                    <cei:lb facs="#facs_1_r1l23" n="N022"/>Take ze temuz <cei:persName>Kubynowy</cei:persName> panny powolylissu, aby namyestyssty okolo mlyna stawenye gemu potrzebna mohl swymy naklady
+                    <cei:lb facs="#facs_1_r1l24" n="N023"/>dyelaty byez gych przyekazy. A kdyz <cei:persName>Kubyna</cei:persName> Buoh neuchowa, ten gysty mlyn se wsym stawenym ma ssye pannam a conventu be¬
+                    <cei:lb facs="#facs_1_r1l25" n="N024"/>ze wsyech wplotkow, przyekaz Kubynowych dyedyczow a przatel zassye nawratyty wplnye. Take ze panny a gych claster wsecz¬
+                    <cei:lb facs="#facs_1_r1l26" n="N025"/>ky bernye a lozunky s toho mlyna magy platyty penyezmy swymy. Dale seznawamy, ze <cei:persName>Kubyn, mlynarz</cei:persName>, drzyewe gmenowany
+                    <cei:lb facs="#facs_1_r1l27" n="N026"/>nagyemnyk toho mlyna, <cei:persName>Petr, rzeczeny Stoda</cei:persName>, <cei:persName>Velysslaw</cei:persName>, <cei:persName>Waczlaw, rzeczeny Polewka</cei:persName>, <cei:persName>Petr, rzeczeny Slon</cei:persName>, <cei:persName>Thomassek</cei:persName>, <cei:persName>Hassek</cei:persName>
+                    <cei:lb facs="#facs_1_r1l28" n="N027"/><cei:persName>krageczy</cei:persName>, <cei:persName>Mach, kuowarz</cei:persName>, <cei:persName>Bartossek</cei:persName>, <cei:persName>Marsyk, pekarz, </cei:persName>rukoymye geho zan y s nym slybyly gsu wsychny gednu ruku pospolny a ne¬
+                    <cei:lb facs="#facs_1_r1l29" n="N028"/>rozdyelnu ruku swrchu psanym pannam y clasteru platyty y wydawaty y wymluwy drzety, yakoz gest naprzied psano pod taky
+                    <cei:lb facs="#facs_1_r1l30" n="N029"/>wymyenyenym. Kdyz by kto z rukoymy wrukogenstwy staty nemohl, aneb nerodyl, aneb kdyz koho z nych Buoh neuchowal by,
+                    <cei:lb facs="#facs_1_r1l31" n="N030"/>tehdy <cei:persName>Kubyn, mlynarz</cei:persName>, myesto toho gyneho tak doreho a mowyteho ma postawyty a lyst obnowyty w taz slowa. Take kdyz
+                    <cei:lb facs="#facs_1_r1l33" n="N031"/>by <cei:persName>Kubyn</cei:persName> pro starost anebo nemocz toho mlyna nemohl drzyety, tehdy kdyz pannam a conventu da przied pol letem naprzied
+                    <cei:lb facs="#facs_1_r1l35" n="N032"/>wyedyety, magy geho y rukoymye prazdny a swobodny propustyty a sobye gyneho mlynarzye dobyty swoy wrok wplnye wez¬
+                    <cei:lb facs="#facs_1_r1l37" n="N033"/>mucze. Take ze <cei:persName>Kubyn</cei:persName> ma takez dyedyny postupyty, jakoz gest sam przygal. A na swyedomye toho wsseho peczet wyeczy na¬
+                    <cei:lb facs="#facs_1_r1l38" n="N034"/>seho myesta <cei:placeName>melnyczkeho</cei:placeName> k tomuto lystu przywessylyssmy, kteryz to gest <cei:date value="99999999">dan leta ot narozenye Buozyeho po tyssyczy po cz¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l39" n="N035"/><cei:date value="99999999">tyrzech stech osmnadsteho, ten pondyely po swatem Matyegy</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

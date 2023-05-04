@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1511_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1511_H_I</cei:title><cei:idno type="Transkribus">222687</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Sigismundus, Dei gracia romanorum rex, semper augustus ac <cei:placeName>Hungarie</cei:placeName>, <cei:placeName>Bohemie</cei:placeName>, <cei:placeName>Dalmacie</cei:placeName>, <cei:placeName>Croacie</cei:placeName></cei:persName> et cetera rex, et <cei:persName>Albertus, eadem gracia dux <cei:placeName>Austrie</cei:placeName>, <cei:placeName>Styrie</cei:placeName>, <cei:placeName>Karinthie</cei:placeName> et cetera et marchio <cei:placeName>Moravie</cei:placeName></cei:persName>, notum facimus tenore presencium universis, quod nos nuper vidimus et
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>auscultari ac legi fecimus certas litteras illustris principis <cei:persName>Conradi, ducis <cei:placeName>Slesie</cei:placeName> et <cei:placeName>Glogovie</cei:placeName> et domini in <cei:placeName>Olsna</cei:placeName></cei:persName><cei:placeName/>, sanas et integras non abrasas seu cautellatas omnique vicio et suspicione carentes sigillisque veris non fictis firmius communitas, quas ad presentes
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>nostras litteras atque scripta inseri et transcribi fecimus ut eis aquocumque homine fides infallibilis atque firma adhibeatur, quarum quidem litterarum tenor peromnia sequitur et est talis: In nomine domini amen. Noverint universi tam presentes, quam posterii noticiam
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>presentium aut copiam habituri, quod quia nos <cei:persName>Conradus, Dei gracia dux <cei:placeName>Slesie</cei:placeName> et <cei:placeName>Glogovie</cei:placeName> et dominus in <cei:placeName>Olsna</cei:placeName></cei:persName><cei:placeName/>, ob specialis amoris affectum, quem erga mafnifici principis domini <cei:persName>Johannis, <cei:placeName>Bohemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> regis ac comitis <cei:placeName>Lucemburgensis</cei:placeName></cei:persName>, domini nostri karissimi,
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>gerimus, testitudinem habito nobiscum amicis quoque ac fidelibus nostris consilio diligenti et deliberacione matura accedentibus etiam favore et consensu eorundem expressis ad subscripta bonum in hoc nostrum principaliter consequenter autem fidelium terrarum,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>civitatum, hominum et bonorum nostrorum omnium infrascriptorum comodum statumque in antea pacificum perpendentes princeps et vassallus suus heredum, successorum suorum <cei:placeName>Bohemie</cei:placeName> regnum et ipsius regni <cei:placeName>Bohemie</cei:placeName> imperpetuum fieri et fore decrevimus, omnia et singula
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>bona nostra subeisdem libertatibus et iuribus, quibus apredecessoribus nostris ad nos pervenisse noscuntur, omnesque terras nostras, quas ad presens possidemus vel possidebimus quacumque tytulo in futuro tam circa, quam ultra flumina, qui <cei:placeName>Odora</cei:placeName> dicitur, cum
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>civitatibus <cei:placeName>Wartenberch</cei:placeName>, <cei:placeName>Oslna</cei:placeName>, <cei:placeName>Mylisch</cei:placeName>, <cei:placeName>Trebenicz</cei:placeName>, <cei:placeName>Trachenburch</cei:placeName>, <cei:placeName>Walow</cei:placeName>, <cei:placeName>Lubest</cei:placeName>, <cei:placeName>Wunck</cei:placeName>, <cei:placeName>Herrenstat</cei:placeName> et castris eis adiacentibus cum aliis <cei:placeName>Ploczk</cei:placeName>, videliczet <cei:placeName>Prusnitz</cei:placeName>, <cei:placeName>Sandewal</cei:placeName> cum omnibus suis appendiis dominiis, opidis, villis allodiis,
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/> feudis, feudalibus nobilibus et plebeiis, iuribus, redditibus, proventibus et utilitatibus earundem, quocumque vocentur nomine vel inquibuscumque consistant, nostro heredum et successorum nostrorum, <cei:placeName>Slesie</cei:placeName> et <cei:placeName>Glagovie</cei:placeName> ducum et dominorum <cei:placeName>Olsnensium</cei:placeName>, nomine in regis
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>ipsius manibus sponte et libere resignates ab eo in feudum recepimus perpetuum factoque sibi per nos fidelitatis debito humagio prestito corporali nichilominus iuramento ipsi regi heredibus et succesoribus suis predictis, tamquam veris dominis nostris
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>velut princeps et vasallus eorum ac regni <cei:placeName>Bohemie</cei:placeName> antedicti parere deinceps promisimus et intendere in eisdem et contra quemlibet principem et hominem ipsos pro viribus fideliter ad iuvare reservata nobis edificandi ac instaurandi municiones
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>novas in terris et bonis nostris premissis et destruendi veteres, ubicumque et quantumque nobis videbitur, pro nostro terrarum predictarum et hominum nostrorum comodo expedire libera facultate volentes et firmiter statuentes, ut si forte nos heredes aut suc¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>cessores nostri sublati demedio fuerimus heredibus legitimis et presertim masculis non relictis, extunc iam dicta bona nostra terre civitates et opida cum omnibus suis pertinenciiis, ut predicitur, ad fratres nostros, principes illustres dominum <cei:persName>Henricum,</cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:persName>videlicet ducem <cei:placeName>Slesie</cei:placeName> et <cei:placeName>Glogovie</cei:placeName> <cei:placeName>Saganensem</cei:placeName>que dominum</cei:persName>, ac dominum <cei:persName>Johannem, ducem <cei:placeName>Slesie</cei:placeName> et <cei:placeName>Glogovie</cei:placeName> ac dominum <cei:placeName>Stynavie</cei:placeName></cei:persName><cei:placeName/>, heredesque suos masculos, dum taxat si quos reliquerit, si autem nullos post se masculos legitimas reliquerint,
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>ad regnum <cei:placeName>Bohemie</cei:placeName> supradictum libere et hereditarie debeant pertinere, hoc tamen adiciendum duximus nominatim, quod si nos ipsi heredes vel successores nostri prefati cum clericis, civibus, rusticis vel iudeis nostris aliquid cause questionis aut
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>iudicii instrauraverimus, dehiis et huiusmodi rex, heredes et successores sui predicta nobis heredibus vel successoribus nostris superstitibus intromittere se non debeant modo quovis, si vero nobiles vel fideles terrarum nostrarum suprascriptarum debitam
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>per nos heredes vel successores nostros de suis questionibus aut causis nobis motis, dequibus iuxta litterarum regalium datarum nobis continentiam secundum fidelium nostrorum sentenciam et dictamen subire tenemur, et facere iudicium assequi non possint
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>iusticiam, regem, heredes et successores suos prenatatos adire poterunt libere querelas ipsorum proponere et defectus, nosque, heredes et successores nostri predicti citati ibidem coram rege videlicet et successoribus et heredibus suis, <cei:placeName>Bohemie</cei:placeName> regibus, ubicumque
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/><cei:placeName>Bohemie</cei:placeName> fuerint aut <cei:placeName>Polonie</cei:placeName>, coram altero vero principe per eos adhoc iudice deputato sisti tenebimur in terra <cei:placeName>Wratislaviensi</cei:placeName>, dum taxat iuditio facere et subire denobis, heredibus vel successoribus nostris conquerentibus, quibuslibet iusticie
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>complementum illud etiam specifice duximus exprimendum, quod si fortasse nos heredes vel successores nostros grauatos inopia debitis aut alia causa rationabili aliquam territorii et dominii aliquanti de nostris vendere vel obligare continget, municionem
+                    <cei:lb facs="#facs_1_r1l22" n="N021"/>principi nobis equali aut alteri regno <cei:placeName>Bohemie</cei:placeName> competenti vel etiam territorium non habentem fideli vel vasallo nostro, extunc municionem eandem sine territorium habeat et dominium sine non vendendam aut obligandam ipsis regi
+                    <cei:lb facs="#facs_1_r1l23" n="N022"/>et heredibus et successoribus suis <cei:placeName>Bohemie</cei:placeName> regibus exhibere preceteris debeamus, qui si ipsam emere vel recipere inpignore noluerint, princeps ipse municionem predictam territorium habentem, videlicet emens aut pignore tenens, in feudum ipsam
+                    <cei:lb facs="#facs_1_r1l24" n="N023"/>recipere tenebitur ab eisdem, ipsisque tamquam veris suis dominis servire, parere et intendere de eadem, alter vero non princeps emens vel pugnore tenens municionem nostram territorium aut dominium, ut predicitur, non habentem a nobis, heredibus
+                    <cei:lb facs="#facs_1_r1l25" n="N024"/>et successoribus nostris eam in feudum recipiet hoc adiecto, quod rex, heredes aut successores sui antedicti municiones supradictas pro summa eadem, in qua obligate fuerint vel vendite, redimere valeant, quando velint, illud etiam preterire
+                    <cei:lb facs="#facs_1_r1l26" n="N025"/>volumus, quod si rex, heredes aut successores sui antedicti nos, heredes vel successores nostros in adiutorium sibi per nos prestandum ad partes alienas extra <cei:placeName>Bohemia</cei:placeName> aut <cei:placeName>Polonia</cei:placeName> euocaverint convenienciam nobis debitam, ne queviciis
+                    <cei:lb facs="#facs_1_r1l27" n="N026"/>nimiis aut intollerabilibus pregravemur, facere teneantur. In quorum omnium testimonium presentes litteras fieri et sigilli nostri munimine iussimus communiri. Datum et actum <cei:placeName>Wratizlavie</cei:placeName> anno Domini millesimo trecentesimo vicesimo nono VI idus Maii.
+                    <cei:lb facs="#facs_1_r1l28" n="N027"/>Similem eciam litteram vidimus illustris <cei:persName>Henrici, ducis <cei:placeName>Slesie</cei:placeName> et <cei:placeName>Glogovie</cei:placeName> et domini <cei:placeName>Saganensis</cei:placeName></cei:persName>, deverbo ad verbum sunt presentem sonantem eosdemque colligationes et prescriptionem in se continentem, quam hic propter similitudinem prioris littere
+                    <cei:lb facs="#facs_1_r1l29" n="N028"/>non decuimus inserendam, cuius data est <cei:placeName>Wratislavie</cei:placeName> anno Domini millesimo trecentesimo XXVIIII feria tercia post dominicam misericordia domini realiter consignata. In cuius rei testimonium atque robur presentes nostras litteras ac inscriptiones
+                    <cei:lb facs="#facs_1_r1l30" n="N029"/>sigillorum nostrorum appensione fecimus firmius roboravi. Datum <cei:placeName>Wyenne</cei:placeName> <cei:date value="99999999">anno Domini millesimo quadringentesimo vicesimosexto vicesima die marcii, regnorum nostrorum anno <cei:placeName>Hungarie</cei:placeName> et cetera XXXVIIII, romanorum XVI, <cei:placeName>Bohemie</cei:placeName> vero sexto</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573562444737_162">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573562449229_165" n="N001"/>Ad mandatum domini regis
+                    <cei:lb facs="#facs_1_line_1573562452797_170" n="N002"/><cei:persName>Michael, prepositus <cei:placeName>Boleslaviensis</cei:placeName></cei:persName>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

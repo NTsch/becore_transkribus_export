@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_1553_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_1553_H_I</cei:title><cei:idno type="Transkribus">191836</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>My <cei:persName>Gyndrzych z <cei:placeName>Rosenberka</cei:placeName></cei:persName><cei:placeName/> a <cei:persName>Petr</cei:persName>, syn geho, odtudz, tyemto listem wsyem wyznawame, ktoz
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>gey budu czysty nebo cztucz slyssety, yakoz gssu bohoboynee a nabozne panny clastera <cei:placeName>Crum¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/><cei:placeName>lowskeho</cei:placeName> dwor kupyly od <cei:persName>Pawla z <cei:placeName>Krassyeyowa</cei:placeName> tu w <cei:placeName>Krassyeyowye</cei:placeName></cei:persName> se wsym czoz k tomu dworu
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>slussye, ze my <cei:persName>Gyndrzich</cei:persName> a <cei:persName>Petr</cei:persName> naprzyedpsany nemame y zadneho prawa k tomu dworu nez
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>pro obranu a opprawu, a pro lepsye bezpeczenstwye k wyerne rucze przyyalyssme sobye ten dwor
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>zapsan we dczky zemske. Protoz oba slibugewa nassy dobru wyeru beze wsye lssty gym pannam
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>na tom zbozii neprzyekazety, ale radyegy gich wyernye a snaznye branyty przyed kazdym czlowiekem,
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>ktery by gym natom prziekazel nebo przyekazety chtyel. A tey wsye wyeczy na pewnost y na swyedo¬
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>mye peczety nassye wlastnye s nassy dobru woly gssu przywyesseny k tomuto listu. A pro lepsye
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>swyedeczstwye kazalyssme slowutnym muzom <cei:persName>Przibykowy z <cei:placeName>Zymunticz</cei:placeName></cei:persName>, w tu dobu purgraby nas¬
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>syemu na <cei:placeName>Crumlowye</cei:placeName>, a <cei:persName>Woytyechowy z <cei:placeName>Krassyelowa</cei:placeName></cei:persName>, purkraby nassyemu w tu dobu na <cei:placeName>Mayd¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/><cei:placeName>steynye</cei:placeName>, aby swe peczety na swyedeczstwye przywyessyly take k tomuto lystu, genz gest dan na
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/><cei:placeName>Crumlowye</cei:placeName> <cei:date value="99999999">leta od narozenye syna Bozyeho tyssyczyeho cztrssteho prweho v nedyely ten</cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/><cei:date value="99999999">den swateho Hawla zpowyednyka Bozyeho</cei:date>.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

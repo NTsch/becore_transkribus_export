@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_1123_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_1123_H_I</cei:title><cei:idno type="Transkribus">201832</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Wanyek z <cei:placeName>Dubee</cei:placeName></cei:persName><cei:placeName/> wyznawam tyemto listem wssyem, ktoz gey czysty neb slyssyeti budu, ze sem o wsseczki wyeczi y zawadi, czoz sem myel czynyty,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>a o nyez sem byl zawadyen s naboznymy pannamy pannu <cei:persName>Agnezku z <cei:placeName>Stermberga</cei:placeName>, przieworyssy, a se wssym konwentem ot swatee Anny</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>w <cei:placeName>Starem Myestye v Prazie</cei:placeName></cei:persName>, gmenowytye o tu wes <cei:placeName>Zwanowyczie</cei:placeName>, o uroki wzebrane osskody, o pohony, o naklady, nycz po sobye nepoosta¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>wugycze, poten den o to sem o wsseczko przietelsky a dobrotywye <cei:persName>Wykerzem z <cei:placeName>Mysslyna</cei:placeName></cei:persName> smluwen, tak ze po geho smluwye wyznawam,
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>ze k tey wsy <cei:placeName>Zwanowycziom</cei:placeName> neymam zadneho prawa, oprawu, any zadnym kusem, any zadnu prziczynu, any omluwu, nez ze ta
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>wes se wssym panstwym se wssym prawem y uzytky, kterakz koly mohlybi menowany byty, newymyenicz gest sprawedlywe
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>panstwye tyech panen a conventa gich, a slybugy dobru a czystu wyeru podeczty a podwyeru zasye y zawsseczky, kterziz
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>mogy gsu nebo mogy budu, gym pannam a conventu a tomu ktoz koly otnych to zbozye w poruczenstwy aneb wuo¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>prawye, nebo sicz drzyety bude, na tom zbozy w tey wsy y tyem gich lydem neprzyekazety, skrzye sye nebo gye, ktoz mogy
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>gsu nebo promye chtye uczynyty y nechaty, zadnu przyczynu any nechuty zgyewnye nebo taynye wyeky wyekoma.
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>Paklybich proty tomu, czo kdy uczynyl a gym skrzye sye nebo skrzie swe sluzebnyky prziekazil, na tey wsy a tyem
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>lydem tehdy prossy urozenich panow <cei:persName>Ondrzyegye starssyeho z <cei:placeName>Dubee</cei:placeName>, sedyenym na <cei:placeName>Zlenyczich</cei:placeName></cei:persName>, a <cei:persName>Gyndrzicha z <cei:placeName>Dubee</cei:placeName></cei:persName><cei:placeName/>,
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:persName>sedyenym na <cei:placeName>Humpolczi</cei:placeName></cei:persName>, aby kdiz kolibich proty tomu uczynil, aby na mye daly k gich przyeworzissye a conventa
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>swate Anny prosbye, kdyz toho pozadagy lysti na wyznanye a na swyedomye pod swymy peczetmy, ze sem smluwy
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>te ugednane nezdrzal, a proto ztratyl czest a wyeru, a na tu smluwu wssyeczki sskody, pohony, uroczy, wzebrany
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>y naklady gsu mezi namy mynuly a propussczeny. A toho na swyedomye swu wlastny peczet k tomuto lystu
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>prziwyesyl gsem, a k mey prosbye na swyedomye peczety swrchupsanych panow <cei:persName>Ondrziegyewa</cei:persName> a <cei:persName>Gyn¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/><cei:persName>drzichowa</cei:persName> k tomuto lystu przywyesseny gsu. A ten gest dan v <cei:placeName>Prazie</cei:placeName> <cei:date value="99999999">leta ot narozenye Bozyeho tyssycziho</cei:date>
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/><cei:date value="99999999">cztyrzisteho cztwrteho, tu sobotu po swyetyem Pawle nawyeru obraczenye</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

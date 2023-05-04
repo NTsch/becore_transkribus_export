@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_1554_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_1554_H_I</cei:title><cei:idno type="Transkribus">192233</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Dywyss z <cei:placeName>Wescze</cei:placeName></cei:persName><cei:placeName/> wyznawam tyemto listem tyem wssyem, ktoz gey budu czysty nebo cztucze slyssety, ze z dobrym rozmyslem a s mych przatel radu dyedynu swu
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>v <cei:placeName>Wesczy</cei:placeName> ssest a sto krossow platu rocznyeho s dworem, s dyedynu, s lukamy, s lessi, s potoky, s obczemy a s tiem se wssiim, czoz k tomu przyslussye, pro dalsem urozenemu
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>panu panu <cei:persName>Gindrzychowy z <cei:placeName>Rosmberka</cei:placeName></cei:persName> y geho dyedyczom za pyetmezczyetma kop a pyet krossow a ty penyeze od drzewerzeczeneho pana wzalsem wsseczky uplnye
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>penyezy hotowymy a tyech dyedyn gemusem postupyl ku prawemu dyedyczstwii s plniim panstwym nycz sobye tu zadneho prawa nezuostawuge any swiim dye¬
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>dyczom, y slybugy sswymy rukoymyemy y zprawczemy s <cei:persName>Mykssykem z<cei:placeName>Wescze</cei:placeName></cei:persName>, otczem swiim, s <cei:persName>Gyndrzychem rzeczenym Kossowecz z <cei:placeName>Kossowa</cei:placeName></cei:persName><cei:placeName/>, s <cei:persName>Mykssiikem z <cei:placeName>Chodnye</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l8" n="N006"/>s <cei:persName>Waczlawem z <cei:placeName>Chodssye</cei:placeName></cei:persName><cei:placeName/>, a my drzewerzeczeny <cei:persName>Mykssiik</cei:persName> <cei:persName>Gyndrzych</cei:persName> <cei:persName>Mykssiik</cei:persName> <cei:persName>Waczlaw</cei:persName> slybylysme y slybugem za drzewerzeczeneho <cei:persName>Dywysse</cei:persName> y s nym, wssyczkny
+                    <cei:lb facs="#facs_1_r1l9" n="N007"/>gednu ruku spolecznu nerozdyelnye, swu wyeru, bezewssye zle lsty, drzewerzeczene dyedyny zprawyty a oswobodyty zemskym prawem przed kazdym czlowiekem,
+                    <cei:lb facs="#facs_1_r1l10" n="N008"/>kterehozby kolywyek stawu byl, a zwlasstye przedewssemy wyeny y przedewssemy syrotky y przedewssemy zapysy krzesstyanskymy y zydowskymy, yakoz zemye
+                    <cei:lb facs="#facs_1_r1l11" n="N009"/>za prawo ma, a ty dyedyny we dsky zemske mame wlozyty a dobre zprawcze postawyty na prwnye suche dny, paklybychme nemohly beze lsty na prwe suche
+                    <cei:lb facs="#facs_1_r1l12" n="N010"/>dny, tehdy na druhe, apaklybychom nemohly na druhe, tehdy konecznye na trzetye bezewssech omluw. Paklybychom toho neuczynyly, gehoz toho Buoh neday,
+                    <cei:lb facs="#facs_1_r1l13" n="N011"/>zebychom drzewerzeczenych dyedyn zprawyty a oswbodyty nemohly, tehdy mame a slybylysme na swych na swobodnych dyedynach a na tak dobrze ossed¬
+                    <cei:lb facs="#facs_1_r1l14" n="N012"/>lych tolykez platu postupyty a trzetynu wyecze, a ty dyedyny zprawyty aoswobodyty. Paklybychom toho neuczynyly, gehoz toho Buoh neday, zebychme
+                    <cei:lb facs="#facs_1_r1l15" n="N013"/>drzewerzeczenych dyedyn nezprawyly a neodswobodyly, aneb we dsky zemske newlozyly, yakoz swrchu psano gest, tehdy mame a slybylysme dwa znas,
+                    <cei:lb facs="#facs_1_r1l16" n="N014"/>kteraz budeta napomenuta, kazdy se dwyema konyoma a s gednyem pacholkem geden druhym se newymluwage wgety do myesta do <cei:placeName>Krumplowa</cei:placeName> ku poczty¬
+                    <cei:lb facs="#facs_1_r1l17" n="N015"/>wemu hospodarzy, kdezby nam bylo ukazano, vprawe a wuobykle lezenye, a tu, kdyzby bylo po cztrnadsty dnech po napomenuty, lezme my neb nelezme,
+                    <cei:lb facs="#facs_1_r1l18" n="N016"/>tehdy drzewerzeczeny pan ma plnu mocz wzyety drzewerzeczene penyeze pyetmezczyetma kop a pyet krossow a trzyetynu wyecze mezy zydy nebo
+                    <cei:lb facs="#facs_1_r1l19" n="N017"/>mezi krzestyany na nassy na wssech sskodu y na nassye zbozye a my nemame nayzadne prawo wygety, dokudbychom drzewerzeczenych penyez nezaplatyly
+                    <cei:lb facs="#facs_1_r1l20" n="N018"/>gystyny y se wssemy sskodamy, kterezby wzely pronassye neplnyenye, potom gezdyecz nebo posly sselycz neb kterakz kolywyek gesstoby mohly dobrym swye¬
+                    <cei:lb facs="#facs_1_r1l21" n="N019"/>domym ukazaty, to wsseczko mame zaplatyty penyezy hotowymy. Abylolyby, zeby ktery z nas rukoymy s tohoto swyeta sssel, tehdy my zuostaly mame
+                    <cei:lb facs="#facs_1_r1l22" n="N020"/>aslybylysme wnayblyssyem myessyeczy od smrty geho gyneho k sobye za rukoymy postawyty tak dobreho a tak mowyteho, a gyny lyst tymyz slowy obno¬
+                    <cei:lb facs="#facs_1_r1l23" n="N021"/>wyty, a to poddrzewerzeczenym lezenym. Aktozbykolywyek tento lyst myel sepane <cei:persName>Gyndrzychowu dobru woly z <cei:placeName>Rosmberka</cei:placeName></cei:persName><cei:placeName/>, ten ma tez prawo yako on same. Na
+                    <cei:lb facs="#facs_1_r1l24" n="N022"/>kterez wyeczssye potwrzenye a bezpeczenstwye nassye peczety przywyesylysme s nassiim dobrym wyedomym k tomuto lystu, genz gest dan a psan na
+                    <cei:lb facs="#facs_1_r1l25" n="N023"/><cei:placeName>Krumplowye</cei:placeName> <cei:date value="99999999">letha od narozenye Bozyeho tyssycz cztyrsteho cztwrteho tu nedyely przed swatym Erasymem</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

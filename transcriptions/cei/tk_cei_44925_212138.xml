@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1599_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1599_H_I</cei:title><cei:idno type="Transkribus">212138</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/><cei:persName>Ladislaus, Dei gracia <cei:placeName>Hungarie</cei:placeName>, <cei:placeName>Bohemie</cei:placeName>, <cei:placeName>Dalmacie</cei:placeName>, <cei:placeName>Croacie</cei:placeName>, <cei:placeName>Rame</cei:placeName>, <cei:placeName>Seruie</cei:placeName>, <cei:placeName>Gallicie</cei:placeName>, <cei:placeName>Lodomerie</cei:placeName>, <cei:placeName>Cumanie</cei:placeName> <cei:placeName>Bulgarieque</cei:placeName> rex, <cei:placeName>Austrie</cei:placeName> et <cei:placeName>Luczemburgensis</cei:placeName> dux necnon </cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/><cei:persName><cei:placeName>Moravie</cei:placeName> et <cei:placeName>Lusacie</cei:placeName> marchio</cei:persName> et cetera, notumfacimus universis maiestati nostre fuisse humiliter supplicatum nomine honeste <cei:persName>Dorothee</cei:persName>, relicte <cei:persName>Johannis Schoffrichter</cei:persName>, devote nostre dilecte, quotiens desolita 
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>benignitate nostra dignaremur sibi et suis heredibus confirmare Iudicatum civitatis nostre <cei:placeName>Hawelswerde</cei:placeName> cum omnibus fructibus, redditibus, censibus, proventibus, emolimentis et pertinenciis universis dicti 
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>iudicatus, quamadmodum a serenissimo <cei:persName>rege Iohanne</cei:persName>, abavo nostro carissimo, iudicatus predictus olim <cei:persName>Iacobo Rukeri</cei:persName> concessus et datus fuit, cum ipse iudicatus adeam iuste et legittime devenerit et 
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>abipsa adpresens sine contradictione pacifice possideatur, concessionis vero facte dicto <cei:persName>Iacobo</cei:persName> tenor sequitur in hec verba: <cei:persName>Iohannes, Dei gracia <cei:placeName>Bohemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> rex ac <cei:placeName>Luczemburgensis</cei:placeName> comes</cei:persName>, et sim cunctos no¬
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>stre dictioni subiectos munificencie nostre dexterum libernet extendimus liberalem expedit, eciam et regiam decet excellenciam ut eos preveniamus prerogativa specialis gracie et favoris, qui nobis ceteris 
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>intimius obsecundant, eapropter scire volumus tam presentis etatis homines, quam future, quod considerantes grata et multiplicia servicia fidelis nostri <cei:persName>Jacobi Rukeri, judicis in <cei:placeName>Habelswerde</cei:placeName></cei:persName>, quibus 
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>nostre celsitudini in eo, quod civitatem nostram <cei:placeName>Habelswerde</cei:placeName> muro circumdedit quasi suis laboribus sumptibus et expensis se gratum reddidit et acceptum, et volentes ipsum proinde tanquam bene 
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>meritum gracia prosequi speciali sibi judicium predicte civitatis nostre <cei:placeName>Habelswerde</cei:placeName> cum duobus molendinis, super aquas <cei:placeName>Nizam</cei:placeName> et <cei:placeName>Wistricz</cei:placeName> stantibus et subipsa nostra civitate sitis, novem ro¬
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>tas habentibus cum una rota, que walkrad dicitur, que sunt abomni servicio libera, cum sexto scampno, in quo panes carnes et calcei venduntur, et cum stuba balneari ipsius civitatis nostre de 
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>liberalitate regia damus et concedimus per eum et heredes suos habendum tenendum et iure hereditario ac imperpetuum possidendum, superaddentes eciam admaioris nostri favoris et gracie 
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>cumulum in <cei:placeName>Dietrichsbach</cei:placeName>, in <cei:placeName>Wistricz</cei:placeName> villis judicia, molendinum ibidem in <cei:placeName>Wistricz</cei:placeName>, unam rotam habens, quam similiter liberam esse volumus villam, que <cei:placeName>Verlornwasser</cei:placeName> wlgariter dicitur, 
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>cum judicio ibidem, pascua pecorum, ante ipsam civitatem nostram <cei:placeName>Habelswerde</cei:placeName> sita, que sua comparavit pecunia, piscaciones et aucupaciones cum omni iure et utilitate ac suis pertinenciis universis, 
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>volentes, quod omnia premisa, adipsum judicium et cum ipso adquod huiusmodi semper inantea pertinere decernimus, <cei:persName>Jacobus</cei:persName> ipse et successores sui predicti iure hereditario tenere perpetuo debeant 
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>et habere sic, quod et ipse <cei:persName>Jacobus</cei:persName> et post eum heredes sui depredicto judicio et omnibus premissis et pertinenciis suis nobis heredibus et successoribus nostris regibus <cei:placeName>Bohemie</cei:placeName> debita et consueta servicia, 
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>que de hiis iure exhiberi consueverunt, prompcius exhibeant et impendant curiam preterea, quam ibidem <cei:persName>Jacobus</cei:persName> in predicta civitate nostra edificavit et sua firmavit pecunia proconservacione 
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>et maiori fortitudine eiusdem civitatis nostre, eum et predictos heredes suos predictis modo et iure similiter volumus possidere. In cuius rei testimonium presentes litteras fieri et sigillis maiestatis 
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/>nostre iussimus communiri. Datum in <cei:placeName>Numburga super Albea</cei:placeName> IIII nonis julii anno domini millesimo trecentesimo decimonouo, regnorum vero nostrorum anno nono. Nos ipsius precibus 
+                    <cei:lb facs="#facs_1_r1l20" n="N019"/>benigne annuentes non per errorem aut improvide, sed deliberate et cum sano consilio nostrorum procerum et fidelium decerta nostra sciencia auctoritate regia <cei:placeName>Bohemie</cei:placeName> judicatum predictum, quem ad
+                    <cei:lb facs="#facs_1_r1l21" n="N020"/>dictam <cei:persName>Dorotheam</cei:persName> iuste et legittime devenisse comperimus, ipsi <cei:persName>Dorothee</cei:persName> et suis heredibus approbamus, ratificamus et confirmamus cum omnibus fructibus, redditibus, censibus, proventibus emolimen¬
+                    <cei:lb facs="#facs_1_r1l22" n="N021"/>tis et universis ipsius judicatus pertinenciis, quemadmodum a prefato serenissimo <cei:persName>rege Johanne</cei:persName> <cei:persName>predicto Jacobo</cei:persName> judicatum predictum concessum fuisse littere supra inserte demonstrant, quas in omnibus 
+                    <cei:lb facs="#facs_1_r1l23" n="N022"/>punctis, articulis, clausulis et sentenciis suis ratas et firmas esse et perpetuam inviolabilis roboris firmitatem obtinere decernimus atque mandamus, volumus tamen quindicta <cei:persName>Dorothea</cei:persName> et sui heredes 
+                    <cei:lb facs="#facs_1_r1l25" n="N023"/>nobis et nostris successoribus, regibus <cei:placeName>Bohemie</cei:placeName>, debita et consueta servicia, qua de predictis iure exhiberi consueverunt prompte exhibeant atque impendant. Presencium subappensione nostri rega¬
+                    <cei:lb facs="#facs_1_r1l26" n="N024"/>lis sigilli testimonio litterarum. Datum <cei:placeName>Wratislavie</cei:placeName> <cei:date value="99999999">die decima mensis januarii anno Domini millesimoquadringentesimoquinquagesimoquinto, regnorum nostrorum anno <cei:placeName>Hungarie</cei:placeName></cei:date><cei:placeName/>
+                    <cei:lb facs="#facs_1_r1l27" n="N025"/><cei:date value="99999999">et cetera, quintodecimo <cei:placeName>Bohemie</cei:placeName> vero secundo</cei:date>.
+                    <cei:lb facs="#facs_1_r1l28" n="N026"/>Ad relacionem domini <cei:persName>Procopii de <cei:placeName>Rabenstein</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l29" n="N027"/>cancellarii, <cei:persName>Nicolaus Liscius</cei:persName> legum doctor
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1571_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1571_H_I</cei:title><cei:idno type="Transkribus">209353</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Hanussek Fferidan z <cei:placeName>Przietoky</cei:placeName></cei:persName><cei:placeName/> wyznawam tiemto listem obecznie przedewssemi, ktoz gey czisti nebo 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>cztucz slysseti budu, tak iakoz sem udielal list s peczetmi wisutymi urozenych panow pana <cei:persName>Hincze z </cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName><cei:placeName>Pirgssteyna</cei:placeName></cei:persName>, pana <cei:persName>Girzika z <cei:placeName>Cunstatu</cei:placeName></cei:persName>, pana <cei:persName>Jana z <cei:placeName>Suticz</cei:placeName></cei:persName> a slowutnych panossii <cei:persName>Miculasse z <cei:placeName>Such¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName><cei:placeName>dola</cei:placeName></cei:persName> a <cei:persName>Bazka z <cei:placeName>Nebowid</cei:placeName></cei:persName><cei:placeName/> wedle me peczeti, kterizto list swiedczii, na potwrzenie listow udielanych na 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>diediny ode mne prodane opatrnym <cei:persName>Wankowi z <cei:placeName>Czihelnicze</cei:placeName></cei:persName>, <cei:persName>Michkowi od <cei:placeName>Hory</cei:placeName></cei:persName>, <cei:persName>Zdenkowi od <cei:placeName>Hory</cei:placeName></cei:persName>, <cei:persName>Mi¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:persName>kssowi z <cei:placeName>Przietoky</cei:placeName></cei:persName>, <cei:persName>Wankowi od <cei:placeName>Holubow</cei:placeName></cei:persName>, <cei:persName>Waczlawowi s <cei:placeName>Holczmarku</cei:placeName></cei:persName>, gimzto sem gie od prodal od die¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>din dwora meho, tudiez w <cei:placeName>Przietocze</cei:placeName>, a to pod urok w prawo purkretnie, iakoz kazdy z nich nato list ma 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>zwlasstnii udielany s peczetmi dobrich lidii wedle me, zze sem w tom listu swrchugmenowanem potwrzu¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>gicziem <cei:persName>Zdenka</cei:persName> gmenowal take s urokem, a prodaw gemu k swobodstwii, protoz gei z toho napsanie tiemto 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>listem quittugi a mocznie prazna propusstiem, tak aby on tiem napsanim wniczemz honien nebyl, ani 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>mnie czo winowat platiti byl kromie toho, czoz sie gedne cztwrti dotycze, nanyz ma zwlasstii zapis, s kte¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>rez mi platiti ma ssest a puol kopy grossuow uroka rocznieho, to gest przikazdem urocze osmnadczte grossuow, 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>iakoz ten list swiedczii nato udielany. A toho na swiedomie swu sem wlastni peczet dobrowolnie prziwie¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>sil k tomuto listu. A pro lepssii gistotu prziprosilsem slowutnych panossii <cei:persName>Petra z <cei:placeName>Miekowicz</cei:placeName></cei:persName>, <cei:persName>Pertolta </cei:persName>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:persName>z <cei:placeName>Mezneho</cei:placeName></cei:persName> a <cei:persName>Jana Konika z <cei:placeName>Dluhewsy</cei:placeName></cei:persName>, aby take wedle mne a k me prosbie na swiedomie swe peczeti 
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>prziwiesili k tomuto listu, genz gest dan <cei:date value="99999999">letha od narozenie syna Bozieho tisiczieho cztyrzsteho czty¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:date value="99999999">rzidczateho a cztwrteho w pondieli przed matky Bozie zwiestowanim</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

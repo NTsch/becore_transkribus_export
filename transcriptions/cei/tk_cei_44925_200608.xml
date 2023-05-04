@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0119_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0119_H_I</cei:title><cei:idno type="Transkribus">200608</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Kazimirus, Dei gracia dux <cei:placeName>Thesschinensis</cei:placeName></cei:persName><cei:placeName/>, recognoscimus et fatemur tenore presencium universis,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>nos esse principem et vasallum magnifici domini nostri, domini <cei:persName>Johannis, <cei:placeName>Bohemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> regis illustris ac</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>comitis <cei:placeName>Lucemburgensis</cei:placeName></cei:persName>, et ab eo terram nostram <cei:placeName>Thesschynensem</cei:placeName> cum suis civitatibus et castris, videlicet
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:placeName>Thesschyn</cei:placeName> civitate cum castro, <cei:placeName>Freyenstat</cei:placeName> et <cei:placeName>Belitz</cei:placeName> civitatibus, <cei:placeName>Zchotschow</cei:placeName> et <cei:placeName>Jemnicz</cei:placeName> opidis cum
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>municionibus et <cei:placeName>Ostravia</cei:placeName> castro cum etiam villis et hominibus, vasallis et militibus ad ipsas et ad ipsa
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>spectantibus et aliis pertinenciis suis universis, in quibuscumque consistant, quas nunc habemus  et inposterum sumus
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>quocumque tytulo habituri, nostro, heredum et successorum nostrorum nomine, ducum <cei:placeName>Thesschynensium</cei:placeName>, recepisse in feo¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>dum et ab ipso tenere et possidere iure et titulo feodali volentes, quod heredes et successores nostri, duces <cei:placeName>Tesschynenses</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>predicti, iuxta litterarum continenciam, quas a predicto domino rege <cei:placeName>Bohemie</cei:placeName> super eo habemus, quandocumque predictam
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>terram nostram vacare contingerit, eam ab ipso domino nostro rege aut a suis heredibus seu successoribus,
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>regibus <cei:placeName>Bohemie</cei:placeName>, in feodo deinceps semper recipere debeant et tenere et facto sibi servande perpetuo
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>fidelitatis homagio, sicut et nos nunc spontanea et libera voluntate fecimus, ei vel eis tamquam
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>eius vel eorum princeps et vasallus sincera fide intendere debeant et parere. In cuius rei cer¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>titudinem presentis instrumenti tenorem nostri sigilli munimine duximus roborandum.
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>Datum et actum in <cei:placeName>Opavia</cei:placeName> <cei:date value="99999999">anno Domini Mo CCCo vicesimo septimo, kalendas</cei:date>
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:date value="99999999">marcii duodecimo</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

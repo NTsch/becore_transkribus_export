@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0091_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0091_H_I</cei:title><cei:idno type="Transkribus">189391</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Henricus de <cei:placeName>Waldenberch</cei:placeName></cei:persName><cei:placeName/> et <cei:persName>Albertus, burggrauius de <cei:placeName>Lyzenic</cei:placeName></cei:persName>, gener eius, presentibus recong¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>noscimus et publice prophitemur, quod illustris dominus noster dominus <cei:persName>Johannes, <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> rex,</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName><cei:placeName>Lucemburgensis </cei:placeName>comes marchieque <cei:placeName>Budissinensis</cei:placeName> dominus</cei:persName>, nos de universis debitis, in quibus nobis
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>pro omnibus et singulis serviciis, dampnis et expensis quibuscunque, que in ipsius sustinuimus
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>et fecimus obsequiis et pro quibus ipsum dominum regem usque in hodiernum diem ammonere
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>possemus verbo vel litteris, quibus exnunc renunciamus, vel aliter, quomodocunque legaliter
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>et efficaciter pro nostra expedivit voluntate, exceptis dumtaxat duobus milibus et ducentis
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>sexagenis grossorum denariorum pragensium, in quibus adhuc nobis tenetur et pro quibus nobis
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>castrum et opidum suum <cei:placeName>Budin </cei:placeName>cum uniuersis pertinenciis et juribus suis, prout in ipsius domini
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>regis litteris super eo confectis evidencius continentur, racionalibiter obligavit, de quibus quidem
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>dampnis, debitis, serviciis et expensis ipsum dominum regem quittamus et liberum
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>dicimus ac solutum. Harum nostrarum testimonio litterarum nostrorum sigillorum appendenciis munitarum.
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>Datum <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">anno Domini millesimo trecentesimo vicesimo primo, VII Idus maii</cei:date>.
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/> Registratum per <cei:persName>Ulricum</cei:persName>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

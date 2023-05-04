@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_161_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_161_H_I</cei:title><cei:idno type="Transkribus">169977</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Oldrzich ffararz chlistowsky</cei:persName> wyznawam y swiedczim tiemto listem przied kazdym obecznie, ktoz gey uzrzi
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>aneb cztucze uslyssie, ze slibugi gmenem swym y wssech ffararzow mych buduczich w <cei:placeName>Chlistowie</cei:placeName>, ze nemam,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>any mohu prziekazeti pani <cei:persName>Elzcze, pamieti bozie w <cei:placeName>Olbramowie</cei:placeName> z <cei:placeName>Chlistowa</cei:placeName></cei:persName>, na giegiem wyenie w <cei:placeName>Chlistowie</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>az doziwota giegeho nebo posmrti giegie dwadczeti kopp grossow dobrych prazskych giegim danim ma kostelu
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>w <cei:placeName>Chlistowie</cei:placeName>, totgiz mnie a wssiem ginym buduczim ffararzom buduczim, sprawedliwie przipadnuti takowie,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>abych ya y kazdy ffararz buduczy namiestek moy dwie sluzbie s pyeti kniezi na kazdy rok za ny y za giegie prziey¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>ssie s wigilgiemi naweczer a zytra ranu mssy od matky Bozie a weliku mssy zadussny rzadem a obyczegiem
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>swawnym z prosbu za dussiczky giegie przieyssych wedll y sluzil. Atiech sluzeb konanie wzdy na kazdy rok bude
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>ten tyden po swatem Gyrzi a druhe ten tyden po swatem Hawle na den k tomu spossobeny. Pakli by mnu neb
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>kterym buduczim ffararzem w tiech sluzbach ktere bylo obmesskanie a giz ty peniezi nebo plat dossel, ffararze
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>mnie neb gineho a poczet giz bratrzi tehda ten, ktoz by tento list gmiel w sswe moczi, muoz uplnie y ma ty penieze
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>neb ten plat za obmesskanie w ktere sluzbie kterezkoliwiek stawiti a na ginu poczest y okrassu kostela tu w <cei:placeName>Chli¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:placeName>stowie</cei:placeName> obratiti y dati bez odpory ffararze kazdeho. A tomu na plne swiedomie naprzied ma peczet ffararze
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>swrchupsaneho a <cei:persName>Zacharzawa z <cei:placeName>Hradisstie</cei:placeName></cei:persName>, <cei:persName>Wylemowa z <cei:placeName>Sluhowa</cei:placeName></cei:persName>, <cei:persName>Benessowa z<cei:placeName> Kydlin</cei:placeName></cei:persName> a <cei:persName>Drslawowa z <cei:placeName>Gyn¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:persName><cei:placeName>drzichowicz</cei:placeName></cei:persName> s plnym nas wssech wiedomim k tomuto listu gsu prziwiesseny, genz gest dan <cei:date value="99999999">den swateho</cei:date>
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:date value="99999999">Urbana papeze leta od narozenie Bozieho tissicz cztyrsteho a ssesteho. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

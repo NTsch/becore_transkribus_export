@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1593_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1593_H_I</cei:title><cei:idno type="Transkribus">212108</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/><cei:persName>Ladislaus, Dei gracia <cei:placeName>Hungarie</cei:placeName>, <cei:placeName>Bohemie</cei:placeName>, <cei:placeName>Dalmacie</cei:placeName>, <cei:placeName>Croacie</cei:placeName> et cetera rex, <cei:placeName>Austrie</cei:placeName> et <cei:placeName>Luczemburgensis</cei:placeName> dux marchioque</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName><cei:placeName>Moravie</cei:placeName> et cetera</cei:persName>, notumfacimus universis, quod cum per illustrem principem <cei:persName>Albertum, marchionem <cei:placeName>Branndbur</cei:placeName></cei:persName>¬
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName><cei:placeName>gensem</cei:placeName> et burggrauium <cei:placeName>Nüremburgensem</cei:placeName></cei:persName>, consangwineum nostrum carissimum, concordia facta sit inter illustrem
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>principem <cei:persName>Fridericum, <cei:placeName>Slesie</cei:placeName> et <cei:placeName>Brigensem</cei:placeName> ducem</cei:persName>, ac illustrem <cei:persName>Hedwigem</cei:persName>, ipsius <cei:persName>ducis Friderici</cei:persName> matrem, fidelem
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>et devotum nostros dilectos, ex una et nobilem ac magnificum <cei:persName>Georgium de <cei:placeName>Cunstat</cei:placeName> de <cei:placeName>Podiebrad</cei:placeName></cei:persName>, curie nostre
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>magistrum, fidelem nostrum dilectum, partibus ex altera super matrimonio contrahendo inter ipsum <cei:persName>ducem Fridericum</cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>et nobilem <cei:persName>Zdenam</cei:persName>, dicti <cei:persName>Georgii</cei:persName> filiam, nos provide mature ac deliberate et cum sano consilio nostrorum procerum
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>ac fidelium de certa nostra sciencia auctoritate <cei:placeName>regia Bohemie</cei:placeName> et ut directus ac supremus feudorum dominus dictam
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>concordiam approbamus, acceptamus, ratificamus nostroque assensu et auctoritate roboramus et confirmamus cum
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>omnibus clausulis, punctis, articulis et sentenciis suis, prout in litteris prefati marchionis super dicta concordia factis
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>continetur, ipsamque decernimus obtinere semper plenum firmum et inviolabile robur. Presencium sub nostri 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>regalis sigilli appensione testimonio litterarum. Datum <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">viczesima die mensis maii anno Domini mil¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/><cei:date value="99999999">lesimoquadringentesimoquinquagesimoquarto, regnorum nostrorum anno <cei:placeName>Hungarie</cei:placeName> et cetera quartodecimo,</cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/><cei:date value="99999999"><cei:placeName>Bohemie</cei:placeName> vero primo</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1568708613011_63">
+              
+              
+                    <cei:lb facs="#facs_1_line_1568708623513_66" n="N001"/>Ad mandatum domini regis
+                    <cei:lb facs="#facs_1_line_1568708632689_71" n="N002"/><cei:persName>Procopius de <cei:placeName>Rabenstein</cei:placeName>, cancellarius</cei:persName>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1567_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1567_H_I</cei:title><cei:idno type="Transkribus">208962</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Ja <cei:persName>Gindrzich z <cei:placeName>Prudicz</cei:placeName></cei:persName><cei:placeName/> y swimy erbi wiznawam tyemto listem obecznie przedewssemy, ktoz gey uzrzi neb 
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>cztucz uslissye, ze sem umluwen dobrowolnie urozenym panem panem <cei:persName>Hynczi z <cei:placeName>Pirgsstaina</cei:placeName></cei:persName> a <cei:persName>Zigmundem </cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/><cei:persName>Berankem z <cei:placeName>Petrowcze</cei:placeName></cei:persName> a <cei:persName>Waczlawem z <cei:placeName>Tulessicz</cei:placeName></cei:persName> a <cei:persName>Frenczlem z <cei:placeName>Czrweni Lhoty</cei:placeName></cei:persName> oty wsseczki wieczi, kerez sem 
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>miel prawo k <cei:placeName>Nowemu Miestu</cei:placeName> po swei zenie nebo magi erbowe ato ja, <cei:persName>Gindrzich</cei:persName> swrchupsany, y swymy erbi 
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>slibugi swu dobru wieru bezewssie zle lsty cztnye a wiernie zdrzeti ty wsseczni umluwy, kerez swrchupsany 
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>stogie, atake ja, <cei:persName>Gindrzich</cei:persName>, i swymy erbi slibugemy, kdizbi dski zemske w <cei:placeName>Brnie</cei:placeName> otewrzini byli, slibugemy 
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>swu dobru a czistu wieru z desk zemskich wiloziti a naprniem snyemu neb konecznie na druhem, acz bich ja, 
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/><cei:persName>Gindrzich</cei:persName>, ktere prawo miel poswey zenie neb mogi erbowe, atake ya, <cei:persName>Gindrzich</cei:persName> swrchupsany, y swymi erbi 
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>slibugi podeczti y podwieru urozenemu panu panu <cei:persName>Pertholthowy z <cei:placeName>Lippe</cei:placeName>, naiwissymu marssalku <cei:placeName>Kralowstwye </cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/><cei:persName><cei:placeName>czeskeho</cei:placeName></cei:persName> aneb bratranczi geho panu <cei:persName>Gindrzichowy, tudiez z <cei:placeName>Lippe</cei:placeName></cei:persName>, y gegich erbuom nato zbozie wiecznie ne¬
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>sahati nyzadnim obiczegem any prawem, agestli zebichom kerim obiczegem nebo prawem sahli nato zbozie, tehdy 
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>bichom uczinili proti swei czti awierzie, a ktomu naswiedomi swu sem wlastny peczet prziwiesil ktomuto listu. A pro¬
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>lepssy gistotu a swiedomi prziprosil gsem urozenich statecznich a slowuthnich pannow pana <cei:persName>Hyncze z <cei:placeName>Pirg¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/><cei:persName><cei:placeName>sstaina</cei:placeName></cei:persName>, pana <cei:persName>Jana z <cei:placeName>Russynowa</cei:placeName> a na <cei:placeName>Lichtenburcze</cei:placeName></cei:persName>, pana <cei:persName>Mikulasse z <cei:placeName>Lipi</cei:placeName> a na <cei:placeName>Lippniczi</cei:placeName></cei:persName>, <cei:persName>Jana Moczihuba z <cei:placeName>Kra¬</cei:placeName></cei:persName><cei:placeName/>
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/><cei:persName><cei:placeName>lowicz</cei:placeName></cei:persName>, <cei:persName>Hroznati z <cei:placeName>Okruhlicze</cei:placeName></cei:persName><cei:placeName/> a consselskeho z <cei:placeName>Perknowa</cei:placeName>, ze su kswiedomy swe wlastny peczeti wedle mne, 
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/><cei:persName>Gindrzicha</cei:persName> nadepsaneho, prziwiesili ktomuto listu, genz gest dan a psan <cei:date value="99999999">letha po narozeni syna Boziho tisicz </cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/><cei:date value="99999999">sstirista sstiridczateho druheho letha wten ctwrtek przed swathim Gylgim. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

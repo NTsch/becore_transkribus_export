@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RM_2468_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RM_2468_H_I</cei:title><cei:idno type="Transkribus">224034</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Hroznata z <cei:placeName>Bukownika</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Albera</cei:persName> odtudz, syn geho wlastny, wyznawamy tyemto listem obecznye prziede wssemy,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>ze sme prodaly y prodawamy moczi tohoto listu s dobrym rozmisslem y swych przatel radu we wssy w <cei:placeName>Klad¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:placeName>rubczich</cei:placeName> poldruhe kopy platu rocznyeho a poltrzetyeho grossye rozdyelnye na dobrich kmetich y na gich
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>wyecznye buduczich, na <cei:persName>Hawlowy</cei:persName> na swateho Gyrzye polkopy a dwa grossye a na swateho Hawla polkopy
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>a trzy grossye, a na <cei:persName>Przibikowy</cei:persName> na swateho Gyrzie X grossyew a na swaty Hawel XVII ½ g a nicz wiecz,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>po gedenadczty kopach kopa platu, tak za kazdy gross grossow gedenadczt, pocztywym a zakonnym muzom, knyezy
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>przieworowy y wssemu conventu domu <cei:placeName>strakoniczkemu</cei:placeName>. A ten plat su nam gyz hotowymy penyezy zaplatylly.
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>A bernye zemska, kdyzby bylla, tu <cei:persName>Hroznata</cei:persName> swym synem swrchupsanym magy na tyech lidech wzyety podle
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>tyech hanfestow, yakoz ony gye magy, a wynny, kdyzby sye czo ty lide dopustylly, magy <cei:persName>Hroznata</cei:persName> a syn geho
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>podle rady knyezie przieworowy a conventske bratry a gynak nicz. A ten gisti plat mame y slibugem
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>na prwnye na druhe a na trzetye konecznye we dsky zemske wlozyty y zprawyty y zprawcze zastawyty slowut
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>nemu panossy <cei:persName>Rachaczowy z <cei:placeName>Dluhe wssy</cei:placeName>, sedyenym we <cei:placeName>Lhoty</cei:placeName></cei:persName>, a tak aby <cei:persName>Rachacz</cei:persName> prziedepsany po smrty <cei:persName>Hroznaty</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:persName>Albery</cei:persName> tez prawuo bude myety yako my. Paklibychom toho platu we dsky zemske newlozylly a geden
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>z nas byl od nassych wyerzytellow napomanut, ma sam druhy s gednyem pacholkem a se dwyema konyema
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>wgety do <cei:placeName>Strakonicz</cei:placeName>, do domu cztneho hospodarzye, tu kdezby nem byllo ukazano, a tu tak dluho lezety, dokudz
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>bichom we dsky newlozylly y nezprawylly toho platu przied kazdym zywym czlowiekem, yakoz <cei:placeName>zemye</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:placeName>Czeska</cei:placeName> za prawuo ma. A tomu na swiedomye prossylissme slowutnych panossy <cei:persName>Rachacze z <cei:placeName>Dluhe</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/><cei:persName><cei:placeName>wssy</cei:placeName>, sedyenym we <cei:placeName>Lhotye</cei:placeName></cei:persName>, <cei:persName>Jana Kotztzie z <cei:placeName>Dobrssye</cei:placeName>, sedyenym na <cei:placeName>Benessowye Horzie</cei:placeName></cei:persName>, a <cei:persName>Wylle¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/><cei:persName>ma ze <cei:placeName>Rziebmysslicz</cei:placeName></cei:persName>, ze su swe peczeti na swiedomye podle nass przywyessylly. Dan w <cei:placeName>Strako¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/><cei:placeName>niczych</cei:placeName> l<cei:date value="99999999">eta od Narozenye Bozieho pocztrnadczty stech letech leta bezgednoho dwadczateho ten</cei:date>
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/><cei:date value="99999999">utery przied swatu Skolastyku</cei:date> et cetera. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

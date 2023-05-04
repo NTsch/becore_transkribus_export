@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1631_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1631_H_I</cei:title><cei:idno type="Transkribus">212352</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/><cei:persName>Georgius, Dei gracia <cei:placeName>Bohemie</cei:placeName> rex, <cei:placeName>Moravie</cei:placeName> marchio, Lucemburgensis et Slesie dux ac Lusacie marchio</cei:persName>, notumfacimus univer¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>sis, quod constitutus in presencia nostre maiestatis strenuus <cei:persName>Nicolaus de <cei:placeName>Lobkowicz</cei:placeName></cei:persName>, consiliarius et fidelis noster dilectus, exposuit esse 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>quosdam montes castro suo <cei:placeName>Hassenstein</cei:placeName> vicinos auri et argenti venis uberes et refertos, in quibus nonulli artis illius auidi operas suas impen¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>dere pro auro argentoque legendo cupiunt, nobis igitur dictus <cei:persName>Nicolaus</cei:persName> humiliter supplicavit, quotiens ex benignitate nostra regia intuitu eciam fidelium 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>serviciorum suorum atque perpensa plurima exhiis regni nostri commoditate sibi et filio suo <cei:persName>Nicolao</cei:persName> addies duntaxat vite illorum omne ius nobis in pre¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>dictis montibus competens in distancia trium milliarium circum castrum iamdictum per girum dare dignaremur, nos dicti <cei:persName>Nicolai</cei:persName> erga nos le¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>galitatem fideliaque obsequia experti omne ius nostrum, quod urbura dicitur, nobis in auri et argenti fodinis dictorum moncium castro <cei:placeName>Hassenstein</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>per distanciam trium milliarium undiquaque circumiacencium competens non per errorem aut improvide, sed sano procerum et fidelium nostrorum acceden¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>te consilio de certa nostra sciencia auctoritate regia eidem <cei:persName>Nicolao</cei:persName> et <cei:persName>filio suo Nicolao</cei:persName> usque addies vite ipsorum duntaxat damus et concedimus subomni 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>eo iure statutis privilegiis et libertatibus, quibus magistri moncium nostrorum in <cei:placeName>Montibus Cuthnis</cei:placeName> utuntur, fruuntur et gaudent, mandamus igitur 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>universis officialibus nostris et signanter subcamerario regni nostri <cei:placeName>Bohemie</cei:placeName> et magistro monete <cei:placeName>Moncium Cuthne</cei:placeName>, ne dictum <cei:persName>Nicolaum</cei:persName> et filium eius 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>in hac gracia quoquomodo impediant aut perquempiam in executione officii sui et operarios ad opus huius pereum deputando molestent, sed pocius 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>ad honorem nostre maiestatis et regni incrementum defendant, auxilio sint et favori. Presencium sub appensione nostri regalis sigilli testimonio litterarum. 
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>Datum <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">die decimaseptima maii anno Domini millesimoquadringentesimo quinquagesimonono regni nostri anno secundo</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573575867038_513">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573575873756_516" n="N001"/>Ad relacionem domini <cei:persName>Procopii</cei:persName>
+                    <cei:lb facs="#facs_1_line_1573575877988_521" n="N002"/><cei:persName>de <cei:placeName>Rabenstein</cei:placeName>, cancellarii</cei:persName>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

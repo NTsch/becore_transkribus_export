@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_149_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_149_H_I</cei:title><cei:idno type="Transkribus">169976</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>A racz wedyety, zet gest bratr twoy se mnu mluwil a tuze toho welmy na crale y naty na
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>wssieczky, kdoz gyemu to radye, ze stogy o gieho przyrozene dyedycztwyie, o <cei:placeName>morawsku semy</cei:placeName>, gesto
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>nayn ma spastzy po twe smrty a prawye ze mu wskazal, aby o tho nestal a spomenul na tho,
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>ze mu wyernye sluzy. Pakliby ten trh stobu skonal a o tho stal a nedada giemu gieho wyerne
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>sluzby pozyty, tehdy by gieho dele nechtiel byty. Skonaliby ten trh stobu a chtielby gynemu sluzyty
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>a tomu by chtiel tak wyernye sluzyty iako krali. A tak prawy, ze poslal do gieho rady list, kdoz by to
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>radyl krali, aby stal o gieho dyedicztwie, ze by ten zle a newyernye radyl a prawy, ze to dobrze wye,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>kdoz o tho stogy a prawil my, ze by myeli swidnyczene przigyety do <cei:placeName>Prahy</cei:placeName> a tobie slibyty a on gye
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>pak wskazal semannom y mistuom, aby neslibowali, ze gest tw bratr moy neprzietel moy.
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>Pakliby slibili, ze gim odpowieda, ze gim chcze sskodyty iako swim neprzateluom, kdyzby tobie slibili,
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>tut my gye rzekl, ze po tomuto wskrznye starssie semene nechtye gyetty do <cei:placeName>Prahy</cei:placeName>, nez mlade
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>semany wyslali a <cei:persName>Pretslawa</cei:persName> syna r za naystarssiho a ty zadne moczy nemagy nicz skonaty.
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>A take my gye prawil, ze mu kral wssieczky wyeczy wskazal, czo gye mezy nym a mezy tebu a
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>mezy pany, a ze sye gyemu zda, ze przieliss chczete krale przetysknuty ty a pany we wsyech gieho
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>prawiech a we wssiech gieho wyecziech, gesto by bilo krali nepoczestne uczinity a tyem wssiem,
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>kderzi gsu w gieho radye. A ya sem giemu swu wssiczku radu dal, poslal napsanu na wssieczky
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>wyeczy na kazdy kus zwlascze a wskazal sem giemu, budeli to czinity smnu radu, tehdy giemu
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>chczy pomahaty y s tyemy se wssiemy przateli y kohoz budu moczy dobyty donaz mne stawa y mich
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>przatel a wskazal sem gieho radye, kdozby mu gme radil nez gieho poczestne, ze by pro kdery
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>strach ze by gyemu zle a newyernye radil. A samemu sem ya wskazal, aby sye nedal na gynu radu
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>przewestzy, nez czoz ya giemu radim a ty gesto mu wyernye sluzye a ucziniliby czo gineho nez
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>poczestne, mohlby radyegy umrzyety, nez by sye strachem wecz dal umluwyty a na tho aby pomnyel,
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>ze tyech malo panuow, gesto by tuzye proty nyemu stali a take aby to pomnyel, ze ma penyes
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>dosty a ze kazdy sprawedlny czlowyek podle nyeho ostane y obecz wssieczka pro gieho prawdu
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>a swu radu kral aby knyemu poslal, komuz on wyerzy, tomu chcze uplnyegy rozprawyety a ponyem
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>wskazaty, ato wssieczko dobrze ohledaigye pomisl na swe dobre a nam wskaz czeho sye mame
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/>przigyety a pro Buoh racz na tho pilnye pomislity, aby pany wzdy s kralem smluwil a sam sye
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>tot gye twe wssiczko dobre y nassie azwiemli czo gineho, tot dam twe milosty wedyety. Take racz
+                    <cei:lb facs="#facs_1_line_1565876582568_318" n="N029"/>wyedyety, zet bratr twoy welmy semy strawu huby a lezyt nynyo okolo swi <cei:placeName>Slawkowa</cei:placeName>.
+                    <cei:lb facs="#facs_1_line_1565876737291_367" n="N030"/>Take racz wedyety, zet bratr twoy tak prawy, czost by bil twich listuow nezdrzal az do siehoz
+                    <cei:lb facs="#facs_1_line_1565876777955_374" n="N031"/>myesta, aby mu odpustyl a take czoz by bil sskod uczinil w semy az do siehoz myesta, ty take aby
+                    <cei:lb facs="#facs_1_line_1565876805706_380" n="N032"/>mu bili odpuszeny. A on take nechcze sskody staty, czoz gye gich wzal a gestli ze sye snym smluwiss,
+                    <cei:lb facs="#facs_1_line_1565876849546_387" n="N033"/>tehdit chcze listy rad drzety a ty gyemu a nechcze wyecze w semy sskodyty, kdyz sye smluwyty
+                    <cei:lb facs="#facs_1_line_1565876873171_393" n="N034"/>a myenissl snym o <cei:placeName>Luczemburg</cei:placeName> skonaty, tehdy sobie tey moczy od krale dobud.
+                    <cei:lb facs="#facs_1_line_1565876896843_399" n="N035"/><cei:persName>Echard de <cei:placeName>Cunstat</cei:placeName></cei:persName><cei:placeName> </cei:placeName>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

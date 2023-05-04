@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1494_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1494_H_I</cei:title><cei:idno type="Transkribus">208820</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/><cei:persName>Sigismundus, Dei gracia <cei:placeName>Romanorum</cei:placeName> rex semper augustus ac <cei:placeName>Hungarie</cei:placeName>, <cei:placeName>Boemie</cei:placeName>, <cei:placeName>Dalmacie</cei:placeName>, <cei:placeName>Croacie</cei:placeName></cei:persName> et cetera, notum facimus
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>tenore presencium universis, quod inspectis fidelibus obsequiis nobis per nobilem <cei:persName>Henricum de <cei:placeName>Lyppa</cei:placeName> alias de <cei:placeName>Tempelsteyn</cei:placeName></cei:persName><cei:placeName/>,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>marescallum nostrum et fidelem dilectum, feruenter exhibitis et inantea feruentius exhibendis sibi non per errorem aut impro¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>vide, sed animo deliberato et de certa nostra sciencia, unionem seu congressum vulgariter dictum spolek cum orphanis
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>nobilis quondam <cei:persName>Hinkonis de <cei:placeName>Lethowicz</cei:placeName></cei:persName> in omnibus bonis, <cei:placeName>Lethowicz</cei:placeName> ac castro necnon municione ac opido, censibus,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>villis, pratis, silvis, piscinis, pascuis, molendinis et aliis pertinenciis universis per ipsum <cei:persName>Henkonem</cei:persName> post ipsius mortem
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>legittime derelictis, dedimus et commisimus, damus et committimus habenda, tenenda et legittime possidenda, quousque
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>ipsi orphani pervenerint ad etatem debitam et consuetam, volumus tamen, quod bona ipsorum orphanorum non minuat, sed
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>iuxta sue fidelitatis industriam augeat, ut de gubernacione ipsorum orphanorum et bonorum salubri possit circa resignacionem
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>in manus dictorum orphanorum merito commendari, dantes eciam de certa nostra sciencia eidem <cei:persName>Henrico de <cei:placeName>Lippa</cei:placeName></cei:persName><cei:placeName/> et suis
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>heredibus omne jus, quod nobis adpresens competit seu posset competere in bonis <cei:placeName>Lethowicz</cei:placeName> et aliis bonis orphanorum
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>premissis, si, antequam ad etatem maturam pervenerint, decederent et ad nos iuxta ritum marchionatus <cei:placeName>Moravie</cei:placeName> devol¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>veretur a jure, salvis tamen semper juribus quorumlibet aliorum. Presencium sub nostre maiestatis sigilli appensione
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>testimonio litterarum. Datum in <cei:placeName>Enss</cei:placeName> <cei:date value="99999999">feria tercia post festum sancte Margarethe anno Domini millesimo quadringentesimo vi¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/><cei:date value="99999999">gesimosecundo, regnorum nostrorum anno <cei:placeName>Hungarie</cei:placeName> et cetera XXXVI, romanorum duodecimo, <cei:placeName>Boemie</cei:placeName> vero secund</cei:date>o.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1574677549917_166">
+              
+              
+                    <cei:lb facs="#facs_1_line_1574677554341_169" n="N001"/>Ad mandatum domini regis
+                    <cei:lb facs="#facs_1_line_1574677556857_174" n="N002"/><cei:persName>Franciscus prepositus <cei:placeName>Strigoniensis</cei:placeName></cei:persName>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

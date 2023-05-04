@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RBB_217_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RBB_217_H_I</cei:title><cei:idno type="Transkribus">203416</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Mikess rzeczeny Hrzebecz z <cei:placeName>Pohledy</cei:placeName></cei:persName> a <cei:persName>Petr</cei:persName>, syn moy, wyznawame obecznye tyemto listem, ktoz gey czy¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>sty budu nebo cztucz uslyssy, ze sme smluweny s doostoynym s knyezem <cei:persName>Mixem, oppatem klasstera wilemowskeho</cei:persName>, 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>skrzie ubrmany, to gest <cei:persName>Markwartha z <cei:placeName>Blannycze</cei:placeName></cei:persName> a <cei:persName>Iana z <cei:placeName>Onssowa</cei:placeName></cei:persName> y take <cei:persName>Naczka, purgraby s <cei:placeName>Lypnyczie</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>o wsseczkny wyeczy a zegmena oto sedyenye w <cei:placeName>Pohledy</cei:placeName> a take o gyerz y o gyne wsseczko, czoz toho dotyka, takto,
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>ez nam knyez opath swrchupsany zato sedyenye dal gest a zaplatyl hotowymy penyezy patdessat kop grossow
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>a zagyerz, gessto sme tu wsyeby dal gest y zaplatyl hotowymy penyezy ssest kop grossow, a z tyech patdessaty
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>a ssesty kop grossow my, <cei:persName>Mikess</cei:persName> a <cei:persName>Petr</cei:persName> swrchupsany, swym y wssiech buduczich swich gmenem propustili sme a moczy
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>tohoto listu propussczyme swrchumenowaneho knyeze opatha y geho conwent a slybugem, ez nygda wyecze oto
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>staty nebudem, any napomynaty z toho any nassy buduczy pod zakladem sto kop grossow strzibrnych k stranye
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>a k ubrmanom a wyecze slibugem, ez toho wsseho, iakoz gest wyrzczenym ubrmanskym wypowyedeno, a gich
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>listem zapsano mame, y chczem postupyty bezewssech zmatkow od dnessnyeho dne we trzech nedielech pod tyemz
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>zakladem. A take slybugem, ze tu chczem odwadyty od kazdeho czlowieka, acz by skrzie nas kterymz koly kusem bylo 
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>zawazeno pod swrchupsanym zakladem, iakozto prawo czeske zemye zalezye. A toho na pewnyeyssy gistotu 
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>my, swrchupsany <cei:persName>Mikess</cei:persName> a <cei:persName>Petr</cei:persName>, syn moy, s nassym dobrym swiedomym, a potom k nassye prosbye slowutny a 
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>mowyty panossie <cei:persName>Markwarth z <cei:placeName>Blannycze</cei:placeName></cei:persName> a <cei:persName>Ian z <cei:placeName>Onssowa</cei:placeName></cei:persName>, ubrmanowe teeto umluwy, a <cei:persName>Naczek purgrabie</cei:persName>
+                    <cei:lb facs="#facs_1_r1l18" n="N016"/><cei:persName>s <cei:placeName>Lypnycze</cei:placeName></cei:persName> a <cei:persName>Ian z <cei:placeName>Markwartycz</cei:placeName></cei:persName> na swiedecztwye toho wsseho swe peczety k tomuto listu przywyessyly, genz
+                    <cei:lb facs="#facs_1_r1l19" n="N017"/>gest psan a dan <cei:date value="99999999">od narozenye syna Buozyeho cztrnaste set leta dwanasteho w tu nedyely przed swatym Duchem. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

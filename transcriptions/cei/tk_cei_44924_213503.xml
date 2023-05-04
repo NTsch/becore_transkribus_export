@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RM_2337_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RM_2337_H_I</cei:title><cei:idno type="Transkribus">213503</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l1" n="N001"/>Ja <cei:persName>Sezema z <cei:placeName>Horziessowicz</cei:placeName></cei:persName><cei:placeName/>, gmenem mym a manzelky me <cei:persName>Barbory</cei:persName> gmenem, zna¬
+                    <cei:lb facs="#facs_1_r2l2" n="N002"/>mo czinim tiemto listem, ze duom moy, kteryzto lezy mezy domem <cei:persName>Jakubowym </cei:persName>
+                    <cei:lb facs="#facs_1_r2l3" n="N003"/><cei:persName>kuchmistrowim arczibyskupa <cei:placeName>prazskeho</cei:placeName></cei:persName> s gedne strany a domem nyekdy panny
+                    <cei:lb facs="#facs_1_r2l4" n="N004"/><cei:persName>Rozie</cei:persName> s druhe strany proty sskole swatomarzske w tom we wssem prawie, yakoz 
+                    <cei:lb facs="#facs_1_r2l5" n="N005"/>sem sam kupil ot pocztywich a zakonnich comendora przyewora y conwenta 
+                    <cei:lb facs="#facs_1_r2l6" n="N006"/>krzyzownikow klasstera matky Bozie podle mosta <cei:placeName>Miesta Menssieho prazskeho</cei:placeName> 
+                    <cei:lb facs="#facs_1_r2l7" n="N007"/>a gmyel y drzal prodalsem y prodawam opatrnim muzom <cei:persName>Waczlawowy</cei:persName> a <cei:persName>Gy¬</cei:persName>
+                    <cei:lb facs="#facs_1_r2l8" n="N008"/><cei:persName>rzykowy, bratrom a myesstianom tehoz <cei:placeName>miesta prazskeho</cei:placeName></cei:persName> y gych dyedyczom za dwie 
+                    <cei:lb facs="#facs_1_r2l10" n="N009"/>kopie grossow razu prazskeho, mnye hotowymy penyezy zaplaczenich a kdyzby 
+                    <cei:lb facs="#facs_1_r2l11" n="N010"/>koly knyhy klasstera drzewrzeczeneho  wswe moczy byly drzewe me smrty, tehdy 
+                    <cei:lb facs="#facs_1_r2l12" n="N011"/>slybugy dobru wyeru, ze ten duom y s geho myestisstiem zapissy drzewerzeczeny¬
+                    <cei:lb facs="#facs_1_r2l13" n="N012"/>ma bratroma y gich dyedyczom w ty giste knyhy azprawim yakoz to sbozie 
+                    <cei:lb facs="#facs_1_r2l14" n="N013"/>za prawo ma kromye toho, aczby swrchupsany krzyzowniczy, ktere prawo k to¬
+                    <cei:lb facs="#facs_1_r2l15" n="N014"/>mu domu myely, paklyby pan Buoh mne neuchowal drzewe, nezlyby ty knihy
+                    <cei:lb facs="#facs_1_r2l16" n="N015"/>w swe moczy byly, tehdy chczy y zadam, aby tento lyst plnu mocz y plne prawo
+                    <cei:lb facs="#facs_1_r2l17" n="N016"/>myel, yakozby w ty knyhy slowo doslowa wepsan byl. A na potwrzenie toho
+                    <cei:lb facs="#facs_1_r2l18" n="N017"/>wsseho swrchupsaneho peczet ma wlastnye a na pewnyeyssie swiedomye
+                    <cei:lb facs="#facs_1_r2l19" n="N018"/>peczet drzewerzeczeneho <cei:placeName>Miesta Menssieho prazskeho</cei:placeName> ku prosbye me y swrchu
+                    <cei:lb facs="#facs_1_r2l20" n="N019"/>gmenowanich sukupow mich k tomuto listu gsu przywiesseny, genz dan
+                    <cei:lb facs="#facs_1_r2l21" n="N020"/>gest w temz miestie <cei:date value="99999999">leta narozenie Bozieho tysiczeho cztyrzysteho pyetme¬</cei:date>
+                    <cei:lb facs="#facs_1_r2l22" n="N021"/><cei:date value="99999999">zyczietmeho ten pondyely po swatem Wytu</cei:date>.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

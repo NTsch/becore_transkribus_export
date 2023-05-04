@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1545_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1545_H_I</cei:title><cei:idno type="Transkribus">191842</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r3">
+              
+              
+                    <cei:lb facs="#facs_1_r3l5" n="N001"/><cei:date value="99999999">Leta od narozenie syna Bozieho tysyczieho cztyrzsteho trzydczateho ssesteho w nedieli przed swatu Alzbietu</cei:date> w <cei:placeName>Praze</cei:placeName> stala
+                    <cei:lb facs="#facs_1_r3l6" n="N002"/>sie gest umluwa o <cei:placeName>Colin</cei:placeName> <cei:persName>welebnym kniezetem panem Oldrzychem hrabii Czilskym</cei:persName> a urozenymi pany panem <cei:persName>Alssem z <cei:placeName>Sternber¬</cei:placeName></cei:persName><cei:placeName/>
+                    <cei:lb facs="#facs_1_r3l7" n="N003"/><cei:persName><cei:placeName>ka</cei:placeName></cei:persName>, panem <cei:persName>Heinczem z <cei:placeName>Pirkssteina</cei:placeName></cei:persName>, hoffmistrem, panem <cei:persName>Cassparem</cei:persName>, canczlerzem, panem <cei:persName>Hasskem z <cei:placeName>Waldssteina</cei:placeName></cei:persName>, panem <cei:persName>Arnosstem</cei:persName>
+                    <cei:lb facs="#facs_1_r3l8" n="N004"/><cei:persName>z <cei:placeName>Wlassymie</cei:placeName></cei:persName>, panem <cei:persName>Przybikem z <cei:placeName>Clenoweho</cei:placeName></cei:persName> a <cei:persName>Janem z <cei:placeName>Cunwaldu</cei:placeName></cei:persName>, podkomorzym, mezy <cei:persName>nayneprzemozenieyssiem knyezetem a</cei:persName>
+                    <cei:lb facs="#facs_1_r3l9" n="N005"/><cei:persName>panem panem Sigmundem z Bozie milosti Rzymskym cziesarzem, wzdy rozmnozitelem rzysse a Uherskym, Czeskym et cetera kralem</cei:persName>
+                    <cei:lb facs="#facs_1_r3l11" n="N006"/>s gedne a pocztiwym kniezem <cei:persName>Bedrzychem z <cei:placeName>Straznicze</cei:placeName></cei:persName> z strany druhe. Nayprwe aby geho milost kniezy <cei:persName>Bedrzychowi</cei:persName> na
+                    <cei:lb facs="#facs_1_r3l12" n="N007"/><cei:placeName>Colinie</cei:placeName> a czoz k tomu przyslussie y na weskach tuto gmenowanych, to gest na <cei:placeName>Milotinye</cei:placeName>, <cei:placeName>Solopisky</cei:placeName>, <cei:placeName>Brzezany</cei:placeName>, <cei:placeName>Nowawes</cei:placeName>, <cei:placeName>Radowesi¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r3l13" n="N008"/><cei:placeName>cze</cei:placeName>, w <cei:placeName>Zybohlawiech</cei:placeName> geden czlowiek, we <cei:placeName>Kbele</cei:placeName> geden czlowiek, <cei:placeName>Liczko</cei:placeName> dwuor, <cei:placeName>Gestrzebie Lhota</cei:placeName> dwuor, <cei:placeName>Saani</cei:placeName>, <cei:placeName>Mastnicze</cei:placeName>, <cei:placeName>Malenowicze</cei:placeName>,
+                    <cei:lb facs="#facs_1_r3l14" n="N009"/><cei:placeName>Hradissczko</cei:placeName>, w <cei:placeName>Nebowidech</cei:placeName> trzy kopy platu, <cei:placeName>Swate Katherzyny</cei:placeName>, <cei:placeName>Zaborzie</cei:placeName>, <cei:placeName>Libodrzicze</cei:placeName>, <cei:placeName>Chotuchow</cei:placeName>, <cei:placeName>Owczary</cei:placeName>, wes <cei:placeName>Swateho Jacuba</cei:placeName>, <cei:placeName>Ow¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r3l15" n="N010"/><cei:placeName>czary</cei:placeName> dwuor a czoz k tomu dworu przyslussie, <cei:placeName>Swateho Mikulasse</cei:placeName> s rybnikem, mlyny wdolepsanee, mlyn w <cei:placeName>Hrobiech</cei:placeName>, dwa mlyny u miesta u
+                    <cei:lb facs="#facs_1_r3l16" n="N011"/>sameho, wesku <cei:placeName>Trziedworzy</cei:placeName>, sewssym czoz k tiem wsem przyslussie, zapsal trzy tisycze kop grossuow, aby geho milosti tiem lepe mohl
+                    <cei:lb facs="#facs_1_r3l17" n="N012"/>sluziti ageho milost ma obmysliti, aby tiem lepe geho milosti mohl sluziti,  a kdyzby geho milost neb buduczy geho kral Czesky chtiel gemu
+                    <cei:lb facs="#facs_1_r3l18" n="N013"/>dati trzy tisycze kop grossuow neb geho buduczym a dal gim rok naprzed wiedieti, anebo zeby ge przewedl na gine sbozie s gich woly, teh¬
+                    <cei:lb facs="#facs_1_r3l19" n="N014"/>dy magii geho milosti neb geho buduczym postupiti miesta <cei:placeName>Colina</cei:placeName> bez zmatku a take gich moczy odtud netysknuti, leczby ge splatil, a 
+                    <cei:lb facs="#facs_1_r3l20" n="N015"/>take geho milosti ma knyez <cei:persName>Bedrzych</cei:persName> wssechny haldy ginee propustiti, kterez k <cei:placeName>Colinu</cei:placeName> drzzy.
+                    <cei:lb facs="#facs_1_r3l21" n="N016"/>Item knyez <cei:persName>Bedrzych</cei:persName> nema moczy na zadneho swewolnie sahati, ale gestli zeby k tomu miel kteru winu, aby toho prawem a rzadem hlediel, a cziesarzowa
+                    <cei:lb facs="#facs_1_r3l22" n="N017"/>milost nema geho dati zadnemu moczy tysknuti mimo tyto umluwy, ale ktozby gey chtiel mimo nye tisknuti, ma gemu geho milost iakozto geho
+                    <cei:lb facs="#facs_1_r3l23" n="N018"/>pan pomoczen byti a geho braniti.
+                    <cei:lb facs="#facs_1_r3l24" n="N019"/>Item o <cei:placeName>Libenicze</cei:placeName> umluweno gest, aby ge <cei:persName>Hynek</cei:persName> w tey mierze drzal, jakoz nynie drzzy, a iakoz <cei:persName>Smirzyczsky</cei:persName> k tomu sie tahne, o to mata s <cei:persName>Hynkem</cei:persName>
+                    <cei:lb facs="#facs_1_r3l25" n="N020"/>przed cziesarzowu milosti nebo geho radu byti a kazdy z nych okazati swe prawo. Pakliby nikteryz prawa nemyel a na cziesarzowu milost
+                    <cei:lb facs="#facs_1_r3l26" n="N021"/>to przysslo, tehdy czoz z toho geho milost <cei:persName>Hynkowi</cei:persName> uczyny, z toho ma geho milosti diekowati iakozto panu swemu.
+                    <cei:lb facs="#facs_1_r3l27" n="N022"/>Item geho milost ma <cei:persName>Zacharzowi</cei:persName> zapsati staru winiczy, dwuor pod <cei:placeName>Cankem</cei:placeName> a <cei:placeName>Puczery</cei:placeName> wes, pakliby w tey mierze nez knyez <cei:persName>Bedrzych</cei:persName>
+                    <cei:lb facs="#facs_1_r3l28" n="N023"/>zasie przygede czo sobie gineho optal <cei:persName>Zacharz</cei:persName> k tomu podobneho, ale to aby mu bylo zapsano.
+                    <cei:lb facs="#facs_1_r3l29" n="N024"/>Item gest umluweno o <cei:persName>Kerzskeho</cei:persName>, ze knyez <cei:persName>Bedrzych</cei:persName> slybil gest, ze <cei:persName>Kerzsky</cei:persName> ma k cziesarzowie milosti przygeti ageho milost zapana przy¬
+                    <cei:lb facs="#facs_1_r3l30" n="N025"/>gieti jako ginii zemanee, a czozby geho milosti sskody uczinil, gessto sie geho dielu dotkne, to kniez <cei:persName>Bedrzych</cei:persName> ma nawratiti kdyz sie nayprw
+                    <cei:lb facs="#facs_1_r3l31" n="N026"/>zasie wraty a nato ma gemu od twrze odtrzeno byti a cziesarzowa milost ma gemu swoy hnyew odpustiti. A wssech na swiedomye um¬
+                    <cei:lb facs="#facs_1_r3l32" n="N027"/>luw a wieczii swrchupsanych my smluwcze nahorzegmenowanii nasse peczeti wlastnie dalisme przywiesiti k tomuto listu, genz gest dan
+                    <cei:lb facs="#facs_1_r3l33" n="N028"/>v <cei:placeName>Praze</cei:placeName> leta a dne iakoz sie swrchupisse
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

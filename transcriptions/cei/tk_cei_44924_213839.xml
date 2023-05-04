@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1596a_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1596a_I</cei:title><cei:idno type="Transkribus">213839</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l4" n="N001"/>My <cei:persName>Ladislaw, z Bozie milosti uhersky, czesky, dalmatsky, charwatsky et cetera kral, wewoda rakusky a markrabie morawsky</cei:persName>, oznamugem tiem¬
+                    <cei:lb facs="#facs_1_r2l5" n="N002"/>to listem wssem, ze ponewadz zposobenim sstiedrosti Bozie v wysokych posazenisme panowanych hodne myslime poddanym nam wssem li¬
+                    <cei:lb facs="#facs_1_r2l6" n="N003"/>dem rozlicznymi obdarowanimi kralowanie nasseho uczastnost okazati, tiem wssak nad gine, gichzto wiernymi a sluzebnymi pilnostmi stalost
+                    <cei:lb facs="#facs_1_r2l7" n="N004"/>poznalisme, protoz pamatugicz wierne sluzby a neustale pilnosti, kterezsme do urozeneho <cei:persName>Proczka z <cei:placeName>Cunstatu</cei:placeName>, rady a komornika</cei:persName> nasseho
+                    <cei:lb facs="#facs_1_r2l8" n="N005"/>wierneho mileho, az do nynieyssie chwile shledali a chtiecz geho w buduczych czasiech k nassie wuole sluzbam hotowieyssieho ucziniti, z
+                    <cei:lb facs="#facs_1_r2l9" n="N006"/>przirozene nam kralowske dobrotiwosti, duom, genz lezi na rohu proti Hankowu dworu w <cei:placeName>Starem miestie prazskem</cei:placeName>, kteryz niekdy drnowsky
+                    <cei:lb facs="#facs_1_r2l10" n="N007"/>drzal s mezemi gruntem y dnem, iakoz w swych hraniczyech wysazen gest a ustawen, temuz <cei:persName>Proczkowi</cei:persName>, geho diediczom y buduczym dalisme, a
+                    <cei:lb facs="#facs_1_r2l11" n="N008"/>moczy nassy kralowsku milostiwie dawame, tyz duom wiecznie oswobozugicz a prost cziniecz ode wssech berny, dany, lozunkow, hlasek, ponuo¬
+                    <cei:lb facs="#facs_1_r2l12" n="N009"/>czek y wsselikterakych poplatkuow, kteraurzbykoli gineny mohli gmenowani byti, tak aby tyz <cei:persName>Proczek</cei:persName>, geho diediczowe y buduczy ten duom,
+                    <cei:lb facs="#facs_1_r2l13" n="N010"/>iakoz nadepsano gest, swobodny a beze wssech poplatkuow mieli, drzeli, geho poziwali, gey prodati, dati, odkazati a smieniti mohli bez nassie,
+                    <cei:lb facs="#facs_1_r2l14" n="N011"/>buduczych nassich y poddanych prziekazy, odporu a zbraniowanie. Protoz przykazugem wssem urzednikom nassim a poddanym a zwlasstie
+                    <cei:lb facs="#facs_1_r2l15" n="N012"/>podkomorzymu kralowstwie nasseho czeskeho a purgmistru, consselom y obczy <cei:placeName>Miesta prazskeho</cei:placeName>, aby swrchupsanemu <cei:persName>Proczkowi</cei:persName>, geho die¬
+                    <cei:lb facs="#facs_1_r2l16" n="N013"/>diczom y buduczym w drzenii, poziwanii gmienii nadepsaneho domu neprzekazeli, ale ge przy swrchupsanych nassich swobodach, milostech a obdaro¬
+                    <cei:lb facs="#facs_1_r2l17" n="N014"/>waniich zuostawili a zbranowali, pod zachowanim nassie milosti. A ktozkoli tento list mieti bude s czastopsaneho <cei:persName>Proczka</cei:persName>, geho diediczuow
+                    <cei:lb facs="#facs_1_r2l18" n="N015"/>neb buduczych dobru woli, ten teez prawo iakozto oni mieti bude ke wssem wieczem swrchupsanym. Toho na swiedomie peczet nassi kra¬
+                    <cei:lb facs="#facs_1_r2l19" n="N016"/>lowsku k tomuto listu przywiesyti sme kazali. Dan w <cei:placeName>Praze</cei:placeName>, <cei:date value="99999999">den swateho Frantisska, leta od narozenie syna Bozieho tysiczieho cztyrzi¬</cei:date>
+                    <cei:lb facs="#facs_1_r2l20" n="N017"/><cei:date value="99999999">stehopadesatehocztwrteho, let kralowstwy nassich uherskeho et cetera w patnadcztem a czeskeho w prwniem letie</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1568974123584_205">
+              
+              
+                    <cei:lb facs="#facs_1_line_1568974128877_208" n="N001"/><cei:persName>Ladislaus Rex</cei:persName>
+                    <cei:lb facs="#facs_1_line_1568974134194_213" n="N002"/>manu propria
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0065_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0065_H_I</cei:title><cei:idno type="Transkribus">187004</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Petrus judex, scabini atque universitas civitatis <cei:placeName>Jegerdorf</cei:placeName></cei:persName> recognoscimus publice confitentes
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>excellenti ac magnifico principi domino <cei:persName>Johanni inclito <cei:placeName>Bohemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> regi</cei:persName>, tamquam vero regi ac
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>domino nostro, fide data unanimiter homagium prestitisse, necnon de mandato et voluntate ipsius speciali serenissimis
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>ac gloriosis principibus dominis <cei:persName>Bolezlao</cei:persName>, <cei:persName>Heinrico</cei:persName> et <cei:persName>Wlodizlao, <cei:placeName>Silesie</cei:placeName> ducibus dominisque <cei:placeName>Vratislavie</cei:placeName> et</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName><cei:placeName>Legenicz</cei:placeName></cei:persName> illustribus, heredibusque ac legitimis ipsorum successoribus, quibus nos et civitatem nostram totamque
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:placeName>terram Opavie</cei:placeName> pro octo milibus marcarum grossorum regalium denariorum, sexaginta quatuor grossos pro qualibet 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>marca computando, nomine pignoris obligavit, obedientiam et devotionem fidei absque dolo communiter iuravisse,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>promittentes bona consciencia et fidei puritate, quod ab ipsis et eorum quotlibet nullatenus mala divertemur
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>intencione, sed eis et eorum cuilibet serviemus et obedienter suberimus tam diu fideliter, quousque ipsis
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>dicta octo marcarum milia de certo illorum, qui ad hoc ex utraque parte deputati sunt, sciencia ex integro persoluantur. 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>In cuius rei testimonium presentes fieri et sigillo civitatis nostri fecimus communiri. <cei:date value="99999999">Datum <cei:placeName>Oppavie</cei:placeName></cei:date>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:date value="99999999">anno Domini millesimo CCC undecimo XVI kalendas Julii et.</cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

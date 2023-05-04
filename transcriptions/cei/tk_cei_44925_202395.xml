@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK 2348_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK 2348_H_I</cei:title><cei:idno type="Transkribus">202395</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>In nomine sancte ac individue et perpetue Trinitatis. <cei:persName>VenzesIaus, Dei gratia rex Boemorum</cei:persName>, omnibus, ad quos presens pagina devenerit, saIutem et fidei pietatem. Cum inter mundanas actiones ea so¬
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>la saIubris ac meritoria permaneat, que divine retributionis et obtinende perpetue beatitudinis gratia ceIebratur, alie omnes more liquentis aque cum tempore transeunt et labuntur, nichil secum temporalis delectatio¬
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>nis retinentes preter peccata, que talibus generantur. Hanc igitur considerationem animo revolventes animadvertimus, qualiter bona monasterii <cei:placeName>Luthomislensis</cei:placeName> possent ad statum pristinum reformari, que per discordiam nobiIium terre
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>in tantum consumpta fuerant et distracta, ut etiam fratres ibidem divinum ofitium peragentes victum et vestitum penitus non haberent. Nos itaque temporibus nostris bona claustralia dolentes taliter deperire, pro salute anime
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>dilecti fratris nostri, bone memorie <cei:persName>marchyonis Morauie nomine Wadizlai</cei:persName>, et pro remedio peccatorum nostrorum statuimus et in perpetuum inviolabiliter confirmamus, ut homines iam dicti monasterii hanc habeant liberta¬
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>tem, si in culpam inciderint, sive aliquis in villis ecclesie eiusdem casu miserabili ab alio suffocetur, quod vulgariter hlaua dicitur, seu aliquo pro Iatrocinio incusetur, quod boemice narok vocatur, sive etiam
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>aliquando hac servitute fuerint obligati, quod narez materna lingua nominatur, vel si quis hominum prefate ecclesie suspensus fuerit, quod wizelche boemice dicitur, ab omnibus hiis ipsos penitus decernimus
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>absolutos, arbitrio domini abbatis relinquentes, ut pro hiis et aliis culpis homines suos pena debita puniat, in usus monasterii, quicquid ex culpa provenerit, convertendo. Ut autem nostra relaxatio et constitutio robur ob¬
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>tineat veritatis, presentem paginam, testibus subscriptis, nostri sigilli caractere fecimus consignari. Acta sunt autem hec coram nostris fidelibus, videlicet <cei:persName>Witkone antiquo</cei:persName> filio <cei:persName>Witkonis</cei:persName>, <cei:persName>Wata subcamerario</cei:persName>
+                    <cei:lb facs="#facs_1_r1l12" n="N010"/>et <cei:persName>Bouzlao</cei:persName> fratre eius, <cei:persName>Zbrazlao subpincerna</cei:persName>, <cei:persName>Zlaunicho subdapifero</cei:persName>, <cei:persName>Drislao marsalcho</cei:persName>, <cei:persName>Jurik noskone</cei:persName>, <cei:persName>Petro</cei:persName> <cei:persName>MiIhozti</cei:persName> filio, <cei:persName>Ztrezimiro calvo</cei:persName>, <cei:persName>Milata de <cei:placeName>Morauia</cei:placeName></cei:persName>, <cei:persName>Daleborio</cei:persName> filio <cei:persName>Daleborii</cei:persName>, <cei:persName>Voyzlao canoni¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N011"/><cei:persName>co de <cei:placeName>Zaska</cei:placeName></cei:persName>, <cei:persName>magistro Abdone</cei:persName>, <cei:persName>Petro capellano de <cei:placeName>Nehanic</cei:placeName></cei:persName> et aliis multis. Datum <cei:date value="99999999">anno dominice incarnationis Mo CCo XXo VIIIo, concurrente VIo, regni nostri anno primo</cei:date>. Amen. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

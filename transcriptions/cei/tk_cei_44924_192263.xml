@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_1557_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_1557_H_I</cei:title><cei:idno type="Transkribus">192263</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Petrzik z <cei:placeName>Troyan</cei:placeName></cei:persName><cei:placeName/> wyznawam tiemto listem obecznye wssem, ktoz gey czisty neb cztucze slissety budu, ze s dobrim rozmislem a radu przatel swich prodal sem
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>a tyemto listem prodawam gednu kopu grossow platu rocznyeho we wsy w <cei:placeName>Napagedlech</cei:placeName>, na podepsanich lidech y na gich buduczich, na <cei:persName>Symonowy</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>dwamezczietma grossow a geden peniez, na <cei:persName>Gylkowy</cei:persName> ssestmezczietma grossow bez dwu peniez, na <cei:persName>Giechowi</cei:persName> dwanaczt grossow a sedm halerzow, tak
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>ze gyz gmenowany lide plat sobie przipsany platie rozdyelnye, toczyzto gednu polowiczi na swateho Hawla a druhu polowiczi na swateho Gyrzie,
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>bohoboynym pannam pannye <cei:persName>Annye, abbatyssy, y wssemu conventu panen zakona swate Clary classtera <cei:placeName>Crumlowskeho</cei:placeName></cei:persName>, nynyeyssim i buduczim, ku pra¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>wemu dyedicztwy, se wssim k te kopie platu przislussenstwim, tak uplyne, yakoz sem sam drzel, na tom na wssem sobie any buduczim swym zadneho prawa ne¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>zachowawage, za dwanaczt kop grossow dobrich strziebrnich razu prazskeho, kterezto penyeze daly a zaplatyli gsu my wsseczky uplnye peniezi hotowymy,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>A my, <cei:persName>Walkun z<cei:placeName>Dudleb</cei:placeName>, sedyenym w <cei:placeName>Swietliku</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Woytiech z <cei:placeName>Gywowicze</cei:placeName></cei:persName>, <cei:persName>Wanyek z <cei:placeName>Troyan</cei:placeName></cei:persName>, rukoymie a zprawcze <cei:persName>Petrzika</cei:persName>, gistcze naprzedpsaneho, swym y
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>zan slibugem, wssichny dobru wieru beze lsty ruku spolecznu a nerozdyelnu, drziewerzeczene dyedyny se wssim gich przislussenstwim pannam przede¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>psanym zprawity a wyswobodyty przed wyeny, przed syrotky, przed zapisy wsselikakymy krzestyanskymy y zidowskymy a konecznie przed kazdim czlo¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>wiekem, kterehozbi kolywiek rzadu a stawu byl, rzadem a obiczegem teto <cei:placeName>zemye Czeske</cei:placeName>, a prwe suche dny, druhe beze lsty a konecznye trzetie suche dny
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>od napomenutie przedepsanich panen listem neb poslem gich nayblyzssie czastopsany plat se wsim, czoz k nyemu przislussye, a dyedyny gim pannam
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>czastogmenowanym we dczky zemske ku prawemu dyedycztwy wlozity a zprawcze dobre postawity, tak yakz gest rzad a prawo teto <cei:placeName>zemye Czeskee</cei:placeName>.
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>Pakliby dczky zemske kterak w tom czasu mynuly aneb ztraczeny byly, tehdy mame a slibugem gim pannam czastopsanym dyedyny przedepsane
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>se wssim przislussenstwim tak utwrdity a upewnyty, yakoz tu doba, obiczey a prawo bude, mezi pany a panossemy teto <cei:placeName>zemye Czeske</cei:placeName> a to w czasu prze¬
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>depsanem. Paklibichom nahorzepsanich diedin se wssim gich przislussenstwim wiswobodity a zprawity nemohly rzadem a obiczegem przedepsanym,
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>tehdy mame a slibugem czastopsanym pannam na swich swobodnych a tak dobrze osedlich dyedynach tolikez yakozprzedepsano gest platu a trzetynu
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>wiecz ku prawemu dyedicztwy sstupity a ty giste dyedyny zprawity, wiswobodity, y we dczky zemske ku prawemu diedicztwy wlozity neb utwrditi
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>a upewnyty rzadem, obyczegem, y czasem przedepsanymy. Paklibichom neuczinili toho wsseho, czoz przedepsano gest, doczela a uplyne, tehdy geden znas
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>zprawczii a rukoymi przedepsanich, kteryz naiprw upomenut bude pannamy czastopsanymy a listem neb poslem gich, na gyne neukazuge, any se druhymy wy¬
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>mluwage, mame a slibugem kazdy sam swim ziwotem s gednyem pacholkem s gednyem pacholkem a se dwyema hned wgety, neb kazdy miesto sebe panossy rzadu
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>rytierzskeho poslaty do miesta do <cei:placeName>Crumlowa</cei:placeName> do domu cztneho hospodarze, kdez nam czastopsanymy pannamy listem neb poslem gich bude ukazano, w to obiczeyne
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>lezenye, kterez <cei:placeName>zemie Czeska</cei:placeName> za prawo ma, a tu ustawicznye lezety a odtud na nyzadne prawo newygiezdyty, any kterakkolywiek wynyknuty, dokudzbichom wssech
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>wieczy swrchupsanich nenaplnyli doczela a uplnye. A kdyzby mynulo cztrnaczte dny od napomenutie k tomu lezeny rownye porzad cztucze, lezme my neb nelezme, a
+                    <cei:lb facs="#facs_1_r1l26" n="N025"/>kdyzbichme gesstie wssech swrchupsanich wieczy skutecznye nenaplnyly a neskonaly, tehdy hned dawame plnu mocz y prawo tiemto listem czastopsanym pannam
+                    <cei:lb facs="#facs_1_r1l27" n="N026"/>dwanaczt kop grossow dobrych strziebrnich prazskeho razu penyez gistynnych naprzedpsanich a trzetynu weysse wziety w krzestyanech neb w zidech na nassy wssech
+                    <cei:lb facs="#facs_1_r1l28" n="N027"/>sskodu spolecznu y na nasse sbozie a wsseczky sskody, proto nasse nesplnyenye kterakkolywiek wzate dobrym swiedomym pokazane gim pannam czastopsanym
+                    <cei:lb facs="#facs_1_r1l29" n="N028"/>zaplatiti slibugem y s gistynnymy peniezi przedepsanymy zlezenye newigezdyegicz, any kterak kolywiek wynykugicz uplnye peniezi hotowymy. A umrzelliby
+                    <cei:lb facs="#facs_1_r1l30" n="N029"/>kto z nas przedepsanich w tom czasu, gistecz neb rukoymie a zprawcze, tehdy my ziwi zuostali w gednom miesieczi naiblizssiem od smrty toho umrleho rownye po¬
+                    <cei:lb facs="#facs_1_r1l31" n="N030"/>rzad cztucz, k sobie w tez rukogemstwie przistawity slibugem gineho tak dobreho a tak mowyteho alist w taz slowa yakozto tento obnowity podlezenym prze¬
+                    <cei:lb facs="#facs_1_r1l32" n="N031"/>depsanym. A protywillibyse kto znas przedepsanich wczem tomuto listu, to ma byty proty wierze aczty geho, ale nekupohorsseny tomuto listu. A ktoz by
+                    <cei:lb facs="#facs_1_r1l33" n="N032"/>kolywiek tento list myel s dobru woly panen czastopsanich, ten ma y miety bude uplnye tez prawo ke wssem przedepsanym wieczem yakozto ony samy.
+                    <cei:lb facs="#facs_1_r1l34" n="N033"/>Tomu wssemu na gistost, pewnost y potwrzenye my wssiczkny naprzedpsany gistecz y rukoymie a zprawcze swe wlastnye peczety s dobrim wiedomym y
+                    <cei:lb facs="#facs_1_r1l35" n="N034"/>przyznanym prziwiesiligsme k tomuto listu, genz gest dan <cei:date value="99999999">leta od narozenye syna Bozieho tisiczieho cztyrzsteho osmeho ten den na Hromnicze</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

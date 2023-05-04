@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1347_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>ACK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1347_H_I</cei:title><cei:idno type="Transkribus">169927</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/><cei:persName>Petra z <cei:placeName>Wratissowa</cei:placeName></cei:persName>, gesto nam uczinyl y uczynyty moze a ma giemu a gieho erbom sprawedliwym y potuokuom, aby nam tiem radyegy a ochotneygy sluzily.
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>Dwuor nass o dwu popluzie, gesto lezy przied nassym myestem<cei:placeName> Branczycze</cei:placeName>, gesto nyekdy <cei:placeName>Charanisow</cei:placeName> slul, dawame se wssy roly oranu y neoranu z pastwam,
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>z lukamy, z zahradamy, z sady, z luhy, z rziekamy poteczky, z rybarzy, z rybymy lowy, z setymy, z lowymy rozlycznymy, z mezymy, z hranycziemy y take s gy¬
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>nymy prawy, uzytky y robotamy, za nyez trzy hrzywny grossow praskich penyez uroka poczytagy, y s gynymy swobodcztwymy, czoz k tomu zbuozye a dworu
+                    <cei:lb facs="#facs_1_r1l10" n="N008"/>takemu, gestoby nam a nassym potomkuom sluzyty gsie hodyl a s tiem uczynity yako sswym wlastnym zbuozyem, anebo yako gsie gym bude zdaty bez nassy
+                    <cei:lb facs="#facs_1_r1l11" n="N009"/>prziekazy, nassemu manstwie ne ke sskodie. Z kterehoz take manstwie on, <cei:persName>Petr</cei:persName>, gieho sprawedywy erbowe a potomczy nam a nassim erbuom y potomkuom
+                    <cei:lb facs="#facs_1_r1l12" n="N010"/>markrabyema morawskym s giednym kopym, kdezby nam bilo potrzebie, magy sluzyty wiecznye, yakozto nassy manowe w nassy <cei:placeName>zemy morawske</cei:placeName> czynie a
+                    <cei:lb facs="#facs_1_r1l13" n="N011"/>obycziey giest czynyty, za kteruzto sluzbu mame giemu a gieho erbuom dosty uczynity beze wssie zle lsty prziczynugiem. Take aby richtarz a conssiele
+                    <cei:lb facs="#facs_1_r1l14" n="N012"/>nasseho miesta <cei:placeName>Branczycz</cei:placeName>, gesto nynye gsu nebo potom budu drzewerzeczenemu <cei:persName>Petrowy</cei:persName> na pomocz gieho sluzby na kazdy rok ssest hrzywem grossow moraw¬
+                    <cei:lb facs="#facs_1_r1l15" n="N013"/>skich trzy hrzywny o swatem Hawle, gesto nynye przyde, a trzy hrzywny o swatem Gyrzie, gesto ynhed potom przide, wiecznye tento a gyny rok daly a zaplatyly
+                    <cei:lb facs="#facs_1_r1l16" n="N014"/>bezmesskanye. A wzallyby on, <cei:persName>Petr</cei:persName>, nebo gieho erbowe w nassy sluzbie kteru sskodu, gesto by dobrym swiedomym ukazaty mohly ty wsseczky skody, slibugiem gym
+                    <cei:lb facs="#facs_1_r1l17" n="N015"/>nassy dobru wieru zaplatyty. A nechczelliby nam nebo nassym potomkuom markrabym morawskym byly w kteru sluzbu zawazany, gelyz gym za ty sskody dosty
+                    <cei:lb facs="#facs_1_r1l18" n="N016"/>uczynime, taket sme przyczynily, ponyewadz bratr nass, <cei:persName>markrabie Jost</cei:persName>, giemu, <cei:persName>Petrowy</cei:persName>, a gieho erbom trzy hrzywny grossow swich urokow, gesto giemu
+                    <cei:lb facs="#facs_1_r1l19" n="N017"/>do komory tu chwily, gesto nasseho myesta bil moczen.<cei:placeName> Branczycz</cei:placeName> gmyely wynyty od richtarzie a kossel na kazde leto na swaty Waczlaw puol druhe hrzywny
+                    <cei:lb facs="#facs_1_r1l20" n="N018"/>a o swatem Girzie puol druhe hrzywny grossow. A tak na kazde leto bil odkazal, yakoz toho gsu lystowe, tak my widucze drzewerzeczeneho <cei:persName>Petra</cei:persName> wiernu sluzbu
+                    <cei:lb facs="#facs_1_r1l21" n="N019"/>a gieho erbow wam richtarzom a konsselom w <cei:placeName>Branczyczych</cei:placeName> nassym wiernym a mylym, gesto gste nynye nebo potom budu przykazugiem przysnye y chczem
+                    <cei:lb facs="#facs_1_r1l22" n="N020"/>tomu, abysste podle nasseho bratra, <cei:persName>markraby Josta</cei:persName>, przykazany ty gyste trzy hrzywny grossuow praskich penyez a morawskeho czysla giemu, drzewerzecze¬
+                    <cei:lb facs="#facs_1_r1l23" n="N021"/>nemu <cei:persName>Petrowy</cei:persName>, a gieho wlastnym erbuom daly a wydawaly na ty roky, yakoz gest swrchupsano, kterezto penyeze wam na urocziech a gynich poplatcziech
+                    <cei:lb facs="#facs_1_r1l24" n="N022"/>magy snyety. Take gestly ze by drzewerzeczeneho <cei:persName>Petra z <cei:placeName>Wratyssowa</cei:placeName></cei:persName> bez erbuow Buoh neuchowal, ze by bez nych zssiel z tohoto swieta, tehdy we wssy myerzie
+                    <cei:lb facs="#facs_1_r1l25" n="N023"/>y wsseczko to prawo we wssech kusiech artykuliech, czoz ho on, <cei:persName>Petr</cei:persName>, slowa od slowa w tomto lystu ma nebo gmyel cztnym panossyem <cei:persName>Bohunkowy</cei:persName> a <cei:persName>Kun¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l26" n="N024"/><cei:persName>ratowy z <cei:placeName>Wratyssowa</cei:placeName></cei:persName>, bratrzym gieho, uplnye, yakoz on, <cei:persName>Petr</cei:persName> sam, gmyel nycz newymenugycz dawame. A na potwrsenye y lepssy swiedomye tiech wssech
+                    <cei:lb facs="#facs_1_r1l27" n="N025"/>swrchupsanich wieczy swu gsme peczet s nassym dobrym wiedomym przywiessyly k tomuto lystu, genz gest dan a psan w nassem miestie w <cei:placeName>Znoymy</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l28" n="N026"/>ten <cei:date value="99999999">prwny utery przied swatu kralewnu gegye swateho narozenye leta od Bozieho narozenye tyssycz cztyrysta aprwnyeho leta. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1556_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1556_I</cei:title><cei:idno type="Transkribus">213779</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Pertolth z <cei:placeName>Lippe</cei:placeName>, naiwyssy marssalek kralowstwie czeskeho</cei:persName>, a <cei:persName>Gyrzik z <cei:placeName>Sternberka</cei:placeName> a z <cei:placeName>Lukowa</cei:placeName></cei:persName>, wyznawame tiemto
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>lystem obecznie przedewssiemi, ktoz giei uzrzie neb cztucz slysseti budu, jakoz urozeny pan <cei:persName>Gyrzik z <cei:placeName>Crawarz</cei:placeName> a z</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName><cei:placeName>Straznicze</cei:placeName></cei:persName>, przietel nass mily, gsa zdraw, z dobru pamieti a s rozmyslem a s swich przatel y starssich sluzebnikow
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>radu z swei zwlassczii lasky a przietelwsti wsseczkno swe zbozie a panstwie, czoz czehokolwiek ma, nyczs newy¬
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>mienigicze, k nam gest przichilil a k nassim erbom, a my, gsucz toho odnieho wdieczni, prziwolili sme y moczi toho¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>to listu prziwolugem, ze gest poruczenstwie uczinil a swe moczne poruczniky ustawil tyto gisce, stateczneho
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>rytierze pana <cei:persName>Jana Kuzele z <cei:placeName>Zerawicz</cei:placeName> a z <cei:placeName>Qwasicz</cei:placeName></cei:persName> a slowutne panossie <cei:persName>Jana Cziczowcze z <cei:placeName>Cziczowa</cei:placeName></cei:persName>, <cei:persName>Mikula¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName>sse Czigana z <cei:placeName>Czelechowicz</cei:placeName>, tehdi purgrabii na <cei:placeName>Racziczich</cei:placeName></cei:persName>, a <cei:persName>Waczlawa Papisse z <cei:placeName>Chwalkowicz</cei:placeName></cei:persName>, aby hradow,
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>miest y geho wsseho zbozie moczni byli a nam toho pro zadnu wiecz nestupowali, dokowadzby sie prwe swrchu
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>psaneho pana <cei:persName>Gyrzika</cei:persName>, przietele nasseho mileho, rozkazanie doczela auplnie nestalo. A protoz my, <cei:persName>Pertolth</cei:persName>
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>a <cei:persName>Gyrzik</cei:persName> drzewerzeczenii, slibugem y s swymi erby, aczby geho Buoh neuchowal bez erbow, swrchupsaneho pana 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:persName>Girzika</cei:persName>, przyetele nasseho, gehoz beze ostrzez wsseczkny geho dluhy zastupiti a zaplatiti w rocze po geho
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>smrti porzad cztucze, tak daleko yakzby to zbozie naidale statcziti mohlo, a wsseczky geho rukoymie, kdez gest ktery usty
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>zan slibil, a to swiedomym ukazal aneb peczet swu k listu prziwiesil, slibugem odwaditi bez gich sskodi, az kterehozby kol¬
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>wiek dluhu rukoymie geho napomenuti byli, to take slibugem y swymi erbi zastupiti a zaplatiti. Paklibichom czeho po¬
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>dle rozkazanie swrchupsaneho pana <cei:persName>Girzika</cei:persName>, przietele nasseho, neuczinili a nesplnili, tehda geho swrchupsanym poruczni¬
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>kom dawame plnu mocz a prawo tiemto listem od sebe y od swich erbow, aby to giste zbozii mohli prodati y zastawiti spolecz¬
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>nie neb rozdielnie, yakzto moczni poruczniczi, a tiem dluhy platiti. A czozby toho zbozii prodali, to my slibugem y sswymy
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>erby zprawitit y oswoboditi y we dsky klasti zzemskim obyczegem podle toho, yakoz nas swrchupsany pan <cei:persName>Girzik</cei:persName>, przietel
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>nass mily, sweho wsseho zbozie przigial na prawy spolek. Take slibugem swrchupsaneho pana <cei:persName>Girzika</cei:persName>, przietele nasseho
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>mileho, wsseczko rozkazanii ucziniti a splniti, czozby komu mymo dluhy dal nebo odkazal z sweho panstwie, budto zbozie neb
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>penieze menowite, yakzby to stalo w geho listu rozkazanem doczela a do koncze tak daleko, czozby to panstwie a to zbozie
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>statcziti mohlo. Take gestli ze by ktery z porucznikow pana <cei:persName>Gyrzika</cei:persName>, swrchupsaneho przietele nasseho, pro geho rozkazanie
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>k kterei sskodie przissel, toho take slibugem bez geho sskody odwaditi a to my swrchupsanii <cei:persName>Pertolt z <cei:placeName>Lippe</cei:placeName>, naywyssii</cei:persName>
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/><cei:persName>marssalek kralowstwie czeskeho</cei:persName> a <cei:persName>Girzik z <cei:placeName>Sternberga</cei:placeName> a z <cei:supplied>Luko</cei:supplied>wa</cei:persName> slibugem pod swu wieru ypod swu czty gim, porucznikom
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>swrchupsanim, na tom zadnu wieczy neprziekazieti a gim to pewnie a cztnie zdrzieti, to wsseczko, czoz swrchupsano stogii y
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/>s nassymi erby a kdyz bychom giz przietele nasseho gyzmenowaneho, panie <cei:persName>Girzikowy</cei:persName> poruczniky, y geho gine wsseczki
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>rukoymie w tom rocze po geho smrti z dluhu wyprawili y gine wssechno geho rozkazanie uczinili, splnili a dokonali, tehda
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/>nam magi ynhed zbozie, hradow, miest y wsseho panstwie s stupiti, iakoz swrchupsano stogii, toto take przicziniegicz, aczbi
+                    <cei:lb facs="#facs_1_r1l30" n="N030"/>swrchupsanii poruczniczi, ktere zbozii odprodali, aneb zastawili, a tiem gyzmenowaneho panie <cei:persName>Gyrzikowi</cei:persName>, przietele na¬
+                    <cei:lb facs="#facs_1_r1l31" n="N031"/>sseho mileho, dluhy platili, z toho gsu nam dluzni poczet uczniti, kam gsu to obratili. A toho pro pewnost a pro wiestssii
+                    <cei:lb facs="#facs_1_r1l32" n="N032"/>gistost a potwrzenie tiech wssech wieczii peczeti swe wlastnii s nassii dobru woli a s gistym wiedomym prziwiesily sme k to¬
+                    <cei:lb facs="#facs_1_r1l33" n="N033"/>muto listu a prziprosily sme urozenych panow, pana <cei:persName>Albrechta z <cei:placeName>Sternberka</cei:placeName> az <cei:placeName>Curowicz</cei:placeName></cei:persName>, pana <cei:persName>Petra z <cei:placeName>Conicze</cei:placeName> a z</cei:persName>
+                    <cei:lb facs="#facs_1_r1l34" n="N034"/><cei:persName><cei:placeName>Slawkowa</cei:placeName></cei:persName>, pana <cei:persName>Hennika z <cei:placeName>Waldsteina</cei:placeName> a z <cei:placeName>Zidlochowicz</cei:placeName></cei:persName>, pana <cei:persName>Jana z <cei:placeName>Czimburka</cei:placeName> a z <cei:placeName>Slawiczina</cei:placeName></cei:persName> a slowutnich panossii
+                    <cei:lb facs="#facs_1_r1l35" n="N035"/><cei:persName>Mixe z <cei:placeName>Topolan</cei:placeName></cei:persName> a <cei:persName>Jana Talaffusa z <cei:placeName>Rziczan</cei:placeName></cei:persName>, ze gsu take swe peczeti podle nas na swiedomie prziwiesily k tomuto listu,
+                    <cei:lb facs="#facs_1_r1l36" n="N036"/>genz dan w <cei:placeName>Prostiegiowie</cei:placeName>, <cei:date value="99999999">w tu sobotu przed swatym duchem, leta od narozenie syna Bozieho tysycz cztyrzista</cei:date>
+                    <cei:lb facs="#facs_1_r1l37" n="N037"/><cei:date value="99999999">trzidczateho osmeho</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

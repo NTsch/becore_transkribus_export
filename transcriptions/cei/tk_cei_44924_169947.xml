@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1473_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>ACK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1473_H_I</cei:title><cei:idno type="Transkribus">169947</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Mi <cei:persName>Zigmund, z bozie milosty rzimski kral, po wsse czasi rozmnozitel rzissie a uherski et cetera</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>kral</cei:persName>, wiznawame timeto listem wssiem, kterzi giey usrzi a neb cztucz uslissy, zet
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>gsme urozenemu <cei:persName>Janoui s <cei:placeName>Chlumu</cei:placeName></cei:persName>, wiernemu nassemu milemu, dluzzny trzy
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>tysicze dobrich czerwenich uherskich zlatich za geho jargelt a sluzbu, kterez to zlate
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>a nebo toliko penyezz, yakoz to zlati platy, swrchupsanemu <cei:persName>Janoui</cei:persName> a geho erbom sli¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>bugiem slowem kralewskim a dobru wieru daty a od swateho Michala, gessto nynye
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>nayprwe przigde, przes rok na swateho Michala zaplatyty hotowimi zlatimi neb
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>penyezi minczi a razu nasseho uherskeho bez lsty a bez prodlenye. A toho na swie¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>domye swu gsme peczet k tomuto listu kazali prziwiessiety. Dan w <cei:placeName>Hatwanye</cei:placeName> <cei:date value="99999999">leta </cei:date>
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/><cei:date value="99999999">od Bozieho narozenye cztrnaste set a potom w xix letye w strzedu po swatem Sta¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/><cei:date value="99999999">nislawoui leta kralewstwie nassich uherskeho etc. w xxxiii a rzimskeho w dewa¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:date value="99999999">tem letye</cei:date>.
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>Ad mandatum domini regis <cei:persName>Michael</cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:persName>de <cei:placeName>Priest</cei:placeName> canonicus <cei:placeName>pragensis</cei:placeName></cei:persName> 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

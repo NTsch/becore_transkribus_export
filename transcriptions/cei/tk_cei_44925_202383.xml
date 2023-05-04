@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK 0598_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK 0598_H_I</cei:title><cei:idno type="Transkribus">202383</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>In nomine sancte et individue Trinitatis. <cei:persName>Nos Premizl, Dei gratia <cei:placeName>Boemorum</cei:placeName> rex</cei:persName>, universis Christi fidelibus tam
+                    <cei:lb facs="#facs_1_r1l4" n="N002"/>presentibus quam futuris notum esse volumus, quod nos una cum consorte thori nostri, illustri <cei:persName>regina Constantia</cei:persName>, villam <cei:placeName>Wsehrdi</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l5" n="N003"/>quam dilecti nobis abbas et fratres in <cei:placeName>Plaz</cei:placeName> pro concambio ville nostre nomine <cei:placeName>Nahodini</cei:placeName> nobis tradiderant, eorumdem precibus inclinati
+                    <cei:lb facs="#facs_1_r1l7" n="N004"/>et instantia provocati pro XLa marcis argenti vendidimus, in hoc magis eorum consulentes inopie et paci providentes, quam perituras nostris
+                    <cei:lb facs="#facs_1_r1l8" n="N005"/>heredibus pecunias cumulantes. Plus namque pensamus lucra celestia, que nullo penitus fine clauduntur, quam rerum afflu¬
+                    <cei:lb facs="#facs_1_r1l10" n="N006"/>entiam, que tristem exitum sortiuntur. Ut ergo in posterum et concambium et venditio et omnis nostra factio possit robur il¬
+                    <cei:lb facs="#facs_1_r1l11" n="N007"/>libatum tenere, karissimus filius noster, gloriosus <cei:persName>rex Wencezlaus</cei:persName>, cum venerabili <cei:persName>regina domina Cungunda</cei:persName>, coniuge sua, gratanter
+                    <cei:lb facs="#facs_1_r1l12" n="N008"/>et libere prebuere consensum, volentes et ipsi bonorum virorum orationibus divinam sibi conciliare clementiam et pro vili commercio gloriam consequi
+                    <cei:lb facs="#facs_1_r1l14" n="N009"/>sempiternam. Decrevimus etiam, ut sigillorum nostrorum appensione hec pagina fulciatur et eidem nomina testium inserantur: <cei:persName>Eppo prepositus</cei:persName>
+                    <cei:lb facs="#facs_1_r1l15" n="N010"/><cei:persName>ecclesie <cei:placeName>Pragensis</cei:placeName></cei:persName>, <cei:persName>Arnoldus prepositus <cei:placeName>Wissegradensis</cei:placeName></cei:persName>, <cei:persName>Hermannus prepositus <cei:placeName>Lutomericensis</cei:placeName></cei:persName>, <cei:persName>Ratmirus camerarius <cei:placeName>Pliznensis</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Sdezlaus camerarius</cei:persName>
+                    <cei:lb facs="#facs_1_r1l16" n="N011"/><cei:persName><cei:placeName>Pragensis</cei:placeName></cei:persName>, <cei:persName>Fridericus magister domus sancte Marie</cei:persName>, <cei:persName>WIsco de <cei:placeName>Zuekow</cei:placeName></cei:persName>, <cei:persName>Wecemilus</cei:persName> et <cei:persName>Heinricus</cei:persName> frater eius, <cei:persName>Zulizlaus de <cei:placeName>Kniwan</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l17" n="N012"/><cei:persName>Iwanus</cei:persName> et <cei:persName>Ernestus</cei:persName> fratres, <cei:persName>Sdezlaus de <cei:placeName>Sista</cei:placeName></cei:persName>, <cei:persName>Bethlehem wassallus regine</cei:persName>, <cei:persName>Scamponoys camerarius regine</cei:persName> aliique
+                    <cei:lb facs="#facs_1_r1l18" n="N013"/>quam plures, quorum nomina conpendii gratia preterimus. Datum in urbe <cei:placeName>Praga</cei:placeName> per manus <cei:persName>domini Arnoldi cancellarii</cei:persName> <cei:date value="99999999">anno ab in¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l21" n="N014"/><cei:date value="99999999">carnatione Domini MoCCoXXoVIIIIo, indictione IIa</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

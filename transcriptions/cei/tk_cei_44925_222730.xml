@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1512_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1512_H_I</cei:title><cei:idno type="Transkribus">222730</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Sigismundus, Dei gracia romanorum rex, semper augustus ac <cei:placeName>Hungarie</cei:placeName>, <cei:placeName>Boemie</cei:placeName>, <cei:placeName>Dalmacie</cei:placeName>, <cei:placeName>Croacie</cei:placeName> et cetera rex</cei:persName>, et <cei:persName>Albertus, eadem gracia dux <cei:placeName>Austrie</cei:placeName>, <cei:placeName>Stirie</cei:placeName>, <cei:placeName>Karinthie</cei:placeName> et cetera et marchio <cei:placeName>Moravie</cei:placeName></cei:persName>, notumfacimus tenore presencium universis, quod
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>nos nuper vidimus et auscultari ac legi fecimus certas litteras illustris principis <cei:persName>Henrici, ducis <cei:placeName>Slesie</cei:placeName> et domini de <cei:placeName>Furstemberg</cei:placeName> et in <cei:placeName>Jawor</cei:placeName></cei:persName><cei:placeName/>, ac consulum civium et communitatum civitatum <cei:placeName>Sweydnicz</cei:placeName>, <cei:placeName>Jawor</cei:placeName>, <cei:placeName>Strygon</cei:placeName>, <cei:placeName>Reychenbach</cei:placeName>, <cei:placeName>Nymptsch</cei:placeName>, <cei:placeName>Hayn</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:placeName>Landishut</cei:placeName>, <cei:placeName>Hyrsberk</cei:placeName>, <cei:placeName>Lewemberg</cei:placeName>, <cei:placeName>Boczlaw</cei:placeName>, <cei:placeName>Czobothe</cei:placeName>, <cei:placeName>Vreyburg</cei:placeName>, <cei:placeName>Greyfemburg</cei:placeName>, <cei:placeName>Schonow</cei:placeName> et <cei:placeName>Lehn</cei:placeName> non abrasas seu cantallatas, sed integras sanas et omni vicio ac susspicione carentes sigillisque veris et non fictis firmius communitas,
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>quas ad presentes nostras litteras atque scripta inseri et transscribi fecimus ut eis aquocumque homine adhibeatur fides infallibilis atque firma, quarum quidem litterarum tenor de verbo ad verbum per omnia sequitur et est talis: Nos <cei:persName>Heinricus, Dei gracia dux <cei:placeName>Slesie</cei:placeName>, dominus de</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName><cei:placeName>Furstemberg</cei:placeName> et in <cei:placeName>Jawor</cei:placeName></cei:persName>, ad universorum noticiam tenore presencium volumus pervenire, quod quia cum illustribus principibus dominis <cei:persName>Johanne, <cei:placeName>Boemie</cei:placeName> rege ac comite <cei:placeName>Lucemburgensi</cei:placeName></cei:persName>, necnon <cei:persName>Karolo, marchione <cei:placeName>Moravie</cei:placeName></cei:persName>, eiusdem regis domini primogenito, sororiis
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>nostris karissimis, ad pleniorem concordie pervenimus unionem et talia cum ipsis colligacionis intravimus federa, quod nos ipsos in regno <cei:placeName>Boemie</cei:placeName> seu terra <cei:placeName>Moravie</cei:placeName> aliisque terris ipsorum <cei:placeName>Polonie</cei:placeName> cum tota nostra potencia, quotiens et quando eis necesse fuerit, fideliter
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>adiuvare contra ipsorum adversarios ipsis iniuriari volentes sub propriis nostris dispendiis debeamus, ipsi vero in expensis nobis tunc providere tenebuntur, si autem in dictorum dominorum obsequiis cum aliquo rebelle vel rebellibus ipsorum bellum campestre in dictis terris
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>eorum inierimus, damna, que nos sustinere contingeret, nobis resarcire sunt adstricti, sed ad eos lucra, que reportaverimus, pertinebunt, si vero cum eis extra limites suos ad alienas terras processerimus in eorum servitiis, tum non solum pro expensis verum
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>etiam pro dampnis, que sustinuerimus, nobis repsondere tenebuntur et pro serviciis nostris eam, qua contentari aut subsistere possimus, facere recompensam. Datum <cei:placeName>Wratislavie</cei:placeName> in epiphania Domini anno Domini millesimo trecentesimo tricesimo septimo nostri sub appensione
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>sigilli in testimonium premissorum. Wir die ratmanne burger und die ganczen gemeynschefte der stete <cei:placeName>Swydnicz</cei:placeName>, <cei:placeName>Jawor</cei:placeName>, <cei:placeName>Strygon</cei:placeName>, <cei:placeName>Reychenbach</cei:placeName>, <cei:placeName>Nymptsch</cei:placeName>, <cei:placeName>Hayn</cei:placeName>, <cei:placeName>Landishut</cei:placeName>, <cei:placeName>Hyrsberk</cei:placeName>, <cei:placeName>Lewenberg</cei:placeName>, <cei:placeName>Bonczlaw</cei:placeName>, <cei:placeName>Czobothe</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/><cei:placeName>Vreyburg</cei:placeName>, <cei:placeName>Greyfemberg</cei:placeName>, <cei:placeName>Schonaw</cei:placeName> und <cei:placeName>Lehn</cei:placeName> bekennen und tun kunt offentlich mit disem briefe allen den, die in sehen odir horen lesen, daz wir von gebote und wissentlichem geheizze des durchluchtisten fursten und
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>hern hern <cei:persName>Wenczlaws, kuniges czu <cei:placeName>Behem</cei:placeName></cei:persName>, unsers lieben gnedigen hern, und ouch der hochgeborn furstinnen und vrowen vrowen <cei:persName>Elizabeth, herczoginn czu <cei:placeName>Osterreich</cei:placeName></cei:persName>, czu <cei:placeName>Steyer</cei:placeName> und czu <cei:placeName>Kernden</cei:placeName>, unser lieben gnedigen vrowen,
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>und dorczu mit gust und guten willen der hochgeborn furstinnen und vrowen wroven <cei:persName>Agnesen, herczoginn czur <cei:placeName>Sweydnicz</cei:placeName> und czum <cei:placeName>Jawor</cei:placeName></cei:persName><cei:placeName/>, unsere lieben gnedigen vrowen, dem allerduchluchtistem fursten und
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>herren hern <cei:persName>Karle, romischem keiser, czu allen czeiten merer des reichs und kungen czu <cei:placeName>Behem</cei:placeName></cei:persName>, als eynem kunge czu <cei:placeName>Behem</cei:placeName> seinen erben und nachkomen, kungen czu <cei:placeName>Behem</cei:placeName>, erblichen geholdet gelobt und leibliche
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>eyde czu den heyligen gesworn haben in der mazze ab es czu schulden queme, daz der egenant unser herre <cei:persName>kunig Wenczlaw</cei:persName> ane leibes erben abgienge oder ob er erben gewunne die ouch furbas ane leibes erben vor¬
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>schieden, daz wir denn mit den egenanten steten merkten und iren wichbilden an den egenanten unsern hern <cei:persName>keyser Karle</cei:persName>, seine erben odir nachkomen, kunge czu <cei:placeName>Behem</cei:placeName>, als an unser rechte erbliche und naturliche
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>herschaft erben und gevallen sullen und dorumb so globen wir alle gemeynlich und unser ieczlicher sunderlich fur uns unser erben und nachkomen ewiclich in guten truwen ane geverde und bei den eyden
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/>die wir doruber gesworn haben, ab es czu schulden queme als vorgeschriben stet, daz unser herre <cei:persName>kung Wenczlaw</cei:persName> ane leibes erben und erbes erben vorschiede do got fur sey, daz wir denne unsere erben und nachkomen
+                    <cei:lb facs="#facs_1_r1l20" n="N019"/>alle gemeynlich und unser ieczlicher sunderlich mitsampt den egenanten steten merkten und wichbilden noch tode der egenanten unser vrowen vrowen <cei:persName>Agnesen</cei:persName>, der herczoginn, dem obgenanten unserm hern <cei:persName>keisere Karle</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l21" n="N020"/>seinen erben oder nachkomen, kungen czu <cei:placeName>Behem</cei:placeName>, als unsere rechten naturlichen und erblicher herschafft gewarten und in untertenig sein sullen und wollen iren fromen czu werben iren schaden zu wen¬
+                    <cei:lb facs="#facs_1_r1l23" n="N021"/>den und alles, das gen in czu tunde das rechte erblich burger gen, irre rechten erblichen und naturlichen herschaft durch recht odir gewonheit czu tunde pflichtig sein. Mit urkunde dicz briefes vorsigelt mit
+                    <cei:lb facs="#facs_1_r1l24" n="N022"/>unsern anhangunden ingesigeln. Geben czur <cei:placeName>Sweydnicz</cei:placeName> an dem freytag vor sand Gallen tag noch Crists geburde dreyczenhundert jar dornach in dem neunundsechczigstem jare. In cuius rei testimonium atque robur
+                    <cei:lb facs="#facs_1_r1l25" n="N023"/>presentes nostras litteras ac inserciones sigillorum nostrorum appensione facimus firmius roborari. Datum <cei:placeName>Wienne</cei:placeName> <cei:date value="99999999">anno Domini millesimo quadringentesimo vicesimosexto vicesima die marcii, regnorum nostrorum anno <cei:placeName>Hungarie</cei:placeName> et cetera trice</cei:date>¬
+                    <cei:lb facs="#facs_1_r1l27" n="N024"/><cei:date value="99999999">simo nono, romanorum XVI, <cei:placeName>Boemie</cei:placeName> vicesimo sexto</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573572420515_275">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573572426921_278" n="N001"/>Ad mandatum domini regis
+                    <cei:lb facs="#facs_1_line_1573572430311_283" n="N002"/><cei:persName>Michael, prepositus <cei:placeName>Boleslaviensis</cei:placeName></cei:persName>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

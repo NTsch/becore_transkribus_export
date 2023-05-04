@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1708_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1708_H_I</cei:title><cei:idno type="Transkribus">212454</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/><cei:persName>Georgius, Dei gracia <cei:placeName>Bohemie</cei:placeName> rex, <cei:placeName>Moravie</cei:placeName> marchio, <cei:placeName>Lucemburgensis</cei:placeName> et <cei:placeName>Slesie</cei:placeName> dux ac </cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName><cei:placeName>Lusacie</cei:placeName> marchio</cei:persName>, notumfacimus tenore presencium universis, quod nos omne ius, quod nobis competit ut marchioni 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:placeName>Moravie</cei:placeName> in dotalitio in <cei:placeName>Ostrowanek</cei:placeName> post mortem <cei:persName>Katherine de <cei:placeName>Ostrowanek</cei:placeName></cei:persName>, item in quadraginta marcis grossorum 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>moravicalibus in <cei:placeName>Strabenicz</cei:placeName> post mortem <cei:persName>Iohancze de <cei:placeName>Strabenicz</cei:placeName></cei:persName>, item in curia ville <cei:placeName>Czrhow</cei:placeName> post mortem <cei:persName>Pe¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName>tri dicti Pohrab</cei:persName>, item in bonis dictis <cei:placeName>Okarczy</cei:placeName> post mortem cuiusdam <cei:persName>Petri presbiteri de <cei:placeName>Raczicz</cei:placeName></cei:persName>, adque idem iure 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>fuerat introductus, que singula ad nos devoluta existunt, auctoritate regia <cei:placeName>Bohemie</cei:placeName> et marchionali <cei:placeName>Moravie</cei:placeName> dedimus 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>et concessimus, damus et concedimus cum suis pertinenciis nobili <cei:persName>Henrico de <cei:placeName>Lippa</cei:placeName>, capitaneo marchionatus <cei:placeName>Mo¬</cei:placeName></cei:persName><cei:placeName/>
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName><cei:placeName>ravie</cei:placeName></cei:persName> et marescalco regni <cei:placeName>Bohemie</cei:placeName>, fideli nostro dilecto, mandamus igitur camerariis ceterisque officialibus 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>tabularum czude <cei:placeName>Olomucensis</cei:placeName> et <cei:placeName>Brunensis</cei:placeName> marchionatus nostri <cei:placeName>Moravie</cei:placeName>, fidelibus nostris dilectis, quatenus prefato <cei:persName>Henrico</cei:persName> 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>dictorum bonorum possessionem tradant ac ipsa bona tabulis predictarum czudarum <cei:placeName>Olomucensis</cei:placeName> et <cei:placeName>Brunensis</cei:placeName> secundum quod, que 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>ad quam czudam pertinent, annotare pro eodem <cei:persName>Henrico</cei:persName> et suis heredibus non ommittant, salvis tamen iuribus alienis. 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>Presencium sub appensione nostri regalis sigilli testimonio litterarum. Datum <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">die tercia maii anno Domini </cei:date>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:date value="99999999">millesimo quadringentesimo sexagesimoquarto, regni nostri anno sexto</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573577119469_785">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573577124447_788" n="N001"/>Ad mandatum
+                    <cei:lb facs="#facs_1_line_1573577126853_793" n="N002"/>domini regis.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

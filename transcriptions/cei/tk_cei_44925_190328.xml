@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0102_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0102_H_I</cei:title><cei:idno type="Transkribus">190328</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/><cei:persName>Johannes, Dei gratia <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> rex et <cei:placeName>Lucemburgensis</cei:placeName> comes</cei:persName>, universis, ad quos presentes pervenerint, imperpetuum. Bene novit maiestas regia presencia
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>queque disponere futuris etiam sic providere negociis, ut tamen dispendiis preterita non commendet, sed gesta retroactis curriculis temporum innovando
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>et approbando sua consuevit auctoritate firmare. Sane libertatum et privilegiorum indulta non nulla fidelis nostri dilecti <cei:persName>Henrici de <cei:placeName>Lipa</cei:placeName>, summi marschalli</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/><cei:persName>regni <cei:placeName>Boemie</cei:placeName></cei:persName>, nos dedisse recolimus, ex quibus tenor cuiusdam per omnia dinoscitur esse talis: nos <cei:persName>Johannes, Dei gratia <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> rex ac</cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/><cei:persName><cei:placeName>Lucemburgensis</cei:placeName> comes</cei:persName>, ad universorum tam presentis etatis hominum, quam future noticiam volumus pervenire, quod nos de maturo et communi principum, baronum
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>ac prelatorum et nobilium regni nostri <cei:placeName>Boemie</cei:placeName> consilio necnon deliberatione provida et solempni tractatu prehabitis utilitatem et commodum nostrum et heredum
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>nostrorum ac precipue ipsius regni nostri propter quedam futura, que nobis in ipso regno nostro potuissent et poterant suboriri, dispendia evidencius cognoscentes
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>cupientesque condicionem ipsius regni nostri facere meliorem, villam nostram <cei:placeName>Chunicz</cei:placeName> cum villis <cei:placeName>Longa villa</cei:placeName> et duabus, que dicuntur <cei:placeName>Menckowitz</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>dominio, iure, iurisdicione, hominibus, pratis, pascuis, piscacionibus, molendinis, montibus, planis, agris cultis et incultis, rubetis, silvis, aquis aqua
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>rumne decursibus et generaliter cum omnibus illis, cum quibus dive memorie predecessores nostri, reges <cei:placeName>Boemie</cei:placeName> illustres, villam ipsam cum villis predictis te¬
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>nuerunt et nos tenuimus, usque modo additis etiam aliis bonis nostris, super quibus similiter nostras dedimus litteras speciales cum fideli nostro <cei:persName>Heinrico de <cei:placeName>Lipa</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>pro civitate et <cei:placeName>districtu Sytaviensi</cei:placeName>, Castris <cei:placeName>Ronow</cei:placeName>, <cei:placeName>Oywins</cei:placeName> et <cei:placeName>Schombuch</cei:placeName>, villis, juribus, dominio, pheodalibus, hominibus et eorum pertinenciis uni¬
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>versis et generaliter cum eis, cum quibus ipse huiusmodi usque nunc tenuit et possedit, ex certa nostra sciencia nostro, heredum ac successorum nostrorum nomine com¬
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>mutavimus et permutamus et commutando in concambium damus et dedimus, tradidimus et tradimus per ipsum <cei:persName>Heinricum</cei:persName> et heredes ac successores suos possiden¬
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>dam iure hereditario perpetuo et tenendam transferentes in ipsum <cei:persName>Henricum</cei:persName>, heredes ac successores suos omne dominium, omnem proprietatem et omnia
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>iura, que nobis, heredibus ac successoribus nostris in predicta villa et villis predictis cum eorum pertinenciis universis competunt aut possent competere, aliqualiter
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>in futurum taliter, quod ipse <cei:persName>Henricus</cei:persName>, heredes ac successores sui villam et villas predictas vendere, alienare in totum vel in parte et de ipsis, tamquam de re
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/>sua propria possint disponere pro sue libito voluntatis, renuncciantes expresse et ex certa nostra sciencia nostro, heredum ac successorum nostrorum nomine, in inte¬
+                    <cei:lb facs="#facs_1_r1l20" n="N019"/>grum restitutioni, de dolo et in factum accioni, decepcioni ultra dimidium iusti precii et omni alio iuris auxilio, quo iuvari possemus ad non tenen¬
+                    <cei:lb facs="#facs_1_r1l21" n="N020"/>dum, vel non observandum omnia predicta vel aliquod ex eisdem. In cuius rei testimonium presentes litteras fieri et sigillis nostre maiestatis iussimus communiri.
+                    <cei:lb facs="#facs_1_r1l22" n="N021"/>Datum <cei:placeName>Prage</cei:placeName> per manus venerabilis <cei:persName>Johannis, <cei:placeName>Wissegradensis</cei:placeName> ecclesie prepositi, cancelarii regni<cei:placeName> Boemie</cei:placeName></cei:persName>, principis nostri dilecti, <cei:date value="99999999">II kalendas septembris anno</cei:date>
+                    <cei:lb facs="#facs_1_r1l23" n="N022"/><cei:date value="99999999">Domini millesimo trecentesimo nonodecimo, regnorum vero nostrorum anno nono</cei:date>. Nos igitur ex nobis innata clemencia favorabiliter eiusdem
+                    <cei:lb facs="#facs_1_r1l24" n="N023"/><cei:persName>Heinrici de <cei:placeName>Lipa</cei:placeName></cei:persName> precibus annuentes prescriptum privilegium cum universis et singulis suis clausulis ac contentis in ipso ratificamus, innovamus,
+                    <cei:lb facs="#facs_1_r1l25" n="N024"/>approbamus et ex certa nostra sciencia confirmamus decernendo idem privilegium robur plenum et firmitatem perpetuam obtinere, in quorum evidenciam
+                    <cei:lb facs="#facs_1_r1l26" n="N025"/>et memoriam futurorum has sibi litteras dedimus sigilli nostri maioris robore communitas. Datum <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">II kalendas octobris anno Domini mille¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l27" n="N026"/><cei:date value="99999999">simo trecentesimo vigesimo tercio</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

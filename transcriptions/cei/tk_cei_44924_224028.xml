@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RM_2328_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RM_2328_H_I</cei:title><cei:idno type="Transkribus">224028</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>Ja <cei:persName>Gezowecz z <cei:placeName>Rakowycz</cei:placeName></cei:persName><cei:placeName/>, wyznawam tiemto lystem obecznye prziedewssemy, ktoz gey czysty nebo cztuczye
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/>slyssety budu, ze gsem przissel swymy przately przied urozeneho pana pana <cei:persName>Gindrzicha z <cei:placeName>Hradczye</cei:placeName>, mystra</cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/><cei:persName>krzyzownyczieho w <cei:placeName>Czechach</cei:placeName>, u <cei:placeName>Morawye</cei:placeName>, u <cei:placeName>Polstye</cei:placeName>, u <cei:placeName>Sstirstye</cei:placeName> a u <cei:placeName>Korutanech</cei:placeName>, zakonna swateho Jana spytala</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/><cei:persName>Jherusalemskeho</cei:persName>, a przied bratra <cei:persName>Sdenka, comendora</cei:persName>, y wesken convent domu <cei:placeName>prazskeho</cei:placeName>, prossye gych swymy
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>przately, aby my y mym dyedyczom a buduczym powolyly na gych zakonnyem zbozy vodu westy skrzye gych dyedyny
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>y skrzye gych lesy. Tu ony s dobru radu, pronie dobre, a ze gsem gym toho zassluzyl y gestye moczy budu zassluzyty
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>y swymy przately, gym y gych buduczym, protoz daly sw my voly kte gyste wztoczie, gesto gest woda pogatta zlazist
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>na zakonnyem lessu namoy <cei:persName>Gezowczow</cei:persName> rybnyk, k <cei:placeName>Rakowyczom</cei:placeName>, k memu pezytku y mym dyedyczom a buduczym, a ta
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>gysta wztoka nema dalssye byty nez bez trzy cztirzidczety powrazczow zdely adwu loktu zssyrzy, a na tey wztoczye
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>nemagy my any mym buduczym ony any gych buduczy przyekazety pod takuto wymlwu, bylolyby, ze by ony
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>krzizownyczy swrchupsany nebo gych buduczy dyelaly rybnyk, tehdy ya <cei:persName>Gezowecz</cei:persName> any mogy buduczy nema¬
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>me any moczy budem gym tey wody branyty, a kdyby byl udyelan ten ribnyk, tehdy ta woda z gych ryb¬
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>nyka mnye <cei:persName>Gezowczowy</cei:persName> any mym buduczym nema gynam swedena byty nez aby sla do meho rybnyka
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>k <cei:placeName>Rakowyczom</cei:placeName>. To take wymyenyeno gest, ze byllyby ten rybnyk zakonny spwsstyen kteru powodny nebo
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>dobrowolnye propossytek neb osyet byl, thedy ya <cei:persName>Gezowecz</cei:persName> nebo mogy buduczy mame sobye struhu bez
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>gych a buduczich gych prziekazy oprawyty. Take to gest wymyenyeno, ze ony krzizownyczy swrchupsany
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>y gych buduczy, kdyzby akolykratby gym toho byllo potrzyebye, budu moczy wyecznye z tey wztoky
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/>luky podpustyowaty prossuchotu, a toho gym ya <cei:persName>Gezowecz</cei:persName> swrchupsany any mogy buduczy
+                    <cei:lb facs="#facs_1_r1l20" n="N019"/>nemame branyty. A protoz toho wsyeho na sswyedomye a na pewnu gysstotu ma peczet <cei:persName>Gezowczo¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l21" n="N020"/><cei:persName>wa</cei:persName> swrchupsaneho a k me prossbye pylne peczety slowtnych panossy <cei:persName>Janowa rzeczeneho mlade¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l22" n="N021"/><cei:persName>necz z <cei:placeName>Myliczina</cei:placeName>, sedyenym w <cei:placeName>Ugezdczy</cei:placeName></cei:persName>, <cei:persName>Petrowa z <cei:placeName>Cunratycz</cei:placeName>, sedyenym w <cei:placeName>Byelcziczich</cei:placeName></cei:persName>, <cei:persName>Janowa</cei:persName>
+                    <cei:lb facs="#facs_1_r1l23" n="N022"/><cei:persName>z <cei:placeName>Kunraticz</cei:placeName>, sedyenym v <cei:placeName>Letech</cei:placeName></cei:persName>, <cei:persName>Josthowa z <cei:placeName>Poczapl</cei:placeName>, sedyenym tudyez</cei:persName>, s nassy dobru voly a s gystym
+                    <cei:lb facs="#facs_1_r1l24" n="N023"/>wyedomym przywyesseny gsu a k nym sye przyznawamy tyemto listem, genz gest dan v <cei:placeName>Prazye</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l25" n="N024"/><cei:date value="99999999">leta od Narozenye Bozieho tyssicz cztirzista let leta dewatehonadczteho tu sobottu oswthych</cei:date>
+                    <cei:lb facs="#facs_1_r1l26" n="N025"/><cei:date value="99999999">dnech u posstye</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

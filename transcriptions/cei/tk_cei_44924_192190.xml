@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_1551_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_1551_H_I</cei:title><cei:idno type="Transkribus">192190</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Mach z <cei:placeName>Holkowa</cei:placeName></cei:persName><cei:placeName/> wyznawam tyemto listem tyem wssem, ktoz gey budu czisty anebo cztucze slissety, ze s dobrim
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>rozmyslem a swich przatel radu prodal sem dwa a cztyrzidcziety grossow platu we wsy w <cei:placeName>Mylikowiczich</cei:placeName> na
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>czlowieku rzieczenem <cei:persName>Jacub</cei:persName>, genz w tu dobu tu sedyel, bez wyerdunka za deset kop se wssym panstwym, se wssy wo¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>ly, s tyem se wssym czoz k tomu przislussiie, tu sobie nicz nezostawuge nyzadneho prawa, s dworem, s dyedynu,
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>s lukamy, s lesy, duchownye pannye abbatyssy Krumlowske a gegye konventu, a ty sem penyeze od nych uplyne
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>wzal hotowymy penyezy, a tyech dyedyn sem gym k prawemu dyedyczstwy postupyl. A slybugy ya drziewe
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>rzeczeny <cei:persName>Mach z <cei:placeName>Holkowa</cei:placeName></cei:persName><cei:placeName/> a podle mne a za mye <cei:persName>Bohuslaw z <cei:placeName>Keblan</cei:placeName></cei:persName> a <cei:persName>Oldrzich z <cei:placeName>Glazar</cei:placeName></cei:persName>, a my <cei:persName>Bohuslaw</cei:persName>
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>a <cei:persName>Oldrzich</cei:persName> drziewerzieczieny slibylisme y slibugem wssichny gednu ruku nerozdyelnye drziewe rzieczene
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>dyedyny zprawity a oswobodity zemskym prawem przied kazdym czlowiekem kterehozby stawu byl a
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>zwlasstye prziedewssemy wyeny a prziedewssemy syrotky y prziedewssemy zapysy krziestyanskymy
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>i zzydowskymy. A to sme slibyly drziewe rzieczenym pannam a k rucze urozeneho pana pana <cei:persName>Gindrzicha</cei:persName>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:persName>z <cei:placeName>Rozemberka</cei:placeName></cei:persName>, bylolyby, ze bich me tiech dyedyn zprawity nemohly a oswobodyty, gehozto Buoh neday, teh¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>dy mame a slybylisme postupity na swich na wlastnych dyedynach naswobodnych a tak dobrzie ose¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>dlich tolikez platu a trzietynu wyecze a ty dyedyny zprawity. Paklybichme toho neuczynyly, gehoz 
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>Buoh neday, tehdy kteryzby znas byl napomenut, bezewssich omluw geden druhym sie neomluwa¬
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>gicz drziew rzeiczenich panen nebo pana drziew rzieczeneho nebo od gich poslow mame wgety ge¬
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>den z nas se dwyema konyema a s gednyem pacholkem do myesta do <cei:placeName>Krumlowa</cei:placeName> ku pocztywemu hospo¬
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>darzi, kdezby nam bylo ukazano, prawe a wobykle lezenye, akdyz by mynulo po cztrnadczty dnech od u¬
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>pomanutye, lezme nebo nelezme, tehdy drziew rzieczene panny nebo pan <cei:persName>Gindrzich</cei:persName> magy plnu mocz drzie¬
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>we rzieczene penyeze deset kop bez wierdunku a trzietynu wyecz wzyety mezy zzydy nebo mezy krzies¬
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>tyany na nassy na wssech sskodu y na nasse sbozye, a my na zadne prawo nemame wygyety, azbichme
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>zaplatyly gystynu y se wssemy sskodamy hotowymy penyezy, kterezby wzyely pro nasse neplnyenye,
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>gesto by mohly dobrym swiedomym ukazaty. Abylolyby, ze by ktery znas umrziel, gehoz Buoh neday,
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>tehdy my zostaly mamy aslybylysme wnayblyzssyem myesyeczy  po smrti geho gyneho k sobye ru¬
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>koymy postawyty tak dobreho a tak bohateho, a gyny list ty myz slowy obnowity, a to pod drzewe
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>rzieczenym lezenym. A ktozby tento list gmyel s gich dobru woly, ten ma tez prawo yako ony samy.
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/>Na kterez wyetssye bezpeczenstwye a potwrzenye nasse peczety s nassym dobrym wiedyenym k tomuto
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>listu przywyesylisme, genz gest dan a psan <cei:date value="99999999">leta ot narozenye syna Bozyeho potysiczi pocztyrzech stech</cei:date>
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/><cei:date value="99999999">prweho wutery u wygilgy swateho Petra a Pawla slawnych aposstolow</cei:date> 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

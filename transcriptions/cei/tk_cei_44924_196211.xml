@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1423_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1423_I</cei:title><cei:idno type="Transkribus">196211</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l3" n="N001"/>Ja <cei:persName>Gyndrzych, rzeczeny Laczenbok</cei:persName>, wyznawam tyemto lystem przede wssemy, ktoz tento lyst uzrzy a 
+                    <cei:lb facs="#facs_1_r1l4" n="N002"/>nebo cztucz uslyssye, ze nayoswyeczenyeyssyemu knyezety a panu panu <cei:persName>Waczlawowy, rzymskemu</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N003"/><cei:persName>a czeskemu kraly</cei:persName>, panu memu mylostywemu, mam a dluzen sem sluzyty se trzmy kopymy k geho po¬
+                    <cei:lb facs="#facs_1_r1l6" n="N004"/>trzebam do geho zywota neb do sweho a aczbich sam nemohl byty a nebo nebyl, tehda myesto sebe mam
+                    <cei:lb facs="#facs_1_r1l7" n="N005"/>a mohu gednoho wyprawyty k tyema dwyema kopyma, aby trzy byla a geho mylost ma gym daty
+                    <cei:lb facs="#facs_1_r1l8" n="N006"/>potrzebu w te sluzbye a za sskody staty, kterezby tu sprawedlywye wzely a to slybugy geho mylosti swu
+                    <cei:lb facs="#facs_1_r1l9" n="N007"/>dobru a czystu wyeru beze wssye zle lsty pewnye a uplnye westy a drzety kolykrat kolwyek toho potrzebye
+                    <cei:lb facs="#facs_1_r1l10" n="N008"/>bude a geho gmenem oto napomanut budu a take nykdy w zadne myerze any skutkem any radu proty
+                    <cei:lb facs="#facs_1_r1l11" n="N009"/>geho mylosti nebywaty, ale gemu wyernye sluzyty a geho dobre powssie czassy westy do geho a do meho
+                    <cei:lb facs="#facs_1_r1l12" n="N010"/>zywota, yakoz swrchupsano stogy a toho k lepssye gystotye swu gsem peczet k tomuto lystu kazal przy¬
+                    <cei:lb facs="#facs_1_r1l13" n="N011"/>wyesyty a na swyedomye duostoyny v Boze otecz knyez <cei:persName>Cunrad, byskup <cei:placeName>olomuczky</cei:placeName>, <cei:placeName>czeskeho kralewstwie</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N012"/><cei:persName>podkomorzye</cei:persName>, a slowutny <cei:persName>Wytek z <cei:placeName>Turowicz</cei:placeName></cei:persName> k me prosbye swe gsu take wedle mne peczety przywyesyly
+                    <cei:lb facs="#facs_1_r1l15" n="N013"/>k tomuto lystu, genz dan gest v <cei:placeName>Praze</cei:placeName> <cei:date value="99999999">leta od narozenye syna Bozyeho tyssicz cztyrsteho dessateho tu prwny</cei:date>
+                    <cei:lb facs="#facs_1_r1l16" n="N014"/><cei:date value="99999999">sobotu po ukazowanye swatosty. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

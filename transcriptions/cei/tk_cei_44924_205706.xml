@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2159_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2159_H_I</cei:title><cei:idno type="Transkribus">205706</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Purkart z Ugezda</cei:persName> wyznawam tiemto listem obecznie przed kazdym czlowiekem, ktoz gey uzrzii anebo cztucze slysseti bude,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>jakoz gsem z duostoynym v Boze <cei:persName>kniezem Hinkem probosstem z <cei:placeName>Chotiessowicz</cei:placeName></cei:persName> a s <cei:persName>Jankem Mlazsim z <cei:placeName>Ulic</cei:placeName></cei:persName> byl zassel o ssaczunk,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>iakoz gest przimierzie ssaczowan, gessto gsem w tom dyel miel a k tomu o dwa konye a panczierz, kteryz gsem u nych ztratyl, y ta¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>ke onie wiecznie, iakoz gsem w tom zagitie od przedpsaneho knieze <cei:persName>Hinka probossta</cei:persName> a od <cei:persName>Jana Uliczky</cei:persName>, bratra geho, byl
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>yat, tu oty o wsseczky wieczi predepsane, konecznie nicz posobie nepoostawugie, urozenymi a statecnznymi panem <cei:persName>Wyle¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:persName>mem z <cei:placeName>Necztyn</cei:placeName>, sedyenym na <cei:placeName>Combercze</cei:placeName></cei:persName> a <cei:persName>Duczem z <cei:placeName>Warzyn</cei:placeName>, sedienym w <cei:placeName>Uliczich</cei:placeName></cei:persName>, gsem s czastopsanym <cei:persName>kniezem Hinkem pro¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:persName>bosstem</cei:persName> a <cei:persName>Janem Uliczku</cei:persName>, bratrem geho, umluwen, ze ty wsseczky wieczy wiecznie mezi namy magi mynuty. A ya gim toho
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>nyczymz zlym, any gich sluzebnykom, y ktoz gsu wedle nich zassli, y gich wssem lidem nawieky slibugi nezapomynaty a to
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>slibugi swu dobru wieru y czty cztnie wiernie krzesstyansky zdrzeti bezewssie lsti. Toho nalepssie potwrzenie peczet gsem 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>swu wlasstny k tomuto listu prziwiesil a prosil gsem przedpsanych umluwczii, pana <cei:persName>Wylema z <cei:placeName>Necztin</cei:placeName></cei:persName>, <cei:persName>Ducze z <cei:placeName>Warzyn</cei:placeName></cei:persName> a
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/><cei:persName>Gwana z <cei:placeName>Necztyn</cei:placeName>, sedyenym na <cei:placeName>Bubnie</cei:placeName></cei:persName>, ze gsu peczeti swe na sweidomie k tomuto listu prziwiesili, genz gest <cei:date value="99999999">dan po Boziem</cei:date>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:date value="99999999">Narozenii leta tisiczieho cztyzsteho a sedmmezczitmeho, ten cztwrtek v wigilii swateho Jakuba</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

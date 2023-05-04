@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0174_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0174_H_I</cei:title><cei:idno type="Transkribus">212731</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Albertus</cei:persName> et <cei:persName>Otto, Dei gracia duces <cei:placeName>Austrie</cei:placeName>, <cei:placeName>Styrie</cei:placeName> et <cei:placeName>Karinthie</cei:placeName></cei:persName>, tenore presencium profitemur, 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>quod inter amicabilem composicionem inter excellentem principem, dominum <cei:persName>Johannem <cei:placeName>Bohemie</cei:placeName> regem</cei:persName>, affinem 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>nostrum karissimum, ex una et nos parte ex altera iam pridem factam et initam, eidem regi duximus promittendum, 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>quod castrum in <cei:placeName>Greyffenberch</cei:placeName> et castrum in <cei:placeName>Stayn</cei:placeName> a spectabili comite <cei:persName>Alberto <cei:placeName>Goricie</cei:placeName></cei:persName>, avunculo nostro, 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>ea nunc in sua detinens potestate, absbrigare tenebimur sic, ut ad <cei:persName>predicti regis filii, domini Johannis</cei:persName>, manum 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>deveniant, quod si comes antedictus in hoc nobis parere noluerit et se nimis rigidum in exemptione dictorum 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>castrorum ostenderit, tenebimur una cum rege predicto adicere manum potestativam et nihilominus ipse dominus 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName>Johannes</cei:persName> parte reddituum theloneorum mutarum in comitatu <cei:placeName>Tyrolis</cei:placeName> eundem comitem contingentium de nostro 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>beneplacito uti ac frui tenetur, quousque predicta castra ab ipsius extrahantur manibus et ad predicti regis filii, 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>domini <cei:persName>Johannis</cei:persName>, perveniant potestatem, et si predictum regem <cei:placeName>Bohemie</cei:placeName> super dictorum castrorum extractione ac 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>ereptione potestivam manum imponere contingeret et activam, quidquid idem rex sub huiusmodi litigiosis 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>actionibus pecunie rerumque suarum inpenderet, hoc ipsum habere tenebitur super muta et theloneo supradictis tamdiu, 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>quousque eidem de inpensis eiusdem pecunie satisfiat, non obstante eo, quod omnia bona sua, que hucusque 
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:placeName>Tyrolis</cei:placeName> et iuxta <cei:placeName>Attasim</cei:placeName> tenuit, pacifice possidere debet, prout in litteris renunciacionis inter nos mutuo 
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>datis specialiter est expressum. In quorum testimonium ac evidenciam presentes conscribi ac sigillorum nostrorum 
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>munimine iussimus communiri. Actum et datum in <cei:placeName>Ensa</cei:placeName> <cei:date value="99999999">in die beati Dyonisii anno Domini  </cei:date>
+                    <cei:lb facs="#facs_1_r1l19" n="N017"/><cei:date value="99999999">millesimo CCCo Tricesimo sexto</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

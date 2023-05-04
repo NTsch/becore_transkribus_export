@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_223_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_223_H_I</cei:title><cei:idno type="Transkribus">170080</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Aless z <cei:placeName>Rysmburga</cei:placeName>, naywissy zprawczie <cei:placeName>Kralewsstwie czeskeho</cei:placeName></cei:persName>, wiznawame tiemto lisstem przie¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>dewssemy, ktoz gey uzrzie nebo cztucz usslissie, ze zdrawe rady nassie wiernym nassym mylym mynczerzom,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>knapom na <cei:placeName>Horach Cuthnach</cei:placeName>, kterziz su zasie v <cei:placeName>Hory Cuthny</cei:placeName> powypaleny prwniem y druhem sie osadily, a w tom wier¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>nu praczi a pilnu gich sstalost ku prawdam Bozim a k obecznemu dobremu znamenagicze, i nawratilisme a moczii
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>tohoto listu gym nawraczugem wssechna prawa a rrady. Ssmy ten, kteraz su miely a magi od slawnych kralow
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>a gmenowitie slawne pamieti od <cei:persName>krale Waczlawa druheho</cei:persName>, od <cei:persName>cziesarzowy milosti Karla prwnieho</cei:persName> a od <cei:persName>krale Wa¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:persName>czlawa</cei:persName>, syna geho, gich wnyczemz neumensugicze, k mocznemu drzeny, gmieny, wladnuti a podle gich diela a pracze
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>kupoziwany. Tak, aby ony i gich buduczi tiech praw sewssemy prawy k tomu przisslussnymi mohly poziwati, drzieti,
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>smieniti, prodati, a iako sswym wlastnym ucziniti. To wsak wzdy sswiedomym mynczmagistrowym, a toho y zadney
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>z uteklich negsucze powynny sstupowati, kterziz protiwiecze sie zakonu Boziemu z zemie aneb gynam su utekly a
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>my gym wto y zadnu moczy slibugem nesahati, any gym kterak gynak tiemy prawy gich hybati, kromie leczby ktery
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>z swe dobre wuole sam od sebe czo takoweho chtiel nawratiti aneb sstupiti, toho gemu neodpierame a gynak zadnu
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>moczi nemame gich tisknuti, leczbibila hodna prziczina, ale znamenitie przidawame, aby mynczmaystr, kteryz koliwiek
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>od nas na <cei:placeName>Horach Cuthnach</cei:placeName> bilby posazen, gym sprawedliwie a dobrotiwie sie okazowal, a gie przi gich rzadech a pra¬
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>wiech bez utisku wselikakeho drzal a zachowawal, kterizto zapiss chczme gym zachowati bez przierussenye, leczby
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>ktery neb niekterzi z nych v falsy bily shledany. A toho na potwrzenie a probuduczi pamiet peczet nassy wlasstny
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>przyrozenu k tomuto listu kazalisme prziwiesiti. Genz gest psan a dan <cei:date value="99999999">leta od narozenie syna Bozieho tisicz cztrsteho</cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/><cei:date value="99999999">leta trzidczateho pateho, prwny patek v puostie</cei:date> et cetera. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

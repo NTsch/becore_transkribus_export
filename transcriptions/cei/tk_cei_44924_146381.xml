@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_Anna_1129_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>AZK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_Anna_1129_H_I</cei:title><cei:idno type="Transkribus">146381</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Wylem z <cei:placeName>Chlumu</cei:placeName>, sedyenym na <cei:placeName>Kossembercze</cei:placeName></cei:persName>, gystecz prwny s swym y s swich bratrzie nedyelnych gmenem wyznawam zyewnye
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>tiemto listem wssiem, ktoz giey uzrzie nebo cztucze uslyssie, ze gsem dobrowolnye na swych dyedynach na <cei:placeName>Chwalowiczych</cei:placeName> a <cei:placeName>Wlkanczy</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>y na tey wssye <cei:placeName>Zwoly</cei:placeName>, czoz tu mam a czoz k tomu przysslussy, dessek kop grossuow platu rocznyeho holeho a wyeczneho prodal uroze¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>ne pannye <cei:persName>Agnezcze z Sternberka, przeworzyssy klastera swatey Anny gynak swateho Wawrzyncze w <cei:placeName>Starem myestye prazskem</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>y gyegy conventu. Tudyz za sto kop grossuow mnye od nye y od giegie conventa hottowymy peniezy uplnye zaplaczenych a ten
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>plat na swych y na swych bratrzye dyedynach swobodnych we dsky zemske obyczegem prawa zemskeho, yakoz we dsky plat holy
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>kladu na poly swateho Gyrzie a swateho Hawla placzenye wlozyti slybugy, kdyz by my cztyrzy nedyele naprzed daly wiedyety.
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>A mam gye pannye neb giegie buduczye przeworzyssy a conventu klastera drzewerzeczeneho z dobrymy zprawczy zprawyti przed
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>kazdym czlowiekem prawem zemskym a gmenem przed syrotky, przed wieny y przed wssyemy zapyssy, budte kterakz koly k zydom
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>neb gynak w zemskem nebo w dworskem prawie od danye listu tohoto. Jakaz nayprwe od krale czeskeho toho powolenye dobude
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>po poslu nebo po listu s magiestatem. Pakliby wole neb powolenye kralowa nemohla dobyti, ale tomu neb tiem, komuz by tento
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>lyst ona neb giegye buduczye dala w tiech cztyrzech nedyelech, toho neb tiech ktoz listu moczny budu. A to slibugi ya sam
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>naprzed a podle nyeho s nym a zan my, <cei:persName>Jan Puska z <cei:placeName>Cunstata</cei:placeName>, sedyenym na <cei:placeName>Othoslawyczyech</cei:placeName></cei:persName>, <cei:persName>Bohusse z <cei:placeName>Kowanye</cei:placeName></cei:persName> a <cei:persName>Cztybor</cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:persName>z <cei:placeName>Bohdancze</cei:placeName></cei:persName>, rukoymie gieho, dobru czystu wieru beze wssye zle lsti k ny, ku pannye <cei:persName>Agnezcze, przeworzyssy</cei:persName>, k giegy buduczye
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>y k conventu drzewerzeczenemu. A podle nych k slowuttnym muzom <cei:persName>Wykerzowy z <cei:placeName>Mysslyna</cei:placeName></cei:persName> a k <cei:persName>Waczlawowy z <cei:placeName>Kozinycz</cei:placeName>, pys¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:persName>sarzy desk zemskych</cei:persName>, ty wssyeczkny wieczy naprzedpsane wiernye dokonaty a skutecznye beze wssyeho protywenstwy. Pakly
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>bychom toho neuczinily, giehoz Bozie neday, tehda, kterazbykoly dwa z nas rukoymy drzewerzeczenych od nye neb od giegie
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>conventa neb od tyech, k nymz lyst swiedczy, anebo ktoz toho lystu moczny budu, bud wole kralowa k tomu trhu neb nebud
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>po cztyrzech nedyelech napomanuta byla listem nebo poslem, ynhed bez dlenye gieden sie druhym neomluwagie mawa
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>y slibugiewa kazdy zywotem swym, neb kazdy myesto sebe panossy ryttyrskeho rzadu postawy, kazdy s giednym pacholkem a 
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>se dwiema konyema v <cei:placeName>Praze</cei:placeName> w <cei:placeName>Starem Myestye</cei:placeName> we cztnu hospodu tu, kdez nam od nassych wierzytelow ukazano bude w leczy
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>mame a tu prawe obyczeygne lezenie drzety a odtowadz nayzadne prawo wygiety any wygiti tak dluho, donywadz bichom
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>swich drzewerzeczenych slibuow wssiech y kazdeho uplnye nesplnyly y sewssyemy skodamy, kterezby pro nesplneny aneb urokow
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>ne danye wzely, kterezbykolywiek dobrym swiedomym pokazaty mohly a penyezy nezaplatyly a doczela. Paklyby toho
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>Buoh z nas gystze neb rukoymy neuchowal, giehoz Bozie neday, tehda my zywy zuostaly slibugiem gineho tak gisteho
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>a mowiteho myesto toho umrleho k nam przystawyti v myessyeczy od czassu toho, giesto umrzel poczytagycz suobnowenym lysta
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/>tohoto kdyztohokolywiek potrzebye bude pod lezenym swrchupsanym. A ktoz tento list s giegy dobru woly gmyety bude, ten
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>ma gmyeti wssychna prawa swrchupsana. K tomu na sswiedomie prawym wiedomym swe sme peczety wlastny k tomuto
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/>lystu przywiessyly, genz giest d<cei:supplied>an</cei:supplied> v <cei:placeName>Praze</cei:placeName>, <cei:date value="99999999">leta od narozenie Bozieho tyssycz cztyrzysta w dwanastem letie, ten patek</cei:date>
+                    <cei:lb facs="#facs_1_r1l30" n="N030"/><cei:date value="99999999">przed swatym Gyrzie. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

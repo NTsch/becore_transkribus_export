@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2162_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2162_I</cei:title><cei:idno type="Transkribus">198651</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Zigmund, z Bozie milosti rzimski kral, powssieczassy rozmnozitel rzissie a uherski, czeski, dalmatczki, charwatski etc. kral</cei:persName>, wyznawame tie¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>mto listem przedewssemi, ktoz gey uzrzie anebo cztucze uslissye, jakoz gest nam pocztiwy knyez <cei:persName>Petr, probosst <cei:placeName>chotyessowski</cei:placeName></cei:persName><cei:placeName/>, y s swim conventem nabozni nass
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>mili prwnyeho <cei:persName>probossta knyeze Hinka</cei:persName> dobre pamyety sweho namyestka list umluwny poslal, kterak na sobie y na swem conventu dluh zapisuge na te wsy,
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>na <cei:placeName>Slowiczich</cei:placeName>, slowutnym panossiem <cei:persName>Sudowi</cei:persName> a <cei:persName>Lwikowi, bratrzim z <cei:placeName>Renecz</cei:placeName></cei:persName>, do widrzzenye a wybranye toho dluhu tak, yakoz wegmeno a slowo od slowa ten
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>list drzy azde psan stogy. My <cei:persName>Hynek, Bozim smilowanym probosst</cei:persName>, <cei:persName>Zbranie przewora</cei:persName>, <cei:persName>Gitka subprzewora</cei:persName>, <cei:persName>Katherina klicznyce</cei:persName>, <cei:persName>Anna circatrix</cei:persName>, <cei:persName>Mar¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:persName>garetha cantrix</cei:persName> y wessken convent classtera chotyessowskeho, wyznawame tiemto listem obecznie przedewssemi, ktoz gey uzrzie nebo cztucze slissety budu, 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>ze sme s stupili y moczi listu tohoto sstupugem nassie wsy <cei:placeName>Slowicz</cei:placeName> y s lidmy te wsy y s uroki y s ginymi pozitki y se wssym panstwym, yakoz sme samy dr¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>zzeli, kromye kralowi bernye, slowutnym panossym <cei:persName>Sudowi</cei:persName> a <cei:persName>Lwikowi,</cei:persName> bratrzi z <cei:placeName>Renecz</cei:placeName>, na tom dluhu, yakoz sme gym dluzny na gednom listu bez dwu
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>kopu pouldruheho sta kop grossow a na druhem listu bez gedne tridczeti kop grossow a k tomu patnadczt kop bez dwunadczti grossow urokow zadrzzanych 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>potyech penyezich giz gmenowanych, genz sme gym zadrzzieli do swateho Girzi nynye minuleho a slibugem gym natom neprzekazeti nyzadny wieczy, do¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>kudz bychom gym tyech penyez nesplnili moczi any prawem aczozby zdwihli a wzali, budto urokow, nebo gynych pozitkow na tom zbozie, to ma nam snyty
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>na tyech hlawnych listech toho dluho y na uroczich potyech penyezich a quittancie na to dobre dati, ze sme gym dali a splnyli, paklibychom gym czo 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>prziekazeli nebo przekazeti kazali na tom zbozie, gehoz pane Boze ostrzez, a gesste gym swrchupsanych penyez nesplnywssye, tehdy kterezby sskody pro 
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>nassie przekazenye wzali ti magy nassie byti ale negich a wssak takowe sskody gesstoby ge dobrim swiedomym nebo geden z nych prawem bez zmatku okazati
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>mohl. A to wsse, czoz gest swrchupsano, slibugeme gym nassy dobru wieru y czty cztnye drzzetz bezewssieho przerussenye, toho na lepssy gistotu peczeti nassie
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>conventske s nassi dobru woli y wiedomym k tomuto listu gsu prziwiesseny. A prosili sme urozenych panossy <cei:persName>Hynka z <cei:placeName>Chrzimowa</cei:placeName></cei:persName>, <cei:persName>Hanusse Pehma</cei:persName>
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:persName>z <cei:placeName>Pernolcze</cei:placeName></cei:persName> a <cei:persName>Mikulasska z <cei:placeName>Chotyssowicz</cei:placeName></cei:persName>, ze gsu swe petzety na swiedomye k tomuto listu prziwiesili, genz gest dan po Boziem narozenie cztucze le¬
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>ta tissiczieho cztirzsteho a dwadczateho u wigilii swateho Bartholomiege aposstola Bozieho, kteriz knyez <cei:persName>Petr, probosst</cei:persName> nynieyssy, y s swym 
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>conventem classtera chotyessowskeho swrchupsanym panossym <cei:persName>Sudowi</cei:persName> a <cei:persName>Lwikowi, bratrzy z <cei:placeName>Rzenecz</cei:placeName></cei:persName>, w tuz umluwu gest wstupil a swolil a na 
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>nas prosbu y s swim conventem gest wznesl, abychom na tu wes <cei:placeName>Slowicze</cei:placeName> swe potwrzenye dali swrchupsanym bratrzym do wybranye a wydrzze¬
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>nye gich dluhu wedle toho listu umluwnyeho. A my k geho prosbie swrchupsaneho knyeze probosta chotyessowskeho y s geho conventem s nassim
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>wiedomym y s nassy radu od nas y od buduczich kralow k tomu nassy wuoly dawame y potwrzugem listu toho od <cei:persName>Hynka probossta</cei:persName>, y od conventa
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>classtera chotyessowskeho swrchupsanym <cei:persName>Sudowi</cei:persName> a <cei:persName>Lwikowi</cei:persName> na tu wess <cei:placeName>Slowicze</cei:placeName> do wydrzzenye a wybranye gich dluhu wedle listu na tu wes
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>zapisneho tak, aby nyzadny moczy negmyel, nykterymz obyczegem swrchupsanim bratrzim na te wsy przekazety, dokudz by penyez swich newydrzze¬
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>li a newybrali tak, iakoz gich list umluwny drzzy od <cei:persName>Hinka probossta</cei:persName> dobre pamyety, a od conventa classtera swrchupsaneho. A toho na swi¬
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>edomie nassy kralewsku peczet kazalisme prziwiesity k tomuto listu, genz gest dan w <cei:placeName>Prespurcze</cei:placeName> <cei:date value="99999999">po Bozim narozeny cztrnadczte sett lett a potom</cei:date>
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/><cei:date value="99999999">we trzidczatem letye wtu nedyeli przed swatim Walentinem kralowstwy nassich uherskeho et cetera w XLIII rzimskeho we XX a czeskeho w desatem </cei:date>
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/><cei:date value="99999999">letye</cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

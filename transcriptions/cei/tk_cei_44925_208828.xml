@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1501_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1501_H_I</cei:title><cei:idno type="Transkribus">208828</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/><cei:persName>Sigismundus, Dei gracia <cei:placeName>Romanorum</cei:placeName> rex semper augustus ac <cei:placeName>Hungarie</cei:placeName>, <cei:placeName>Boemie</cei:placeName>, <cei:placeName>Dalmacie</cei:placeName>, <cei:placeName>Croacie</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>et cetera rex</cei:persName>, notum facimus tenore presentium universis, inmensa divine maiestatis clemencia, que celestia simul
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>et terrestria moderatur, nos sua clemencia ab alto prospiciens erexit ad apicem Romane regie dignitatis, ut
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>rei publice et populo fideli nedum prelacione verum in administracione pacis et justicie sollicicius preessemus
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>et hoc precipue ordine servato debito adimplere confidimus, dum principibus in suis meritis fulgentibus, que sua
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>sunt, libenter concedimus ac eciam nostri favoris et gracie benivolenciam de propriis exhibemus, quos fidei constancia,
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>virtutum excellencia et morum insignitas supra ceteros exigit, quique ab experto probati nos et imperium sacrum ro¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>manorum gratorum operum fidelitate ferventer honorat, sane ad illustris <cei:persName>Ludovici de <cei:placeName>Cabilone</cei:placeName>, principis <cei:placeName>Auraice</cei:placeName></cei:persName><cei:placeName/>,
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>consagwinei nostri carissimi et nostri et sacri romani imperii per <cei:placeName>Galliam</cei:placeName> vicarii generalis, benivolenciam et
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>laboris exercicio, quibus se in dicto vicariatu perhibuit se sedulum, ultroneum et fidelem et merito ad exaltacionem
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>sui status et honoris fastigium animemur, idcirco non per errorem aut improvide, sed animo deliberato, sano fi¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>delium nostrorum accedente consilio et de certa nostra sciencia prefato <cei:persName>Ludovico</cei:persName> comitatum <cei:placeName>Gebennensem</cei:placeName>, ad ipsum et he¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>redes suos ex successione progenitorum suorum legittime pertinentem, in feudum contulimus et conferimus per presentes,
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>omneque jus nostrum, quod nobis veluti Romanorum regi in dicto comitatu <cei:placeName>Gebennensi</cei:placeName> et pertinenciis suis hactenus
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>potuisset comperete seu in antea sive per sentencias fisci nostri seu alia occasione quacumque posset competere
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>quodlibet in futurum, in ipsum <cei:persName>Ludovicum</cei:persName> et heredes suos transferimus, ipsis autoritate Romana regia tenore presencium
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>damus in feodum, concedimus, conferimus et donamus habendum, tenendum et jure feodi legittime possiden¬
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>dum. Volumus tamen, quod ipse <cei:persName>Ludovicus</cei:persName> in manus nobilis <cei:persName>Alberti de <cei:placeName>Coldicz</cei:placeName>, capitanei <cei:placeName>Swidnicensis</cei:placeName> et <cei:placeName>Jaw</cei:placeName></cei:persName><cei:placeName/>¬
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/><cei:persName><cei:placeName>riensis</cei:placeName></cei:persName>, magistri camere et fidelis nostri dilecti, nostro nomine prestet solutim juramentum, videlicet, quod nobis veluti
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>Romanorum regi sit fidelis, obediens et subiectus, nostrumque malum avertat, bonum promoveat, omniaque erga nos
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>et sactum Romanum imperium fideliter faciat et perficiat, que fidelis vasallus imperii tenetur facere erga suum
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>dominum naturalem de consuetudine vel de jure, sicut eum Deus adiuvet et sancta Dei ewangelia, dolo et fraude
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>quibuslibet proculmotis. Presencium sub nostre maiestatis sigillo appensione testimonio literarum. Datum
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/><cei:placeName>Posonii</cei:placeName> <cei:date value="99999999">anno Domini millesimo quadringentesimo vigesimotercio undecima die januarii, regnorum nostrorum</cei:date>
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/><cei:date value="99999999">anno <cei:placeName>Hungarie</cei:placeName> et cetera tricesimosexto, Romanorum tredecimo, <cei:placeName>Boemie</cei:placeName> vero tercio</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1574677658749_200">
+              
+              
+                    <cei:lb facs="#facs_1_line_1574677663423_203" n="N001"/>Ad mandatum domini regis domino <cei:persName>Georgio, episcopo <cei:placeName>Pataviensi</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_line_1574677667315_208" n="N002"/>cancellario referente <cei:persName>Franciuscus prepositus <cei:placeName>Strigoniensis</cei:placeName></cei:persName>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

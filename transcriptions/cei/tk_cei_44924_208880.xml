@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_333_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_333_H_I</cei:title><cei:idno type="Transkribus">208880</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Zygmund z Bozzye milosti rzymsky czyesarz, wzzdy rozmnozzytel rzysse a uhersky, czesky et cetera kral</cei:persName>, wyznawame tiemto listem obecznie przede¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>wssemi, ktozz gey uzrzie nebo cztucze slysseti budu, zze znamenawsse wierna a pilna zasluzzenie urozeneho <cei:persName>Oldrzicha Medka z Waldeka</cei:persName>, wierneho nasseho
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>mileho, gimizzto nassye welebnosti ot drahnie przedesslych let ustawnie zachowal, sie gest y gma zachowati, sie buducznie chtiecze gemu to na¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>hraditi a milost y wdiecznost nassy okazati, s dobrym rozmyslem a radu nassii temuzz <cei:persName>Oldrzichowi</cei:persName> za ty geho sluzzby, naklady y sskody zastawi¬
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>lisme a zapsali y tiemto listem zastawugem a zapisugem z milosti nassye zwlasstnie wsy <cei:placeName>Mokropsy</cei:placeName> geptissek swatogirzskych <cei:placeName>hradu Prazskeho</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>s <cei:placeName>lesem rzeczeny Geptisstie</cei:placeName>, s rzeku, s uroky a pozzytky y prawy wsselikakymi, k tiem wsem przyslussnymi, we dwustu kopach grossuow prazskych
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>strziebrnych a dobrych, a to tak, aby gmenowany <cei:persName>Oldrzich</cei:persName> to drzzal a miel y toho pozzywal bez nassye, nassych buduczych neb urzednikow,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>y wssech ginych odpory a przekazky, to znamenite przidawagicz, kdyzzbychom my neb nassy buduczii a neb ty osoby, kterezz tu wyplatu sprawe¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>dliwie mieti magy, gizzprawenemu <cei:persName>Oldrzichowi</cei:persName> cztwrt leta naprzed wiedieti, daducze tiech dwiestie kop grossuow, dali a zaplatili tehdy
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>yhned, dlenie wiecze neczynie, manam, nassym buduczym nebo tiem, gimzzby przislussalo wsii prwepsanych s przislussenstwim wssim s stu¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>piti bez odporu y bez zmatku, a take swrchupsany <cei:persName>Oldrzich</cei:persName> lidii tiech wsii mimo sprawedliwe poplatky a uzzytky nema obtiezzowati ku po¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>horssenii toho zbozzye obyczegem zzadnym. A ktozzby tento list miel nebo mieti bude, czastopsaneho <cei:persName>Oldrzicha</cei:persName> dobru a swobodnu woli, ten
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>ma y mieti bude w tomto zapisu wsseczko prawo yako on sam. Toho na potwrzenie nass czyesarzsky maiestat kazalisme prziwiesyti k
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>tomuto listu, genzz gest dan <cei:date value="99999999">leta od narozenie syna Bozzyeho tisyczyehocztyrzstehotrzidczatehossesteho ten patek przed swatym Kalixtem</cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:date value="99999999">papezzem let kralowstwii nassych uherskeho et cetera w padesatem, rzymskeho w dedmezyczyetmeho, czeskeho w XVII a czyesarzstwie w cztwrtem letie. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

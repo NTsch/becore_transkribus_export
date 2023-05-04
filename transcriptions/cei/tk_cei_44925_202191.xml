@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0128_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0128_H_I</cei:title><cei:idno type="Transkribus">202191</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Johannes, Dei gracia <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> rex et <cei:placeName>Lucemburgensis</cei:placeName> comes</cei:persName>, ad universorum notitiam volumus tenore presentium pervenire, quod quia bona
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>nostra infrascripta, videlicet opidum et munitionem <cei:placeName>Towaczaw</cei:placeName> cum villis <cei:placeName>Myrwans</cei:placeName>, <cei:placeName>Oplaczan</cei:placeName>, <cei:placeName>Wytlich</cei:placeName>, <cei:placeName>Herboricz</cei:placeName>, <cei:placeName>Grelicz</cei:placeName> villa forense
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>et <cei:placeName>Pywn</cei:placeName>, cum universis suis pertinentiis, que fideli nostro dilecto <cei:persName>Heinrico de <cei:placeName>Lypa</cei:placeName></cei:persName> juniori in tribus milibus marcarum grossorum denariorum Pragensium
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:placeName>Moravici</cei:placeName> pagamenti et numeri nomine dotis seu dotalitii nobilis domine <cei:persName>Agnetis de <cei:placeName>Blanchenheim</cei:placeName></cei:persName>, consanguinee nostre, sibi in uxorem legittimam
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>copulare et tradite, assignavimus tytulo pignoris possidenda et habenda, prout in aliis litteris nostris inde confectis plenius continetur,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>ab eodem <cei:persName>Heinrico de <cei:placeName>Lypa</cei:placeName></cei:persName><cei:placeName/> libere exsolvimus et redemimus integraliter et in totum, cupientes igitur prefatam dominam <cei:persName>Agnetem</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>consortem dicti de <cei:placeName>Lypa</cei:placeName>, consanguineam nostram, de predicta sua dote, videlicet trium milium marcarum, reddere certam penitus et securam,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>eadem tria milia marcarum super civitatem <cei:placeName>Tribowiam Moravicalem</cei:placeName> cum omnibus et singulis suis juribus et pertinentiis predicte domine <cei:persName>Agneti</cei:persName> pro dote sua
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>impendimus, dedimus et assignavimus et de nostra certa sciencia et consilio prelibato duximus deputandam, per ipsam dominam habendam, tenendam, utifruendam et possi¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>dendam pacifice et quiete, libere, omni eo modo, jure et forma, sicut predicta bona <cei:placeName>Tobaczaw</cei:placeName> eidem obligata fuerunt, tamdiu, quousque in prefata summa trium
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>milium marcarum ab ipsa fuerint exsoluta et redempta, ordinantes et omnino volentes, ut dicta domina, nostra consanguinea, de prefata summa trium milium
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>marcarum assignatarum sibi per nos super predictis civitate <cei:placeName>Tribowie</cei:placeName> et pertinentiis suis et de ipsis bonis, quamdiu ab ea exsoluta non fuerint, sive cum antedicto
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>marito suo pueros et heredes habuerit vel non habuerit, ordinare, facere et disponere in vita vel in morte, eadem legandi, donandi, obligandi, permu¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>tandi cuicumque vel quibuscumque voluerit, libere et absque omni impedimento valeat atque possit tamquam de re sua propria pro sue libito voluntatis,
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>ratum, firmum et gratum habentes exnunc prout extunc, extunc prout exnunc, quidquid per eandem consagwineam nostram de dicta dote
+                    <cei:lb facs="#facs_1_r1l18" n="N016"/>sua trium milium marcarum in vita vel in morte actum, factum fuerit seu ordinatum, promittentes pro nobis et heredibus nostris
+                    <cei:lb facs="#facs_1_r1l19" n="N017"/>bona fide prefatam nostram consanguineam in predictis bonis seu dote sua ab iniuriis, violenciis gravaminibus seu molestiis quibuscumque
+                    <cei:lb facs="#facs_1_r1l20" n="N018"/>seu quorumcumque manutenere, protegere et favorabiliter conservare. In cuius rei testimonium presentes litteras scribi et sigillo nostro maiori
+                    <cei:lb facs="#facs_1_r1l21" n="N019"/>iussimus communiri. Datum in <cei:placeName>Epternaco</cei:placeName> <cei:date value="99999999">anno Domini millesimo trecentesimo vicesimo septimo tredecima kalendas augusti</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

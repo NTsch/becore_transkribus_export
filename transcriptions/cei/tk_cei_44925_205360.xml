@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0148_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0148_H_I</cei:title><cei:idno type="Transkribus">205360</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l5" n="N001"/>Nos <cei:persName>Johannes, Dei gracia dux <cei:placeName>Slesie</cei:placeName> et dominus in <cei:placeName>Stynavia</cei:placeName></cei:persName>, notum fieri volumus universis tam presentibus quam futuris presentes literas inspecturis,
+                    <cei:lb facs="#facs_1_r1l6" n="N002"/>quod nos animo deliberato, maturoque consilio, sani mente et corpore totum ius proprietatis ac dominii devolucionis et successionis hereditarie, quod ex
+                    <cei:lb facs="#facs_1_r1l7" n="N003"/>parte domini quondam genitoris nostri domini <cei:persName>Heinrici</cei:persName> aut ex parte domini <cei:persName>Prymkonis</cei:persName>, bone memorie fratris nostri, ducum <cei:placeName>Glogovie</cei:placeName>, in ipsa civitate
+                    <cei:lb facs="#facs_1_r1l8" n="N004"/><cei:placeName>Glogow</cei:placeName>, territorio, iuribus, redditibus, censibus, proventibus suisque appendiis et pertinenciis omnibus et singulis, quibuscunque nominibus censeantur, nobis
+                    <cei:lb facs="#facs_1_r1l9" n="N005"/>hactenus competiit aut in presenti competit vel competere poterit in futuro, magnifico principi domino nostro, domino <cei:persName>Johanni, <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> regi</cei:persName>
+                    <cei:lb facs="#facs_1_r1l10" n="N006"/><cei:persName>ac comiti <cei:placeName>Lucemburgensi</cei:placeName></cei:persName>, et heredibus suis pro duobus milibus marcarum <cei:placeName>Polonici</cei:placeName> pagamenti, quadraginta octo grossos pragensium denariorum
+                    <cei:lb facs="#facs_1_r1l11" n="N007"/>pro marca qualibet conputando, quas ab ipso domino rege recepisse paratas presentibus nos fatemur, vendidimus, cessimus et resignavimus libere in
+                    <cei:lb facs="#facs_1_r1l12" n="N008"/>presencia illustrium principum et dominorum, <cei:persName>Bolezlai videlicet, ducis <cei:placeName>Slezie</cei:placeName>, domini <cei:placeName>Lignicensis</cei:placeName></cei:persName>, domini <cei:persName>Conradi, fratris nostri karissimi, ducis <cei:placeName>Glogovie</cei:placeName> et domini</cei:persName>
+                    <cei:lb facs="#facs_1_r1l13" n="N009"/><cei:persName><cei:placeName>Stynavie</cei:placeName></cei:persName>, domini <cei:persName>Wytigonis, episcopi <cei:placeName>Mysnensis</cei:placeName></cei:persName>, et aliorum magnorum nobiliumque multorum virorum convocatis et evocatis ad hoc civibus <cei:placeName>Glogoviensibus</cei:placeName> uni¬
+                    <cei:lb facs="#facs_1_r1l14" n="N010"/>versis, quos omnes tam divites quam pauperes, iuvenes atque senes, sexus eciam utriusque, in loco publico ante hospicium dicti domini regis,
+                    <cei:lb facs="#facs_1_r1l15" n="N011"/>hoc est ante domum <cei:persName>Henrici</cei:persName>, filii quondam <cei:persName>Eckhardi, civis <cei:placeName>Glogoviensis</cei:placeName></cei:persName>, a prestito nobis homagii et fidelitatis debite iuramento et liga qualibet,
+                    <cei:lb facs="#facs_1_r1l16" n="N012"/>quibus nobis tenebantur hactenus et astringebantur, absolvimus et absolutos a nobis et heredibus nostris, si quos adhuc nos habere contigerit, eos fore pub¬
+                    <cei:lb facs="#facs_1_r1l17" n="N013"/>lice pronunciamus, dirigentes et demonstrantes seu transferentes eos ad ipsos regem et heredes suos tamquam homines ligios et fideles ad veros le¬
+                    <cei:lb facs="#facs_1_r1l18" n="N014"/>gittimos et hereditarios de cetero suos dominos, doli fraudis et malicie fomento quolibet procul moto, renunciantes sponte in hiis scriptis et expresse
+                    <cei:lb facs="#facs_1_r1l19" n="N015"/>nostro et heredum nostrorum nomine omni iuri, proprietati et dominio, que nobis in predictis civitate <cei:placeName>Glogow</cei:placeName>, territorio ipsius et ceteris annotatis superius
+                    <cei:lb facs="#facs_1_r1l20" n="N016"/>hucusque competiverunt, competunt presencialiter aut competere in futuro poterunt quoquo modo, excepcioni nichilominus doli mali, in factum accioni, beneficio
+                    <cei:lb facs="#facs_1_r1l21" n="N017"/>restitucionis in integrum, literis quoque a papa, Romanorum imperatoribus aut imperatore, sive regibus aut rege inpetrandis ac eciam impetratis,
+                    <cei:lb facs="#facs_1_r1l22" n="N018"/>omnique iuris auxilio tam canonici quam civilis, quibus presenti nostre vendicioni, cessioni aut resignacioni spontanee modo posset aliquo derogari
+                    <cei:lb facs="#facs_1_r1l23" n="N019"/>aut eciam obviari. Et promittentes bona fide, nostro et heredum nostrorum nomine prefatorum contractum nostrum presentem vendicionis scilicet cessionis ac resig¬
+                    <cei:lb facs="#facs_1_r1l24" n="N020"/>nacionis nostre voluntarie omnium superius expressorum inviolabiliter perpetuis in antea temporibus observare et contra premissa vel premissorum aliquod de iure sive facto
+                    <cei:lb facs="#facs_1_r1l25" n="N021"/>per nos ipsos, alium vel alios nullo umquam tempore facere aut venire vel aliqualiter contraire. In quorum omnium testimonium, memoriam et cautelam presentes fieri
+                    <cei:lb facs="#facs_1_r1l26" n="N022"/>et sigillorum nostri videlicet ac venerabilis patris in Christo, domini <cei:persName>Wytigonis, <cei:placeName>Mysnensis</cei:placeName> episcopi</cei:persName>, necnon civium seu civitatis <cei:placeName>Glogoviensis</cei:placeName> a nobis rogatorum
+                    <cei:lb facs="#facs_1_r1l27" n="N023"/>appensionibus fecimus roborari. Et nos <cei:persName>Wytigo, Dei gracia <cei:placeName>Mysnensis</cei:placeName> episcopus</cei:persName>, iudex, scabini et cives Glogovienses antedicti ad preces domini <cei:persName>Johannis</cei:persName>
+                    <cei:lb facs="#facs_1_r1l28" n="N024"/><cei:persName>ducis</cei:persName> supradicti sigilla nostra presentibus in testimonium enarratorum superius omnium et singulorum duximus appendenda. Datum et actum <cei:placeName>Glogovie</cei:placeName> <cei:date value="99999999">in die beati Remi¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l29" n="N025"/><cei:date value="99999999">gii, anno Domini millesimo trecentesimo tricesimo primo</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1574684403386_542">
+              
+              
+                    <cei:lb facs="#facs_1_line_1574684407762_545" n="N001"/>Copiata,
+                    <cei:lb facs="#facs_1_line_1574684409669_550" n="N002"/>registrata.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

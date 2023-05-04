@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RM_2166_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RM_2166_H_I</cei:title><cei:idno type="Transkribus">223952</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Jan, rzeczeny Koczka s <cei:placeName>Mylenowicz</cei:placeName>, syedyenym v <cei:placeName>Druzeticzich</cei:placeName></cei:persName>, a <cei:persName>Oldrzych</cei:persName>, bratr nass, y nassi buduczi,
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>tyemto listem wyznawamy przede wsyemy, ktoz tento list czisti budu neb gey czisti usslissye, zez gsmy wsseli
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>deset kop grossyew prasskeho razu otkazanych knyezi <cei:persName>Petrowi, nynye fararzi kostela w <cei:placeName>Radomyssli</cei:placeName></cei:persName>, y geho
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>potom buduczym, zakona swateho yansskeho zadussi, <cei:persName>Woytyecha nyekdi z <cei:placeName>Rohozne</cei:placeName></cei:persName>, y podle toho za geho przyey¬
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>ssye, y sslubugem ya <cei:persName>Yan</cei:persName> a <cei:persName>Oldrzych</cei:persName>, brattrzye, y sswymy buduczimy, z tyech desyti kop wssatich platiti kopu
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>plata czisteho a wyerneho czissla prazkeho gemu knyezi <cei:persName>Petrowi, fararzowi</cei:persName>, y geho buduczim fararzom kostela
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:placeName>Radomysslkeho</cei:placeName>, z toho nasseho platu, genz drzzymy w nassye wssy v <cei:placeName>Druzeticzich</cei:placeName>, a to rozdylnye puolkopi gro¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>ssyew na swateho Gyrzye a polkopi na swateho Hawla, dobru nassy wyeru a beze wssye zle lsti bez messka¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>nye, ale wssak pod tyemyto umluwamy, aby on knyez <cei:persName>Petr, faraz</cei:persName> nynyeyssy, y potom geho buduczi, dwe
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>sluzbe czynyli zadussi <cei:persName>Woytecha</cei:persName>, drzyewe rzeczeno, y za geho dusse przeyssye, wssak take rozdyelnye gednu
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>ssluzbu dwe nyedyeli przed swatim Gyrzym anebo dwe nyedyeli potom uweczer cztucze vigilie trzy lecczy
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>asyttra trzy mssye cztene a cztwrta spywana, wssye zadussnye, a k tomuz cztwero chudich nakrmyti, ta¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>kez druhu sluzbu dwe nyedyeli przed swatim Hawlem anebo dwe nyedyeli potom uveczer vigilie cztucze
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>o ttrzyech lekczyich a po gittru trzy mssye a cztwrta spywana awssye zadussnye a na obyedye cztwero chu¬
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>dych nakrmyti. Paklyby kdy, gehozto Buoh neday, kdi on knyez <cei:persName>Petr, fararz</cei:persName>, anebo geho buduczy, kteru z drzye¬
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>we gmyenowanych sluzeb kterak obmesskali, ez by vigiligich anebo mssy necztly nebo nezpywali neb
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>chudich nekrmyli, anebo proseb za geho dussy y za geho przyessye na kazdu nyedyeli obmyesskali czynyti, a to
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>podobnye uptano bude, tehdi on knyez <cei:persName>Petr, fararz</cei:persName>, a potom geho buduczi, przy kterem roku ktera sluzba
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>bude obmesskana, tehdi to puolokopye grossyew beze wssye obrany propadne, a my wyerzitelowe aneb
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>potomny nassi, ktoz budu prawo k tomuto gmyeti, moczny budu ty penyze chudym aneb na kostelnye dobre
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>dati. A ss druhe strany my werzytelowe, ktoz tento plat wydawati budem, kdiz bychom newydali toho polukopye
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>dwe nyedyeli po swetim Gyrzy anebo dwe po swyetyem Hawle, a potom wpomanuty byli, tehdi po ttrzech
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>dnech upomanutye abichom bezobrany w klatbu knyeze arczbisskupowu wpadly, aproti tomu yzadne
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>otpory neygmyeli. Pakli bychom czo uczynyli, tehdi bichom proti czti ywyerze mluwyli, a nadto geste dally
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>by kdy Buoh po letech, ze bich ya nebo <cei:persName>Oldrzych</cei:persName>, bratr moy, nebo nassy potomny, mohli wyplatiti, tehdy
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>daducz knyezi <cei:persName>Petrowy, fararzowi</cei:persName>, aneb geho buduczym, deset kop grossyew prazskeho razu, prazdny budem
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/>y nassy potomny oplaczenye te kopi platu. A ty wssechny umluwy swrchu gmyenowanye ya <cei:persName>Yan Koczka</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/><cei:persName>Oldrzych</cei:persName>, bratr moy, y nassy potomny, slybugem plnyti pod pokutamy drzyewe gmyenowanymy.
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/>A protoz tomu wssemu na wyeczczye swyedomye peczet mu, potom bratra meho <cei:persName>Oldrzycha</cei:persName>, potom pana
+                    <cei:lb facs="#facs_1_r1l30" n="N030"/><cei:persName>Gyndrzycha Hraddeczkeho, mystra swato yansskeho</cei:persName>, potom <cei:persName>Busskowu, rzeczeneho Hayna z <cei:placeName>Myrzenycz</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l31" n="N031"/>a <cei:persName>Hroznatowu z <cei:placeName>Domanycz</cei:placeName></cei:persName><cei:placeName/>, z gich dobrym swyedomym k tomu lystu gssu przywesseny. Dan gest tento lyst
+                    <cei:lb facs="#facs_1_r1l32" n="N032"/><cei:date value="99999999">letha ot Bozyeho narozenye tyssycz strysteho stwrteho leta ten patek przed sswatym Ondrzyegem</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

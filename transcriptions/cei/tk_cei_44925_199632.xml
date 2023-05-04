@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0104_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0104_H_I</cei:title><cei:idno type="Transkribus">199632</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/><cei:persName>Johannes, Dei gracia <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> rex ac <cei:placeName>Lucemburgensis</cei:placeName> comes</cei:persName>, universis, ad quos presentes
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>pervenerint, imperpetuum. Bene novit maiestas regia presentia queque disponere futuris etiam
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>sic providere negotiis, ut cum dispendiis preterita non commendet, sed gesta retroactis cur¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>riculis temporum innovando et approbando sua consuevit auctoritate firmare. Sane libertatum
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>et privilegiorum indulta non nulla fidelis nostri dilecti <cei:persName>Henrici de <cei:placeName>Lipa</cei:placeName>, summi marschalci regni</cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:persName><cei:placeName>Boemie</cei:placeName></cei:persName>, nos dedisse recolimus, ex quibus tenor cuiusdam per omnia dinoscitur esse talis:
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>Nos <cei:persName>Johannes, Dei gratia <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> rex ac <cei:placeName>Lucemburgensis</cei:placeName> comes</cei:persName>, recognoscimus,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>quod nos dilecto fideli nostro <cei:persName>Heinrico de <cei:placeName>Lipa</cei:placeName></cei:persName> de certa nostra sciencia favemus, quod villam suam
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/><cei:placeName>Jarozlawicz</cei:placeName>, sitam in terra <cei:placeName>Moravie</cei:placeName>, vendere et alienare potest, cuicumque sue placuerit
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>voluntati, promittentes sincere eandem villam una cum eo defensare et disbrigare
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>a quolibet impetente. In cuius rei testimonium presentes litteras fieri et sigillis nostre maiestatis
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>iussimus communiri. Datum <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">XVIIII kalendas septembris anno Domini millesimo</cei:date>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:date value="99999999">trecentesimo sextodecimo, regnorum vero nostrorum anno sexto</cei:date>. Nos igitur ex nobis
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>innata clemencia favorabiliter eiusdem <cei:persName>Henrici de <cei:placeName>Lipa</cei:placeName></cei:persName> precibus annuentes prescriptum pri¬
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>vilegium cum universis et singulis suis clausulis at contentis in ipso ratificamus,
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>innovamus, approbamus et ex certa nostra sciencia confirmamus decernendo idem privilegium
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>robur plenum et firmitatem perpetuam obtinere. In quorum evidentiam et memoriam
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>futurorum has sibi litteras dedimus sigilli nostri maioris robore communitas. Datum <cei:placeName>Prage</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/><cei:date value="99999999">kalendas octobris anno Domini millesimo trecentesimo vigesimo tercio</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

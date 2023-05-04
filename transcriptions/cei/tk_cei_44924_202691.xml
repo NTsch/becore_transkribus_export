@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RM_2380_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RM_2380_H_I</cei:title><cei:idno type="Transkribus">202691</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Zigmund, z Bozie milosti rzimsky cziesarz, wzdy rozmnozitel rzisse, a uhersky, czesky, dalmatsky, charwatczky et cetera kral</cei:persName>, wyzna¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>wame tiemto listem obecznie przedewssemi, kterziz gey uzrzie nebo cztucze slisseti budu, ze spatrziwsse natu snaznost, kteruz gest slowutny <cei:persName>Przibik z <cei:placeName>Klenoweho</cei:placeName></cei:persName>, 
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>wierny nass mily, tyto czasi uczinil pro zemske dobre, a take ze gest nemalo praczowal o nasse poczestne a dobre, iako pana przirozeneho a diediczneho my chtiecz
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>gemu take nassi milost a wdiecznost ukazati, aby nam k zemskemu a obecznemu dobremu tiem lepe a pilniegie ssluziti mohl, protoz gsme s dobrim rozmy¬
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>slem a s radu nassi s nim uhodili a uhozugem milostiwie, iakoz dolepsano stogy, tak ze moczy tohoto listu gemu a geho erbom zastawugem a zapisugem
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:placeName>Wolyni</cei:placeName>, twrz a miesteczko, probosstwie <cei:placeName>Hradu prazskeho</cei:placeName> s tiemi se wssemi, czoz k tomu przislussie, s ribniki, lesy, hagi, uroky, pozitky a prawy wsseli¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>kakymi, kterez k tomu sbozii przislussegii w tisiczi kopach grossuow prazskich strziebrnich a dobrich. A to tak, aby gmenowany <cei:placeName>Przibik</cei:placeName> to giste sbozie
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>probosstwie <cei:placeName>Hradu prazskeho</cei:placeName>, iakoz sie swrchu pisse drzal a geho poziwal, a w tom, abichme my ani nassi urzedniczi gemu neprzekazeli, a kdiz my nebo
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>nassii buduczii a neb ty osoby, kterziz tu wyplatu sprawedliwye mieti magii, gemu neb geho erbom ten tisicz kop grossuow dadie a zaplatie, a toho wyplacze¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>nie zadati budu, daducze gim cztwrt leta naprzed wiedyeti, tehdi nam a tyem yhned bezprodlenie magii toho sbozie y s przislussenstwim wssim zstupiti bez od¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>poru y bez zmatku. Wssak gest wymienyeno, aby mymo sprawedliwe pozitky lidii chudych neobtiezowalo ku pohorsseni teho sbozie, a aby nam a komorze nassie
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>ty sumy obyczegne podle prawa przedkuow nassich wydawaly, czozbi z swrchupsaneho geho drzenie sprawedliwe bylo, a kdyzby te sumy na chudych
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>lidech pozadali, aby mymo to nebrali wiecze. Take swrchupsany <cei:persName>Przibik</cei:persName> nema na zadneho moczy sahati, ani swewolnie burziti nez prawem, iakoz slussie 
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>hledieti kazdeho, a ktoz tento list s swrchupsaneho <cei:persName>Przibika</cei:persName> a geho erbuow dobru woly mieti bude, ten ma w tomto zapisu wsseczko prawo mieti, iako
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>oni sami. A toho na swiedomie nass cziesarzsky maiestat kazalisme priwiesiti k tomuto listu, genz gest dan v <cei:placeName>Prazie</cei:placeName>, <cei:date value="99999999">den swateho Mathusse</cei:date>
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:date value="99999999">aposstola a ewangelisty, Bozieho leta od narozenie sina Bozieho tisiczieho cztyrzsteho trzidczateho a ssiesteho, lett kralowstwii nassich uher¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/><cei:date value="99999999">skeho et cetera w padesatem, rzimskeho w XXIII, czeskeho w XVII a cziesarzstwie w czwrtem letye</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

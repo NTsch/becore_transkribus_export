@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_170_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_170_H_I</cei:title><cei:idno type="Transkribus">169978</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Beness z <cei:placeName>Mokrowauz</cei:placeName> a na <cei:placeName>Malessowie</cei:placeName></cei:persName><cei:placeName/> wyznawam tiemto listem obecznie przede wssiemi, ktoz geg uzrzie a nebo cztucz slyssieti
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>budu, zie gsem list hlawnie na pargamenie s swisutymi peczetmy na luky a na hage na ty, kterez gest drzela nebuoha pan
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>czerka u <cei:placeName>Lochynicz</cei:placeName> a ty luky s hagem odkazala czlowieku memu gmenem <cei:persName>Tomikowi</cei:persName> w nedielisstiech a tudiz y dietem
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>geho, zprawugicz gie toliko ssosu dostawanie a placzenie panuom miesta <cei:placeName>Hradcze</cei:placeName> a tudy dale, komuz by gich przal <cei:persName>To¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName>mik</cei:persName> a nebo dieti geho s takym poplatkem swrchu psanem, aby poziwali beze wssech przekazek y ti buduczy po niech. Ten
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>pak gisty list hlawni swrchu psany ja <cei:persName>Beness</cei:persName> swrchu psany dal siem tento list z drobu wuoli a ss zadosti czlowieka meho
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>gmenem <cei:persName>Benesse</cei:persName>, syna <cei:persName>Tomikowa</cei:persName>, czlowieku panuow hradeczkych gmenem <cei:persName>Martinowi Hniedemu</cei:persName> w <cei:placeName>Lochynicziech</cei:placeName> na
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>swiedomi toho, kteraz sie gest mezy nimi smluwa stala a kaupenie tiech luk s hagem, iako swrchu psano, mezy <cei:persName>Benessem</cei:persName>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>drziewe rzeczenym a <cei:persName>Martinem Hniedym</cei:persName> tak, zie gest prodal ty luky s hagem <cei:persName>Beness</cei:persName> rzieczeny <cei:persName>Martinowi Hniedemu</cei:persName>
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>do <cei:placeName>Lochenicz</cei:placeName> s sumau za dwa ssilinky kop gemu samemu k geho rucze. Ato spolecznie po gednu penize daducz toho geste
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>zadal <cei:persName>Martin Hniedy</cei:persName>, abych ia <cei:persName>Beness</cei:persName> swrchu psany uczinil zmienku, uczinil wtomto listu a zapis toho, kterak on,
+                    <cei:lb facs="#facs_1_r1l14" n="N012"/>rzeczeny <cei:persName>Martin Hniedy</cei:persName>, kdyz gest ten trh uczinil z <cei:persName>Benessiem</cei:persName> drziewe rzeczenym a <cei:persName>Martin Hniedy</cei:persName> miel penize po
+                    <cei:lb facs="#facs_1_r1l16" n="N013"/>gednu poloziti, toho gest ucziniti nemohl pro nedostatek swuoy y przipustyl gest <cei:persName>Martin Hniedy</cei:persName> k sobie gina dwa
+                    <cei:lb facs="#facs_1_r1l17" n="N014"/>susedy z <cei:placeName>Lochynicz, </cei:placeName>gmenem <cei:persName>Markwarta</cei:persName> a druheho <cei:persName>Waczatu</cei:persName>, a to tak, aby poziwali tiech luk a hage swrchu psanych
+                    <cei:lb facs="#facs_1_r1l18" n="N015"/>az do wyplaczenie <cei:persName>Martina Hniedeho</cei:persName>. A nebo dieti geho pakli dieti geho ale buduczy ponich ktoz by poziwali a
+                    <cei:lb facs="#facs_1_r1l20" n="N016"/>drzali statek tento, kteryz drzy <cei:persName>Martin Hniedy</cei:persName>, a tento list swiedeczny mieli, aby giem bylo wierzeno a chtieli to
+                    <cei:lb facs="#facs_1_r1l21" n="N017"/>wyplatiti, aby giem bylo prawie pusstieno gich diedicztwie tiem diediczuom. Tomu wssiemu na potwrzenie a
+                    <cei:lb facs="#facs_1_r1l24" n="N018"/>pro lepssy gistotu swu gsiem wlastnie peczet swym gistym wiedomiem dobrowolnie k tomuto listu prziwiesyl a
+                    <cei:lb facs="#facs_1_r1l27" n="N019"/>pro lepssy a ssyrssie swiedomi prosylsem urozenych panuow pana <cei:persName>Jana z <cei:placeName>Tendrazicz</cei:placeName></cei:persName> a urozeneho pana <cei:persName>Prokopa</cei:persName>
+                    <cei:lb facs="#facs_1_r1l29" n="N020"/><cei:persName>z <cei:placeName>Dohalicz</cei:placeName></cei:persName> a slowutneho panossie pana <cei:persName>Markwarta z <cei:placeName>Udrnicz</cei:placeName> a z <cei:placeName>Brady</cei:placeName>, </cei:persName>zie gsu k me snazne prozbie peczeti
+                    <cei:lb facs="#facs_1_r1l31" n="N021"/>swe wlastni podle me prziwiessyli na swiedomi k tomuto listu, genz gest dan a psan <cei:date value="99999999">leta od narozenie syn</cei:date>a
+                    <cei:lb facs="#facs_1_r1l33" n="N022"/><cei:date value="99999999">Buozieho tisyczieho cztyrzisteho desateho třetiho w tu strziedu po swatem Martinie</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_201_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_201_H_I</cei:title><cei:idno type="Transkribus">169997</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Mikulass Zagiecz z <cei:date value="99999999">Hazenburka</cei:date>, sedienim na <cei:placeName>Budyny</cei:placeName></cei:persName>, gistecz dluho dolepssaneho, wiznawam tiemto listem obecznie przie¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>dewssiemy, ktoz gey uzrzie czisty, neb cztucz slissieti budu, ze gssem slowutne panye <cei:persName>Dorotye</cei:persName>, manzelczie <cei:persName>Jana, rzeczeneho</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>Sele z <cei:placeName>Lezniczie</cei:placeName></cei:persName>, dwadczieti kop grossow peniez wyennych dobrich strziebrnich razu prazskeho a pocztu czeskeho dluzen,
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>kterezto peniezie wyenne ya, nadepssany <cei:persName>Mikulass</cei:persName>, gie, swrchupssane panye <cei:persName>Dorotye</cei:persName>, mam a slybugy od swateho
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>Girzie, podany tohoto listu naiprw przisstiem wrok, totyz na druheho swateho Girzie, potom naiprw przisstieho da¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>ty a splniti bezprodlewanie dalssieho, paklibich giey tiech peniez dwadczieti kop grossow na ten rok swrchupssany
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>nedal a nesplnil, tehda giey mam a slibugi s tiech peniez dwye kopye grossow plathu komornyeho platiti a dawaty rocznie
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>a rozdielnie, kopu grossow na swateho Hawla, potom yhned naiprw przisstiem a druhu kopu grossow na swateho
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>Girzie potom take yhned zbyehleho, tak dluho, dokowadz bych gie naprziedpssane pany <cei:persName>Dorothie</cei:persName> tiech dwadczieti kop
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>grossow nedal a nesplnil. A kdyz bych gie ty paniezie splnil, tehda tento list zadne moczi wiecze nema, myeti slibu¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>gie swu dobru wieru bezewssie zle lsty giey to wsseczko, czoz swrchupssano stogy, uplnie bezzmatku y wsselikterake od¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>pornosty zdrzieti a zachowaty. A ktoz by tento list s dobru woly a prziznanym gie, swrchupssane panye <cei:persName>Dorothy</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>myel, ten ma a myeti bude tez prawo a mocz k tomu ke wssemu, czoz tento list drzy a swiedczy, yako ona sama
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>swrchupssana wierziczie ma. Toho na potwrzenie peczet swu wlastny s gystym mym wiedomym prziwyesylsem k tomuto
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>lystu, a na swiedomie k prosbye mee urozeneho pana <cei:persName>Jana z <cei:placeName>Colowrath</cei:placeName>, sedyenym na <cei:placeName>Cornhanzie</cei:placeName></cei:persName>, swagra meho,
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>a pana <cei:persName>Oldrzicha z <cei:placeName>Waldeka</cei:placeName>, sedyenym w <cei:placeName>Hosstymyczich</cei:placeName></cei:persName><cei:placeName/>, a slowutnych panossy <cei:persName>Smila z <cei:placeName>Cosstelczie</cei:placeName></cei:persName> a <cei:persName>Mrzaka z <cei:placeName>Wrassko</cei:placeName></cei:persName><cei:placeName/>¬
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:persName><cei:placeName>wa</cei:placeName></cei:persName>, peczeti gich k tomuto listu gssu take przywiesseny, genz gest <cei:date value="99999999">dan na massopusst leta od narozenie syna</cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/><cei:date value="99999999">Bozieho tyssycz cztirzissta osmmezczyetmeho</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

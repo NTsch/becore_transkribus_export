@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1389_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>ACK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1389_H_I</cei:title><cei:idno type="Transkribus">169931</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos magister civium, iudex, scabini, iurati totaque communitas civitatis <cei:placeName>Pyescensis</cei:placeName> recognoscimus et fatemur
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>publice per presentes omnibus et singulis presentem paginam inspecturis, quod bona deliberacione prehabita et de
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>certa nostra sciencia serenissimo principi et domino domino <cei:persName>Wenceslao, romanorum regi, semper augusto et</cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName><cei:placeName>Bohemie</cei:placeName> regi</cei:persName>, domino nostro graciosissimo, promittimus et bona nostra fide presentibus spondemus in casum, quo
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>quispiam cuiuscunque status, gradus seu condicionis extiterit, eundem dominum nostrum regem seu ipsuis regnum
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>impedire, invadere, seu alias modo quocunque perturbare et violenta manu molestare vellet, quod tunc eidem
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>domino <cei:persName>Wenceslao regi</cei:persName>, domino nostro gratiosissimo et naturali, contra et adversus quoscunque rebus et corporibus
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>nostris de tota nostra potencia usque ad effusionem sanguinis assistere volumus et ab ipso cunctis vite sue temporibus
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>nullatenus recedere. Sic nos Deus adiuvet et sancta Dei ewangelia et sibi in singulis obedire tamquam domino
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>nostro naturali, dum et quando nos per ipsum seu suos officiales super hoc fuerimus requisiti. In horum evidenciam
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>maius nostre civitatis sigillum presentibus est appensum. <cei:date value="99999999">Datum sabbato proximo post festum Ascensionis</cei:date>
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/><cei:date value="99999999">Domini, anno eiusdem millesimo quadringentesimo quinto</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

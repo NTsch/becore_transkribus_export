@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0118_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0118_H_I</cei:title><cei:idno type="Transkribus">200586</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Polko, Dei gratia dux <cei:placeName>Opuliensis</cei:placeName> et dominus in <cei:placeName>Valchenberch</cei:placeName></cei:persName>, recognoscimus et fatemur te¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>nore presencium universis nos esse principem et vasallum magnifici domini nostri, domini <cei:persName>Johannis</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName><cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> regis ilustris ac comitis <cei:placeName>Lucemburgensis</cei:placeName></cei:persName>, et ab eo terram nostram <cei:placeName>Val¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:placeName>chenberch</cei:placeName> cum suis civitatibus, videlicet <cei:placeName>Valchenberch</cei:placeName>, <cei:placeName>Glogovia Minore</cei:placeName> et <cei:placeName>Czulcz</cei:placeName> necnon
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:placeName>Strelitz</cei:placeName> opido cum munitione ibidem et <cei:placeName>Pramsyn</cei:placeName> munitione cum etiam villis, ho¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>minibus, vasallis et militibus ad ipsas spectantibus ac aliis suis pertinentiis universis,
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>in quibuscumque consistant, quas nunc habemus et imposterum sumus quocumque titulo habituri,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>nostro, heredum ac successorum nostrorum nomine, ducum <cei:placeName>Opuliensium</cei:placeName> et dominorum ibidem in <cei:placeName>Valchenberch</cei:placeName>,
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>recepisse in feudum et ab ipso tenere ac possidere iure et titulo feudali volentes,
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>quod heredes ac successores nostri, duces <cei:placeName>Opulienses</cei:placeName> et domini in <cei:placeName>Valchenberch</cei:placeName> prelibati, juxta
+                    <cei:lb facs="#facs_1_r1l13" n="N011"/>litterarum continentiam, quas a prefato domino nostro, rege <cei:placeName>Boemie</cei:placeName>, super eo recepimus et ha¬
+                    <cei:lb facs="#facs_1_r1l15" n="N012"/>bemus, quandocumque predictam terram nostram vacare contigerit, eam ab ipso domino nostro
+                    <cei:lb facs="#facs_1_r1l17" n="N013"/>aut a suis heredibus vel successoribus, regibus <cei:placeName>Boemie</cei:placeName>, in feudo recipere semper deinceps
+                    <cei:lb facs="#facs_1_r1l19" n="N014"/>debeant et tenere et facto sibi servande perpetuo fidelitatis homagio, sicut et nos nunc
+                    <cei:lb facs="#facs_1_r1l21" n="N015"/>spontanea et libera voluntate fecimus, ei vel eis tamquam eius vel eorum princeps et vasal¬
+                    <cei:lb facs="#facs_1_r1l24" n="N016"/>lus sincera fide intendere debeant et parere. In cuius rei testimonium presentes litteras fieri et si¬
+                    <cei:lb facs="#facs_1_r1l26" n="N017"/>gillo nostro iussimus communiri. Datum <cei:placeName>Opavie</cei:placeName> <cei:date value="99999999">anno Domini millesimo trecentesimo vicesimo</cei:date>
+                    <cei:lb facs="#facs_1_r1l27" n="N018"/><cei:date value="99999999">septimo XII kalendas martii.</cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1635_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1635_H_I</cei:title><cei:idno type="Transkribus">212397</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l3" n="N001"/><cei:persName>Fridericus, divina favente clemencia romanorum imperator, semper augustus, <cei:placeName>Hungarie</cei:placeName>, <cei:placeName>Dalmacie</cei:placeName>, <cei:placeName>Croacie</cei:placeName> et cetera rex ac <cei:placeName>Austrie</cei:placeName>, <cei:placeName>Stirie</cei:placeName>, <cei:placeName>Karinthie</cei:placeName> et <cei:placeName>Carniole</cei:placeName> dux, comes <cei:placeName>Tirolis</cei:placeName> et cetera</cei:persName>, et
+                    <cei:lb facs="#facs_1_r2l4" n="N002"/><cei:persName>Georgius, Dei gracia <cei:placeName>Bohemie</cei:placeName> rex, marchio <cei:placeName>Moravie</cei:placeName>, <cei:placeName>Slesie</cei:placeName> et <cei:placeName>Lucemburgensis</cei:placeName> dux et <cei:placeName>Lusacie</cei:placeName> marchio et cetera</cei:persName>, recognoscimus et notumfacimus tenore presencium universis, quod attendentes quid et quan¬
+                    <cei:lb facs="#facs_1_r2l6" n="N003"/>tum pacis unionis et amiciciarum federa sacro romano imperio ac aliis regnis et principatibus nostris, que invicem confines existunt et ipsorum inhabitatoribus fructus asserant, presertim cum orbis dominus imperator,
+                    <cei:lb facs="#facs_1_r2l8" n="N004"/>videlicet augustus, et principum suorum potissimus et elector, rex scilicet <cei:placeName>Bohemie</cei:placeName>, se mutuo auxiliis consiliis favoribus et ligis prosecuntur sano nostrorum consiliariorum et fidelium accedente consilio 
+                    <cei:lb facs="#facs_1_r2l9" n="N005"/>et deliberacione matura premia atque pro nostro et nostrorum utrunque subditorum incremento ligas uniones amicicias pacisque federa inivimus atque presentibus firmiter inimus in hunc videlicet modum, quod si a
+                    <cei:lb facs="#facs_1_r2l10" n="N006"/>quopiam, cuiuscunque preeminencie status, gradus, dignitatis, condicionis, meriti re fuerit, nos aut alterum ex nobis molestari, inquietari seu turbari quouismodo ordine et quesito colore in regnis, dominiis, 
+                    <cei:lb facs="#facs_1_r2l11" n="N007"/>honoribus, dignitatibus et statibus nostris aut conspiraciones, coniuraciones, conuenticula et alia quecunque in dampnum offensam et perturbacionem nostram aut alterutrius nostrarumque dicionum, quicquid fieri
+                    <cei:lb facs="#facs_1_r2l13" n="N008"/>seu attemptari contingeret, quod extunc quilibet ex nobis ad requisicionem alterius lesi aut quomodolibet inquietati eidem leso seu inquietato consilio, auxilio, adiutorio et fauori realiter et cum effectu ad
+                    <cei:lb facs="#facs_1_r2l14" n="N009"/>propulsandam et oppugnandam huiusmodi iniuriam et molestiam assistere debebit tociens, quociens id necessarium fuerit et oportunum, et si, quod absit, inter nos ambos aut nostros differencia quouismodo 
+                    <cei:lb facs="#facs_1_r2l15" n="N010"/>inantea oriretur, quod in eum eventum differenciarum huiusmodi decisio amicabiliter aut per iusticiam, in defectum amicabilis composicionis per consiliarios principis ipsius rei ad requisicionem conquerentis 
+                    <cei:lb facs="#facs_1_r2l16" n="N011"/>expedite fiat et eam fieri princeps requisitus efficaciter procuret dolo et fraude in hiis procul amotis, quemadmodum et nos id facturos verbis nostris imperiali et regno bona fide ac Iureiurando firmabimus
+                    <cei:lb facs="#facs_1_r2l17" n="N012"/>in omnibus tamen predictis sanctissimo domino nostro papa et sede apostolica dumtaxat exceptis. Harum testimonio literarum nostrorum imperialis et regalis sigilllorum appensione munitarum. Datum 
+                    <cei:lb facs="#facs_1_r2l18" n="N013"/><cei:placeName>Brunne</cei:placeName> <cei:date value="99999999">die secunda sensis sugusti anno Domini millesimo quadringentesimo quinquagesimonono, nostri <cei:persName>Friderici imperatoris</cei:persName> annorum imperii octavo, regnorum autem nostrorum romanorum </cei:date>
+                    <cei:lb facs="#facs_1_r2l19" n="N014"/><cei:date value="99999999">vicesimo et <cei:placeName>Hungarie</cei:placeName> et cetera primo, nostra vero <cei:persName>Georgii regis <cei:placeName>Bohemie</cei:placeName></cei:persName> et cetera regni secundo</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573576040049_556">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573576051997_560" n="N001"/>Comissio domini imperatoris in consilio
+                    <cei:lb facs="#facs_1_line_1573576055319_565" n="N002"/>Ad mandatum domini regis
+                    <cei:lb facs="#facs_1_line_1573576059009_570" n="N003"/><cei:persName>Procopius de <cei:placeName>Rabenstein</cei:placeName>, cancellarius</cei:persName>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

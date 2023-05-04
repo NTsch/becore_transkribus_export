@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_192_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_192_H_I</cei:title><cei:idno type="Transkribus">169992</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_line_1566490994976_591" n="N001"/>Ja <cei:persName>Zbramir z <cei:placeName>Bukowa</cei:placeName></cei:persName><cei:placeName/> wyznawa(<cei:supplied>…</cei:supplied>)to listem obecznye przedew¬
+                    <cei:lb facs="#facs_1_r1l4" n="N002"/>ssemy, ktoz gey uzrze aneb cztucz usli(<cei:supplied>…</cei:supplied>), zie gsem slibil a moczi tohoto
+                    <cei:lb facs="#facs_1_r1l5" n="N003"/>listu slibugi pode czti a pod wieru nebiti proti urozenym panom panu
+                    <cei:lb facs="#facs_1_r1l6" n="N004"/><cei:persName>Wylemowy z <cei:placeName>Symburga</cei:placeName>, sedyenym na <cei:placeName>Perstaynye</cei:placeName></cei:persName> a <cei:persName>Galhotowy</cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N005"/><cei:persName>z <cei:placeName>Horzowycz</cei:placeName> sedyenym na <cei:placeName>Rabstaynie</cei:placeName></cei:persName>, any proti gich kteremu, any proti
+                    <cei:lb facs="#facs_1_r1l8" n="N006"/>gich zbozy, any kterym kusem, any kteru radu gym przekazety od
+                    <cei:lb facs="#facs_1_r1l9" n="N007"/>tohoto listu danye, az do deseti leth porzad zbiehlich. A paklibich
+                    <cei:lb facs="#facs_1_r1l10" n="N008"/>czo proty nym uczynyl wtiech deseti letech, tehdy sem ztratyl
+                    <cei:lb facs="#facs_1_r1l11" n="N009"/>wieru a czest, a po deseti letech buduli chtieti proti nym biti, mam
+                    <cei:lb facs="#facs_1_r1l12" n="N010"/>se proti nym ohraditi yako dobry czlowiek. A toho na swiedomye
+                    <cei:lb facs="#facs_1_r1l13" n="N011"/>a lepssy gystotu prosyl gsem slowutnych panossy <cei:persName>Jana z <cei:placeName>Dnye¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N012"/><cei:persName><cei:placeName>ssowa</cei:placeName></cei:persName> a <cei:persName>Waczlawa, rzeczeneho Prczek z <cei:placeName>Smykucz</cei:placeName></cei:persName><cei:placeName/>, czie gsu swe
+                    <cei:lb facs="#facs_1_r1l15" n="N013"/>wlastnye peczeti podle me k tomuto listu przywiesyly, genz
+                    <cei:lb facs="#facs_1_r1l17" n="N014"/>gest dan <cei:date value="99999999">leta od narozenie syna Bozieho tisiczeho cztyrzsteho</cei:date>
+                    <cei:lb facs="#facs_1_r1l18" n="N015"/><cei:date value="99999999">dwadczateho cztwrteho, ten den na Bozie tielo</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

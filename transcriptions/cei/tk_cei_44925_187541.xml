@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0089_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0089_H_I</cei:title><cei:idno type="Transkribus">187541</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/><cei:persName>Henricus, Dei gratia dux <cei:placeName>Slesie, </cei:placeName>dominus de <cei:placeName>Jawor</cei:placeName> et de F<cei:placeName>urstemberch</cei:placeName></cei:persName>, omnibus inperpetuum. Ut modus et ordo gestorum nostrorum, que efficaci permanencia perpetuo oportet
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>et debent subsistere et solida permanere, in memorialibus recondiantur et redigantur iugiter valituris vigor, equitatis et ordo postulat rationis, hinc igitur est, quod nos <cei:persName>Henricus</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>dux </cei:persName>predictus, ad perpetuam rei memoriam presentibus recognoscimns, quod matura deliberacione prehabita et omnium ac singulorum fidelium et consiliariorum nostrorum consilio accedente
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>et laude resignavimus et dedimus ac donavimus, quinymo presentibus resignamus, damus et donamus omnia et singula iura, que sive ex origine nostre nativitatis et sanguinis
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>quorumcumque progenitorum nostrorum vel ex successione legitima sive pheudali tytulo a sacro Imperio vel Romanorum rege vel a quocumque alio dependeant domino, nobis, here¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>dibus aut successoribus nostris in marchiis, provinciis, terris et possessionibus <cei:placeName>Lusicensi</cei:placeName>, <cei:placeName>Lubucensi </cei:placeName>et <cei:placeName>Budischinensi</cei:placeName> ac eciam in <cei:placeName>civitate Frankenvord</cei:placeName> sita prope ri¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>pam <cei:placeName>fluminis dicti Odera</cei:placeName> vel ad eas aut ad alteram earum umquam competierunt, competunt vel in futurum competere poterunt, quocumque tytulo sive modo, cum omnibus et
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>singulis civitatibus, oppidis, castris, castellis, municionibus, foris, villis, allodiis, comitibus, libertinis, baronibus, ministerialibus, vasallis, inquilinis et accolis
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>ad predictas marchias, provincias, terras et possessiones et ad <cei:placeName>civitatem Frankenvord</cei:placeName> predictam de iure vel de consuetudine quocumque modo vel tytulo spectantibus,
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>serenissimo principi, domino<cei:persName> Johanni <cei:placeName>Boemie</cei:placeName> et<cei:placeName> Polonie</cei:placeName> regi, <cei:placeName>Lucemburgensi</cei:placeName> comiti marchieque <cei:placeName>Budischinensi </cei:placeName>domino</cei:persName>, heredibus et successoribus eius inperpetuum tenenda, possidenda,
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>pariter et habenda, expresse nos, prefatus <cei:persName>dux Henricus</cei:persName>, nostro, nullum heredem superstitem habentes, heredum et successorum nostrorum futurorum nomine renunciantes in his scrip¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>tis omni beneficio in integrum restitutionis, interdicti, unde vi interdicti utipossidetis, de dolo actionis et beneficio cuiuscumque iuris, quo quis resignationem, dationem et donationem
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>per se factam retractari poterit postulare. Testes autem, coram quibus tractatus huismodi sunt habiti et ordinati, sunt venerabilis in Christo pater dominus <cei:persName>Witko, <cei:placeName>Misnensis</cei:placeName> episcopus</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>illustris princeps, dominus <cei:persName>Nycolaus dux <cei:placeName>Oppavie</cei:placeName></cei:persName><cei:placeName> </cei:placeName>necnon nobiles viri domini <cei:persName>Petrus de <cei:placeName>Rosemberch</cei:placeName></cei:persName>, <cei:persName>Wilhelmus de <cei:placeName>Lantstein</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Hinco dictus Berca de <cei:placeName>Duba</cei:placeName></cei:persName>, <cei:persName>Timo de <cei:placeName>Coltitz</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:persName>Fridericus</cei:persName>, <cei:persName>Hermannus</cei:persName>, Fic<cei:persName>ko fratres de <cei:placeName>Schomburch</cei:placeName></cei:persName>, <cei:persName>Benessius de Michilsperch</cei:persName>, <cei:persName>Ulricus de <cei:placeName>Mendico</cei:placeName></cei:persName>, <cei:persName>Fridmannus de <cei:placeName>Sman</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Otto dictus de <cei:placeName>Donyn</cei:placeName></cei:persName><cei:placeName>, <cei:persName/></cei:placeName><cei:persName>Albertus de <cei:placeName>Lisnik, </cei:placeName>Ste¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/><cei:persName>phanus de P<cei:placeName>arkwitz</cei:placeName></cei:persName> <cei:persName>Syfridus de <cei:placeName>Baruch</cei:placeName></cei:persName>, <cei:persName>Ludherus de <cei:placeName>Schribersdorf</cei:placeName></cei:persName> et <cei:persName>Cristanus de <cei:placeName>Gerhartsdorf</cei:placeName></cei:persName>. In cuius rei testimonium presentes litteras fieri et sigillo nostro maiori 
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>iussimus communniri. Datum in <cei:placeName>castris prope Olsnicz</cei:placeName> <cei:date value="99999999">X kalendas octobris, anno Domini millesimo trecentesimo decimonono</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

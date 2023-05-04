@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK 0498_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK 0498_H_I</cei:title><cei:idno type="Transkribus">202202</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Notum sit omnibus tam presentibus quam
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>futuris, quod ego <cei:persName>Premisl, rex Boemorum</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>pergens <cei:placeName>Ratisponam</cei:placeName> in occursum <cei:persName>Fri¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/><cei:persName>drici, Romanorum regis</cei:persName>, de <cei:placeName>Appulia</cei:placeName> veni¬
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>entis, quinquaginta marcas argenti a <cei:placeName>Cla¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/><cei:placeName>drubensibus</cei:placeName> accepi mercatoribus, relaxans
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>eos a solutione civili iuris, scilicet a du¬
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>plicibus vulpinis pellibus, quas michi pre¬
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>decessoribusque meis solvebant, et conferens
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>in perpetuum ecclesie <cei:placeName>Cladrubensi</cei:placeName> ob re¬
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>medium anime mee ac predecessorum
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>successorumque meorum hanc libertatis uti¬
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>litatem, quoniam teneor huius loci necessi¬
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>tatibus providere ac prosperitatibus
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>nec non utilitatibus congaudere.
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>Huius rei testes sunt <cei:persName>Andreas can¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l19" n="N017"/><cei:persName>cellarius et prepositus <cei:placeName>Pragensis</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l20" n="N018"/><cei:persName>Zlauco camerarius</cei:persName>, <cei:persName>Bohuzlaus</cei:persName> filius
+                    <cei:lb facs="#facs_1_r1l21" n="N019"/>eius, <cei:persName>Jaros</cei:persName> gener eius, <cei:persName>Vbizlaus de <cei:placeName>Zu</cei:placeName></cei:persName><cei:placeName>¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l22" n="N020"/><cei:persName><cei:placeName>lizlau</cei:placeName></cei:persName>, <cei:persName>Ulricus de <cei:placeName>Lutitz</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Heinricus</cei:persName>
+                    <cei:lb facs="#facs_1_r1l23" n="N021"/><cei:persName>de <cei:placeName>Setscowitz</cei:placeName></cei:persName>, <cei:persName>Hirdebor de <cei:placeName>Userob</cei:placeName></cei:persName>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

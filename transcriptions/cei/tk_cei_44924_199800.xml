@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2169_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2169_H_I</cei:title><cei:idno type="Transkribus">199800</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Dorothea z <cei:placeName>Malessicz</cei:placeName></cei:persName><cei:placeName/> wiznawam tiemto listem przede wssemy, ktoz gey uzrzie nebo cztucz uslissie, ze gsem zdwihla a 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>wzela sto kop grossow a cztirzidczeti kop grossow a ssiest kop grossow peniez dobrich strzebrnich razu stareho prazskeho ot
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>nabozneho a cztihodneho knieze <cei:persName>Hinka, z Bozie milosty probosta clastera <cei:placeName>chotissowskeho</cei:placeName></cei:persName>, a od <cei:persName>Zbranye, przewory</cei:persName>, a <cei:persName>Gitky, </cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>subprzewory</cei:persName>, a <cei:persName>Katherzini, clycznicze</cei:persName>, <cei:persName>Anny, circatricze</cei:persName>, <cei:persName>Margrethi, rzeczene cantrix</cei:persName>, y odewsseho conventha clastera <cei:placeName>chotiessow¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:placeName>skeho</cei:placeName>, gistczow a od rukoymi gich <cei:persName>Jana s <cei:placeName>Hradku</cei:placeName></cei:persName>, <cei:persName>Petra z <cei:placeName>Rzenecz</cei:placeName></cei:persName>, <cei:persName>Petra z <cei:placeName>Kamenicze</cei:placeName>, toho czasu wladarze clastera <cei:placeName>chotye¬</cei:placeName></cei:persName><cei:placeName/>
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:persName><cei:placeName>ssowskeho</cei:placeName></cei:persName>, na tom listu, gesto swiedczil mnye na swrchupsane penieze y tomu kazdemu, ktozbi ten list hlawni gmiel, smu
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>dobru wuoly, a proto ya, swrchupsana <cei:persName>Dorothea z <cei:placeName>Malessicz</cei:placeName></cei:persName>, gizpsane gistcze knieze <cei:persName>Hinka, probosta, y wessken conventh</cei:persName>
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName>clastera <cei:placeName>chotiessowskeho</cei:placeName></cei:persName> y gich rukoymie swrchupsane y gich buduczie moczi tohoto listu quitugy a umorzugi ten list 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>hlawni a prazni czinym y propustiem tiemto listem z peniez swrchupsanich mnye splnienich nadrzewerzeczenem listu
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>hlawniem, danich a wierziczich swrchupsanych, ja giz psana <cei:persName>Dorothea z <cei:placeName>Malessicz</cei:placeName></cei:persName> slibugi naprzed sama zasie podeczti,
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>pod wieru ne upomynati a nicz ten y zadni, ktozbi ten list hlawny gmiel smu dobru wuoly neb kterakzkoli gmiel, ginak 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>kterez gsu my, swrchupsani gistczi kniez <cei:persName>Hinek, probost, y wessken conventh clastera <cei:placeName>chotiessowskeho</cei:placeName></cei:persName> giz psanee
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>penieze na ten list hlawni uplne dali a splnili, a ten list hlawni dale negmy zadne moczi k upomynani giney swr¬
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>chupsanich mich wierziczich, paklibi kdy od koho z peniez nadepsanich a danich upomynani bili, tehdy ya, swrchu
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>psana <cei:persName>Dorothea z <cei:placeName>Malessicz</cei:placeName></cei:persName><cei:placeName/> slibugi swrchupsane me wierziczie y gich buduczie bez gich wsse skodi y nakladow, gie 
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>chczi od kazdeho ziweho czlowieka zastati a wiprawity, a to slibugii cztnie a wiernie a krzestianski zdrzieti a zachowaty
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>beze wsse zle lsti. Toho na potwrzenie a pro lepssi gistotu swu gsem wlastni peczet prziwiessila k tomuto listu swu
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>swu dobru wuoly y s plnim prziznanim. A pro lepssie swiedomie prosila gsem urozenich <cei:persName>Zdenka Colwina z <cei:placeName>Drsstky</cei:placeName></cei:persName><cei:placeName/>,
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/><cei:persName>Bohusse z <cei:placeName>Tasuowicz</cei:placeName></cei:persName>, <cei:persName>Raczka z <cei:placeName>Giwyan</cei:placeName></cei:persName>, <cei:persName>Jana starsseho</cei:persName> a <cei:persName>Jana mlazsseho, bratrzi z <cei:placeName>Ulicz</cei:placeName></cei:persName>, <cei:persName>Sstiepanka s <cei:placeName>Hradku</cei:placeName></cei:persName><cei:placeName/>, abi
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>swe peczeti podle mne na swiedomie k teto quitanczi prziwiessili bez swe skodi, genz gest dan a psan <cei:date value="99999999">letha </cei:date>
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/><cei:date value="99999999">po narozeni syna Bozeho porzad cztucz tissiczeho cztirzisteho a trzidczateho druheho, tu strzedu przed swatym</cei:date>
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/><cei:date value="99999999">Urbanem et cetera</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

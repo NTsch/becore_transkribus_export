@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">RM_2321_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">RM_2321_H_I</cei:title><cei:idno type="Transkribus">224020</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l1" n="N001"/>My <cei:persName>Gyndrzych z <cei:placeName>Hradczye</cei:placeName>, przyewor obeczny domuow w <cei:placeName>Czechach</cei:placeName>, u <cei:placeName>Morawye</cei:placeName>, u <cei:placeName>Polstye</cei:placeName>, w <cei:placeName>Rakussyech</cei:placeName>, w <cei:placeName>Styrstye</cei:placeName> a w <cei:placeName>Korutanech</cei:placeName>, zakona</cei:persName>
+                    <cei:lb facs="#facs_1_r2l2" n="N002"/><cei:persName>swateho Jana Sspytala Jheruzalemskeho</cei:persName>, bratr <cei:persName>Zdenyek, comendor</cei:persName>, bratr <cei:persName>Jacub, przyewor kostelny, a wesken convent bratrzy krzyzownykuow</cei:persName>
+                    <cei:lb facs="#facs_1_r2l3" n="N003"/><cei:persName><cei:placeName>domu Matky Bozye podle mosta Mensyeho Myesta prazskeho</cei:placeName></cei:persName>, zakona swrchupsaneho, wyznawame tyemto lystem obecznye przed kazdym czlowye¬
+                    <cei:lb facs="#facs_1_r2l4" n="N004"/>kem, ze chtyecze nass a nasseho domu swrchupsaneho byeh lepsy uczynyty, a zadagycz skrzye to sobye y temuz domu pomocz opatrnu zgednaty, a zwlastie
+                    <cei:lb facs="#facs_1_r2l5" n="N005"/>pro obtyezenye dluhuow a berny, kterezto gsmy kraly czeskemu daty a platyty mussyly toho czassu, protoz z dobrym rozmyslem a zdrawu radu wssy
+                    <cei:lb facs="#facs_1_r2l6" n="N006"/>nassye a nasseho domu swrchupsaneho toczysto wes <cei:placeName>Przyedlyczye</cei:placeName> czelu se wssym platem a wynnyczy, tudyez w <cei:placeName>Klyssy</cei:placeName> wes czelu se wssym platem
+                    <cei:lb facs="#facs_1_r2l7" n="N007"/>y s wynnyczy, w <cei:placeName>Ugyezdye</cei:placeName> wes czelu s platem, w <cei:placeName>Banyewye</cei:placeName> wes czelu s platem, w <cei:placeName>Uzynye</cei:placeName> y w <cei:placeName>Rwazowye</cei:placeName> wssy czele s platem, w <cei:placeName>Habrowyczych</cei:placeName> wes
+                    <cei:lb facs="#facs_1_r2l8" n="N008"/>czelu s platem, <cei:placeName>w Radessynye</cei:placeName> y w <cei:placeName>Lewynye</cei:placeName> wsy czele s platem a s wynnyczy trzety <cei:placeName>Pytansku</cei:placeName>, a podaczye kostelnye u <cei:placeName>Przyedlyczych</cei:placeName>, z dwory s kmeczymy, z dye¬
+                    <cei:lb facs="#facs_1_r2l9" n="N009"/>dynamy, s lukamy, s pastwamy, s chrastynamy, s potoky, acz tu ktere mame, s hony, s lowy y s czyzbamy, s uospem obylnym, kterymzkolywyek s kury, s wayczy
+                    <cei:lb facs="#facs_1_r2l10" n="N010"/>y se wssyemy gynymy uzytky a pozytky, se wssym panstwym a se wssyemy gynymy prawy a swobodamy, kterymyzbykoly gmeny gmenowany mohly byty,
+                    <cei:lb facs="#facs_1_r2l11" n="N011"/>gestoz od staradawna k tyem wessyczyem swrchupsanym przyslussyegy, nycz sprostnye newynymagycz, any ssobye ktereho prawa neb nassym buduczym
+                    <cei:lb facs="#facs_1_r2l12" n="N012"/>tu zwlascz poostawugycz, nez tak uplnye a czyele w swych mezech a hranyczech ulozeny gsu a wymyerzeny, na kterychz wesnyczech gest trzy apadessat
+                    <cei:lb facs="#facs_1_r2l13" n="N013"/>kop platu rozomnye a podobnye, prodaly sme prawym trhem urozene panye <cei:persName>Annye z <cei:placeName>Koldycz</cei:placeName></cei:persName>, wdowye nyekdy urozeneho pana <cei:persName>Borssye z <cei:placeName>Vossyeka</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r2l14" n="N014"/>moczy tohoto lystu prodawame dogyegyeho zywota, anycz dale, za dwye stye za pyet a sedessat kop grossuow prazskych strzyebrnych, kterezto gsme
+                    <cei:lb facs="#facs_1_r2l15" n="N015"/>ot nye hotowymy penyezy uplnye zaplaczeny przygyely a wzyely, a na swrchupsane bernye a na dluhy obratyly a wydaly swrchupsane <cei:persName>panye Annye</cei:persName> ke g¬
+                    <cei:lb facs="#facs_1_r2l16" n="N016"/>myeny, k drzeny, k wladany, k zprawowany a ku pozywany pokoynemu, s tym se wssym prawem a z woly, yakoz gsme my samy y przyedczy nassy gmyely, drzely,
+                    <cei:lb facs="#facs_1_r2l17" n="N017"/>zprawowaly a pozywaly, pod takuto umluwu, ze kdyzbykolywyek a kolykratkolywyek kterehokoly leta bernye zemska w <cei:placeName>Czeskem kralowstwy</cei:placeName> polozena
+                    <cei:lb facs="#facs_1_r2l18" n="N018"/>byla a prowolana, tehdy ona pany <cei:persName>Anna</cei:persName> s toho gysteho zbozye trzymezczyetma kop grossyew a sedm a cztyrydczety grossyew prazskych penyez nam a
+                    <cei:lb facs="#facs_1_r2l19" n="N019"/>buduczym nassym we dwu nedyely od toho prwnyeho dne poczytagycz, kdyzby a kterehoby dne bernyczy te zemske bernye domyesta <cei:placeName>Ustye Kralowa na Laby</cei:placeName>
+                    <cei:lb facs="#facs_1_r2l20" n="N020"/>przygyely agy braty poczyely, do komory domu nasseho drzyewegmenowaneho daty a polozyty gma a dluzna bude bezewsseho otporu a bezomluwy, apaklyby
+                    <cei:lb facs="#facs_1_r2l21" n="N021"/>to kterak obmeskala, ze by tyech trzymezczyetma kop a sedm a cztyrydczety grossyew bernye w tu dwu nedyely nedala a nepolozyla, yakoz gmenowano
+                    <cei:lb facs="#facs_1_r2l22" n="N022"/>gest, tedy ynhed kopu grossuow pokuty propadne k te sumye bernye, a tak wzdy tolykazz pokuta zrosty ma za kazde dwye nedyely dotud dokudzby tyech
+                    <cei:lb facs="#facs_1_r2l23" n="N023"/>gystych trzymezczyetma kop asedm a cztyrydczety grossyew bernye se wssyemy pokutamy tak wzeslymy nam neb buduczym nassym ot nye uplnye ho¬
+                    <cei:lb facs="#facs_1_r2l24" n="N024"/>towymy penyezy polozeno a zaplaczeno nebylo. Take to gest wymyenyeno, ze drzyewegmenowana pany <cei:persName>Anna</cei:persName> nema any moczy bude toho zbozye
+                    <cei:lb facs="#facs_1_r2l25" n="N025"/>swrchupsaneho prodaty neb daty, zastawyty nebo smyenyty, any kterakzkolywyek zawadyty bez nassye a buduczych nassych wuole a zwlastnyeho powo¬
+                    <cei:lb facs="#facs_1_r2l26" n="N026"/>lenye. A slybugem wssychny nerozdyelnye nassym y nassych buduczych gmenem nassy dobru wyeru bezewssye zle lsty ten trh a ty wseczkny umluwy
+                    <cei:lb facs="#facs_1_r2l27" n="N027"/>swrchupsane panye <cei:persName>Annye</cei:persName> drzety pewnye az do gyegye smrty zachowaty, a kdyzby gye Buoh neuchowal, ze by umrzyela, tehdy ynhed bez meskanye swrchu
+                    <cei:lb facs="#facs_1_r2l28" n="N028"/>psane wssy a zbozye s tym se wssym prawem a zwoly y se wssym panstwym a swobodu y se wssyemy gynymy wyeczmy zwlastnye nebo obecznye swrchu
+                    <cei:lb facs="#facs_1_r2l29" n="N029"/>popsanymy a gmenowanymy bez odbogye a bez przyekazy kazdeho czlowyeka k nam a k nassym buduczym a k nassemu domu <cei:placeName>Prazskemu</cei:placeName> wsseczko uplnye zasye
+                    <cei:lb facs="#facs_1_r2l30" n="N030"/>sye nawraty a nawratyty gma a przypadnuty, a nam y nassym buduczym ma to wsse swrchugmenowane zbozye tak uplyne yakoz gsme my gye stupyly
+                    <cei:lb facs="#facs_1_r2l31" n="N031"/>po gegye smrty ynhed stupeno byty anebo budeme moczy my nebo nassy buduczy samy swu moczy w to we wsseczko zbozye swrchuczastogmenowane
+                    <cei:lb facs="#facs_1_r2l32" n="N032"/>uwazaty sye po gyegye smrty. Kterychto wyeczy a umluw na swyedomye, na potwrzenye a na pewnu gystotu peczety nassye toczysto <cei:persName>Gyndrzycha</cei:persName> swrchu
+                    <cei:lb facs="#facs_1_r2l33" n="N033"/>psaneho, <cei:persName>Zdyenka, comendora</cei:persName>, a wsseho conventa domu naprzyedgmenowaneho s nassy dobru woly a s gystym wyedomym k tomuto gsu lystu przywyesseny. 
+                    <cei:lb facs="#facs_1_r2l34" n="N034"/>Genz gest dan v <cei:placeName>Prazye</cei:placeName> <cei:date value="99999999">leta ot narozenye Bozyeho po tyssyczy a pocztyrzech stech let osmnadczteho leta w ten patek po swatem Vytye. </cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

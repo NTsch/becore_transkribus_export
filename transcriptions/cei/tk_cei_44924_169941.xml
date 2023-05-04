@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1448_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>ACK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1448_H_I</cei:title><cei:idno type="Transkribus">169941</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Hanuss z <cei:placeName>Lyppey</cei:placeName>, pan na <cei:placeName>Templstaynye</cei:placeName></cei:persName><cei:placeName/>, wyznawam przede wssemy timto listem, jakoz to wsse, czoz my sye na prawem
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>rozdyele dostalo w <cei:placeName>Curdyeowye</cei:placeName>, gesto gsmy sye s swymy bratrzy dyelily, ze gsem ten wessken oddyel prodal urozenemu
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>panu <cei:persName>Hinczy z <cei:placeName>Lyppey</cei:placeName>, marssalku <cei:placeName>cralowstwy czeskeho</cei:placeName> naywyssymu</cei:persName>, bratru memu mylemu, a geho erbom y buduczym
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>za hotowe penyeze w temz prawye, yakoz sye na mye dostalo nadyele. A toho dyelu swrchupsaneho w <cei:placeName>Curdyeowye</cei:placeName> ya
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>od sebe, od swych erbow a ode wssech swych buduczich sye zbawugy a slybugy gych pana <cei:persName>Hincze</cei:persName>, geho erbow a budu¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>czich wyecznye nenarzykaty moczy tohoto listu, kromye wymyenygicz tyech pyeth hrzywen grossyw platu urocz¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>neho od hor wynohradnych w <cei:placeName>Curdyeowye</cei:placeName>, gesto otecz nass, nebozczik, za sweho zywota zdraweho za stara dawna
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>oddal a odkazal k tomu kaplanstwy na hrad na<cei:placeName> Lewnow</cei:placeName>, ze tyech pyeth hrzywen grossyw swrchupsany pan <cei:persName>Hincze</cei:persName>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>se wssemy swymy buduczymy tomu caplanstwy na<cei:placeName> Lewnowye</cei:placeName> gmagy beze wsseho zmatku wydawaty. A toho wsse¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>ho na potwrzeny ja, <cei:persName>Hanuss</cei:persName> swrchupsany, przyprosyl gsem urozenych panow, pana <cei:persName>Laczka z <cei:placeName>Crawarz</cei:placeName></cei:persName>, <cei:persName>pana Pe¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/><cei:persName>tra z <cei:placeName>Crawarz</cei:placeName>, od gynad z <cei:placeName>Straznycze</cei:placeName>, naywyssyho comornyka olomuczkeho</cei:persName>, pana <cei:persName>Jana z <cei:placeName>Lompnycze</cei:placeName></cei:persName>, a tyechto
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>slowutnych panossy <cei:persName>Hanusse z <cei:placeName>Wedrowicz</cei:placeName></cei:persName> a <cei:persName>Mykulasse z <cei:placeName>Lypnyczky</cei:placeName></cei:persName>, <cei:persName>Beranka z <cei:placeName>Petrowycz</cei:placeName></cei:persName><cei:placeName>, </cei:placeName>ze gsu podle mey
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>peczety na swyedomye swe wlastnye peczety przywyesyly k tomuto listu, genz gest dan na <cei:placeName>Crupnowye</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/><cei:date value="99999999">den swatey Katherzyny od narozenye syna Bozyho tyssycz cztyrzy sta letha dwanadsteho</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

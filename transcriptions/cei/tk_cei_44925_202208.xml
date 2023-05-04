@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK 0575_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK 0575_H_I</cei:title><cei:idno type="Transkribus">202208</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l3" n="N001"/>Notum sit tam futuris quam presentibus, quod ego <cei:persName>Zobezlaus, gratia Dei dux Boemie</cei:persName>, prospiciens anime salutique mee, <cei:persName>abbati in <cei:placeName>Plaz</cei:placeName>, videlicet Meynero</cei:persName>, ceterisque mona¬
+                    <cei:lb facs="#facs_1_r1l4" n="N002"/>chis fratribusque, Dei servis, ibidem devote Deo famulantibus, in remissionem peccatorum meorum dedi circuitum <cei:placeName>Oboram</cei:placeName>, <cei:placeName>Cretzkov</cei:placeName> et <cei:placeName>Babinam</cei:placeName> cum pratis et aquis,
+                    <cei:lb facs="#facs_1_r1l5" n="N003"/>que sunt infra eundem circuitum, et alium circuitum nomine <cei:placeName>Lomnice</cei:placeName> et <cei:placeName>Luti</cei:placeName> similiter cum suis pratis et aquis proprietario iure possidendos eisdem fratribus in perpetuum
+                    <cei:lb facs="#facs_1_r1l7" n="N004"/>dedi. Preterea idem abbas cum fratribus suis adiens me obnixe rogavit de predio tradito sibi a quodam comite nomine <cei:persName>Bolic</cei:persName>, filio <cei:persName>Nacezesse</cei:persName>, pro salute anime sue, quatenus
+                    <cei:lb facs="#facs_1_r1l12" n="N005"/>hoc meis bonis concambio commutarem, quod et feci tradens eis predium nomine <cei:placeName>Ougiezd</cei:placeName> pro suo, quod dicitur <cei:placeName>Zussan</cei:placeName>, ex parte eorum additis, ut concambium equi existimatione consta¬
+                    <cei:lb facs="#facs_1_r1l13" n="N006"/>ret, octo talentis. Commutavi etiam eisdem petentibus aliud predium <cei:placeName>Erposiz</cei:placeName> nomine, quod contulit eis pro salute anime sue <cei:persName>Boguzlaus</cei:persName> scilicet camerarius, filius <cei:persName>Scaste</cei:persName>, predio
+                    <cei:lb facs="#facs_1_r1l15" n="N007"/>meo dicto <cei:placeName>Lugov</cei:placeName>. Ut igitur omnium horum actio rata et inconvulsa maneat, cum testimonio omnium eorum, qui tunc presentes erant, confirmari precepi cum carta et sigillo meo:
+                    <cei:lb facs="#facs_1_r1l18" n="N008"/><cei:persName>Fridericus <cei:placeName>Pragensis</cei:placeName> episcopus</cei:persName>, <cei:persName>Detelebus, <cei:placeName>Olomucensis</cei:placeName> episcopus</cei:persName>, <cei:persName>Gervuasius, cancellarius et prepositus <cei:placeName>Wisegradensis</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Florianus notarius</cei:persName>, <cei:persName>Cec iudex curie</cei:persName>, <cei:persName>Sdezlaus camerarius</cei:persName>, <cei:persName>Riuinus</cei:persName>
+                    <cei:lb facs="#facs_1_r1l19" n="N009"/><cei:persName>prefectus de <cei:placeName>Cladesc</cei:placeName></cei:persName> et frater eius <cei:persName>Pelegrinus</cei:persName>, <cei:persName>Iarognev prefectus de <cei:placeName>Sathec</cei:placeName></cei:persName>, <cei:persName>Zezema prefectus de <cei:placeName>Plizen</cei:placeName></cei:persName> cum filio suo <cei:persName>Zezema</cei:persName>, <cei:persName>Dlugomil pincerna</cei:persName>, <cei:persName>Witek dapifer</cei:persName>, <cei:persName>Muti¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l21" n="N010"/><cei:persName>ne prefectus <cei:placeName>Pragensis</cei:placeName></cei:persName> et frater eius <cei:persName>Dobrogost</cei:persName>, <cei:persName>Kohan prefectus de <cei:placeName>Dudeleb</cei:placeName></cei:persName>, <cei:persName>Petrus prefectus de <cei:placeName>Dreuuic</cei:placeName></cei:persName> cum fratribus suis <cei:persName>Milgost</cei:persName> et <cei:persName>Agna</cei:persName>, <cei:persName>Hartelebus camerarius episcopi</cei:persName>, <cei:persName>Ovlricus</cei:persName>
+                    <cei:lb facs="#facs_1_r1l23" n="N011"/>filius <cei:persName>Stibor</cei:persName> cum fratre suo <cei:persName>Beneda</cei:persName>, <cei:persName>Hermannus agazo</cei:persName> cum fratribus suis <cei:persName>Gauel</cei:persName> et <cei:persName>Zauise</cei:persName>, <cei:persName>Woc prefectus de <cei:placeName>Budisin</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Budiwoi prefectus de <cei:placeName>Sceazlav</cei:placeName></cei:persName>. Ego vero quo¬
+                    <cei:lb facs="#facs_1_r1l24" n="N012"/>ad vixero, ut orationibus eorum inserar, prout potero, libenter patrocinabor. Acta sunt hec <cei:date value="99999999">anno in¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l26" n="N013"/><cei:date value="99999999">carnationis Domini MCLXXV, indictione octava</cei:date>. Data per manum <cei:persName>domni Geruasii cancellarii et prepositi <cei:placeName>Wisegradensis</cei:placeName>. </cei:persName>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

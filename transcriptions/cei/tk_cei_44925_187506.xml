@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0070_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0070_H_I</cei:title><cei:idno type="Transkribus">187506</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Fridericus, Dei gracia dux <cei:placeName>Austrie</cei:placeName> et <cei:placeName>Styrie</cei:placeName></cei:persName>, presentibus publice profitemur, quod de summa
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>pecunie serenissimo domino nostro, domino <cei:persName>Henrico, Romanorum imperatori,</cei:persName> per nos mutuata, magnificus
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>princeps, dominus <cei:persName>Johannes, rex <cei:placeName>Bohemie</cei:placeName>,</cei:persName> affinis noster karissimus, filius eius, propter absolucionem dominii nostri
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>in <cei:placeName>Burgowe</cei:placeName> in mille ducentis sexagenis grossorum pragensium et in sexcentis marcis argenti
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:placeName>Constanciensis</cei:placeName> ponderis creditoribus nostris de <cei:placeName>Spyra</cei:placeName> datis, item in mille marcis argenti, quin¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>quaginta sex grossis per marca qualibet computatis, et centum viginti sexagenis grossorum
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>pragensium honorabili viro abbati <cei:placeName>Czedlicensi</cei:placeName> nostro nomine traditis, nos legittime expedivit.
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>Quam quidem pecuniam in prefato mutuo domino <cei:persName>Henrico, Romanorum imperatori</cei:persName> predicto, harum testimonio
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>defalcamus. Datum <cei:placeName>Wienne</cei:placeName> <cei:date value="99999999">anno Domini millesimo trecentesimo duodecimo, VI Kalendas Augusti</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

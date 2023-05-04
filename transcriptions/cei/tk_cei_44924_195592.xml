@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK 1285_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK 1285_I</cei:title><cei:idno type="Transkribus">195592</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l3" n="N001"/>Ja <cei:persName>Mykess z <cei:placeName>Lypan</cei:placeName></cei:persName><cei:placeName/>, syn <cei:persName>Marssyka rzeczeneho z<cei:placeName> Lypan</cei:placeName></cei:persName>, synowecz nyekdy rzeczeneho <cei:persName>Mykssye z <cei:placeName>Lypan</cei:placeName></cei:persName>, y mogy dyedyczy y buduczy,
+                    <cei:lb facs="#facs_1_r1l4" n="N002"/>wyznawam wssyem lydem nynyeyssym y take buduczym, ktoz tento lyst budu czysty nebo czteny slyssyety, ze sye przyznawam
+                    <cei:lb facs="#facs_1_r1l5" n="N003"/>y nynye sem sye przyznal y mogy dyedyczy y take buduczy swu dobru woly y swym dobrym rozmyslem zadnym czlowyekem k tomu
+                    <cei:lb facs="#facs_1_r1l6" n="N004"/>neprzypuzen, ze sem mocznye y konecznye y dobrowolnye nycz po sobye neostawugye swe przye, czoz gest mezy mnu a mezy <cei:persName>My¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N005"/><cei:persName>kssem Wrbykem z <cei:placeName>Tysmycz</cei:placeName></cei:persName>, przyssel na pana <cei:persName>Jesska ze <cei:placeName>Strzmelycz</cei:placeName></cei:persName> a na <cei:persName>Jesska z <cei:placeName>Chotimye</cei:placeName></cei:persName>, czoz byssta ta dwa moczna ubrmany
+                    <cei:lb facs="#facs_1_r1l8" n="N006"/>powyedyela, nassy snaznu prosbu sobu stranu k tomu zwolena yprzyprossena, czoz by bylo kterych wyeczy kterakz kolywyek
+                    <cei:lb facs="#facs_1_r1l9" n="N007"/>menowanych neb nemenowanych mezy mnu, <cei:persName>Mykssem z <cei:placeName>Lypan</cei:placeName></cei:persName>, a mezy <cei:persName>Mykssem Wrbykem z <cei:placeName>Tysmycz</cei:placeName></cei:persName>, to ya, rzeczeny
+                    <cei:lb facs="#facs_1_r1l10" n="N008"/><cei:persName>Mykess z <cei:placeName>Lypan</cei:placeName></cei:persName>, slybugy swu dobru woly, czystu wyeru, sprawedlywym srdczem beze wssye lsty y beze wsseho messkanye drzye¬
+                    <cei:lb facs="#facs_1_r1l11" n="N009"/>ty, any proty tomu czo mluwyty, nez to wyernye a sprawedlywye a konecznye nawyeky wyekoma konecznye drzyety
+                    <cei:lb facs="#facs_1_r1l12" n="N010"/>y wyecznye drzewe rzeczeneho <cei:persName>Wrbyka Mykssye</cei:persName> y geho dyety y geho buduczych zadnych wyeczy any sudem any pra¬
+                    <cei:lb facs="#facs_1_r1l13" n="N011"/>wem any zadnym zamyslem any obmyslem upomynaty a to ya, drzewerzeczeny <cei:persName>Mykess</cei:persName>, nebo mogy dyedyczy y budu¬
+                    <cei:lb facs="#facs_1_r1l14" n="N012"/>czy slybugy y slybugem y chczy y mam y mamy drzyety pod wyeru a podeczty a pod pyety set kop k <cei:persName>Mykssowy k Wrbyko¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l15" n="N013"/><cei:persName>wy z<cei:placeName> Tysmycz</cei:placeName></cei:persName> y k geho dyetem y k geho buduczym y ku <cei:persName>Petrowy Bratrossowy z <cei:placeName>Dobrnyczye</cei:placeName></cei:persName> a k <cei:persName>Maynussowy ze<cei:placeName> Lhoty</cei:placeName></cei:persName><cei:placeName/>. Pa¬
+                    <cei:lb facs="#facs_1_r1l16" n="N014"/>kly bych ya, drzewerzeczny <cei:persName>Mykess</cei:persName>, y mogy dyedyczy y buduczy nechtyel nebo nechtyely uczynyty any drzyety to¬
+                    <cei:lb facs="#facs_1_r1l17" n="N015"/>ho wypowyedyenye, czoz by ssta ta drzewerzeczena ubrmany mezy mnu a mezy <cei:persName>Wrbykem Mykssem z <cei:placeName>Tysmycz</cei:placeName> </cei:persName>wy¬
+                    <cei:lb facs="#facs_1_r1l18" n="N016"/>powyedyela, tehda sem hned proty swey wyerzye y proty czsty uczynyl a pyet set kop strzyebrnych penyez prazske¬
+                    <cei:lb facs="#facs_1_r1l19" n="N017"/>ho razu k nym, drzewe rzeczenym, propadl y ztratyl a ty gyste penyeze ya <cei:persName>Mykess z <cei:placeName>Lypan</cei:placeName></cei:persName> slybugy plnyty y k tomu
+                    <cei:lb facs="#facs_1_r1l20" n="N018"/>sye dobrowolnye przywolugy swu dobru woly, czystu wyeru bezewssye lsty y bezewsseho messkanye <cei:persName>Mykssowy Wrby¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l21" n="N019"/><cei:persName>kowy z <cei:placeName>Tysmycz</cei:placeName></cei:persName> neb geho dyetem neb geho buduczym y <cei:persName>Petrowy Bratrossowy z <cei:placeName>Dobrnyczye</cei:placeName></cei:persName> a <cei:persName>Maynussyewy ze <cei:placeName>Lhoty</cei:placeName></cei:persName><cei:placeName/>.
+                    <cei:lb facs="#facs_1_r1l22" n="N020"/>Pakly bych ya drzewerzeczeny <cei:persName>Mykess z <cei:placeName>Lypan</cei:placeName> </cei:persName>neb mogy buduczy nesplnyl any splnyly any chtyel any chal splny¬
+                    <cei:lb facs="#facs_1_r1l23" n="N021"/>ty drzewe rzeczenych pyet set kop a kdyz bych byl upomanut od <cei:persName>Wrbyka Mykssye</cei:persName> drzewe rzeczeneho aneb
+                    <cei:lb facs="#facs_1_r1l24" n="N022"/>od geho dyety aneb od <cei:persName>Petra</cei:persName> aneb od <cei:persName>Maynussye</cei:persName> zdrzewe rzeczenych pyety set kop, tehda ynhed druhy den
+                    <cei:lb facs="#facs_1_r1l25" n="N023"/>po upomanuty mam y chczy wleczy sam s pacholkem a se dwyema konyema nebo sebe myesto tak dobreho wlo¬
+                    <cei:lb facs="#facs_1_r1l26" n="N024"/>zyty do <cei:placeName>Prahy</cei:placeName>, do <cei:placeName>stareho myesta</cei:placeName>, kdez by my bylo ukazano, k kteremu hospodarzy od <cei:persName>Mykssye Wrbyka</cei:persName> neb od
+                    <cei:lb facs="#facs_1_r1l27" n="N025"/>geho dyety neb od <cei:persName>Petra</cei:persName> neb od <cei:persName>Mayussye</cei:persName> drzewe rzeczenych a tu mam y mamy lezyety a obeczne lezenye dr¬
+                    <cei:lb facs="#facs_1_r1l28" n="N026"/>zyety, donyowadz by dzrewe rzeczeny penyezy y sskodamy, kterez by byly proty penyezye gystym swyedomym
+                    <cei:lb facs="#facs_1_r1l29" n="N027"/>ukazany, nebyly wplnye zaplaczeny, pakly by to lezenye tak dluho tralo, az do dwu nedyely a ya netbal any ch¬
+                    <cei:lb facs="#facs_1_r1l30" n="N028"/>tyel any mogy buduczy chtyely any chaly plnyty, lez ya nebo nelez tehda ynhed drzewe rzeczeny <cei:persName>Mykess</cei:persName>
+                    <cei:lb facs="#facs_1_r1l31" n="N029"/><cei:persName>Wrbyk z <cei:placeName>Tysmycz</cei:placeName></cei:persName> y geho dyety y geho buduczy y <cei:persName>Petr z <cei:placeName>Dobrnyczye</cei:placeName></cei:persName>, <cei:persName>Maynuss ze <cei:placeName>Lhoty</cei:placeName></cei:persName> magy plnu mocz y pl¬
+                    <cei:lb facs="#facs_1_r1l32" n="N030"/>ne prawo, gymz sye ya tyemto lystem poddawam, w zydech neb w krzyestyanech wzyety namu neb na
+                    <cei:lb facs="#facs_1_r1l33" n="N031"/>me sskody, donyewadz by rzeczenych penyez se wssyemy sskodamy newybraly, kterez by sskody gystym
+                    <cei:lb facs="#facs_1_r1l34" n="N032"/>swyedomym ukazal neb ukazaly a ya, drzewe rzeczeny <cei:persName>Mykess z <cei:placeName>Lypan</cei:placeName></cei:persName>, y mogy buduczy slybugy y slybugem,
+                    <cei:lb facs="#facs_1_r1l35" n="N033"/>czoz ge na tomto lystye psano swrchu y dole, neb drzewe rzeczenyma ubrmanoma bude wypowyedyeno swu
+                    <cei:lb facs="#facs_1_r1l36" n="N034"/>dobru woly, czystu wyeru wyernym srdczem drzyety wssyeczky wyeczy, kterez su na tomto lystye menowany pod
+                    <cei:lb facs="#facs_1_r1l37" n="N035"/>drzewe rzeczenym zakladem a pod wyeru a podeczty <cei:persName>Mykssyewy Wrbykowy z <cei:placeName>Tysmycz</cei:placeName></cei:persName> y geho dyetem y geho bu¬
+                    <cei:lb facs="#facs_1_r1l38" n="N036"/>buczym y <cei:persName>Petrowy z <cei:placeName>Dobrnyczye</cei:placeName></cei:persName><cei:placeName/> a <cei:persName>Maynussyewy ze <cei:placeName>Lhota</cei:placeName></cei:persName>. A wye pak ubrmany pan <cei:persName>Jessek ze <cei:placeName>Strzmelycz</cei:placeName></cei:persName> a <cei:persName>Jessek z</cei:persName>
+                    <cei:lb facs="#facs_1_r1l39" n="N037"/><cei:persName><cei:placeName>Chotimye</cei:placeName></cei:persName> snaznu prosbu od drzyewerzeczenych <cei:persName>Mykssye Wrbyka</cei:persName> a <cei:persName>Mykssye z <cei:placeName>Lypan</cei:placeName></cei:persName> zwolena a snaznu prosbu przy¬
+                    <cei:lb facs="#facs_1_r1l40" n="N038"/>prossena wypowyedawa y kazugyewa <cei:persName>Mykssowy Wrbykowy z <cei:placeName>Tysmycz</cei:placeName></cei:persName>, aby postupyl <cei:persName>Mykssowy z <cei:placeName>Lypan</cei:placeName></cei:persName> w <cei:placeName>Lypanech</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l41" n="N039"/>twrzye y s dyedynu, czoz by k tey wsy slussalo v <cei:placeName>Sedlysstek</cei:placeName> te wsy  s lesy, y s rybnyky, y s mlynem, y stu se wssy woly yakty
+                    <cei:lb facs="#facs_1_r1l42" n="N040"/>k tey wsy przyslussye y moczydlnyk to wsy wssye y lesow y kaplanstwye gessto gest tu ustaweno kromye czlowye¬
+                    <cei:lb facs="#facs_1_r1l43" n="N041"/>ka fararzowa z <cei:placeName>Wytycz</cei:placeName> a drzewe rzeczeny <cei:persName>Mykess z <cei:placeName>Lypan</cei:placeName></cei:persName> nema kaplanu nanyczemz przyekazyety, gesscze ka¬
+                    <cei:lb facs="#facs_1_r1l44" n="N042"/>zugyewa <cei:persName>Wrbykowy Mykssowy z <cei:placeName>Tysmycz</cei:placeName></cei:persName><cei:placeName>, </cei:placeName>aby <cei:persName>Mykssowy z <cei:placeName>Lypan</cei:placeName></cei:persName> wsseho toho platu postupyl wytyczych, kterehoz
+                    <cei:lb facs="#facs_1_r1l45" n="N043"/>gest wdrzyeny byl sam kromye podsyedka, gessto krychtarzstwy dohrzyb przyslussye a zahradnyka take ryb¬
+                    <cei:lb facs="#facs_1_r1l46" n="N044"/>nyka holeho, gessto k hrzybom przyslussye, toho gemu ma Wrbyk postupyty a wye take drzewe rzeczena ubr¬
+                    <cei:lb facs="#facs_1_r1l47" n="N045"/>many kazugyewa <cei:persName>Mykssyewy z <cei:placeName>Lypan</cei:placeName></cei:persName> aby <cei:persName>Mykssye Wrbyka</cei:persName> rzeczeneho, any gyeho dyety y geho buduczych zwyeczsse,
+                    <cei:lb facs="#facs_1_r1l48" n="N046"/>any zmensse, any z kterych kolywyek wyeczy, ny sudem ny prawem, any kterymy rzyeczmy, any kterym byehem,
+                    <cei:lb facs="#facs_1_r1l49" n="N047"/>tak yakoz gest drzyewe tyemto lystem slybyl a dobrowolnye sye zapsal. A ya, drzewe rzeczeny <cei:persName>Mykess z <cei:placeName>Lypan</cei:placeName></cei:persName><cei:placeName/>, tomu¬
+                    <cei:lb facs="#facs_1_r1l50" n="N048"/>to lystu, gemuz sem sye ya dobrowolnye przywolyl na pewne y wyeczne y gyste potwrzenye swu sem peczet przywye¬
+                    <cei:lb facs="#facs_1_r1l51" n="N049"/>syl, swu dobru woly yprosyl sem swu snaznu prosbu drzewe rzeczenu ubrmanu y gynych tudyez, aby swe peczety 
+                    <cei:lb facs="#facs_1_r1l52" n="N050"/>sswym wyedyenym tomuto lystu ytyem wyeczem, kterez su na nem psany, na swyedomye y wyeczne swyedeczstwye
+                    <cei:lb facs="#facs_1_r1l53" n="N051"/>przywyesyly, toczyssto pana <cei:persName>Jana z <cei:placeName>Kluczowa</cei:placeName></cei:persName>, <cei:persName>Hynka z <cei:placeName>Rzyczan</cei:placeName></cei:persName>, <cei:persName>Wrtoka ze <cei:placeName>Kssel</cei:placeName></cei:persName> y <cei:persName>Zbraslawa z<cei:placeName> Passynewsy</cei:placeName></cei:persName><cei:placeName>. </cei:placeName>Dan y
+                    <cei:lb facs="#facs_1_r1l54" n="N052"/>psan tento lyst w <cei:placeName>Czeskem Brodye</cei:placeName> <cei:date value="99999999">leta od Bozyeho narozenye potyssyczy a po trzech stech a po dewaddessaty bez gednoho</cei:date>
+                    <cei:lb facs="#facs_1_r1l55" n="N053"/><cei:date value="99999999">w pondyely po gyedenasty tyssycz swatych dyewycz.</cei:date>
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

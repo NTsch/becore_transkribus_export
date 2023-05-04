@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1581_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1581_H_I</cei:title><cei:idno type="Transkribus">209543</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/><cei:persName>Girzik z <cei:placeName>Crawarz</cei:placeName> a z <cei:placeName>Straznicze</cei:placeName></cei:persName> wyznawam tiemto listem obecznie przedewssemi, ktoz gey uzrzie 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>aneb cztucz slysseti budu, jakoz urozeny pan pan <cei:persName>Gindrzich z <cei:placeName>Lippeho</cei:placeName> naywyssi mar¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>ssalek <cei:placeName>Cralowstwie czeskeho</cei:placeName></cei:persName> prziyal mie gest na spolek nato nawsseczko k czemuz prawo 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>ma aneb bude mieti. Protoz ya <cei:persName>Girzik</cei:persName> swrchupsany slibugi swu dobru wieru bezewssie 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>zley lsti gey pana <cei:persName>Gindrzicha</cei:persName> swrchupsaneho z toho spolku zasie propustiti, kdyzby koli 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>on toho na mnye pozadal aneb geho erbowe take czozby kolik dluhuow bylo pana 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:persName>Gindrzicha</cei:persName> swrchupsaneho, gesstoby listy rzadnymi aneboli hodnym swiedomim mohli poka¬
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>zani byti a nebo czozby on pan <cei:persName>Gindrzich</cei:persName> swrchupsany komuzkoli czo odkazal, budto za 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>zdraweho ziwota anebo na smrtedlne posteli ty wsseczkny geho dluhy y to wsseczkno geho 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>rozkazanie. Ja <cei:persName>Girzik</cei:persName> swrchupsany slibugi swu dobru krzestiansku wieru zaplatiti y to 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>rozkazanie wskutku naplniti do toho do wsseho, czozby geho zbozie a panstwie stacziti mohlo. 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>Tomu na potwrzeni a pro lepssi gistotu ya <cei:persName>Girzik</cei:persName> swrchupsany swu wlastni peczet s swym 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>dobrim wiedomim prziwiesyti sem kazal k tomuto listu, genz dan a psan na <cei:placeName>Strazniczy</cei:placeName> <cei:date value="99999999">w </cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:date value="99999999">patek po swieczkach letha od narozenie syna Bozieho tissicz cztyrzi stha padessateho </cei:date>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:date value="99999999">druheho letha poczitagicze</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

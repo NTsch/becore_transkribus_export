@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_197_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_197_H_I</cei:title><cei:idno type="Transkribus">169995</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Waniek Rak, rychtarz</cei:persName>, <cei:persName>Jeronim Ssrol</cei:persName>, <cei:persName>Mikess Rysslawy</cei:persName>, <cei:persName>Sigmund Chanie</cei:persName>, <cei:persName>Janek od Strziebrnehwiezdy</cei:persName>, <cei:persName>Waczlaw, niekdy</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>s <cei:placeName>Male Strany</cei:placeName></cei:persName>, <cei:persName>Jan Kocziczka</cei:persName>, <cei:persName>Kliment Krizek</cei:persName>, <cei:persName>Waniek Bymer</cei:persName>, <cei:persName>Jan Profeta od Paterzuow</cei:persName>, <cei:persName>Mikulass Bethleemsky</cei:persName>, <cei:persName>Waniek od Pietiko¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>run</cei:persName>, <cei:persName>Petr od Rayskychiablek</cei:persName>, <cei:persName>Mikulass Kniezewesky</cei:persName>, <cei:persName>Havel Holecz</cei:persName>, <cei:persName>Ssimon Wyzrziwen</cei:persName>, <cei:persName>Matiey Krtek</cei:persName>, <cei:persName>Marzik Rimerz</cei:persName> a <cei:persName>Ja¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>nek Polaczek</cei:persName>, spoluprzisezni conselee <cei:placeName>Stareho Miesta prazskeho</cei:placeName>, wyznawame tiemto listem wssiem wuobecz, ktoz gey
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>uzrzie nebo cztucze uslyssie, ze spatrziwsse a skutecznie shledawsse na nas a na obecz nassi sprawedliwie a hodnie przi¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>padla winnicze zpusstiena mnichuow <cei:placeName>strahowskych</cei:placeName> pro odbiezenie auteczenie tychz mnichuow <cei:placeName>strahowskych</cei:placeName> od prawd
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>Bozich, tudiez y od nas w nassi naypilnyeyssi potrzebu a nuzi. Y nechtiecze, aby taz winnicze a miesstisstie gegie tak zpusstiena
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>zuostala, alle zassie wzdielana byla atudy uzitek przinesla, y prodali sme a moczi tohoto listu prodawame s powolenim wssie
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>obcze nassie slowutnemu <cei:persName>Jankowi, rzeczenemu Pusskarzik</cei:persName>, spolumiesstieninu nassiemu, geho diediczom a buduczim tu gistu
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>winniczi <cei:placeName>strahowsku</cei:placeName> s gegie miesstisstiem ku prawemu diedicztwy, genz lezi mezi winniczemi <cei:persName>Janowu Sswihal</cei:persName> s gendne a panie
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/><cei:persName>Mandinu s <cei:placeName>Konskeho trhu</cei:placeName></cei:persName><cei:placeName> </cei:placeName>strany druhe za cztrzmadczte kop grossuow dobrych strziebrnych razu prazskeho, nam a obczi nassie giz
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>uplnie splnienych a zaplaczenych, kteruzto winnici swrchupsanu y s gegie miesstisstiem bude moczi nadepsany <cei:persName>Janek Pusska¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:persName>rzik</cei:persName> y geho diediczowe a buduczi prodati, nagieti, smieniti, zastawiti anebo smy ucziniti, yakozto s swym wlastnim a diediczskym
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>sbozim bez wssielikterake odpory a prziekazky, poniawadz gest tyz <cei:persName>Janek</cei:persName> uczinil wsieczko s nadepsanym dielem, czoz gest ucziniti
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>miel wedle prawa miesta nassieho nadepsaneho. Na swiedeczstwie toho peczet wietssie miesta nassieho nadepsaneho prziwies¬
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>sena gest k tomuto listu, genz gest dan <cei:date value="99999999">lleta od narozenie pana nassieho Gezisse Krysta tissiczieho cztyrsteho assestmezczietme¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/><cei:date value="99999999">ho, w pondieli po hodu wssech swatych</cei:date>. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

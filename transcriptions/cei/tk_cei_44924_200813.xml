@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2166_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2166_H_I</cei:title><cei:idno type="Transkribus">200813</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My kniez <cei:persName>Petr, z Bozie milosti teho czassu probost</cei:persName>, <cei:persName>Anna, prziewora</cei:persName>, <cei:persName>Anna, subprziewora</cei:persName>, <cei:persName>Margaretha, cantrix, y wessken conwent</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>clastera <cei:placeName>chotiessowskeho</cei:placeName></cei:persName> a zakona premonstranskeho, wiznawame tiemto listem y swiedczime przied kazdym ziwym czlowiekem,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>ktoz tento list uzrzie anebo cztuczie slissiety budu, ze sme dluzny za nayiassne knyezie a krale krale <cei:persName>Zigmunda, rzimskeho </cei:persName>
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>uherskeho, czeskeho et cetera krale</cei:persName>, pana nassieho milostiweho, praweho a gisteho dluhu sto kop grossow dobrich strziebrnich 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>razu stareho prazskeho a myeni czeske, na tom listu, kteryzt gest pan <cei:persName>Jan Hanowecz</cei:persName> dobre pamyeti prodal urozenemu 
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/><cei:persName>Zdenkowi z <cei:placeName>Drsstky</cei:placeName>, purkraby na <cei:placeName>Tinie Horssowskem</cei:placeName></cei:persName>, za tissicz kop grossow, w kteremzto dluhu nynie gmenowanem zapsa¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>lissme y stupili ssme a moczi listu tohoto zapisugem a stupugem s nassy dobru woly zbozie classtera nassieho swrchupsaneho, 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>zegmena <cei:placeName>Sekyrziany Horzieissie</cei:placeName>, wess <cei:placeName>Wssuzku</cei:placeName> s platy, s poplaty, kmety, se dwuory, s kmetskimy, s diedynamy oranymi 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>y neoranimy a w tom ffararzowa nicz nedotikagicz, y zadnich wieczy y stu se wssy wuoly, y se wssim plnim panstwim, y sow¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>ssiemy swobodamy, czoz k te wssy przisslussie, w tiech meziech a hranyczich, iakozta wess gest wysazena a odstara dawna na tu
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>sobie ani swym buduczim, na tom na wssiem nicz nepoostawugicz urozenim panossiem <cei:persName>Oldrzichowy z <cei:placeName>Luzan</cei:placeName>, rzieczenemu Spiczie</cei:persName>,
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>a <cei:persName>Janowi ze <cei:placeName>Zdiaru</cei:placeName>, bratru geho</cei:persName>, y tomu kazdemu, ktozby tento list gmiel, s gich dobru wuoly, kterezto zbozie swrchupsane 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>magy wierziczi nassy nadepsany tiem wlasti y geho poziwati, yakz sie gim bude zdati, yakozto sweho wlastnyeho diediczstwie
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>bez prziekazi nassie a prawa duchonieho a swietskeho, dotud donyawadzbichom swrchupsanich peniez, totizto sto kop 
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>grossow nedali a uplnie nezaplatili wierziczim nassim nadepsanim, paklibichom my nebo ktoz koliwiek, kteraktz koliwiek 
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>nato swrchupsane zbozie sahl, kteremu koliwiek prawem budto swietskim nebo duchownim, to my swrchupsany kniez,
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>probosst y wessken conwent y nassy buduczy slibugem nassi dobru krziestiansku wieru, ruku spolecznu a nerozdielnu, 
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>swrchupsanim nassim wierziczim nadepsanim to wssieczko zbozie swrchupsane oczisti oswuoboditi, a to bezewssie sskody 
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>wierziczich nassich swrchupsanich, awssak takowe sskody magi byti, kterezby wierziczi nassy prawem bezmatku pokazali,
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>paklibichom toho wssieho nezdrziely, czo swrchupsano stogi, gehoz pane Bozie zachoway, tehda my, czasto gmenowany 
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>kniez, probosst y wessken conwent y nassy buduczi, dawame tiemto listem plnu mocz y prawo, aby toho kewssiemu na¬
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>ssiemu zbozy mowitemu y k nemowitemu, kterez mame nebo gmieti budem wierziczy nassy czastogmenowani hledieli
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>a k nassim lidem urocznim a nassie lidy y nassich buduczich budu gmieti plne prawo tiemto listem stawowati gym za¬
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>gimati y brati po miestech kralowich, panskich y duchownich w <cei:placeName>Czeske zemy</cei:placeName> y wezde ginde. A to, czoz wezmu nebo sta¬
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>wie wierziczi nassy swrchupsany, to nam magi srazity na swich sskodach, a tak dluho magi stawowati, zagimati y braty, 
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>tak iakoz wissiepsano stogi, domawadzbichom my, swrchupsani kniez, probost y conwent y nassi buduczi toho wssieho
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/>neuczinili, czoz swrchupsano stogi, a ktoz koliwiek tento list bude gmieti s nassich wierzich nadepsanich dobru wuoly
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>a s z dobrym swiedomim, ten gma y gmieti bude wssiechna prawa, iakozto ony samy k tomu ke wssiemu, czoz swrchupsa¬
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/>no stogi. A toho wssieho na potwrzenye, pewnost y gistotu dalssy my, kniez <cei:persName>Petr, probosst</cei:persName>, y wessken conwent swrchupsany 
+                    <cei:lb facs="#facs_1_r1l30" n="N030"/>peczieti nassie wlastnie s nassim wiedomim y prziznanim a nassy dobru wuoly naprzied k tomuto listu gsme prziwiesily,
+                    <cei:lb facs="#facs_1_r1l31" n="N031"/>a pro dalssie swiedomie prosilisme urozenich panow a panossii <cei:persName>Zdenka z <cei:placeName>Drsstky</cei:placeName>, purkrabie na <cei:placeName>Tinie Horssowskem</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l32" n="N032"/>czassu toho porucznika od kralowi milosti nassiemu classteru chotiessowskemu widaneho, poruczeneho pana pana
+                    <cei:lb facs="#facs_1_r1l33" n="N033"/><cei:persName>Hinka z <cei:placeName>Swamberga</cei:placeName></cei:persName>, <cei:persName>Lwika z <cei:placeName>Gywyan</cei:placeName>, purkrabie na <cei:placeName>Przimdie</cei:placeName></cei:persName>, <cei:persName>Gindrzicha z <cei:placeName>Sedlczie</cei:placeName>, rzieczeneho Sswaida, purkrabie</cei:persName>
+                    <cei:lb facs="#facs_1_r1l34" n="N034"/><cei:persName>na <cei:placeName>Radiny</cei:placeName></cei:persName>, mudrich a opatrnich purgmistra a conssielow miesta <cei:placeName>Noweho Plznye</cei:placeName>, ze gsu swe peczieti wlastnie we¬
+                    <cei:lb facs="#facs_1_r1l35" n="N035"/>dle nassich na swiedomie k tomuto listu prziwiesily, bez gich sskody, genz gest dan a psan <cei:date value="99999999">leta od narozenie syna </cei:date>
+                    <cei:lb facs="#facs_1_r1l36" n="N036"/><cei:date value="99999999">Bozieho tissiczieho cztizsteho trzidczateho prwnieho, ten patek przied swatim Martinem</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

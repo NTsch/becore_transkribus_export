@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_210_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_210_H_I</cei:title><cei:idno type="Transkribus">170070</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>purgmistr Blahut</cei:persName>, <cei:persName>Mikulass richtarz</cei:persName>, <cei:persName>Jan Sena</cei:persName>, <cei:persName>Weczlaw Polewka</cei:persName>, <cei:persName>Jan Bistrak</cei:persName>, <cei:persName>Ma¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>rzik Hrzek</cei:persName>, <cei:persName>Petr Dieczka</cei:persName>, <cei:persName>Jacub Beczwarz</cei:persName>, <cei:persName>Mikulass Straka</cei:persName>, <cei:persName>Simon Leydich</cei:persName>, <cei:persName>Petr Wydimsky</cei:persName>, <cei:persName>Bar¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>thoss swecz</cei:persName>, wyznawame tiemto zapisem, ze przissed przied nas <cei:persName>Waniek Zrno </cei:persName>a sestra geho
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>Anezka</cei:persName> y swim muzem, gmenem <cei:persName>Jankem</cei:persName>, dobrowolnie svolili su, sie na conssely, kteryz ninie gsu
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>usazeni, a na staru radu, kteraz gest przied nami bila, aby bili ohledany o diediczstwie, o kterez su
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>sie sudili, tut su gie conssele, kterziz gsu wti czasi bily, y stara rada, kteraz ge przied nami bila,
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>wssiczkni spolu oto diedicztwie y okrody y nabitky rozdielili, o wsseczky vieczi nicz po sobie nepoostawugicz,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>a to pod zakladem padesati kop grossow y tee przie ztraczenie, kterazby strana z tohoto gedna druhu wye¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>cze napomynala, a kterazby strana z toho gedna druhu wiecze napomynala, aby ten zaklad swrchu¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>psany, a tu przi propadla na sseznanie consselske, a ten zaklad propadeny ma na conssely spadnuty,
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>kterzyz w ti czasi budu. A toho na swiedomie a lepssie potwrzenie peczet miesta nassieho gsme k tomu¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>to lystu prziwiesity kazaly. Genz gest dan a psan <cei:date value="99999999">od narozenie syna Bozieho tisiczieho cztirzsteho we trzid</cei:date>¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:date value="99999999">satem a wgednom letie, den swateho Jacoba wieczieho apostola</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

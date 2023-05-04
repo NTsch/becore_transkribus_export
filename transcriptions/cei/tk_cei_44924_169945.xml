@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">ACK_1461_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>ACK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">ACK_1461_H_I</cei:title><cei:idno type="Transkribus">169945</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja<cei:persName> Proczek z <cei:placeName>Habrowan</cei:placeName></cei:persName><cei:placeName/> wyznawam tiemto listem prziedewssiemi, ktoz giey czisti budu nebo cztucz slissieti, zie slibugi
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>tiemto listem swu dobru wieru beze wssie zle lsti najasnieissiemu kniezieti a panu, panu <cei:persName>Waczlawowi, rziemskemu</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>krali, wzdy rozmnoziteli rzissie a krali czeskemu</cei:persName>, panu memu milostiwemu, wiernie sluziti a dworziti az do gieho
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>milosti ziwota sam. Ssest a s ssesti konny s takuto umluwu, zie mi gieho milost s tu czeledy a s konmy ma dati plnu
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>potrziebu podle komornikow swych, genz gsu w gieho komorzie uprziedni nynie anebo potom budu. A tomu na swie¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>domie ma pecziet s mu dobru woli a wiedomym prziwiessiena giest k tomuto listu a k me prosbie na swiedomie. Slo¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>wuttni a wzaczni muzowe a pani <cei:persName>Petr z Sweissyna, munczmaistr na horach</cei:persName>, <cei:persName>Henrich z Lazan, hauptman wrati¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/><cei:persName>slawsky</cei:persName> a <cei:persName>Janek z <cei:placeName>Smilkowa</cei:placeName>, sedienim na <cei:placeName>Kostelczi</cei:placeName></cei:persName>, swe peczeti prziwiessyli su k tomuto listu, genz dan v <cei:placeName>Prazie</cei:placeName> <cei:date value="99999999">leta</cei:date>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/><cei:date value="99999999">od narozeni syna Bozieho tisicz cztirzista w sestnadcztem letie tu sobotu den swateho Prokopa</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

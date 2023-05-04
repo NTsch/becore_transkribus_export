@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2157_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2157_H_I</cei:title><cei:idno type="Transkribus">201888</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Bussek ze <cei:placeName>Krzenic</cei:placeName></cei:persName><cei:placeName/> wyznawam tiemto listem obecznie przedewssemi, ktoz giey uzrzie nebo cztucz slysseti budu, zie gsu urozeny panosse <cei:persName>Rad¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>slaw z <cei:placeName>Koczowa</cei:placeName></cei:persName>, <cei:persName>Bohusse z <cei:placeName>Skoczecz</cei:placeName></cei:persName> a <cei:persName>Mikulassek z <cei:placeName>Chotiessowicz</cei:placeName></cei:persName> mezi mnu a kniezem <cei:persName>Hynkem probosstem a conwentem classtera <cei:placeName>cho¬</cei:placeName></cei:persName><cei:placeName/>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName><cei:placeName>tiessowskeho</cei:placeName></cei:persName> umluwu konecznu uczinili o ten dluh, totissto o dwie stie kop a od dwadczeti kop grossow gistiny, genz gsu mnye kniez
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/><cei:persName>Hynek probosst</cei:persName> a conwent dluzny, a toho list gich mam s gich peczetmi, gessto na tom hlawnim listu na nye gsu tyto rukoymie <cei:persName>Seze¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:persName>ma z <cei:placeName>Koczowa</cei:placeName></cei:persName>, <cei:persName>Bohusse z <cei:placeName>Skoczecz</cei:placeName></cei:persName>, <cei:persName>Wylem z <cei:placeName>Wrhawcze</cei:placeName></cei:persName> a <cei:persName>Petr z <cei:placeName>Kamenicze</cei:placeName></cei:persName>, po kterichzto peniezich mnye uroky gsu zadrzeli wydawati az
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>dosie chwile, tak zie gsu toho predpsanii smluwcze mezi nami tiech urokow zadrzanych y s gistinu swrchupsanu secztli, ziez my kniez
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:persName>Hynek probosst</cei:persName> y s geho conwentem mnye <cei:persName>Busskowi</cei:persName> zoustali dluzni puolcztwrta sta kop grossow, gehoz na tiech wssech peniezich
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>kniez <cei:persName>Hynek probosst</cei:persName> mnye <cei:persName>Busskowi</cei:persName> dal dwie a trzidczeti kop grossow, iakoz toho ma quittanczie swiedczi, kteruz sem <cei:persName>Bohussy z <cei:placeName>Skoczecz</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>dal a u nyeho polozil. A w tiech przedpsanych peniezich kniez <cei:persName>Hynek probosst</cei:persName> y swym conwentem umluwu tiech przedpsanych smluw¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>czi mnye <cei:persName>Busskowi</cei:persName> czastopsanemu, uroka swatomartinskeho na miestianech w <cei:placeName>Dobrzanech</cei:placeName> a w <cei:placeName>Robcziczich</cei:placeName> take platu na tiech lidech,
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>kterychz <cei:persName>Mikulass Hynkowicz z <cei:placeName>Noweho Plznie</cei:placeName></cei:persName><cei:placeName/> nebyl wdrzenii, a k tomu rybniczku, kteryz tu we wsy u dwora lezy postupil, iakoz toho
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>gich list umluwny mam, kteryzto urok w <cei:placeName>Dobrzanech</cei:placeName> mam na swateho Martina, gesstio od toho swateho Martina naiprwe przi¬
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>sstieho wrocze przigde, poczieti brati, cozse dostane, a w <cei:placeName>Robcziczich</cei:placeName> ten urok na tiech lidech mnye <cei:persName>Busskowi</cei:persName>, kniezem <cei:persName>Hynkem probosstem</cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>a conwentem przedpsanym stupeneho, czoz se toho dostane nynie na swateho Havla poczna polowiczi a druhu polowiczi na swate¬
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>ho Girzie potom przisstim, a tak przitiech czasiech ya kazdeho leta mam brati bez knieze <cei:persName>Hynkowy</cei:persName> conwentu y gich buduczich
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>bezewssiee prziekazy, po kterychzto hlawnich peniezich, totissto po dwu stu a po dwadczeti kopach grossow mnye, <cei:persName>Busskowy</cei:persName>, ma pra¬
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>wy a sprawedliwy urok kazdeho leta giti, a ten urok kazdeho leta naprzed mam vzieti, czoz se dostane a ostatek na hlawnich peniezich,
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>czoz kazdeho leta s tiech lidii urokow wezmu, secztucze to w hromadu, mam kniezi <cei:persName>Hynkowi probosstowi</cei:persName> a conwentu kazde leto toho swu
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>quittanczii dobru a bezpecznu dati, aby gim to sesslo na hlawnich peniezich y na urocziech po tiech hlawnich peniezich, iakoz list hlaw¬
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>nii umluwny swiedczi. Take gestli zie bych ya <cei:persName>Bussek</cei:persName> od toho platu branye kralowu milosti, nebo geho urzedniky anebo, kteru koli
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>moczi byl odtisstien a gich nebral, a knieze <cei:persName>Hynka probossta</cei:persName> a conwent tiem hlawnim listem y rukoymie gich napominal ku plnye¬
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>nii nebo kto giny ode mnie tiem hlavnim listem, tehdy tento list umluwny, kteryz mam kniezi <cei:persName>Hynkowi probosstowy</cei:persName> conwentu slibu¬
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>gi swu dobru wieru y czti bezewssie odpory naprzed wratiti y take list miesstianow z <cei:placeName>Dobrzan</cei:placeName>, iakoz gsu se mnye, knieze <cei:persName>Hynkowym</cei:persName>
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/><cei:persName>probosstowim</cei:persName> kazanim zapsali na urok dobrzansky alidy w <cei:placeName>Robcziczich</cei:placeName> y s rybniczkem zase tuz myeru stupiti, iakoz mnye ony gsu
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>stupili. Paklibych ya <cei:persName>Bussek</cei:persName> czastogmenowany bez prziekazy ten plat przedse bral a swe penize wybral, tehdy bezewssie wymlu¬
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>wy, odpory ya <cei:persName>Bussek</cei:persName> nebo ten ktozby hlawny list y tento umluwny w swe moczi myel, mam y slibugi tuz wieru y czti kniezy
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/><cei:persName>Hynkowi probosstu</cei:persName> a conwentu hlawnii list a ten umluwny y dobrzansky wratiti a w gich mocz gie dati. Toho na lepssy gistotu
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>y pewnost peczet sem swu wlastnii k tomuto listu prziwiesil a prosil sem urozenych pannosi <cei:persName>Radslawa z <cei:placeName>Koczowa</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Waczlawa</cei:persName>
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/><cei:persName><cei:placeName>Drahobuze</cei:placeName>, sedenim w <cei:placeName>Borowach</cei:placeName></cei:persName> a <cei:persName>Hrzka z <cei:placeName>Nebielow</cei:placeName></cei:persName>, ze su peczieti swe na swiedomie wedle mee k tomuto listu prziwiesili, genz gest
+                    <cei:lb facs="#facs_1_r1l30" n="N030"/><cei:date value="99999999">dan po Boziem narozenii leta tisiczieho cztirsteho a <cei:sic corr="">sss</cei:sic>estmezczietmeho, ten utery po swatem Bartholomiegy</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

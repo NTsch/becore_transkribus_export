@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2146_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2146_H_I</cei:title><cei:idno type="Transkribus">201680</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>My <cei:persName>Mikulass Hinkowicz z <cei:placeName>Nowehoplznye</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Mabka</cei:persName>, zena geho, y nassi buduczy, wiznawame tiemto listem obecznye przedew¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>ssemy, ktoz gey uzrzie nebo cztuczie slisseti budu, tak iakoz sme u duostogneho v Boze otcze u knyeze <cei:persName>Hynka probossta a u geho</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>conwenta classtera <cei:placeName>chotissowskeho</cei:placeName></cei:persName>, dwuor s popluzim y s diedinamy popluznymy v <cei:placeName>Robcziczich</cei:placeName> kupily, a k tomu s ozymym
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>osenym tu dobrze osetym, s lukamy, spyty obogy czymu y yaru, totzizto s slamu, se wssim senem, y s otawu, y s pastewnym, czos
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>k wisoke przislussy, iakoz gest prwe wobiczegy bylo a k tomu lessu gsu nam przidaly, abichom sobie k potrzebie k palenye
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>do dwora tu braly na tiech mytech, mytech iakoz gich ssafarzi do <cei:placeName>Lyticz</cei:placeName> do dwora beru, tu kdez nam hayny ukaze, y take k gy¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>ne potrzebie, czos by bylo potrzebie k oprawenye plotow okolo dwora nebo tu we dworze w <cei:placeName>Robcziczich</cei:placeName>. A k tomu take
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>trzinadtczet kop grossow platu tu w <cei:placeName>Robcziczich</cei:placeName> na tiechto lidech, genz gsu nam gich stupily na <cei:persName>Matiegowi Lassako¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/><cei:persName>wicz</cei:persName> bez dwudczieti grossow trzy kopy grossow, na <cei:persName>Pawlowi</cei:persName> dwye kopie a ossm grossow, na <cei:persName>Iacubkowi</cei:persName> puoldruhe
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>kopy a ssest grossow, na <cei:persName>Iacubowi Pruobowy</cei:persName> dwie kopie a ossm grossow, na <cei:persName>Waczlawowi Ssimkowicz</cei:persName> dwie
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>kopie a ossm grossow, na <cei:persName>Pechowi</cei:persName> dwie kopie a ossm grossow a dwanadtczet grossow, iakoz se natiech lidech
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>nedostawa, ty nam ma hayny tu z <cei:placeName>Robczicz</cei:placeName> na swateho Girzi ssest grossow, a na swateho Hawla ssest grossow,
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>a dwie nediely potom widawaty a k tomu y s panstwim na tiech lidech tu w <cei:placeName>Robcziczich</cei:placeName> kromye trzy wyn totzizto
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>mordu podawenye a ohnye a kromye kur k pitancii kterez gsu sobie a swemu classteru na tiech lidech zacho¬
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/>waly a poostawily za dwie stie kop grossow dobrich strziebrnych prazskeho razu, kterez gsu ot nas uplnye
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>przigaly a wzaly, kterizto dwuor s popluzym, s platem y s panstwim na tiech lidech nam stupenich y s pastewnym,
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>iakoz se swrchugmenuge, mame drzieti a toho poziwati ot nynyeyssieho swateho Hawla, iakoz tento list gest
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/>dan az do plnich trzy let bez prziekazy, a kdiz trzy leta tak przeydu, tehdi po tiech trzech letech we dwu ne¬
+                    <cei:lb facs="#facs_1_r1l19" n="N019"/>deli nassy prodawagiczi swrchupsany tiech dwie stie kop grossow wedle hlawnieho listu, iakoz ot nych ma¬
+                    <cei:lb facs="#facs_1_r1l20" n="N020"/>me, magy nam dati a splniti peniezi hotowymy. A my nassym prodawagiczim, knyezi probosstowi a conwentu 
+                    <cei:lb facs="#facs_1_r1l21" n="N021"/>classtera <cei:placeName>chotiessowskeho</cei:placeName> toho dworu s polpuzim s diedinamy popluznymy tu w <cei:placeName>Robcziczich</cei:placeName> s ozymym osenym 
+                    <cei:lb facs="#facs_1_r1l22" n="N022"/>dobrze osetym, iakoz sme se ot nych uwazali, spyty yaru y ozymu, s senem, s otawu, s platem trzinadtrzi kopa¬
+                    <cei:lb facs="#facs_1_r1l23" n="N023"/>my grossow y s panstwim we wssie tezmyerze, iakoz sme se ot nych uwazaly y s pastewnym, slibugem nassy
+                    <cei:lb facs="#facs_1_r1l24" n="N024"/>dobru wieru y czty gym w gich mocz zasse stupity, bezewsseho odpieranye y otmluwanye, a tu umluwu
+                    <cei:lb facs="#facs_1_r1l25" n="N025"/>swrchupsanu ya <cei:persName>Mikulass Hinkowicz</cei:persName> swrchupsany, swymy buduczymy y stiemy, aczby ten list smu
+                    <cei:lb facs="#facs_1_r1l26" n="N026"/>woly nebo mych buduczy wczy mocz y s hlawnym y s tiem umluwnym listem, iakoz ot mych prodawagiczich 
+                    <cei:lb facs="#facs_1_r1l27" n="N027"/>mam wssel, tuz dobru wieru <cei:sic corr="">wieru</cei:sic> y czti slibugy drzieti bezewsseho przerussenye. Toho pro lepssy gistotu 
+                    <cei:lb facs="#facs_1_r1l28" n="N028"/>ya <cei:persName>Mikulass</cei:persName> swrchupsany zase y zaswe buduczy, y ktoz by te mu moczi drzal, peczet swu wlastny k tomu¬
+                    <cei:lb facs="#facs_1_r1l29" n="N029"/>to listu sem prziwiessil a prosil sem urozenich panossi <cei:persName>Sezemy z <cei:placeName>Koczowa</cei:placeName></cei:persName>, <cei:persName>Iana z <cei:placeName>Hradku</cei:placeName></cei:persName>, <cei:persName>Petra z</cei:persName>
+                    <cei:lb facs="#facs_1_r1l30" n="N030"/><cei:persName><cei:placeName>Camenicze</cei:placeName>, toho czassu wladarz w <cei:placeName>Chotiessowiczich</cei:placeName></cei:persName>, a <cei:persName>Bernarta z <cei:placeName>Nowehoplznye</cei:placeName></cei:persName>, genz gsu te wieczi byly mezy
+                    <cei:lb facs="#facs_1_r1l31" n="N031"/>namy umluwczczcze gsu, swe peczeti na swiedomye k tomuto listu prziwiessily. Genz gest dan <cei:date value="99999999">po Bozim naro¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l32" n="N032"/><cei:date value="99999999">zenye cztucze leta tissicziho cztirzsteho adewatenadtczteho, den swateho Hawla</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

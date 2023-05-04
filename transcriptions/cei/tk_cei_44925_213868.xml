@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1587_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1587_H_I</cei:title><cei:idno type="Transkribus">213868</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/><cei:persName>Ladislaus, Dei gracia <cei:placeName>Hungarie</cei:placeName>, <cei:placeName>Bohemie</cei:placeName>, <cei:placeName>Dalmacie</cei:placeName>, <cei:placeName>Croacie</cei:placeName> et cetera rex, <cei:placeName>Austrie</cei:placeName> dux et <cei:placeName>Moravie</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/><cei:persName>marchio</cei:persName>, notumfacimus tenore presencium universis, quod attentis fidelibus seruiciis maiestati nostre
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>per fidelem nostrum dilectum <cei:persName>Wenceslaum dictum Wlczek de <cei:placeName>Minicz</cei:placeName></cei:persName> hactenus exhibitis et in
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>futurum studiosius exhibendis omne jus, quod nobis tanquam regi <cei:placeName>Bohemie</cei:placeName> competit in castro
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:placeName>Lyczkow</cei:placeName> cum villis, curiis, censibus, agris, pratis, pascuis, piscinis, riuis, aquis, molendinis,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>jurepatronatus ecclesie aliisque pertinenciis ac hereditatibus et bonis universis per mortem <cei:persName>Johannis</cei:persName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:persName>de <cei:placeName>Mynicz</cei:placeName></cei:persName> ad nos quolibet devolutis, predicto <cei:persName>Wenceslao</cei:persName> dedimus et contulimus, graciose
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>mandamus igitur judici ceterisque curie nostre regalis officialibus, quantus prefato <cei:persName>Wenceslao</cei:persName>
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>super dictis bonis litteram proclamacionis dare et servato iuris ordine, si eadem bona adnos
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>devoluta repererint, extunc possessionem eorundem tradere non omittant saluis tamen
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>semper iuribus alienis. Presencium sub appensione sigilli nostri regalis testimonio literarum.
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>Datum <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">decimanona die mensis januarii anno Domini millesimoquadringente¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/><cei:date value="99999999">simoquinquagesimoquarto, regnorum nostrorum anno <cei:placeName>Hungarie</cei:placeName> et cetera quartodecimo</cei:date>,
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:date value="99999999">bohemie vero primo</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1568973521790_25">
+              
+              
+                    <cei:lb facs="#facs_1_line_1568973530534_28" n="N001"/>Ad mandatum domini regis
+                    <cei:lb facs="#facs_1_line_1568973546912_34" n="N002"/>domino <cei:persName>Johanne Czalta referente</cei:persName>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

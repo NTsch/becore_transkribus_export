@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0066_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0066_H_I</cei:title><cei:idno type="Transkribus">187503</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Johannes judex, scabini atque universitas civitatis <cei:placeName>Luebeschiczceensis</cei:placeName></cei:persName> recognoscimus publice confitentes excellenti
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>ac magnifico principi domino <cei:persName>Johanni inclito Bohemie et Polonie regi</cei:persName>, tamquam vero regi ac domino nostro fide
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>data unanimiter homagium prestitisse necnon de mandato et voluntate ipsius speciali serenissimis ac gloriosis principibus
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/>dominis <cei:persName>Bolezlao</cei:persName>, <cei:persName>Heinrico</cei:persName> et <cei:persName>Wolodizlao, Silesie ducibus dominisque Wretislavie et Legenicz illustribus</cei:persName>, heredibusque ac 
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>legitimis ipsorum successoribus, quibus nos et civitatem nostram totamque <cei:placeName>terram Oppavie</cei:placeName> pro octo milibus marcarum
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>grossorum regalium denariorum, sexaginta quatuor grossos pro qualibet marca computando, nomine pignoris obligavit,
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>obedientiam et devocionem fidei absque dolo communiter iuravisse, promittentes bona consciencia et fidei puritate, quod ab ipsis
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>et eorum quolibet nullatenus mala divertemur intencione, sed eis et eorum cuilibet serviemus et obedienter suberimus
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>tamdiu fideliter, quousque ipsis dicta octo milia marcarum de certa illorum, qui ad  hoc ex utraque parte deputati sunt, 
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>sciencia ex integro persolvantur. In cuius rei testimonium  presentes fieri et sigillo civitatis nostre fecimus communiri.  
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>Datum <cei:placeName>Oppavie</cei:placeName> <cei:date value="99999999">anno Domini millesimo CCC undecimo XVI kalendas Julii</cei:date> etc. 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

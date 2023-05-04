@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0147_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0147_H_I</cei:title><cei:idno type="Transkribus">205096</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r2">
+              
+              
+                    <cei:lb facs="#facs_1_r2l2" n="N001"/>Ego <cei:persName>Ulricus Lepus de <cei:placeName>Waldek</cei:placeName></cei:persName><cei:placeName/> ad universorum noticiam tenore presencium cupio prevenire, quod quia serenissimus
+                    <cei:lb facs="#facs_1_r2l3" n="N002"/>dominus meus, dominus <cei:persName>Johannes, <cei:placeName>Boemie</cei:placeName> et <cei:placeName>Polonie</cei:placeName> rex ac <cei:placeName>Lucemburgensis</cei:placeName> comes</cei:persName>, michi oppida <cei:placeName>Eylov</cei:placeName> et
+                    <cei:lb facs="#facs_1_r2l4" n="N003"/><cei:placeName>Knye</cei:placeName> cum suis pertinenciis, superaddita michi quadam ex dono pecunia in mille ducentis sexagenis grossorum,
+                    <cei:lb facs="#facs_1_r2l5" n="N004"/>obligavit, ego oppida eadem cum suis pertinenciis ab eo in feodum recipio sic, quod ego et heredes
+                    <cei:lb facs="#facs_1_r2l6" n="N005"/>mei ipsa oppida necnon castrum <cei:placeName>Waldek</cei:placeName> cum villis, prout in aliis meis litteris continetur plenius,
+                    <cei:lb facs="#facs_1_r2l7" n="N006"/>a dicto domino meo rege et heredibus suis in feodum et nomine feodi perpetuis temporibus tenere ac servicia
+                    <cei:lb facs="#facs_1_r2l8" n="N007"/>de ipsis fidelia et consueta facere debemus et tenebimur fideliter et constanter, Datum <cei:placeName>Prage</cei:placeName>
+                    <cei:lb facs="#facs_1_r2l9" n="N008"/><cei:date value="99999999">anno Domini millesimo trecentesimo tricesimo primo, die precedenti festum Exaltacionis sancte Crucis</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1574684219189_498">
+              
+              
+                    <cei:lb facs="#facs_1_line_1574684224003_501" n="N001"/>Ponatur ad homagia
+                    <cei:lb facs="#facs_1_line_1574684226128_506" n="N002"/><cei:placeName>Boemorum</cei:placeName>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

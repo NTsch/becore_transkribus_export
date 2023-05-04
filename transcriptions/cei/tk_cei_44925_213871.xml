@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0176_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0176_H_I</cei:title><cei:idno type="Transkribus">213871</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Henricus, Dei gracia dux <cei:placeName>Slezie</cei:placeName>, dominus de <cei:placeName>Furstemberg</cei:placeName> et in <cei:placeName>Jawor</cei:placeName></cei:persName> ad universorum notitiam tenore 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>presentium volumus pervenire, quod cum magnificus princeps, dominus <cei:persName>Johannes, <cei:placeName>Boemie</cei:placeName> rex ac <cei:placeName>Lucemburgensis</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName>comes</cei:persName>, sororius noster karissimus, civitatem suam <cei:placeName>Glogoviam</cei:placeName> cum districtibus et territoriis suis et universis 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>pertinentiis earundem nobis dederit ad tempora vite nostre, nos viceversa in specialis indicium amicicie civitatem 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/><cei:placeName>Gorlecensem</cei:placeName> cum districtu et territorio suis, dominio, iurisdictione, iure, honore, fortaliciis theoloneis, castris,
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>opidis, villis, vasallis et earum incolis, iudeis, silvis, nemoribus, iure patronatus ecclesiarum et universis suis 
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>pertinenciis damus sibi et heredibus suis et libere, sponte et bona voluntate nostro et heredum nostrorum habendorum 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>seu aliorum propinquorum nostrorum quorumcumque nomine condescendimus et cedimus de eisdem, renunciantes, quod
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>nobis et heredibus habendis seu propinquis nostris quibuscumque omni iure, accioni tam canonici quam civilis, 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>si que nobis vel heredibus nostris habendis seu propinquis, ut permittitur, competunt vel competere possent 
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>quolibet modo in futurum et si quas literas vel privilegia a rege Romanorum vel imperatore, principibus, civibus 
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>vel aliis quibuscumque habemus forsitan, per quas vel que secuturo tempore ipsi domino regi, heredibus aut suc¬
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>cessoribus suis, <cei:placeName>Boemie</cei:placeName> regibus, per nos ac heredes nostros habendos seu propinquos accio vel questio de 
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>civitate, territorio et districtu predictis posset aliqualiter suboriri de iure vel de facto, illas vel 
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>illa irrita, cassas, vacuas esse volumus et inanes nec alicuius inantea habere roboris firmitatem,
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>promittentes sincere et bona nostra fide prestito iuramento contra premissa omnia et singula per nos, heredes 
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>nostros habendos seu propinquos nunquam facere vel venire nec eciam motu aliquo attemptare de iure vel 
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/>de facto nec quovis ingenio ad inpediendum, que premissa sunt, opem vel operam ad hoc dare. 
+                    <cei:lb facs="#facs_1_r1l21" n="N019"/>In cuius rei testimonium presentes fieri et nostri sigilli munimine iussimus communiri. Datum <cei:placeName>Wratislavie</cei:placeName> 
+                    <cei:lb facs="#facs_1_r1l23" n="N020"/><cei:date value="99999999">anno Domini millesimo trecentesimo tricesimo septimo in octava Innocentum</cei:date>.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_0179_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_0179_H_I</cei:title><cei:idno type="Transkribus">212835</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Nos <cei:persName>Heinricus, Dei gracia dux <cei:placeName>Slezie</cei:placeName>, dominus de <cei:placeName>Furstinberg</cei:placeName>c et in <cei:placeName>Jawor</cei:placeName></cei:persName> ad universorum noticiam 
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>tenore presentium volumus pervenire, quod cum magnificus princeps, dominus <cei:persName>Johannes <cei:placeName>Boemie</cei:placeName> rex ac <cei:placeName>Lu¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/><cei:persName><cei:placeName>cemburgensis</cei:placeName> comes</cei:persName>, sororius noster karissimus, civitatem suam <cei:placeName>Glogoviam</cei:placeName> cum toto territorio et dominio 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>ac aliis universis pertinentiis motus zelo sincere amicicie pro vite nostre temporibus donaverit, datis nobis 
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>suis litteris super eo. Nosque ad reconpensam viceversa congruam et decibilem, ubi poterimus, non immeri-
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>to pro viribus intendere volentes, ne etiam per donationem terre iam predicte nobis factam ipse dominus rex <cei:placeName>Bo-</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/><cei:placeName>emie</cei:placeName> in quibuscumque casibus aliqualiter seducatur, harum serie promittimus firmiter et sincere ac etiam 
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>astringi volumus, quod ipsum dominum regem et suos in dictam civitatem <cei:placeName>Glogoviam</cei:placeName> et castra, opida 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>et fortalicia, quotienscumque vel quandocumque opportunum fuerit, sine tamen nostro ac nostrorum preiudicio et gra¬
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>vamine, et extra dimittere promittimus et spondemus, nichilominus ipsum dominun regem contra suos 
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>adversarios sibi iniuriantes in <cei:placeName>Boemia</cei:placeName> et <cei:placeName>Polonia</cei:placeName> cum predictis firmitatibus et totis nostris 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>viribus promittimus adiuvare. In cuius rei testimonium presentes scribi et nostri sigilli munimine 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>iussimus communiri. Datum <cei:placeName>Wratislavie</cei:placeName> <cei:date value="99999999">anno Domini millesimo trecentesimo tricesimo VII in </cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:date value="99999999">octava Innocentum. </cei:date> 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_Plasy_706_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>AZK_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_Plasy_706_H_I</cei:title><cei:idno type="Transkribus">146409</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ja <cei:persName>Hinek Crussina z <cei:placeName>Sswamberka</cei:placeName></cei:persName><cei:placeName/> znamo czinim tiemto listem obecznie prziedewssiemi, ktoz gey uzrzie y czisti
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>anebo cztucze budu slyssieti, jakoz gsem gmiel dwuor popluznii a wes rzeczenu <cei:placeName>Ssebikowo</cei:placeName> se wssim, czoz k tomu przislu¬
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>ssie, od dobre pamieti knieze knieze <cei:persName>Gotfrida, opatha klasstera plaskeho</cei:persName>, w peniezich sstupeno, toho dworu popluz¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>nieho y wsy <cei:placeName>Ssebikowa</cei:placeName> i s tiem se wssim, czoz k tomu przislussie, sstupil gsem y moczy listu tohoto sstupugy cztihodnie¬
+                    <cei:lb facs="#facs_1_r1l7" n="N005"/>mu kniezy kniezi <cei:persName>Gylgiemu, z Bozie milosti opatu</cei:persName>, y wssiemu conwentu tehoz klasstera plaskeho swrchupsaneho
+                    <cei:lb facs="#facs_1_r1l8" n="N006"/>y gich buduczim, tak ze gyz negmam ani chczi gmieti y zadneho prawa k tomu dworu popluzniemu y k tee wsy <cei:placeName>Sse¬</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l9" n="N007"/><cei:placeName>bikowu</cei:placeName> ani k tomu, czoz k tee wsy a k tomu dworu popluzniemu przislussie, ani mogy buduczy, a to slibugy pode czti a pod wie¬
+                    <cei:lb facs="#facs_1_r1l10" n="N008"/>ru zdrzieti, cztnie a wiernie, y mogy buduczi. Toho na swiedomie a na pewne a gistee potwrzenie peczet swu wlastny s mym
+                    <cei:lb facs="#facs_1_r1l11" n="N009"/>wiedomim s mu dobru woly y s przyznanim k tomuto listu gsem prziwiessil a pro lepssie swiedomie prossil gsem
+                    <cei:lb facs="#facs_1_r1l12" n="N010"/>urozeneho pana pana <cei:persName>Jana strycze sweho z <cei:placeName>Sswamberka</cei:placeName></cei:persName> a urozeneho <cei:persName>panossie Amchy z <cei:placeName>Wessele</cei:placeName></cei:persName>, ze gsu swee peczeti
+                    <cei:lb facs="#facs_1_r1l13" n="N011"/>k mee prosbie bez gich sskody k tomuto listu prziwiessili na swiedomie, genz gest dan y psan <cei:date value="99999999">leta po narozeny sy¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l14" n="N012"/><cei:date value="99999999">na Bozieho tissiczieho cztyrzsteho a trzidcziateho, tu strziedu przied swatym Waczlawem, czeskym diediczem</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

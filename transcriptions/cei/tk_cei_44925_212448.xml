@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AČK_1686_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Latin charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AČK_1686_H_I</cei:title><cei:idno type="Transkribus">212448</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/><cei:persName>Georgius, Dei gracia <cei:placeName>Bohemie</cei:placeName> rex, <cei:placeName>Moravie</cei:placeName> marchio, <cei:placeName>Luczemburgensis</cei:placeName> et <cei:placeName>Slesie</cei:placeName> dux ac <cei:placeName>Lusacie</cei:placeName> marchio</cei:persName>, notumfacimus tenore presenci¬
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>um universis, quod proparte fidelium nostrorum arcuficum <cei:placeName>Prage</cei:placeName> comorancium fuit nobis humiliter supplicatum, quociens ipsis privilegia et litteras a serenissimis 
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/><cei:persName>Karolo</cei:persName> et <cei:persName>Wenceslao, <cei:placeName>Bohemie</cei:placeName> regibus</cei:persName>, predecessoribus nostris, super eorum habitationibus et libertatibus datas et concessa ac a serenissimo <cei:persName>Sigismundo, roma¬</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/><cei:persName>norum imperatore</cei:persName>, predecessore nostro, confirmatas, quarum tenores translati de wulgari theutunico in latinum in dicta littera confirmacionis <cei:persName>Sigismundi, <cei:placeName>Bohemie</cei:placeName> </cei:persName>
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/><cei:persName>regis</cei:persName>, que sequitur in hec verba: <cei:persName>Sigismundus</cei:persName> divina favente clemencia et cetera plene de verbo ad verbum sunt expressi approbare, innovare et confirmare dignaremur 
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>ac eciam ut eis aliquas gracias speciales donemus et adiungamus nos prefatorum arcuficum votis humilibus annuentes non per errorem aut improvide, sed 
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/>de certa nostra sciencia sano fidelium nostrorum accedente consilio dictis arcuficibus et eorum successoribus prefatas litteras et privilegia super eorum habitacionibus et liber¬
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>tatibus a predictis <cei:placeName>Bohemie</cei:placeName> regibus datas et concessa cum omnibus in eis contentis et expressis punctis clausulis et articulis, ac si de verbo ad verbum hic fierent ex¬
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>pressata, auctoritate regia <cei:placeName>Bohemie</cei:placeName> approbamus, innovamus et confirmamus decernentes ea habere perpetuo inviolabile robur, ceterum, ut predictos arcufices ad 
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>servicia nostra reddamus proniores, eis et eorum successoribus facimus et adiungimus graciam singularem, ut scilicet inter nominatos arcufices quatuor seniores, qui sunt aut 
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>fuerint deputati, ad se et ad alios sui artificii divites ac pauperes iusticie seriem prosequendi liberam habeant facultatem, atque si quis horum deputatorum tempore quouis exhac 
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>luce migraverit, ut ex tunc dicti arcufices seniores relicti in locum illius defuncti alterum valentem et dignum possint eligere ac substituere et hoc, quocienscumque neccessarium fuit, 
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>semper tamen cum concensu nostro item aput iudicium seu actum iudicandi ipsorum arcuficum, quod littera quedam olim officialium <cei:placeName>Bohemie</cei:placeName> regni predecessorum nostrorum 
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>septem munita sigiliis plenius declarat et ostendit, eosdem arcufices sistere volumus et permittimus istam tamen eis graciam adiungimus, ut si inter dictos arcufices nonnulla 
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>differencia lis aut controversia emanaverit, ut ad officiales nostros, puta marescalcum curie nostre, magistrum curie nostre, magistrum curie regine nostre et magistrum coquine nostre, consugere 
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>possint, et ipsi causis auditis parcium et libratis illas differencias debebunt complanare, in hoc tamen supremo regni nostri marescalco nullum preiudicium in suo iure fa¬
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/>cere intendimus, permittimus eciam et comittimus prefatis arcuficibus, ut dum et quando aliquis arcufex aliunde adventaverit et in civitate ulla regni nostri <cei:placeName>Bohemie</cei:placeName> pro illius 
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/>artis magistro et iri et nominari voluerit, per seniores arcufices <cei:placeName>pragenses</cei:placeName> examinetur ita, quod unam balistam propria manu laboret et conficiat, quam seniores magistri dictorum arcuficum depu¬
+                    <cei:lb facs="#facs_1_r1l20" n="N019"/>tati tenebuntur videre et experiri, si bene ad sagittandum operata extiterit, quoniam si ita is ,qui fecit et magistris connumerari postulavit iure debito magister balistarum et dici et 
+                    <cei:lb facs="#facs_1_r1l21" n="N020"/>esse debebit, salvis tamen singulis iuribus nostrarum communitatum volumus eciam et mandamus, si tempore aliquo nonnulli <cei:placeName>pragensium</cei:placeName> arcuficum in eorum arte ministri aliquid 
+                    <cei:lb facs="#facs_1_r1l22" n="N021"/>nephas scandalorum perpertraverint, ut ab arcuficibus <cei:placeName>castri Pragensis</cei:placeName> adversus eos non tueantur, ne ipsis in eo preiudicium exoriatur, mandamus igitur universis et singu¬
+                    <cei:lb facs="#facs_1_r1l23" n="N022"/>lis et presertim magistris civium, consiliis et communitatibus civitatum nostrarum <cei:placeName>Pragensium</cei:placeName>, ut nominatos arcufices in hiis datis et concessis quovismodo non impediant aut molestent, 
+                    <cei:lb facs="#facs_1_r1l24" n="N023"/>sed pocius eos manuteneant et defendant nostre regalis gracie sub obtentu. Presencium sub appensione nostri regalis sigilli testimonio litterarum. Datum <cei:placeName>Prage</cei:placeName> <cei:date value="99999999">die sexta¬</cei:date>
+                    <cei:lb facs="#facs_1_r1l25" n="N024"/><cei:date value="99999999">decima decembris anno domini millesimoquadringenfesimo sexagesimoprimo, regni nostri anno quarto</cei:date>.
+            </cei:pTenor><cei:pTenor facs="#facs_1_region_1573576805990_657">
+              
+              
+                    <cei:lb facs="#facs_1_line_1573576812289_660" n="N001"/>Ad mandatum domini regis
+                    <cei:lb facs="#facs_1_line_1573576816346_665" n="N002"/><cei:persName>Procopius de <cei:placeName>Rabenstein</cei:placeName>, cancellarius</cei:persName>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

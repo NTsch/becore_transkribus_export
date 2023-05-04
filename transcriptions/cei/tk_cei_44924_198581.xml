@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CG_L_190_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CG_L_190_I</cei:title><cei:idno type="Transkribus">198581</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Milost ducha swateho racziz prziebywati s wamy y s namy a oswietity srdczie, rozumy nassie
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>kwuoly synu wssemohucziemu. Bratrzie w panu Bohu naymileissie, dawam wam wiedieti,
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>zet sem nynye na <cei:placeName>Wylemowie</cei:placeName> a zadam was niektereho, abysste ke mnye przigeli geden z 
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>was, abichom spolu rozmluwili a pocztiwie a libeznye nasseho pana Boha wssemohuczie¬
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>ho a ataket wam wiedieti dawam, zet gsem s thaborskim zostal za geden czlowiek a pod¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>dali gsu sie dobrowolnye mne poslussny biti, yakozto kdy y kazalt gsem pole sbierati a po¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>tzielit gsu y take posielam do wassich miest, atby wssiczky wierni bili nynye s weliku notzi
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>w strzedu, neb konecznye we cztwrtek u <cei:placeName>Brodu Nyemetzskeho</cei:placeName> abichom sie pokali tu, kdez sme 
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>shrziessili a tu zostali, podle radi Bozie, za geden czlowiek a podle geho zakona swateho 
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>a radi chudych y bohatich w prawdach otczie nasseho pana wssemohuczieho proty ne¬
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>wiernym pokrywacziem domaczim y czyzozemcziem. Taket wiedieti wam dawam, 
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>zet gest knieze wigelo pricz z zemie a przimierzie, aby se panem <cei:persName>Czenkem</cei:persName> neczinili, 
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>leczbisste myeli y s gynymy susiedy okolo sebe a oti wieczi bohda rozmluwime. Datum
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/>in <cei:placeName>Wylemow</cei:placeName> <cei:date value="99999999">feria sexta post annunciacionem Marie virginis gloriose</cei:date>.
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:persName>Jan Zizka z Kalichu</cei:persName>
+                    <cei:lb facs="#facs_1_r1l16" n="N016"/>Slowutnym statecznym bratrzii w nadiegi
+                    <cei:lb facs="#facs_1_r1l17" n="N017"/>Bozie <cei:persName>Barthossiewi</cei:persName>, <cei:persName>Bernarthowi</cei:persName> s <cei:placeName>Menssieho</cei:placeName>
+                    <cei:lb facs="#facs_1_r1l18" n="N018"/><cei:placeName>Thabora na Walecziowie</cei:placeName> bud dan.  
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

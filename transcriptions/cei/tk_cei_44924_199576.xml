@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">AZK_2173_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>NACR - Czech charters</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">AZK_2173_I</cei:title><cei:idno type="Transkribus">199576</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l2" n="N001"/>My <cei:persName>Zdeniek z <cei:placeName>Drsstki</cei:placeName>, purkrabie ten czas na <cei:placeName>Tynie Horssowskem</cei:placeName></cei:persName>, <cei:persName>Zdeniek Kolwin s <cei:placeName>Romsperga</cei:placeName></cei:persName>, <cei:persName>Margretha z <cei:placeName>Frimsstina</cei:placeName>, manzelka panie Zdenkowa</cei:persName>
+                    <cei:lb facs="#facs_1_r1l3" n="N002"/><cei:persName>Colwinowa s <cei:placeName>Romsperga</cei:placeName></cei:persName>, wiznawame tiemto listem obecznie wssem, ktoz tento list uzrzie nebo cztucz uslissie, ze gsme dali a moczi tohoto listu 
+                    <cei:lb facs="#facs_1_r1l4" n="N003"/>dawame swu dobru wuoli y s prziznanim tiemto listem swe listy, kterez gmame zapsani od cztihodneho knieze <cei:persName>Petra probosta a conventha</cei:persName>
+                    <cei:lb facs="#facs_1_r1l5" n="N004"/><cei:persName>clastera <cei:placeName>chotiessowskeho</cei:placeName></cei:persName> na <cei:placeName>Tuskow</cei:placeName>, <cei:placeName>Hartmanow</cei:placeName>, na dwadczeti lanech a kmetiech a dworziech k tiem lanom przislussiegiczim y s przislussenstwim
+                    <cei:lb facs="#facs_1_r1l6" n="N005"/>y s plnim panstwim tak, iakoz w sobie list hlawni plniegie a ssuziegie swiedczi a wipissuge, kterizto list swiedczi na puolpata sta kopp grosow a k tomu
+                    <cei:lb facs="#facs_1_r1l7" n="N006"/>list potwrzenie na ty lidi w <cei:placeName>Tuskowie</cei:placeName>, <cei:placeName>Hartmanowie</cei:placeName> czessarowu milosti dani pod geho magestatem a take list na zprawu na ty lidy w <cei:placeName>Doleissem </cei:placeName>
+                    <cei:lb facs="#facs_1_r1l8" n="N007"/><cei:placeName>Metelsstie</cei:placeName> a v <cei:placeName>Wiewiowie</cei:placeName>, kterez gest <cei:persName>Alles z <cei:placeName>Koczowa</cei:placeName>, sedienim v <cei:placeName>Mirzkowie</cei:placeName></cei:persName> drzel, gesto gest nadepsani <cei:persName>Alles z <cei:placeName>Koczowa</cei:placeName></cei:persName> gistczem na tom listu hlawnyem
+                    <cei:lb facs="#facs_1_r1l9" n="N008"/>a rukogmie geho snim a zan <cei:persName>Cunrath Bornik z <cei:placeName>Stitarz</cei:placeName></cei:persName>, <cei:persName>Mikulas z <cei:placeName>Chudenicz</cei:placeName></cei:persName>, <cei:persName>Jan Shibal  z <cei:placeName>Modrzegowicz</cei:placeName></cei:persName> s plnim przislussenstwim y s panstwim, iakoz
+                    <cei:lb facs="#facs_1_r1l10" n="N009"/>w sobie list hlawni plniegie assuzegie swiedczii urozenemu <cei:persName>Cztiborowi z <cei:placeName>Wolsstina</cei:placeName></cei:persName>, sedenim w Hostimy a geho dietem a buduczim y tomu kazdemu, ktozby
+                    <cei:lb facs="#facs_1_r1l11" n="N010"/>ty listi hlawnie gmiel s geho dobru wuoly takowie, ze mi nadepsany <cei:persName>Zdeniek z <cei:placeName>Drsstky</cei:placeName></cei:persName>, <cei:persName>Zdeniek Colwin s <cei:placeName>Romsperga</cei:placeName></cei:persName><cei:placeName/> przewedli gsme wieno
+                    <cei:lb facs="#facs_1_r1l12" n="N011"/>panye <cei:persName>Margrethi z <cei:placeName>Ffrunsstina</cei:placeName></cei:persName><cei:placeName/> s gegi dobru wuoli na hrad <cei:placeName>Hersstin Stary</cei:placeName> y s geho przislussenstwim, iakoz k tomu przidano, iakoz toho dalee
+                    <cei:lb facs="#facs_1_r1l13" n="N012"/>listi gmanie a ja nadepsana <cei:persName>Margretha z <cei:placeName>Frunsstina</cei:placeName></cei:persName> dobrowolnie gsem swolila sweho wiena przewedenie na hrad <cei:placeName>Hersstin Stary</cei:placeName> bezewssie zlee
+                    <cei:lb facs="#facs_1_r1l14" n="N013"/>lsty, ze to wssechno prawo dawame nadepsanemu <cei:persName>Cztiborowi z <cei:placeName>Wolsstina</cei:placeName></cei:persName> a geho dietem y buduczim y tomu kazdemu, ktozbi ty listi hlawnie nassiee
+                    <cei:lb facs="#facs_1_r1l15" n="N014"/>gmiel s geho dobru wuolii, ze muoz prodati, dati, zastawiti a ucziniti, iakzbi sie gim libillo, y to wssechno ucziniti podle tiech listow hlawnich zapsanie,
+                    <cei:lb facs="#facs_1_r1l16" n="N015"/>neb gie gma z dobru nassi wuoli. Toho na potwrzenie a lepssi gistotu swe gsme wlastnie peczeti k tomuto listu prziwiessili, swu wuolii wiznawagicz
+                    <cei:lb facs="#facs_1_r1l17" n="N016"/>dobrowolnu swu dobru wuoly y s plnim prziznanim a pro dalssie swiedomie prosilisme urozenych pana pana <cei:persName>Hinka Crussinii z <cei:placeName>Sswamberga</cei:placeName></cei:persName>,
+                    <cei:lb facs="#facs_1_r1l18" n="N017"/><cei:persName>Burjana z <cei:placeName>Gutsstina</cei:placeName>, sedienim na <cei:placeName>Rabsstinie</cei:placeName></cei:persName>, <cei:persName>Dietrzicha z <cei:placeName>Frimssteina</cei:placeName></cei:persName>, <cei:persName>Raczka z <cei:placeName>Janowicz</cei:placeName>, sedienim na <cei:placeName>Rismbercze</cei:placeName></cei:persName><cei:placeName/>, <cei:persName>Jana Muchka z <cei:placeName>Bukowa</cei:placeName>, </cei:persName>mudrich
+                    <cei:lb facs="#facs_1_r1l19" n="N018"/>a opatrnich purgmistrow a consselow miesta <cei:placeName>Noweho Plznie</cei:placeName> a <cei:placeName>Tyna Horssowskeho</cei:placeName>, ze gsu swe wlastnie peczeti podle nas k tomuto listu 
+                    <cei:lb facs="#facs_1_r1l20" n="N019"/>prziwiessilii na swiedomie bez swe sskodi, genz gest dan a psan<cei:date value="99999999"> letha po narozeni syna Buozeho porzad cztucz tissiczeho cztirzsteho trid-</cei:date>
+                    <cei:lb facs="#facs_1_r1l21" n="N020"/><cei:date value="99999999">czateho sedmeho, ten cztwrtek den swateho Prokopa diedicze nassie czesske zemie etc.</cei:date> 
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>

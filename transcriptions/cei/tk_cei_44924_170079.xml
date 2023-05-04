@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title type="main">CGL_222_H_I</cei:title>
+         </cei:titleStmt>
+         <cei:seriesStmt>
+            <cei:title>CGL_czech</cei:title>
+         </cei:seriesStmt>
+         <cei:sourceDesc>
+            <cei:bibl>
+               <cei:title type="main">CGL_222_H_I</cei:title><cei:idno type="Transkribus">170079</cei:idno><cei:idno type="external">NA</cei:idno>
+            </cei:bibl>
+         </cei:sourceDesc>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   
+   
+      
+         
+           <cei:tenor><cei:pb facs="#facs_1" n="1" id="img_0001"/><cei:pTenor facs="#facs_1_r1">
+              
+              
+                    <cei:lb facs="#facs_1_r1l1" n="N001"/>Ya <cei:persName>Anna z Mutienicz</cei:persName>, slowutneho <cei:persName>Wanka, rzieczeneho Pywo ze<cei:placeName> Zhorze</cei:placeName></cei:persName>, manzelka, patrzieczi k tiemto czasom nebezpecznym wnychz pohrziechu wznikli su walky nemale a nemohuczi dogiti desk
+                    <cei:lb facs="#facs_1_r1l2" n="N002"/>zemskych, gymyz sie gest drziewe chudemu y bohatemu rziad a spuosob dal, a tudy nechtieczi platu sweho, kteryz mam w <cei:placeName>Udrnyczych</cei:placeName>, gestli zeby mne pan Buoh neuchowal, na zmatcziech
+                    <cei:lb facs="#facs_1_r1l3" n="N003"/>zuostawiti, y wyznawam tiemto listem obecznie prziedewssemi, ktoz gey uzrzie nebo cztucze slysseti budu, ze plat swoy, totyz desiet kop grossuow platu sweho rocznieho holeho a wieczneho, kte¬
+                    <cei:lb facs="#facs_1_r1l4" n="N004"/>ryz mam rziadnie dskami zemskymi na <cei:persName>Ottikowi z <cei:placeName>Udrnycz</cei:placeName></cei:persName> a na lidech geho tudiez obgisstien a zapsan, dala sem mocznie awzdala a moczi tohoto listu dawam dobrowolnie a s dobrym rozmy¬
+                    <cei:lb facs="#facs_1_r1l5" n="N005"/>slem se wssym swym prawem gyzgmenowanemu <cei:persName>Wankowi ze <cei:placeName>Zhorze</cei:placeName></cei:persName>, muzi swemu, k gmienii, k drzenii, ku poziwanii, ku prodanii, zapsanii, y take aby mohl s tiem ucziniti, yakozto s swym wla¬
+                    <cei:lb facs="#facs_1_r1l6" n="N006"/>stnym, czozby sie mu libilo, a gestly ze budu dsky zemske za meho zdraweho ziwota otewrzieny a urzedniky obyczeynymi ossazeny, tehdi mam a chczy ten plat swrchupsany gyzmenowane¬
+                    <cei:lb facs="#facs_1_r1l7" n="N007"/>mu muzi swemu we dsky zemske wloziti a zapsati podle rzadu a obyczege zemskeho, swe prawo naprzied z desk propustiecz a to na prwe, na druhe a konecznie na trzetie suche dni porziad zbiehle,
+                    <cei:lb facs="#facs_1_r1l8" n="N008"/>kdyzby sie obecznie kladenye poczalo we dsky zemske zemanuom teto zemie a nebo gemu ten plat tiem rziadem a twrzenim obgistiti a utwrditi, kteryzby byl miesto desk vlozen gesstoby ge¬
+                    <cei:lb facs="#facs_1_r1l9" n="N009"/>ho pani rytierzi, zemane a panossie zemie teto za prawo poziwali a to take po troge suche dni porziad zbiehle kdyzby takowy rziad byl vlozen pakliby toho obeho nebylo za meho
+                    <cei:lb facs="#facs_1_r1l10" n="N010"/>zdraweho ziwota, totyz ani desk zemskych, ani ktereho gyneho rziadu miesto desk, tehdi aby tento list a toto me zapsanie bylo w czasiech buduczych takowe moczi pewnosti a twrdosti, yakoz
+                    <cei:lb facs="#facs_1_r1l11" n="N011"/>bych ten plat swrchupsany gyzmenowanemu muzi swemu przied urzedniky desk zemskych se wssy opatrnosti y ohradu, kterezby mieli przitom z obyczege y z prawa starodawnieho zachowa¬
+                    <cei:lb facs="#facs_1_r1l12" n="N012"/>ny byti, we dsky zemske wlozila a zapsala, nez toho wymienygi, gestli zebych ia muze sweho swrchupsaneho ziwa prziebyla, tehdi aby tento list kyzadnemu dale moczi nemiel, ale aby
+                    <cei:lb facs="#facs_1_r1l13" n="N013"/>ten plat swrchupsany zasie sie na mie nawratil. Toho na swiedecztwie peczeti urozenych panuow pana <cei:persName>Meynharta z <cei:placeName>Hradcze</cei:placeName></cei:persName><cei:placeName/>, pana <cei:persName>Heyncze Ptaczka z <cei:placeName>Pirgssteina</cei:placeName>, sedienim na <cei:placeName>Ratha¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l14" n="N014"/><cei:persName><cei:placeName>gich</cei:placeName></cei:persName>, stateczneho ritierze pana <cei:persName>Albrechta z <cei:placeName>Biesskowicz</cei:placeName></cei:persName> a urozenych a slowutnych panossi <cei:persName>Jana z <cei:placeName>Czernyna</cei:placeName></cei:persName>, <cei:persName>Mathiege z <cei:placeName>Dubcze</cei:placeName></cei:persName>, <cei:persName>Jana Czabeliczskeho z <cei:placeName>Suticz</cei:placeName></cei:persName> a <cei:persName>Jana Ssyrokeho z <cei:placeName>Miro¬</cei:placeName></cei:persName>
+                    <cei:lb facs="#facs_1_r1l15" n="N015"/><cei:persName><cei:placeName>wicz</cei:placeName></cei:persName> kmee prosbie prziwiesseny su k tomuto listu, dan <cei:date value="99999999">leta od narozenie syna Bozieho tysyczieho cztyrzsteho trzidczateho cztwrteho, wstrziedu przied swatymi Ssymonyssem Judu apostoly</cei:date>.
+            </cei:pTenor></cei:tenor>
+         
+      
+   
+</cei:cei>
