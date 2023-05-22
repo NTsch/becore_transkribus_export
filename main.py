@@ -13,7 +13,12 @@ choice of getting the full .json data of everything available to a given user, t
 
 # Log in to Transkribus and get a session ID
 login_url = 'https://transkribus.eu/TrpServer/rest/auth/login'
-login_data = {'user': 'niklas.tscherne@uni-graz.at', 'pw': '35kv7q9u2GBnZ3F'}
+with open('login_data.json', 'r') as file:
+    json_data = json.load(file)
+login_data = {
+    'user': json_data['user'],
+    'pw': json_data['pw']
+}
 response = requests.post(login_url, data=login_data)
 session_id = response.headers['Set-Cookie'].split(';')[0]
 
