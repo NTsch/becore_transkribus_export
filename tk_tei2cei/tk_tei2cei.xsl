@@ -46,7 +46,7 @@
     <xsl:template match="ab"/>
     
     <xsl:template
-        match="ab//*[not(name() = 'hi' or name() = 'choice' or name() = 'foreign' or name() = 'sic' or name() = 'rs' or name() = 'date')]">
+        match="ab//*[not(name() = 'hi' or name() = 'choice' or name() = 'foreign' or name() = 'sic' or name() = 'rs' or name() = 'date' or name() = 'comment')]">
         <xsl:element name="cei:{name()}" namespace="http://www.monasterium.net/NS/cei">
             <xsl:copy-of select="@*[normalize-space()]"/>
             <xsl:apply-templates/>
