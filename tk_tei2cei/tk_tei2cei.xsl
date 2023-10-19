@@ -39,8 +39,7 @@
     <xsl:template match="ab" mode="tenor">
         <cei:pTenor>
             <xsl:copy-of select="@*"/>
-            <xsl:apply-templates
-                select="node()[not(count(preceding-sibling::*[@continued]) mod 2 ne 0)]"/>
+            <xsl:apply-templates/>
         </cei:pTenor>
     </xsl:template>
 
@@ -87,148 +86,164 @@
         <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="rs">
-        <xsl:choose>
-            <xsl:when test="@type = 'person'">
-                <cei:persName>
-                    <xsl:apply-templates/>
-                    <xsl:if
-                        test="@continued = 'true' and (count(preceding-sibling::rs[@continued and @type = 'person']) mod 2 = 0)">
-                        <xsl:call-template name="combine-split">
-                            <xsl:with-param name="element-name" select="'rs'"/>
-                            <xsl:with-param name="type-name" select="'person'"/>
-                            <xsl:with-param name="nth-instance"
-                                select="count(preceding-sibling::rs[@continued = 'true' and @type = 'person']) + 1"
-                            />
-                        </xsl:call-template>
-                    </xsl:if>
-                </cei:persName>
-            </xsl:when>
-            <xsl:when test="@type = 'place'">
-                <cei:placeName>
-                    <xsl:apply-templates/>
-                    <xsl:if
-                        test="@continued = 'true' and (count(preceding-sibling::rs[@continued and @type = 'place']) mod 2 = 0)">
-                        <xsl:call-template name="combine-split">
-                            <xsl:with-param name="element-name" select="'rs'"/>
-                            <xsl:with-param name="type-name" select="'place'"/>
-                            <xsl:with-param name="nth-instance"
-                                select="count(preceding-sibling::rs[@continued = 'true' and @type = 'place']) + 1"
-                            />
-                        </xsl:call-template>
-                    </xsl:if>
-                </cei:placeName>
-            </xsl:when>
-        </xsl:choose>
-    </xsl:template>
-
     <xsl:template match="date">
         <cei:date value="99999999">
             <xsl:apply-templates/>
         </cei:date>
     </xsl:template>
 
-    <!-- ########## process date element that has been split into several elements due to line breaks in original PAGE file ########## -->
-
-    <xsl:template
-        match="date[@continued = 'true'][following-sibling::*[position() mod 2 = 0][local-name() = 'date']][not(preceding-sibling::*[position() mod 2 = 0][local-name() = 'date'])]">
-        <!--apply beginning element-->
+    <xsl:template match="date" mode="write">
         <cei:date value="99999999">
             <xsl:apply-templates/>
-            <!--apply all middle elements-->
-            <xsl:apply-templates
-                select="./following-sibling::date[@continued = 'true'][following-sibling::*[position() = 1][local-name() = 'lb']][preceding-sibling::*[position() = 1][local-name() = 'lb']][following-sibling::*[position() = 2][local-name() = 'date']][preceding-sibling::*[position() = 2][local-name() = 'date']]/preceding-sibling::lb[1]"/>
-            <xsl:apply-templates
-                select="./following-sibling::date[@continued = 'true'][following-sibling::*[position() = 1][local-name() = 'lb']][preceding-sibling::*[position() = 1][local-name() = 'lb']][following-sibling::*[position() = 2][local-name() = 'date']][preceding-sibling::*[position() = 2][local-name() = 'date']]//node()"/>
-            <!--apply end element-->
-            <xsl:apply-templates
-                select="./following-sibling::date[@continued = 'true'][preceding-sibling::*[position() = 1][local-name() = 'lb']][not(following-sibling::*[position() = 2][local-name() = 'date'])][preceding-sibling::*[position() = 2][local-name() = 'date']]/preceding-sibling::lb[1]"/>
-            <xsl:apply-templates
-                select="./following-sibling::date[@continued = 'true'][preceding-sibling::*[position() = 1][local-name() = 'lb']][not(following-sibling::*[position() = 2][local-name() = 'date'])][preceding-sibling::*[position() = 2][local-name() = 'date']]//node()"
-            />
         </cei:date>
     </xsl:template>
 
-    <xsl:template
-        match="date[@continued = 'true'][following-sibling::*[position() = 1][local-name() = 'lb']][preceding-sibling::*[position() = 1][local-name() = 'lb']][following-sibling::*[position() = 2][local-name() = 'date']][preceding-sibling::*[position() = 2][local-name() = 'date']]"
-        mode="write">
-        <!--date middle-->
-    </xsl:template>
-    <xsl:template
-        match="date[@continued = 'true'][following-sibling::*[position() = 1][local-name() = 'lb']][preceding-sibling::*[position() = 1][local-name() = 'lb']][following-sibling::*[position() = 2][local-name() = 'date']][preceding-sibling::*[position() = 2][local-name() = 'date']]"/>
-
-    <xsl:template
-        match="date[@continued = 'true'][preceding-sibling::*[position() = 1][local-name() = 'lb']][not(following-sibling::*[position() = 2][local-name() = 'date'])][preceding-sibling::*[position() = 2][local-name() = 'date']]"
-        mode="write">
-        <!--date end-->
+    <xsl:template match="date[@continued]" mode="write">
         <xsl:apply-templates/>
     </xsl:template>
+
+    <xsl:template match="rs">
+        <xsl:choose>
+            <xsl:when test="@type = 'person'">
+                <cei:persName>
+                    <xsl:apply-templates/>
+                </cei:persName>
+            </xsl:when>
+            <xsl:when test="@type = 'place'">
+                <cei:placeName>
+                    <xsl:apply-templates/>
+                </cei:placeName>
+            </xsl:when>
+        </xsl:choose>
+    </xsl:template>
+
+    <xsl:template match="rs" mode="write">
+        <xsl:choose>
+            <xsl:when test="@type = 'person'">
+                <cei:persName>
+                    <xsl:apply-templates/>
+                </cei:persName>
+            </xsl:when>
+            <xsl:when test="@type = 'place'">
+                <cei:placeName>
+                    <xsl:apply-templates/>
+                </cei:placeName>
+            </xsl:when>
+        </xsl:choose>
+    </xsl:template>
+
+    <xsl:template match="rs[@continued]" mode="write">
+        <xsl:apply-templates/>
+    </xsl:template>
+
     <xsl:template
-        match="date[@continued = 'true'][preceding-sibling::*[position() = 1][local-name() = 'lb']][not(following-sibling::*[position() = 2][local-name() = 'date'])][preceding-sibling::*[position() = 2][local-name() = 'date']]"/>
+        match="lb[preceding-sibling::node()[2][@continued]][following-sibling::node()[1][@continued]]"
+        mode="write">
+        <xsl:element name="cei:{name()}" namespace="http://www.monasterium.net/NS/cei">
+            <xsl:copy-of select="@*[normalize-space()]"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+
+    <xsl:template
+        match="lb[preceding-sibling::node()[2][@continued]][following-sibling::node()[1][@continued]]"/>
+
+    <!-- ########## process date element that has been split into several elements due to line breaks in original PAGE file ########## -->
+
+    <xsl:template
+        match="date[@continued][following-sibling::*[1][local-name() = 'lb'][following-sibling::*[1][local-name() = 'date'][@continued]]]">
+        <!--apply beginning element-->
+        <cei:date value="99999999">
+            <xsl:apply-templates/>
+            <!--apply middle element, if exists-->
+            <!--start with lb of middle element-->
+            <xsl:apply-templates
+                select="./following-sibling::date[@continued][following-sibling::node()[2][local-name() = 'lb']][preceding-sibling::node()[1][local-name() = 'lb']][following-sibling::node()[3][local-name() = 'date']][1]/preceding-sibling::lb[1]"
+                mode="write"/>
+            <!--then content of middle element-->
+            <xsl:apply-templates
+                select="./following-sibling::date[@continued][following-sibling::node()[2][local-name() = 'lb']][preceding-sibling::node()[1][local-name() = 'lb']][following-sibling::node()[3][local-name() = 'date']][1]"
+                mode="write"/>
+            <!--apply end element-->
+            <!--start with lb of end element-->
+            <xsl:apply-templates
+                select="./following-sibling::date[@continued][preceding-sibling::node()[1][local-name() = 'lb']][not(following-sibling::node()[3][local-name() = 'date'])][1]/preceding-sibling::lb[1]"
+                mode="write"/>
+            <!--then content of end element-->
+            <xsl:apply-templates
+                select="./following-sibling::date[@continued][preceding-sibling::node()[1][local-name() = 'lb']][not(following-sibling::node()[3][local-name() = 'date'])][1]"
+                mode="write"/>
+        </cei:date>
+    </xsl:template>
+
+    <!--prevent date middle element from executing regularly-->
+    <xsl:template
+        match="date[@continued][following-sibling::node()[2][local-name() = 'lb']][preceding-sibling::node()[1][local-name() = 'lb']][following-sibling::node()[3][local-name() = 'date']]"/>
+
+    <!--prevent date end element from executing regularly-->
+    <xsl:template
+        match="date[@continued][preceding-sibling::node()[1][local-name() = 'lb']][not(following-sibling::node()[3][local-name() = 'date'])][preceding-sibling::node()[3][local-name() = 'date']]"/>
 
     <!-- ############################################################################### -->
 
     <!-- ########## process rs element that has been split into several elements due to line breaks in original PAGE file ########## -->
 
     <xsl:template
-        match="rs[@continued = 'true'][following-sibling::*[position() mod 2 = 0][local-name() = 'date']][not(preceding-sibling::*[position() mod 2 = 0][local-name() = 'date'])]">
-        <xsl:variable name="type" select="./@type/data()"/>
+        match="rs[@continued][@type = 'person'][following-sibling::*[1][local-name() = 'lb'][following-sibling::*[1][local-name() = 'rs'][@continued]]]">
         <!--apply beginning element-->
-        <cei:rs type="{$type}">
+        <cei:persName>
             <xsl:apply-templates/>
             <!--apply all middle elements-->
             <xsl:apply-templates
-                select="./following-sibling::rs[@continued = 'true'][@type = $type][following-sibling::*[position() = 1][local-name() = 'lb']][preceding-sibling::*[position() = 1][local-name() = 'lb']][following-sibling::*[position() = 2][local-name() = 'rs'][@type = $type]][preceding-sibling::*[position() = 2][local-name() = 'rs'][@type = $type]]/preceding-sibling::lb[1]"/>
+                select="./following-sibling::rs[@continued][@type = 'person'][following-sibling::node()[2][local-name() = 'lb']][preceding-sibling::node()[1][local-name() = 'lb']][following-sibling::node()[3][local-name() = 'rs'][@type = 'person']][1]/preceding-sibling::lb[1]"
+                mode="write"/>
             <xsl:apply-templates
-                select="./following-sibling::rs[@continued = 'true'][@type = $type][following-sibling::*[position() = 1][local-name() = 'lb']][preceding-sibling::*[position() = 1][local-name() = 'lb']][following-sibling::*[position() = 2][local-name() = 'rs'][@type = $type]][preceding-sibling::*[position() = 2][local-name() = 'rs'][@type = $type]]//node()"/>
+                select="./following-sibling::rs[@continued][@type = 'person'][following-sibling::node()[2][local-name() = 'lb']][preceding-sibling::node()[1][local-name() = 'lb']][following-sibling::node()[3][local-name() = 'rs'][@type = 'person']][1]"
+                mode="write"/>
             <!--apply end element-->
+            <!--start with lb of end element-->
             <xsl:apply-templates
-                select="./following-sibling::rs[@continued = 'true'][@type = 'person'][preceding-sibling::node()[1][local-name() = 'lb']][not(following-sibling::node()[1][local-name() = 'lb'] and not(following-sibling::node()[2][local-name() = 'rs'][@type = 'person']))][preceding-sibling::*[2][local-name() = 'rs'][@type = 'person'][@continued = 'true']]/preceding-sibling::lb[1]"/>
+                select="./following-sibling::rs[@continued][@type = 'person'][preceding-sibling::node()[1][local-name() = 'lb']][not(following-sibling::node()[3][local-name() = 'rs'][@type = 'person'])][1]/preceding-sibling::lb[1]"
+                mode="write"/>
+            <!--then content of end element-->
             <xsl:apply-templates
-                select="./following-sibling::rs[@continued = 'true'][@type = 'person'][preceding-sibling::node()[1][local-name() = 'lb']][not(following-sibling::node()[1][local-name() = 'lb'] and not(following-sibling::node()[2][local-name() = 'rs'][@type = 'person']))][preceding-sibling::*[2][local-name() = 'rs'][@type = 'person'][@continued = 'true']]//node()"
-            />
-        </cei:rs>
+                select="./following-sibling::rs[@continued][@type = 'person'][preceding-sibling::node()[1][local-name() = 'lb']][not(following-sibling::node()[3][local-name() = 'rs'][@type = 'person'])][1]"
+                mode="write"/>
+        </cei:persName>
     </xsl:template>
 
     <xsl:template
-        match="rs[@continued = 'true'][following-sibling::*[position() = 1][local-name() = 'lb']][preceding-sibling::*[position() = 1][local-name() = 'lb']][following-sibling::*[position() = 2][local-name() = 'rs']][preceding-sibling::*[position() = 2][local-name() = 'rs']]"
-        mode="write">
-        <!--date middle-->
+        match="rs[@continued][@type = 'place'][following-sibling::*[1][local-name() = 'lb'][following-sibling::*[1][local-name() = 'rs'][@continued]]]">
+        <!--apply beginning element-->
+        <cei:placeName>
+            <xsl:apply-templates/>
+            <!--apply all middle elements-->
+            <xsl:apply-templates
+                select="./following-sibling::rs[@continued][@type = 'place'][following-sibling::node()[2][local-name() = 'lb']][preceding-sibling::node()[1][local-name() = 'lb']][following-sibling::node()[3][local-name() = 'rs'][@type = 'place']][1]/preceding-sibling::lb[1]"
+                mode="write"/>
+            <xsl:apply-templates
+                select="./following-sibling::rs[@continued][@type = 'place'][following-sibling::node()[2][local-name() = 'lb']][preceding-sibling::node()[1][local-name() = 'lb']][following-sibling::node()[3][local-name() = 'rs'][@type = 'place']][1]"
+                mode="write"/>
+            <!--apply end element-->
+            <!--start with lb of end element-->
+            <xsl:apply-templates
+                select="./following-sibling::rs[@continued][@type = 'place'][preceding-sibling::node()[1][local-name() = 'lb']][not(following-sibling::node()[3][local-name() = 'rs'][@type = 'place'])][1]/preceding-sibling::lb[1]"
+                mode="write"/>
+            <!--then content of end element-->
+            <xsl:apply-templates
+                select="./following-sibling::rs[@continued][@type = 'place'][preceding-sibling::node()[1][local-name() = 'lb']][not(following-sibling::node()[3][local-name() = 'rs'][@type = 'place'])][1]"
+                mode="write"/>
+        </cei:placeName>
     </xsl:template>
-    <xsl:template
-        match="rs[@continued = 'true'][following-sibling::*[position() = 1][local-name() = 'lb']][preceding-sibling::*[position() = 1][local-name() = 'lb']][following-sibling::*[position() = 2][local-name() = 'rs']][preceding-sibling::*[position() = 2][local-name() = 'rs']]"/>
 
+    <!--prevent rs middle elements from executing regularly-->
     <xsl:template
-        match="rs[@continued = 'true'][preceding-sibling::*[position() = 1][local-name() = 'lb']][not(following-sibling::*[position() = 2][local-name() = 'rs'])][preceding-sibling::*[position() = 2][local-name() = 'rs']]"
-        mode="write">
-        <!--date end-->
-        <xsl:apply-templates/>
-    </xsl:template>
+        match="rs[@continued][following-sibling::node()[2][local-name() = 'lb']][preceding-sibling::node()[1][local-name() = 'lb']][following-sibling::node()[3][local-name() = 'rs']]"/>
+
+    <!--prevent rs end element from executing regularly-->
     <xsl:template
-        match="rs[@continued = 'true'][preceding-sibling::*[position() = 1][local-name() = 'lb']][not(following-sibling::*[position() = 2][local-name() = 'rs'])][preceding-sibling::*[position() = 2][local-name() = 'rs']]"/>
+        match="rs[@continued][preceding-sibling::node()[1][local-name() = 'lb']][not(following-sibling::node()[3][local-name() = 'rs'])]"/>
 
     <!-- ############################################################################### -->
-
-    <xsl:template name="combine-split">
-        <xsl:param name="element-name"/>
-        <xsl:param name="type-name"/>
-        <xsl:param name="nth-instance"/>
-        <xsl:choose>
-            <xsl:when test="string-length($type-name) > 0">
-                <xsl:apply-templates
-                    select="//*[count(preceding-sibling::*[name() = $element-name and @type = $type-name and @continued]) = $nth-instance and not(name() = $element-name and @type = $type-name and @continued)]"/>
-                <xsl:apply-templates
-                    select="//*[name() = $element-name and @type = $type-name and @continued and count(preceding-sibling::*[name() = $element-name and @type = $type-name and @continued]) = $nth-instance]//node()"
-                />
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:apply-templates
-                    select="//*[count(preceding-sibling::*[name() = $element-name and @continued]) = $nth-instance and not(name() = $element-name and @continued)]"/>
-                <xsl:apply-templates
-                    select="//*[name() = $element-name and @continued and count(preceding-sibling::*[name() = $element-name and @continued]) = $nth-instance]//node()"
-                />
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
 
 </xsl:stylesheet>
