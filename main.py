@@ -155,6 +155,39 @@ def get_all_transcriptions(collection_id: int):
     for doc_id in values:
             get_transcription_doc(collection_id, doc_id)
 
+def get_pages_from_xml(file, collection_id:int):
+    tree = ET.parse(file)
+    root = tree.getroot()
+
+    # Define the XML namespace for cei
+    namespace = {"cei": "http://www.monasterium.net/NS/cei"}
+
+    # Iterate over cei:sourceDesc elements
+    for source_desc in root.findall(".//cei:sourceDesc", namespaces=namespace):
+        # Extract the values of specific <cei:p> elements
+        transkribus_id_element = source_desc.find(".//cei:p[@type='transkribus_id']", namespaces=namespace)
+        transkribus_recto_element = source_desc.find(".//cei:p[@type='transkribus_recto']", namespaces=namespace)
+        transkribus_verso_element = source_desc.find(".//cei:p[@type='transkribus_verso']", namespaces=namespace)
+
+        # Check if the elements were found and have a text attribute
+        if transkribus_id_element is not None:
+            transkribus_id = transkribus_id_element.text
+        else:
+            transkribus_id = None
+
+        if transkribus_recto_element is not None:
+            transkribus_recto = transkribus_recto_element.text
+            get_xml(collection_id, int(transkribus_id), int(transkribus_recto))
+        else:
+            transkribus_recto = None
+
+        if transkribus_verso_element is not None:
+            transkribus_verso = transkribus_verso_element.text
+            get_xml(collection_id, int(transkribus_id), int(transkribus_verso))
+        else:
+            transkribus_verso = None
+
+
 # Allowing running the desired function via argument
 parser = argparse.ArgumentParser()
 subparsers = parser.add_subparsers(dest='func_name')
@@ -173,6 +206,10 @@ parser_get_transcription_doc.add_argument('document_id', nargs='?', default=1002
 parser_get_all_transcriptions = subparsers.add_parser('get_all_transcriptions')
 parser_get_all_transcriptions.add_argument('collection_id', nargs='?', default=44923)
 
+parser_get_all_transcriptions = subparsers.add_parser('get_pages_from_xml')
+parser_get_all_transcriptions.add_argument('file', nargs='?', default='../cluny_spreadsheet/cluny_spreadsheet2CEI.xml')
+parser_get_all_transcriptions.add_argument('collection_id', nargs='?', default=44923)
+
 args = parser.parse_args()
 
 if args.func_name == "get_everything":
@@ -183,3 +220,5 @@ elif args.func_name == "get_transcription_doc":
     get_transcription_doc(args.collection_id, args.document_id)
 elif args.func_name == "get_all_transcriptions":
     get_all_transcriptions(args.collection_id)
+elif args.func_name == "get_pages_from_xml":
+    get_pages_from_xml(args.file, args.collection_id)
