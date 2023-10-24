@@ -187,7 +187,6 @@ def get_pages_from_xml(file, collection_id:int):
         else:
             transkribus_verso = None
 
-
 # Allowing running the desired function via argument
 parser = argparse.ArgumentParser()
 subparsers = parser.add_subparsers(dest='func_name')
@@ -206,9 +205,9 @@ parser_get_transcription_doc.add_argument('document_id', nargs='?', default=1002
 parser_get_all_transcriptions = subparsers.add_parser('get_all_transcriptions')
 parser_get_all_transcriptions.add_argument('collection_id', nargs='?', default=44923)
 
-parser_get_all_transcriptions = subparsers.add_parser('get_pages_from_xml')
-parser_get_all_transcriptions.add_argument('file', nargs='?', default='../cluny_spreadsheet/cluny_spreadsheet2CEI.xml')
-parser_get_all_transcriptions.add_argument('collection_id', nargs='?', default=44923)
+parser_get_pages_from_xml = subparsers.add_parser('get_pages_from_xml')
+parser_get_pages_from_xml.add_argument('file', nargs='?', default='../cluny_spreadsheet/cluny_spreadsheet2CEI.xml')
+parser_get_pages_from_xml.add_argument('collection_id', nargs='?', default=44923)
 
 args = parser.parse_args()
 
