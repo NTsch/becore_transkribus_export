@@ -78,6 +78,12 @@ def get_everything():
 
     print('All documents saved')
 
+def upload_document(collection_id: int, file_path: str):
+    # upload a document to Transkribus
+    doc_url = f'https://transkribus.eu/TrpServer/rest/uploads?collId={collection_id}'
+    response = requests.get(doc_url, headers=headers)
+    print(response)
+
 def get_xml(collection_id: int, document_id: int, page_no: int):
     # get the transcription of the given page from the given document from the given collection
 
@@ -209,6 +215,10 @@ parser_get_pages_from_xml = subparsers.add_parser('get_pages_from_xml')
 parser_get_pages_from_xml.add_argument('file', nargs='?', default='../cluny_spreadsheet/cluny_spreadsheet2CEI.xml')
 parser_get_pages_from_xml.add_argument('collection_id', nargs='?', default=44923)
 
+parser_upload_document = subparsers.add_parser('upload_document')
+parser_upload_document.add_argument('collection_id', nargs='?', default=183812)
+parser_upload_document.add_argument('file_path', nargs='?', default='')
+
 args = parser.parse_args()
 
 if args.func_name == "get_everything":
@@ -221,3 +231,5 @@ elif args.func_name == "get_all_transcriptions":
     get_all_transcriptions(args.collection_id)
 elif args.func_name == "get_pages_from_xml":
     get_pages_from_xml(args.file, args.collection_id)
+elif args.func_name == "upload_document":
+    upload_document(args.collection_id, args.file_path)
