@@ -80,9 +80,28 @@ def get_everything():
 
 def upload_document(collection_id: int, file_path: str):
     # upload a document to Transkribus
-    doc_url = f'https://transkribus.eu/TrpServer/rest/uploads?collId={collection_id}'
-    response = requests.get(doc_url, headers=headers)
-    print(response)
+    
+    # Define the URL and collection ID
+    url = f"https://transkribus.eu/TrpServer/rest/uploads?collId={collection_id}"
+
+    # Read the data from example.json
+    with open("example2.json", "r") as file:
+        data = file.read()
+
+    # Define the headers
+    headers = {
+        "Content-Type": "application/json"
+    }
+
+    response = requests.post(url, data=data, headers=headers)
+
+    # Check the response status
+    if response.status_code == 200:
+        print("Request successful!")
+        print("Response:", response.json())  # If the response is JSON
+    else:
+        print("Request failed with status code:", response.status_code)
+        print("Response:", response.text)  # Print the error message if any
 
 def get_xml(collection_id: int, document_id: int, page_no: int):
     # get the transcription of the given page from the given document from the given collection
