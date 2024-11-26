@@ -76,7 +76,7 @@ def get_everything():
             with open(document_file, 'w', encoding='utf-8') as f:
                 json.dump(response.json(), f, indent=4)
 
-    print('All documents saved')
+    print('All documents saved.')
 
 def upload_document(collection_id: int, file_path: str):
     # upload a document to Transkribus
