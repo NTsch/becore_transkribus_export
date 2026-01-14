@@ -62,6 +62,12 @@
             <xsl:apply-templates/>
         </cei:hi>
     </xsl:template>
+    
+    <xsl:template match="hi[@text-decoration='line-through']">
+        <cei:del>
+            <xsl:apply-templates/>
+        </cei:del>
+    </xsl:template>
 
     <xsl:template match="foreign">
         <cei:foreign>
